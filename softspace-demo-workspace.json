@@ -1,0 +1,2632 @@
+{
+	"schema": 230401,
+	"id": "8db24e36-5a0b-46ae-aa73-47528ef15c4f",
+	"nodes": {
+		"8db24e36-5a0b-46ae-aa73-47528ef15c4f": {
+			"id": "8db24e36-5a0b-46ae-aa73-47528ef15c4f",
+			"props": {
+				"type": "topic",
+				"isExpanded": "False",
+				"name": "My First Softspace Workspace"
+			},
+			"poses": {
+				"8db24e36-5a0b-46ae-aa73-47528ef15c4f": {
+					"pos": {
+						"x": 0,
+						"y": 0,
+						"z": 0
+					},
+					"rot": {
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					},
+					"size": {
+						"x": 1,
+						"y": 1,
+						"z": 1
+					}
+				}
+			}
+		},
+		"217e3036-5e34-4d89-89b7-37aeb867f713": {
+			"id": "217e3036-5e34-4d89-89b7-37aeb867f713",
+			"props": {
+				"type": "topic",
+				"isExpanded": "False",
+				"name": "Softspace Design Inspiration"
+			},
+			"poses": {
+				"217e3036-5e34-4d89-89b7-37aeb867f713": {
+					"pos": {
+						"x": -0.038752556,
+						"y": 0.022681832,
+						"z": -0.3137039
+					},
+					"rot": {
+						"x": 0.19347218,
+						"y": -0.021599364,
+						"z": 0.0042604273,
+						"w": 0.98085886
+					},
+					"size": {
+						"x": 0.2,
+						"y": 0.02,
+						"z": 2E-5
+					}
+				},
+				"8db24e36-5a0b-46ae-aa73-47528ef15c4f": {
+					"pos": {
+						"x": -0.75124717,
+						"y": 0.51625824,
+						"z": -0.47292393
+					},
+					"rot": {
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					},
+					"size": {
+						"x": 0.26999998,
+						"y": 0.0536,
+						"z": 0.01
+					}
+				}
+			}
+		},
+		"11fc989b-e9c2-4154-bd3e-62eb8b5b46f2": {
+			"id": "11fc989b-e9c2-4154-bd3e-62eb8b5b46f2",
+			"props": {
+				"urlSource": "https://electronicmaterialsoffice.com/img/hero-1.jpg",
+				"name": "hero-1.jpg",
+				"urlContext": "https://electronicmaterialsoffice.com/",
+				"type": "image",
+				"aspect": "0.75117",
+				"assetPath": "11fc989b-e9c2-4154-bd3e-62eb8b5b46f2/ImageAsset.jpg"
+			},
+			"poses": {
+				"11fc989b-e9c2-4154-bd3e-62eb8b5b46f2": {
+					"pos": {
+						"x": -0.34075192,
+						"y": 0.08450928,
+						"z": -0.56338394
+					},
+					"rot": {
+						"x": 0.120262176,
+						"y": -0.13203089,
+						"z": 0.016139936,
+						"w": 0.9837909
+					},
+					"size": {
+						"x": 0.2501,
+						"y": 0.33294883,
+						"z": 0.001
+					}
+				},
+				"8db24e36-5a0b-46ae-aa73-47528ef15c4f": {
+					"pos": {
+						"x": 0.56488717,
+						"y": 0.08475515,
+						"z": -0.19066429
+					},
+					"rot": {
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					},
+					"size": {
+						"x": 0.2501,
+						"y": 0.33294883,
+						"z": 0.001
+					}
+				}
+			}
+		},
+		"456b9ca9-7e9c-4b17-939f-d552b76ed4a8": {
+			"id": "456b9ca9-7e9c-4b17-939f-d552b76ed4a8",
+			"props": {
+				"urlSource": "https://electronicmaterialsoffice.com/img/hero-2.jpg",
+				"name": "hero-2.jpg",
+				"urlContext": "https://electronicmaterialsoffice.com/",
+				"type": "image",
+				"aspect": "1.51322",
+				"assetPath": "456b9ca9-7e9c-4b17-939f-d552b76ed4a8/ImageAsset.jpg"
+			},
+			"poses": {
+				"456b9ca9-7e9c-4b17-939f-d552b76ed4a8": {
+					"pos": {
+						"x": -0.15187666,
+						"y": 0.1277141,
+						"z": -0.5006292
+					},
+					"rot": {
+						"x": 0.120262176,
+						"y": -0.13203089,
+						"z": 0.016139936,
+						"w": 0.9837909
+					},
+					"size": {
+						"x": 0.2501,
+						"y": 0.16527677,
+						"z": 0.001
+					}
+				},
+				"8db24e36-5a0b-46ae-aa73-47528ef15c4f": {
+					"pos": {
+						"x": 0.38896525,
+						"y": 0.4021631,
+						"z": -0.19066429
+					},
+					"rot": {
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					},
+					"size": {
+						"x": 0.2501,
+						"y": 0.16527677,
+						"z": 0.001
+					}
+				}
+			}
+		},
+		"d8bd75cc-f9a5-4b50-8604-e4e84a775b3c": {
+			"id": "d8bd75cc-f9a5-4b50-8604-e4e84a775b3c",
+			"props": {
+				"urlSource": "https://electronicmaterialsoffice.com/img/hero-3.jpg",
+				"name": "hero-3.jpg",
+				"urlContext": "https://electronicmaterialsoffice.com/",
+				"type": "image",
+				"aspect": "2.27329",
+				"assetPath": "d8bd75cc-f9a5-4b50-8604-e4e84a775b3c/ImageAsset.jpg"
+			},
+			"poses": {
+				"d8bd75cc-f9a5-4b50-8604-e4e84a775b3c": {
+					"pos": {
+						"x": -0.20404238,
+						"y": -0.0022705346,
+						"z": -0.5483267
+					},
+					"rot": {
+						"x": 0.120262176,
+						"y": -0.13203089,
+						"z": 0.016139936,
+						"w": 0.9837909
+					},
+					"size": {
+						"x": 0.2501,
+						"y": 0.11001667,
+						"z": 0.001
+					}
+				},
+				"8db24e36-5a0b-46ae-aa73-47528ef15c4f": {
+					"pos": {
+						"x": 0.64485985,
+						"y": 0.2278589,
+						"z": -0.19066429
+					},
+					"rot": {
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					},
+					"size": {
+						"x": 0.2501,
+						"y": 0.11001667,
+						"z": 0.001
+					}
+				}
+			}
+		},
+		"999d1533-c045-4954-9dcd-589590ee8105": {
+			"id": "999d1533-c045-4954-9dcd-589590ee8105",
+			"props": {
+				"urlSource": "https://www.amazona.de/wp-content/uploads/2028/01/teenage-engineering-tp-7-5.jpeg",
+				"name": "teenage-engineering-tp-7-5.jpeg",
+				"urlContext": "https://www.google.com/search?q=teenage+engineering+tp-6&tbm=isch&ved=2ahUKEwiR3NWZ1pD_AhWmricCHZ-GDMIQ2-cCegQIABAA&oq=teenage+engineering+tp-6&gs_lcp=CgNpbWcQAzoHCAAQigUQQzoFCAAQgAQ6BwgAEBgQgARQkQhYlRFg6xFoAHAAeACAAawBiAG0BJIBAzUuMZgBAKABAaoBC2d3cy13aXotaW1nwAEB&sclient=img&ei=xG9vZJHqM6bdnsEPn42ykAw&bih=880&biw=1280#imgrc=Nw1SyJcsiQN66M",
+				"type": "image",
+				"aspect": "1.26549",
+				"assetPath": "999d1533-c045-4954-9dcd-589590ee8105/ImageAsset.jpg"
+			},
+			"poses": {
+				"999d1533-c045-4954-9dcd-589590ee8105": {
+					"pos": {
+						"x": -0.3059733,
+						"y": -0.22070268,
+						"z": -0.3178495
+					},
+					"rot": {
+						"x": 0.110363066,
+						"y": -0.32599714,
+						"z": 0.03835109,
+						"w": 0.9381233
+					},
+					"size": {
+						"x": 0.2501,
+						"y": 0.19763146,
+						"z": 0.001
+					}
+				},
+				"8db24e36-5a0b-46ae-aa73-47528ef15c4f": {
+					"pos": {
+						"x": 0.0103397,
+						"y": -0.43869084,
+						"z": -0.19066429
+					},
+					"rot": {
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					},
+					"size": {
+						"x": 0.2501,
+						"y": 0.19763146,
+						"z": 0.001
+					}
+				}
+			}
+		},
+		"4d7b5aec-4579-4277-b5fc-1bcea8ed3758": {
+			"id": "4d7b5aec-4579-4277-b5fc-1bcea8ed3758",
+			"props": {
+				"type": "topic",
+				"isExpanded": "True",
+				"name": "Electronic Materials Office",
+				"summary": ""
+			},
+			"poses": {
+				"4d7b5aec-4579-4277-b5fc-1bcea8ed3758": {
+					"pos": {
+						"x": 0.7697021,
+						"y": 0.16440083,
+						"z": -0.19066688
+					},
+					"rot": {
+						"x": 2.5917045E-5,
+						"y": 6.860548E-5,
+						"z": -4.7006073E-5,
+						"w": 1
+					},
+					"size": {
+						"x": 0.36000034,
+						"y": 0.24749947,
+						"z": 0.001
+					}
+				},
+				"8db24e36-5a0b-46ae-aa73-47528ef15c4f": {
+					"pos": {
+						"x": 0.32477206,
+						"y": 0.1302253,
+						"z": -0.19066429
+					},
+					"rot": {
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					},
+					"size": {
+						"x": 0.5702,
+						"y": 0.3879488,
+						"z": 0.01
+					}
+				}
+			}
+		},
+		"a3bc75fb-c865-43f5-954a-149b7928ad3e": {
+			"id": "a3bc75fb-c865-43f5-954a-149b7928ad3e",
+			"props": {
+				"urlSource": "https://images.musicstore.de/images/1280/teenage-engineering-tx-6_1_SYN0008239-000.jpg",
+				"name": "teenage-engineering-tx-6_1_SYN0008239-000.jpg",
+				"urlContext": "https://www.google.com/search?q=teenage+engineering&source=lnms&tbm=isch&sa=X&ved=2ahUKEwio6umX1pD_AhWEyKQKHclxAmEQ_AUoA3oECAIQBQ&biw=1280&bih=880&dpr=1#imgrc=1ElxLZL9gBy2hM",
+				"type": "image",
+				"aspect": "1.00000",
+				"assetPath": "a3bc75fb-c865-43f5-954a-149b7928ad3e/ImageAsset.jpg"
+			},
+			"poses": {
+				"a3bc75fb-c865-43f5-954a-149b7928ad3e": {
+					"pos": {
+						"x": -0.30490774,
+						"y": -0.2322942,
+						"z": -0.32274145
+					},
+					"rot": {
+						"x": 0.110363066,
+						"y": -0.32599714,
+						"z": 0.03835109,
+						"w": 0.9381233
+					},
+					"size": {
+						"x": 0.2501,
+						"y": 0.2501,
+						"z": 0.001
+					}
+				},
+				"8db24e36-5a0b-46ae-aa73-47528ef15c4f": {
+					"pos": {
+						"x": 0.32745498,
+						"y": -0.56357765,
+						"z": -0.19066429
+					},
+					"rot": {
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					},
+					"size": {
+						"x": 0.2501,
+						"y": 0.2501,
+						"z": 0.001
+					}
+				}
+			}
+		},
+		"e4039b64-5c6a-45f0-9349-d0d6f43604b2": {
+			"id": "e4039b64-5c6a-45f0-9349-d0d6f43604b2",
+			"props": {
+				"urlSource": "https://www.notebookcheck.com/fileadmin/Notebooks/News/_nc3/Teenage_Engineering_TP7a.jpg",
+				"name": "Teenage_Engineering_TP7a.jpg",
+				"urlContext": "https://www.google.com/search?q=teenage+engineering+tp-6&tbm=isch&ved=2ahUKEwiR3NWZ1pD_AhWmricCHZ-GDMIQ2-cCegQIABAA&oq=teenage+engineering+tp-6&gs_lcp=CgNpbWcQAzoHCAAQigUQQzoFCAAQgAQ6BwgAEBgQgARQkQhYlRFg6xFoAHAAeACAAawBiAG0BJIBAzUuMZgBAKABAaoBC2d3cy13aXotaW1nwAEB&sclient=img&ei=xG9vZJHqM6bdnsEPn42ykAw&bih=880&biw=1280#imgrc=VPSM-ChGSZy41M",
+				"type": "image",
+				"aspect": "1.52091",
+				"assetPath": "e4039b64-5c6a-45f0-9349-d0d6f43604b2/ImageAsset.jpg"
+			},
+			"poses": {
+				"e4039b64-5c6a-45f0-9349-d0d6f43604b2": {
+					"pos": {
+						"x": -0.31156906,
+						"y": -0.25096118,
+						"z": -0.3317288
+					},
+					"rot": {
+						"x": 0.110363066,
+						"y": -0.32599714,
+						"z": 0.03835109,
+						"w": 0.9381233
+					},
+					"size": {
+						"x": 0.2501,
+						"y": 0.16444074,
+						"z": 0.001
+					}
+				},
+				"8db24e36-5a0b-46ae-aa73-47528ef15c4f": {
+					"pos": {
+						"x": 0.32019666,
+						"y": -0.6573962,
+						"z": -0.19066429
+					},
+					"rot": {
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					},
+					"size": {
+						"x": 0.2501,
+						"y": 0.16444074,
+						"z": 0.001
+					}
+				}
+			}
+		},
+		"808223dd-bac4-4c11-ba05-66cbe587615b": {
+			"id": "808223dd-bac4-4c11-ba05-66cbe587615b",
+			"props": {
+				"type": "topic",
+				"isExpanded": "True",
+				"name": "Teenage Engineering",
+				"summary": ""
+			},
+			"poses": {
+				"808223dd-bac4-4c11-ba05-66cbe587615b": {
+					"pos": {
+						"x": 0.3061404,
+						"y": -0.24555172,
+						"z": -0.19066392
+					},
+					"rot": {
+						"x": 0.0007208691,
+						"y": -0.0010825479,
+						"z": 0.00038332425,
+						"w": 0.9999991
+					},
+					"size": {
+						"x": 0.25010926,
+						"y": 0.17194957,
+						"z": 0.001
+					}
+				},
+				"8db24e36-5a0b-46ae-aa73-47528ef15c4f": {
+					"pos": {
+						"x": 0.37757537,
+						"y": -0.40302312,
+						"z": -0.19066429
+					},
+					"rot": {
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					},
+					"size": {
+						"x": 0.5702,
+						"y": 0.4320722,
+						"z": 0.01
+					}
+				}
+			}
+		},
+		"e74ae924-c0d5-4a3e-83f4-2899259b6179": {
+			"id": "e74ae924-c0d5-4a3e-83f4-2899259b6179",
+			"props": {
+				"urlSource": "https://marc-newson.com/media/thumbnails/red-leica-camera/Leica_01.jpg.1920x1080_q90_crop.jpg",
+				"name": "Leica_01.jpg.1920x1080_q90_crop.jpg",
+				"urlContext": "https://www.google.com/search?q=jony+ive+product+red+leica&source=lnms&tbm=isch&sa=X&ved=2ahUKEwigzPSl1ZD_AhUwsaQKHbJ-CZoQ_AUoAXoECAEQAw&biw=1280&bih=880&dpr=1#imgrc=OXunBtBnuuP1-M",
+				"type": "image",
+				"aspect": "1.77778",
+				"assetPath": "e74ae924-c0d5-4a3e-83f4-2899259b6179/ImageAsset.jpg"
+			},
+			"poses": {
+				"e74ae924-c0d5-4a3e-83f4-2899259b6179": {
+					"pos": {
+						"x": 0.06748039,
+						"y": -0.3193384,
+						"z": -0.68208194
+					},
+					"rot": {
+						"x": 0.15665886,
+						"y": -0.2972328,
+						"z": 0.049506646,
+						"w": 0.9405636
+					},
+					"size": {
+						"x": 0.2501,
+						"y": 0.14068124,
+						"z": 0.001
+					}
+				},
+				"8db24e36-5a0b-46ae-aa73-47528ef15c4f": {
+					"pos": {
+						"x": 0.9193944,
+						"y": -0.3876891,
+						"z": -0.8881134
+					},
+					"rot": {
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					},
+					"size": {
+						"x": 0.2501,
+						"y": 0.14068124,
+						"z": 0.001
+					}
+				}
+			}
+		},
+		"13b8a22f-2375-405e-ba09-47a387efa9f6": {
+			"id": "13b8a22f-2375-405e-ba09-47a387efa9f6",
+			"props": {
+				"urlSource": "data:image/jpeg;base64,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",
+				"name": "",
+				"urlContext": "https://www.google.com/search?q=jony+ive+product+red+leica&source=lnms&tbm=isch&sa=X&ved=2ahUKEwigzPSl1ZD_AhUwsaQKHbJ-CZoQ_AUoAXoECAEQAw&biw=1280&bih=880&dpr=1#imgrc=GukiB2PaPUtnfM",
+				"type": "image",
+				"aspect": "1.43850",
+				"assetPath": "13b8a22f-2375-405e-ba09-47a387efa9f6/ImageAsset.jpg"
+			},
+			"poses": {
+				"13b8a22f-2375-405e-ba09-47a387efa9f6": {
+					"pos": {
+						"x": -0.03254072,
+						"y": -0.30189154,
+						"z": -1.0518987
+					},
+					"rot": {
+						"x": 0.15665886,
+						"y": -0.2972328,
+						"z": 0.049506646,
+						"w": 0.9405636
+					},
+					"size": {
+						"x": 0.2501,
+						"y": 0.17386132,
+						"z": 0.001
+					}
+				},
+				"8db24e36-5a0b-46ae-aa73-47528ef15c4f": {
+					"pos": {
+						"x": 0.41769737,
+						"y": -0.07539413,
+						"z": -0.8881134
+					},
+					"rot": {
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					},
+					"size": {
+						"x": 0.2501,
+						"y": 0.17386132,
+						"z": 0.001
+					}
+				}
+			}
+		},
+		"a77f9451-d70f-44bc-9cab-d7f113e946db": {
+			"id": "a77f9451-d70f-44bc-9cab-d7f113e946db",
+			"props": {
+				"urlSource": "data:image/jpeg;base64,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",
+				"name": "",
+				"urlContext": "https://www.google.com/search?q=jony+ive+product+red+leica&source=lnms&tbm=isch&sa=X&ved=2ahUKEwigzPSl1ZD_AhUwsaQKHbJ-CZoQ_AUoAXoECAEQAw&biw=1280&bih=880&dpr=1#imgrc=fM3lIFM96RcixM",
+				"type": "image",
+				"aspect": "1.78571",
+				"assetPath": "a77f9451-d70f-44bc-9cab-d7f113e946db/ImageAsset.jpg"
+			},
+			"poses": {
+				"a77f9451-d70f-44bc-9cab-d7f113e946db": {
+					"pos": {
+						"x": -0.014058389,
+						"y": -0.29388273,
+						"z": -1.0355319
+					},
+					"rot": {
+						"x": 0.15665886,
+						"y": -0.2972328,
+						"z": 0.049506646,
+						"w": 0.9405636
+					},
+					"size": {
+						"x": 0.2501,
+						"y": 0.140056,
+						"z": 0.001
+					}
+				},
+				"8db24e36-5a0b-46ae-aa73-47528ef15c4f": {
+					"pos": {
+						"x": 0.7338662,
+						"y": 0.16240054,
+						"z": -0.8881128
+					},
+					"rot": {
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					},
+					"size": {
+						"x": 0.2501,
+						"y": 0.140056,
+						"z": 0.001
+					}
+				}
+			}
+		},
+		"d3418a48-2912-40db-a00f-89ab7dc64a80": {
+			"id": "d3418a48-2912-40db-a00f-89ab7dc64a80",
+			"props": {
+				"urlSource": "data:image/jpeg;base64,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",
+				"name": "",
+				"urlContext": "https://www.google.com/search?q=jony+ive+product+red+leica&source=lnms&tbm=isch&sa=X&ved=2ahUKEwigzPSl1ZD_AhUwsaQKHbJ-CZoQ_AUoAXoECAEQAw&biw=1280&bih=880&dpr=1#imgrc=ObsfsEAopuzBzM",
+				"type": "image",
+				"aspect": "1.22168",
+				"assetPath": "d3418a48-2912-40db-a00f-89ab7dc64a80/ImageAsset.jpg"
+			},
+			"poses": {
+				"d3418a48-2912-40db-a00f-89ab7dc64a80": {
+					"pos": {
+						"x": 0.009254638,
+						"y": -0.3158625,
+						"z": -1.0283321
+					},
+					"rot": {
+						"x": 0.15665886,
+						"y": -0.2972328,
+						"z": 0.049506646,
+						"w": 0.9405636
+					},
+					"size": {
+						"x": 0.2501,
+						"y": 0.20471893,
+						"z": 0.001
+					}
+				},
+				"8db24e36-5a0b-46ae-aa73-47528ef15c4f": {
+					"pos": {
+						"x": 0.7377818,
+						"y": -0.05997538,
+						"z": -0.8881128
+					},
+					"rot": {
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					},
+					"size": {
+						"x": 0.2501,
+						"y": 0.20471893,
+						"z": 0.001
+					}
+				}
+			}
+		},
+		"854c8e34-85fe-48e3-b1a9-c79cf6c154f3": {
+			"id": "854c8e34-85fe-48e3-b1a9-c79cf6c154f3",
+			"props": {
+				"type": "topic",
+				"isExpanded": "True",
+				"name": "Leica Product (RED) Camera by Jony Ive and Marc Newson",
+				"summary": ""
+			},
+			"poses": {
+				"854c8e34-85fe-48e3-b1a9-c79cf6c154f3": {
+					"pos": {
+						"x": 0.7377814,
+						"y": -0.05997555,
+						"z": -0.8881134
+					},
+					"rot": {
+						"x": -5.941146E-5,
+						"y": 0.0008079899,
+						"z": -0.00039041816,
+						"w": 0.9999996
+					},
+					"size": {
+						"x": 0.2501,
+						"y": 0.20471893,
+						"z": 0.001
+					}
+				},
+				"8db24e36-5a0b-46ae-aa73-47528ef15c4f": {
+					"pos": {
+						"x": 0.717663,
+						"y": -0.38009688,
+						"z": -0.19066429
+					},
+					"rot": {
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					},
+					"size": {
+						"x": 0.5702,
+						"y": 0.41477492,
+						"z": 0.01
+					}
+				}
+			}
+		},
+		"d7baf910-206a-4326-b921-6baecaf76d4b": {
+			"id": "d7baf910-206a-4326-b921-6baecaf76d4b",
+			"props": {
+				"type": "topic",
+				"isExpanded": "True",
+				"name": "What are some good design references for 3D UIs?",
+				"summary": "Some good design references for 3D UIs include Apple's Human Interface Guidelines, Google's Material Design, Unity's Best Practices, and Valve's VR UI Guidelines."
+			},
+			"poses": {
+				"d7baf910-206a-4326-b921-6baecaf76d4b": {
+					"pos": {
+						"x": 0.1311574,
+						"y": -0.47911096,
+						"z": -1.2272718
+					},
+					"rot": {
+						"x": 0.24298216,
+						"y": -0.0032982305,
+						"z": 0.0008261781,
+						"w": 0.97002494
+					},
+					"size": {
+						"x": 0.2,
+						"y": 0.02,
+						"z": 2E-5
+					}
+				},
+				"8db24e36-5a0b-46ae-aa73-47528ef15c4f": {
+					"pos": {
+						"x": -0.2773347,
+						"y": -0.31705296,
+						"z": -0.19066429
+					},
+					"rot": {
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					},
+					"size": {
+						"x": 0.29009998,
+						"y": 0.39809996,
+						"z": 0.01
+					}
+				}
+			}
+		},
+		"d753e684-ae77-4674-a05f-a62dd5e53e3a": {
+			"id": "d753e684-ae77-4674-a05f-a62dd5e53e3a",
+			"props": {
+				"type": "text",
+				"text": "Here are some good design references for 3D UIs:"
+			},
+			"poses": {
+				"d753e684-ae77-4674-a05f-a62dd5e53e3a": {
+					"pos": {
+						"x": 0.13194701,
+						"y": -0.4785561,
+						"z": -1.2270098
+					},
+					"rot": {
+						"x": 0.24298216,
+						"y": -0.0032982305,
+						"z": 0.0008261781,
+						"w": 0.97002494
+					},
+					"size": {
+						"x": 0.2,
+						"y": 0.02,
+						"z": 2E-5
+					}
+				}
+			}
+		},
+		"31432224-ba38-474d-a198-1946e810f81a": {
+			"id": "31432224-ba38-474d-a198-1946e810f81a",
+			"props": {
+				"type": "text",
+				"text": "• [[Apple Human Interface]] Guidelines - Apple has extensive guidelines for designing intuitive and usable 3D interfaces, especially for iOS and macOS. They cover things like use of lighting, shadows, materials, textures, animation, and interaction."
+			},
+			"poses": {
+				"31432224-ba38-474d-a198-1946e810f81a": {
+					"pos": {
+						"x": 0.13136935,
+						"y": -0.47974476,
+						"z": -1.2265279
+					},
+					"rot": {
+						"x": 0.24298216,
+						"y": -0.0032982305,
+						"z": 0.0008261781,
+						"w": 0.97002494
+					},
+					"size": {
+						"x": 0.2,
+						"y": 0.02,
+						"z": 2E-5
+					}
+				}
+			}
+		},
+		"f459f16e-4a7f-4fdf-a0a1-8f86fbfaf405": {
+			"id": "f459f16e-4a7f-4fdf-a0a1-8f86fbfaf405",
+			"props": {
+				"type": "text",
+				"text": "  • [[Google Material Design]] - Google's Material Design principles also apply to 3D interfaces, with a focus on simplicity, responsiveness, and meaningfulness. Things like flat design, elevation, animation, and motion are covered."
+			},
+			"poses": {
+				"f459f16e-4a7f-4fdf-a0a1-8f86fbfaf405": {
+					"pos": {
+						"x": 0.13108496,
+						"y": -0.47832948,
+						"z": -1.226652
+					},
+					"rot": {
+						"x": 0.24298216,
+						"y": -0.0032982305,
+						"z": 0.0008261781,
+						"w": 0.97002494
+					},
+					"size": {
+						"x": 0.2,
+						"y": 0.02,
+						"z": 2E-5
+					}
+				}
+			}
+		},
+		"6e31c362-da36-49a9-ae42-cc4b15512341": {
+			"id": "6e31c362-da36-49a9-ae42-cc4b15512341",
+			"props": {
+				"type": "text",
+				"text": "• [[Unity UI Best Practices]] - Unity has a set of recommendations for designing 3D UIs in their engine, covering layouts, text, buttons, sliders, menus, etc. They provide example assets and templates. "
+			},
+			"poses": {
+				"6e31c362-da36-49a9-ae42-cc4b15512341": {
+					"pos": {
+						"x": 0.13132682,
+						"y": -0.47983798,
+						"z": -1.2266065
+					},
+					"rot": {
+						"x": 0.24298216,
+						"y": -0.0032982305,
+						"z": 0.0008261781,
+						"w": 0.97002494
+					},
+					"size": {
+						"x": 0.2,
+						"y": 0.02,
+						"z": 2E-5
+					}
+				}
+			}
+		},
+		"8b9a6c68-5d5f-4bc9-9fd7-e601af2f0c6c": {
+			"id": "8b9a6c68-5d5f-4bc9-9fd7-e601af2f0c6c",
+			"props": {
+				"type": "text",
+				"text": "• Valve's VR UI Guidelines - Valve published a set of guidelines specifically for designing VR user interfaces, based on their experience developing VR games like The Lab and Half-Life: Alyx. They cover text legibility, widget sizing, interaction techniques, and more."
+			},
+			"poses": {
+				"8b9a6c68-5d5f-4bc9-9fd7-e601af2f0c6c": {
+					"pos": {
+						"x": 0.1306439,
+						"y": -0.47996858,
+						"z": -1.2272432
+					},
+					"rot": {
+						"x": 0.24298216,
+						"y": -0.0032982305,
+						"z": 0.0008261781,
+						"w": 0.97002494
+					},
+					"size": {
+						"x": 0.2,
+						"y": 0.02,
+						"z": 2E-5
+					}
+				}
+			}
+		},
+		"674d51a5-a596-481a-912a-54cbfeab8aea": {
+			"id": "674d51a5-a596-481a-912a-54cbfeab8aea",
+			"props": {
+				"type": "text",
+				"text": "• 3D UI Patterns - Sites like UI-Patterns.com and UI-Patterns.com provide examples of common 3D UI elements and patterns you can draw inspiration from, like menus, buttons, sliders, progress bars, tooltips, etc."
+			},
+			"poses": {
+				"674d51a5-a596-481a-912a-54cbfeab8aea": {
+					"pos": {
+						"x": 0.13113177,
+						"y": -0.4784188,
+						"z": -1.2279931
+					},
+					"rot": {
+						"x": 0.24298216,
+						"y": -0.0032982305,
+						"z": 0.0008261781,
+						"w": 0.97002494
+					},
+					"size": {
+						"x": 0.2,
+						"y": 0.02,
+						"z": 2E-5
+					}
+				}
+			}
+		},
+		"7ec65030-61b8-4b95-9834-d2f98b6dcda0": {
+			"id": "7ec65030-61b8-4b95-9834-d2f98b6dcda0",
+			"props": {
+				"type": "text",
+				"text": "• Example 3D Apps - Looking at how other apps have designed their 3D UIs can provide a lot of inspiration. Games, VR apps, and 3D"
+			},
+			"poses": {
+				"7ec65030-61b8-4b95-9834-d2f98b6dcda0": {
+					"pos": {
+						"x": 0.13195768,
+						"y": -0.4788671,
+						"z": -1.226724
+					},
+					"rot": {
+						"x": 0.24298216,
+						"y": -0.0032982305,
+						"z": 0.0008261781,
+						"w": 0.97002494
+					},
+					"size": {
+						"x": 0.2,
+						"y": 0.02,
+						"z": 2E-5
+					}
+				}
+			}
+		},
+		"2b620f68-083e-4f83-9180-e01b2df19d68": {
+			"id": "2b620f68-083e-4f83-9180-e01b2df19d68",
+			"props": {
+				"type": "text",
+				"text": "Here are some novel challenges to designing 3D UIs compared to 2D UIs:"
+			},
+			"poses": {
+				"2b620f68-083e-4f83-9180-e01b2df19d68": {
+					"pos": {
+						"x": -0.22862755,
+						"y": -0.3702427,
+						"z": -0.91348094
+					},
+					"rot": {
+						"x": 0.20497541,
+						"y": -0.0026055574,
+						"z": 0.00054566097,
+						"w": 0.9787636
+					},
+					"size": {
+						"x": 0.2,
+						"y": 0.02,
+						"z": 2E-5
+					}
+				}
+			}
+		},
+		"0bdc7b0e-f625-45b9-a461-a91327afed7e": {
+			"id": "0bdc7b0e-f625-45b9-a461-a91327afed7e",
+			"props": {
+				"type": "topic",
+				"isExpanded": "True",
+				"name": "What are some novel challenges to designing 3D UIs that don't exist in 2D? ",
+				"summary": "Some challenges that designers face when designing 3D UIs are depth perception, navigation, occlusion, and cognitive load. These challenges need to be taken into account when designing the UI, and designers need to be aware of how these challenges might affect users."
+			},
+			"poses": {
+				"0bdc7b0e-f625-45b9-a461-a91327afed7e": {
+					"pos": {
+						"x": -0.22953182,
+						"y": -0.37025976,
+						"z": -0.9130543
+					},
+					"rot": {
+						"x": 0.20497541,
+						"y": -0.0026055574,
+						"z": 0.00054566097,
+						"w": 0.9787636
+					},
+					"size": {
+						"x": 0.2,
+						"y": 0.02,
+						"z": 2E-5
+					}
+				},
+				"8db24e36-5a0b-46ae-aa73-47528ef15c4f": {
+					"pos": {
+						"x": -0.6174203,
+						"y": -0.31776026,
+						"z": -0.19066429
+					},
+					"rot": {
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					},
+					"size": {
+						"x": 0.29009998,
+						"y": 0.3981,
+						"z": 0.01
+					}
+				}
+			}
+		},
+		"3a8af130-19bb-4906-bac5-adea478a8380": {
+			"id": "3a8af130-19bb-4906-bac5-adea478a8380",
+			"props": {
+				"type": "text",
+				"text": "1. Depth perception - Users need to perceive depth and distances in 3D space, which can be challenging. This requires special design considerations to aid depth perception."
+			},
+			"poses": {
+				"3a8af130-19bb-4906-bac5-adea478a8380": {
+					"pos": {
+						"x": -0.22979575,
+						"y": -0.36936727,
+						"z": -0.9134201
+					},
+					"rot": {
+						"x": 0.20497541,
+						"y": -0.0026055574,
+						"z": 0.00054566097,
+						"w": 0.9787636
+					},
+					"size": {
+						"x": 0.2,
+						"y": 0.02,
+						"z": 2E-5
+					}
+				}
+			}
+		},
+		"2cd5e48a-d0b1-4289-a4c0-0d0de1e07054": {
+			"id": "2cd5e48a-d0b1-4289-a4c0-0d0de1e07054",
+			"props": {
+				"type": "text",
+				"text": "2. Navigation - Navigating in 3D space is more complex than 2D. Users need to be able to move in 3 axes (forward/back, left/right, up/down) instead of just 2 axes. This requires new navigation metaphors and controls. "
+			},
+			"poses": {
+				"2cd5e48a-d0b1-4289-a4c0-0d0de1e07054": {
+					"pos": {
+						"x": -0.22991872,
+						"y": -0.36933866,
+						"z": -0.91309786
+					},
+					"rot": {
+						"x": 0.20497541,
+						"y": -0.0026055574,
+						"z": 0.00054566097,
+						"w": 0.9787636
+					},
+					"size": {
+						"x": 0.2,
+						"y": 0.02,
+						"z": 2E-5
+					}
+				}
+			}
+		},
+		"99617654-a1a3-40ad-b8b5-74c565062ceb": {
+			"id": "99617654-a1a3-40ad-b8b5-74c565062ceb",
+			"props": {
+				"type": "text",
+				"text": "3. Occlusion - Objects can occlude or hide other objects in 3D, which does not happen in typical 2D interfaces. The UI needs to account for what is visible to the user at any given time."
+			},
+			"poses": {
+				"99617654-a1a3-40ad-b8b5-74c565062ceb": {
+					"pos": {
+						"x": -0.2290648,
+						"y": -0.36939007,
+						"z": -0.9128945
+					},
+					"rot": {
+						"x": 0.20497541,
+						"y": -0.0026055574,
+						"z": 0.00054566097,
+						"w": 0.9787636
+					},
+					"size": {
+						"x": 0.2,
+						"y": 0.02,
+						"z": 2E-5
+					}
+				}
+			}
+		},
+		"ca7d08ac-b5f3-4633-868d-d4ea17389f04": {
+			"id": "ca7d08ac-b5f3-4633-868d-d4ea17389f04",
+			"props": {
+				"type": "text",
+				"text": "4. 3D object manipulation - Users need ways to select, manipulate and interact with 3D objects, which is more complex than interacting with 2D elements. This requires new interaction techniques and controls."
+			},
+			"poses": {
+				"ca7d08ac-b5f3-4633-868d-d4ea17389f04": {
+					"pos": {
+						"x": -0.23022838,
+						"y": -0.37094897,
+						"z": -0.9128548
+					},
+					"rot": {
+						"x": 0.20497541,
+						"y": -0.0026055574,
+						"z": 0.00054566097,
+						"w": 0.9787636
+					},
+					"size": {
+						"x": 0.2,
+						"y": 0.02,
+						"z": 2E-5
+					}
+				}
+			}
+		},
+		"2cd6cb8a-9bd8-4c8d-bf03-6def069a263f": {
+			"id": "2cd6cb8a-9bd8-4c8d-bf03-6def069a263f",
+			"props": {
+				"type": "text",
+				"text": "5. Stereoscopic viewing - For true 3D, stereoscopic displays are often used which present a different image to each eye. This requires special design for vergence-accommodation conflict, fatigue, and other visual issues."
+			},
+			"poses": {
+				"2cd6cb8a-9bd8-4c8d-bf03-6def069a263f": {
+					"pos": {
+						"x": -0.2302921,
+						"y": -0.3696725,
+						"z": -0.9127766
+					},
+					"rot": {
+						"x": 0.20497541,
+						"y": -0.0026055574,
+						"z": 0.00054566097,
+						"w": 0.9787636
+					},
+					"size": {
+						"x": 0.2,
+						"y": 0.02,
+						"z": 2E-5
+					}
+				}
+			}
+		},
+		"4e2658c3-e62f-4b0f-8069-2c6f0166cb47": {
+			"id": "4e2658c3-e62f-4b0f-8069-2c6f0166cb47",
+			"props": {
+				"type": "text",
+				"text": "6. Cognitive load - In general, 3D UIs tend to place a higher cognitive load on users due to the increased complexity of 3D perception and interaction. The UI design needs to account for and mitigate this increased load."
+			},
+			"poses": {
+				"4e2658c3-e62f-4b0f-8069-2c6f0166cb47": {
+					"pos": {
+						"x": -0.22977015,
+						"y": -0.3703696,
+						"z": -0.9140192
+					},
+					"rot": {
+						"x": 0.20497541,
+						"y": -0.0026055574,
+						"z": 0.00054566097,
+						"w": 0.9787636
+					},
+					"size": {
+						"x": 0.2,
+						"y": 0.02,
+						"z": 2E-5
+					}
+				}
+			}
+		},
+		"20518012-3418-4455-a9de-1d6cb8a1a8e6": {
+			"id": "20518012-3418-4455-a9de-1d6cb8a1a8e6",
+			"props": {
+				"type": "topic",
+				"isExpanded": "True",
+				"name": "Please outline a user testing framework for refining our 3D UI design.",
+				"summary": "This user testing framework can help you improve your 3D UI design by identifying areas of difficulty and confusion for your target audience."
+			},
+			"poses": {
+				"20518012-3418-4455-a9de-1d6cb8a1a8e6": {
+					"pos": {
+						"x": 0.5994359,
+						"y": -0.6882987,
+						"z": -1.0332417
+					},
+					"rot": {
+						"x": 0.21918909,
+						"y": -0.02433943,
+						"z": 0.005469691,
+						"w": 0.97536343
+					},
+					"size": {
+						"x": 0.2,
+						"y": 0.02,
+						"z": 2E-5
+					}
+				},
+				"8db24e36-5a0b-46ae-aa73-47528ef15c4f": {
+					"pos": {
+						"x": 0.94495714,
+						"y": 0.16296068,
+						"z": -0.19066429
+					},
+					"rot": {
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					},
+					"size": {
+						"x": 0.29009998,
+						"y": 0.4259,
+						"z": 0.01
+					}
+				}
+			}
+		},
+		"ebdd6a96-55fd-410f-bd62-f1c6d76a036d": {
+			"id": "ebdd6a96-55fd-410f-bd62-f1c6d76a036d",
+			"props": {
+				"type": "text",
+				"text": "Here is a suggested [[user testing]] framework for refining your [[3D UI design]]:"
+			},
+			"poses": {
+				"ebdd6a96-55fd-410f-bd62-f1c6d76a036d": {
+					"pos": {
+						"x": 0.59929913,
+						"y": -0.68732536,
+						"z": -1.0334257
+					},
+					"rot": {
+						"x": 0.21918909,
+						"y": -0.02433943,
+						"z": 0.005469691,
+						"w": 0.97536343
+					},
+					"size": {
+						"x": 0.2,
+						"y": 0.02,
+						"z": 2E-5
+					}
+				}
+			}
+		},
+		"1a709d73-3ece-4c14-8c7c-f1a8539e7139": {
+			"id": "1a709d73-3ece-4c14-8c7c-f1a8539e7139",
+			"props": {
+				"type": "text",
+				"text": "1. Recruit a diverse set of test users. You'll want a mix of ages, genders, experience levels with 3D interfaces, and roles within your target audience. Aim for around 8-10 test users total."
+			},
+			"poses": {
+				"1a709d73-3ece-4c14-8c7c-f1a8539e7139": {
+					"pos": {
+						"x": 0.5992487,
+						"y": -0.68748176,
+						"z": -1.0337873
+					},
+					"rot": {
+						"x": 0.21918909,
+						"y": -0.02433943,
+						"z": 0.005469691,
+						"w": 0.97536343
+					},
+					"size": {
+						"x": 0.2,
+						"y": 0.02,
+						"z": 2E-5
+					}
+				}
+			}
+		},
+		"51881b23-3b17-4a4b-a17f-313c1339eb58": {
+			"id": "51881b23-3b17-4a4b-a17f-313c1339eb58",
+			"props": {
+				"type": "text",
+				"text": "2. Conduct a think aloud [[usability]] test. Have the users perform representative tasks while verbally describing what they are doing, thinking, and feeling. This will provide valuable insights into any usability issues or [[points of confusion]]."
+			},
+			"poses": {
+				"51881b23-3b17-4a4b-a17f-313c1339eb58": {
+					"pos": {
+						"x": 0.59901804,
+						"y": -0.68802124,
+						"z": -1.0341069
+					},
+					"rot": {
+						"x": 0.21918909,
+						"y": -0.02433943,
+						"z": 0.005469691,
+						"w": 0.97536343
+					},
+					"size": {
+						"x": 0.2,
+						"y": 0.02,
+						"z": 2E-5
+					}
+				}
+			}
+		},
+		"3c2f3bf9-59b9-4cd1-8470-72b4391c6e4d": {
+			"id": "3c2f3bf9-59b9-4cd1-8470-72b4391c6e4d",
+			"props": {
+				"type": "text",
+				"text": "3. Focus on key metrics. Track metrics like [[task completion rate]], time on task, number of errors, and [[user satisfaction]]. Look for areas where performance is poor or satisfaction is low."
+			},
+			"poses": {
+				"3c2f3bf9-59b9-4cd1-8470-72b4391c6e4d": {
+					"pos": {
+						"x": 0.59879726,
+						"y": -0.6875648,
+						"z": -1.033473
+					},
+					"rot": {
+						"x": 0.21918909,
+						"y": -0.02433943,
+						"z": 0.005469691,
+						"w": 0.97536343
+					},
+					"size": {
+						"x": 0.2,
+						"y": 0.02,
+						"z": 2E-5
+					}
+				}
+			}
+		},
+		"aff72e5b-5240-41d4-973c-3cacd0881fbc": {
+			"id": "aff72e5b-5240-41d4-973c-3cacd0881fbc",
+			"props": {
+				"type": "text",
+				"text": "4. Observe users' interactions closely. Pay attention to things like how they manipulate 3D objects, navigate the interface, and interpret visual elements. Note any difficulties or frustrations they encounter. "
+			},
+			"poses": {
+				"aff72e5b-5240-41d4-973c-3cacd0881fbc": {
+					"pos": {
+						"x": 0.5988127,
+						"y": -0.6884101,
+						"z": -1.0340158
+					},
+					"rot": {
+						"x": 0.21918909,
+						"y": -0.02433943,
+						"z": 0.005469691,
+						"w": 0.97536343
+					},
+					"size": {
+						"x": 0.2,
+						"y": 0.02,
+						"z": 2E-5
+					}
+				}
+			}
+		},
+		"10a6ef6a-cac2-4f9b-b7c4-1b799f965769": {
+			"id": "10a6ef6a-cac2-4f9b-b7c4-1b799f965769",
+			"props": {
+				"type": "text",
+				"text": "5. Ask [[open-ended questions]]. During and after the test, ask users to describe their experience in their own words. Probe for details about what was difficult, confusing, or unexpected."
+			},
+			"poses": {
+				"10a6ef6a-cac2-4f9b-b7c4-1b799f965769": {
+					"pos": {
+						"x": 0.6000371,
+						"y": -0.68773603,
+						"z": -1.0326743
+					},
+					"rot": {
+						"x": 0.21918909,
+						"y": -0.02433943,
+						"z": 0.005469691,
+						"w": 0.97536343
+					},
+					"size": {
+						"x": 0.2,
+						"y": 0.02,
+						"z": 2E-5
+					}
+				}
+			}
+		},
+		"a9c0646d-c8b9-4333-bc33-7c53aecf51ae": {
+			"id": "a9c0646d-c8b9-4333-bc33-7c53aecf51ae",
+			"props": {
+				"type": "text",
+				"text": "6. Gather specific improvement suggestions. In addition to general feedback, ask users how they think the interface could be improved. Capture their recommended changes and redesign suggestions."
+			},
+			"poses": {
+				"a9c0646d-c8b9-4333-bc33-7c53aecf51ae": {
+					"pos": {
+						"x": 0.59888613,
+						"y": -0.68890524,
+						"z": -1.0326674
+					},
+					"rot": {
+						"x": 0.21918909,
+						"y": -0.02433943,
+						"z": 0.005469691,
+						"w": 0.97536343
+					},
+					"size": {
+						"x": 0.2,
+						"y": 0.02,
+						"z": 2E-5
+					}
+				}
+			}
+		},
+		"a0003709-ba53-4850-8081-4a45d8fb35e5": {
+			"id": "a0003709-ba53-4850-8081-4a45d8fb35e5",
+			"props": {
+				"type": "text",
+				"text": "7. Analyze the results and prioritize improvements. Look for common themes and pain points across multiple users. Focus redesign efforts on the issues that"
+			},
+			"poses": {
+				"a0003709-ba53-4850-8081-4a45d8fb35e5": {
+					"pos": {
+						"x": 0.6003088,
+						"y": -0.68810374,
+						"z": -1.0336891
+					},
+					"rot": {
+						"x": 0.21918909,
+						"y": -0.02433943,
+						"z": 0.005469691,
+						"w": 0.97536343
+					},
+					"size": {
+						"x": 0.2,
+						"y": 0.02,
+						"z": 2E-5
+					}
+				}
+			}
+		},
+		"71362404-9ad5-4c50-a880-07baf6f3ce22": {
+			"id": "71362404-9ad5-4c50-a880-07baf6f3ce22",
+			"props": {
+				"type": "topic",
+				"isExpanded": "False",
+				"name": "user testing"
+			},
+			"poses": {
+				"8db24e36-5a0b-46ae-aa73-47528ef15c4f": {
+					"pos": {
+						"x": 0.7808662,
+						"y": 0.69494635,
+						"z": 0.10737796
+					},
+					"rot": {
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					},
+					"size": {
+						"x": 0.26999998,
+						"y": 0.031799998,
+						"z": 0.01
+					}
+				}
+			}
+		},
+		"c6c1bb4c-b159-4773-b489-cbac036ea9e3": {
+			"id": "c6c1bb4c-b159-4773-b489-cbac036ea9e3",
+			"props": {
+				"type": "topic",
+				"isExpanded": "False",
+				"name": "3d ui design"
+			},
+			"poses": {
+				"8db24e36-5a0b-46ae-aa73-47528ef15c4f": {
+					"pos": {
+						"x": 1.1391658,
+						"y": 0.86840105,
+						"z": 0.030704241
+					},
+					"rot": {
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					},
+					"size": {
+						"x": 0.26999998,
+						"y": 0.031799998,
+						"z": 0.01
+					}
+				}
+			}
+		},
+		"3c0535ab-a1ee-4148-bd81-a5a5014943ee": {
+			"id": "3c0535ab-a1ee-4148-bd81-a5a5014943ee",
+			"props": {
+				"type": "topic",
+				"isExpanded": "False",
+				"name": "usability"
+			},
+			"poses": {
+				"8db24e36-5a0b-46ae-aa73-47528ef15c4f": {
+					"pos": {
+						"x": 1.304102,
+						"y": 0.39042446,
+						"z": 0.032683015
+					},
+					"rot": {
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					},
+					"size": {
+						"x": 0.26999998,
+						"y": 0.031799998,
+						"z": 0.01
+					}
+				}
+			}
+		},
+		"575d95f8-5cfb-46c1-a74c-7f8869a8ed6e": {
+			"id": "575d95f8-5cfb-46c1-a74c-7f8869a8ed6e",
+			"props": {
+				"type": "topic",
+				"isExpanded": "False",
+				"name": "points of confusion"
+			},
+			"poses": {
+				"8db24e36-5a0b-46ae-aa73-47528ef15c4f": {
+					"pos": {
+						"x": 0.6774884,
+						"y": 0.8285592,
+						"z": -0.048157383
+					},
+					"rot": {
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					},
+					"size": {
+						"x": 0.26999998,
+						"y": 0.031799998,
+						"z": 0.01
+					}
+				}
+			}
+		},
+		"9094162e-2b24-4613-b9ca-29465f75fd15": {
+			"id": "9094162e-2b24-4613-b9ca-29465f75fd15",
+			"props": {
+				"type": "topic",
+				"isExpanded": "False",
+				"name": "task completion rate"
+			},
+			"poses": {
+				"8db24e36-5a0b-46ae-aa73-47528ef15c4f": {
+					"pos": {
+						"x": 1.4469433,
+						"y": 0.24712056,
+						"z": 0.029034048
+					},
+					"rot": {
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					},
+					"size": {
+						"x": 0.26999998,
+						"y": 0.031799998,
+						"z": 0.01
+					}
+				}
+			}
+		},
+		"a44f0240-2b95-40d7-8100-a49f96f0c235": {
+			"id": "a44f0240-2b95-40d7-8100-a49f96f0c235",
+			"props": {
+				"type": "topic",
+				"isExpanded": "False",
+				"name": "user satisfaction"
+			},
+			"poses": {
+				"8db24e36-5a0b-46ae-aa73-47528ef15c4f": {
+					"pos": {
+						"x": 0.9831271,
+						"y": 0.49980432,
+						"z": 0.032683015
+					},
+					"rot": {
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					},
+					"size": {
+						"x": 0.26999998,
+						"y": 0.031799998,
+						"z": 0.01
+					}
+				}
+			}
+		},
+		"f4259891-4a91-455b-bdb1-964ed6739720": {
+			"id": "f4259891-4a91-455b-bdb1-964ed6739720",
+			"props": {
+				"type": "topic",
+				"isExpanded": "False",
+				"name": "open-ended questions"
+			},
+			"poses": {
+				"8db24e36-5a0b-46ae-aa73-47528ef15c4f": {
+					"pos": {
+						"x": 1.3550465,
+						"y": 0.6284398,
+						"z": -0.004611943
+					},
+					"rot": {
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					},
+					"size": {
+						"x": 0.26999998,
+						"y": 0.031799998,
+						"z": 0.01
+					}
+				}
+			}
+		},
+		"380062e8-e273-414e-afcc-adcc52f11f54": {
+			"id": "380062e8-e273-414e-afcc-adcc52f11f54",
+			"props": {
+				"type": "topic",
+				"isExpanded": "False",
+				"name": "apple human interface"
+			},
+			"poses": {
+				"8db24e36-5a0b-46ae-aa73-47528ef15c4f": {
+					"pos": {
+						"x": -0.30549556,
+						"y": 0.034165595,
+						"z": 0
+					},
+					"rot": {
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					},
+					"size": {
+						"x": 0.26999998,
+						"y": 0.031799998,
+						"z": 0.01
+					}
+				}
+			}
+		},
+		"4e7ad3ae-fc7f-42bf-9ce8-88dac1fe07ab": {
+			"id": "4e7ad3ae-fc7f-42bf-9ce8-88dac1fe07ab",
+			"props": {
+				"type": "topic",
+				"isExpanded": "False",
+				"name": "google material design"
+			},
+			"poses": {
+				"8db24e36-5a0b-46ae-aa73-47528ef15c4f": {
+					"pos": {
+						"x": -0.30929637,
+						"y": 0.11595398,
+						"z": 0
+					},
+					"rot": {
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					},
+					"size": {
+						"x": 0.26999998,
+						"y": 0.031799998,
+						"z": 0.01
+					}
+				}
+			}
+		},
+		"dbbef628-082f-4f06-8c70-f6f5f7b30fac": {
+			"id": "dbbef628-082f-4f06-8c70-f6f5f7b30fac",
+			"props": {
+				"type": "topic",
+				"isExpanded": "False",
+				"name": "unity ui best practices"
+			},
+			"poses": {
+				"8db24e36-5a0b-46ae-aa73-47528ef15c4f": {
+					"pos": {
+						"x": -0.32099625,
+						"y": 0.19773439,
+						"z": 0
+					},
+					"rot": {
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					},
+					"size": {
+						"x": 0.26999998,
+						"y": 0.031799998,
+						"z": 0.01
+					}
+				}
+			}
+		},
+		"206c4ce1-a800-4538-a511-c114770a4a79": {
+			"id": "206c4ce1-a800-4538-a511-c114770a4a79",
+			"props": {
+				"urlSource": "https://venturebeat.com/wp-content/uploads/2016/11/minority-report.jpg?fit=400%2C234&strip=all",
+				"name": "minority-report.jpg",
+				"urlContext": "https://www.google.com/search?q=Minority+Report+futuristic+UIs&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjVvZTD2ZD_AhUPp6QKHYkMAIgQ_AUoAXoECAEQAw&biw=1280&bih=880&dpr=1#imgrc=q8lmr4rrcq80IM",
+				"type": "image",
+				"aspect": "1.70513",
+				"assetPath": "206c4ce1-a800-4538-a511-c114770a4a79/ImageAsset.jpg"
+			},
+			"poses": {
+				"206c4ce1-a800-4538-a511-c114770a4a79": {
+					"pos": {
+						"x": -0.46033183,
+						"y": 0.04800317,
+						"z": -1.0569378
+					},
+					"rot": {
+						"x": 0.11396733,
+						"y": -0.13717638,
+						"z": 0.015890412,
+						"w": 0.9838402
+					},
+					"size": {
+						"x": 0.2501,
+						"y": 0.14667518,
+						"z": 0.001
+					}
+				},
+				"8db24e36-5a0b-46ae-aa73-47528ef15c4f": {
+					"pos": {
+						"x": 0.7596332,
+						"y": -0.7699051,
+						"z": -0.45164847
+					},
+					"rot": {
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					},
+					"size": {
+						"x": 0.2501,
+						"y": 0.14667518,
+						"z": 0.001
+					}
+				}
+			}
+		},
+		"eeef9e47-7b19-4bb7-9676-4259907194b6": {
+			"id": "eeef9e47-7b19-4bb7-9676-4259907194b6",
+			"props": {
+				"urlSource": "https://i.ytimg.com/vi/7SFeCgoep1c/hqdefault.jpg",
+				"name": "hqdefault.jpg",
+				"urlContext": "https://www.google.com/search?q=Minority+Report+futuristic+UIs&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjVvZTD2ZD_AhUPp6QKHYkMAIgQ_AUoAXoECAEQAw&biw=1280&bih=880&dpr=1#imgrc=_-KicOuUz5p4nM",
+				"type": "image",
+				"aspect": "1.33333",
+				"assetPath": "eeef9e47-7b19-4bb7-9676-4259907194b6/ImageAsset.jpg"
+			},
+			"poses": {
+				"eeef9e47-7b19-4bb7-9676-4259907194b6": {
+					"pos": {
+						"x": 0.024393432,
+						"y": -0.64652693,
+						"z": -1.0893283
+					},
+					"rot": {
+						"x": 0.11396733,
+						"y": -0.13717638,
+						"z": 0.015890412,
+						"w": 0.9838402
+					},
+					"size": {
+						"x": 0.2501,
+						"y": 0.18757498,
+						"z": 0.001
+					}
+				},
+				"8db24e36-5a0b-46ae-aa73-47528ef15c4f": {
+					"pos": {
+						"x": 0.8243109,
+						"y": -0.55279016,
+						"z": -0.45164847
+					},
+					"rot": {
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					},
+					"size": {
+						"x": 0.2501,
+						"y": 0.18757498,
+						"z": 0.001
+					}
+				}
+			}
+		},
+		"0f56e392-304c-4fd8-99c2-fba99ac27785": {
+			"id": "0f56e392-304c-4fd8-99c2-fba99ac27785",
+			"props": {
+				"type": "topic",
+				"isExpanded": "True",
+				"name": "",
+				"summary": ""
+			},
+			"poses": {
+				"0f56e392-304c-4fd8-99c2-fba99ac27785": {
+					"pos": {
+						"x": 0.7596332,
+						"y": -0.7699051,
+						"z": -0.45164847
+					},
+					"rot": {
+						"x": 0.00020902796,
+						"y": 0.00034191707,
+						"z": -0.0013097557,
+						"w": 0.9999991
+					},
+					"size": {
+						"x": 0.2501,
+						"y": 0.14667518,
+						"z": 0.001
+					}
+				},
+				"8db24e36-5a0b-46ae-aa73-47528ef15c4f": {
+					"pos": {
+						"x": 0.3731556,
+						"y": -1.0316187,
+						"z": -0.51176333
+					},
+					"rot": {
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					},
+					"size": {
+						"x": 0.29009998,
+						"y": 0.523198,
+						"z": 0.01
+					}
+				}
+			}
+		},
+		"1837addc-b1cf-4068-8126-561ef6533f01": {
+			"id": "1837addc-b1cf-4068-8126-561ef6533f01",
+			"props": {
+				"urlSource": "https://www.theawl.com/wp-content/uploads/2013/02/0GIEkFelizCz1ovZQ.jpg",
+				"name": "0GIEkFelizCz1ovZQ.jpg",
+				"urlContext": "https://www.google.com/search?q=Minority+Report+futuristic+UIs&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjVvZTD2ZD_AhUPp6QKHYkMAIgQ_AUoAXoECAEQAw&biw=1280&bih=880&dpr=1#imgrc=xJXcHRitN9g2_M",
+				"type": "image",
+				"aspect": "2.40602",
+				"assetPath": "1837addc-b1cf-4068-8126-561ef6533f01/ImageAsset.jpg"
+			},
+			"poses": {
+				"1837addc-b1cf-4068-8126-561ef6533f01": {
+					"pos": {
+						"x": 0.07418704,
+						"y": -0.6024464,
+						"z": -1.0644058
+					},
+					"rot": {
+						"x": 0.11396733,
+						"y": -0.13717638,
+						"z": 0.015890412,
+						"w": 0.9838402
+					},
+					"size": {
+						"x": 0.2501,
+						"y": 0.10394781,
+						"z": 0.001
+					}
+				},
+				"8db24e36-5a0b-46ae-aa73-47528ef15c4f": {
+					"pos": {
+						"x": 0.75466883,
+						"y": -1.0739856,
+						"z": -0.45164847
+					},
+					"rot": {
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					},
+					"size": {
+						"x": 0.2501,
+						"y": 0.10394781,
+						"z": 0.001
+					}
+				}
+			}
+		},
+		"60bafc8c-1821-436f-8d52-7079b5662562": {
+			"id": "60bafc8c-1821-436f-8d52-7079b5662562",
+			"props": {
+				"urlSource": "https://image.lexica.art/full_jpg/2e31d74d-3388-458f-a637-cb332df8fb89",
+				"name": "2e31d74d-3388-458f-a637-cb332df8fb89",
+				"urlContext": "https://lexica.art/?q=holographic+UIs&prompt=65356b74-9c36-4e1d-a5ba-a2a9c86735b6",
+				"type": "image",
+				"aspect": "0.66667",
+				"assetPath": "60bafc8c-1821-436f-8d52-7079b5662562/ImageAsset.jpg"
+			},
+			"poses": {
+				"60bafc8c-1821-436f-8d52-7079b5662562": {
+					"pos": {
+						"x": -0.5037382,
+						"y": -0.79877806,
+						"z": -1.0319104
+					},
+					"rot": {
+						"x": 0.051550083,
+						"y": -0.15015708,
+						"z": 0.007840291,
+						"w": 0.9872862
+					},
+					"size": {
+						"x": 0.2501,
+						"y": 0.37514997,
+						"z": 0.001
+					}
+				},
+				"8db24e36-5a0b-46ae-aa73-47528ef15c4f": {
+					"pos": {
+						"x": 0.24090081,
+						"y": -1.1248918,
+						"z": -0.19066429
+					},
+					"rot": {
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					},
+					"size": {
+						"x": 0.2501,
+						"y": 0.37514997,
+						"z": 0.001
+					}
+				}
+			}
+		},
+		"e0e09650-ac9a-4a09-ad30-c4246e8748ba": {
+			"id": "e0e09650-ac9a-4a09-ad30-c4246e8748ba",
+			"props": {
+				"urlSource": "https://image.lexica.art/full_jpg/c1f39f0d-f5e9-4d24-9f7f-148adc874027",
+				"name": "c1f39f0d-f5e9-4d24-9f7f-148adc874027",
+				"urlContext": "https://lexica.art/?q=holographic+UIs&prompt=65356b74-9c36-4e1d-a5ba-a2a9c86735b6",
+				"type": "image",
+				"aspect": "0.66667",
+				"assetPath": "e0e09650-ac9a-4a09-ad30-c4246e8748ba/ImageAsset.jpg"
+			},
+			"poses": {
+				"e0e09650-ac9a-4a09-ad30-c4246e8748ba": {
+					"pos": {
+						"x": -0.55795485,
+						"y": -0.8420095,
+						"z": -1.0535339
+					},
+					"rot": {
+						"x": 0.051550083,
+						"y": -0.15015708,
+						"z": 0.007840291,
+						"w": 0.9872862
+					},
+					"size": {
+						"x": 0.2501,
+						"y": 0.37514997,
+						"z": 0.001
+					}
+				},
+				"8db24e36-5a0b-46ae-aa73-47528ef15c4f": {
+					"pos": {
+						"x": -0.05918244,
+						"y": -1.1421505,
+						"z": -0.19066429
+					},
+					"rot": {
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					},
+					"size": {
+						"x": 0.2501,
+						"y": 0.37514997,
+						"z": 0.001
+					}
+				}
+			}
+		},
+		"7cc300a1-99b6-4270-b23d-68195550f75c": {
+			"id": "7cc300a1-99b6-4270-b23d-68195550f75c",
+			"props": {
+				"type": "topic",
+				"isExpanded": "True",
+				"name": "",
+				"summary": ""
+			},
+			"poses": {
+				"7cc300a1-99b6-4270-b23d-68195550f75c": {
+					"pos": {
+						"x": 0.24090055,
+						"y": -1.1248915,
+						"z": -0.1906656
+					},
+					"rot": {
+						"x": 0.00033636403,
+						"y": 0.0008343605,
+						"z": -0.00028769253,
+						"w": 0.9999996
+					},
+					"size": {
+						"x": 0.2501,
+						"y": 0.37514997,
+						"z": 0.001
+					}
+				},
+				"8db24e36-5a0b-46ae-aa73-47528ef15c4f": {
+					"pos": {
+						"x": -0.24702881,
+						"y": -1.0285027,
+						"z": -0.5117633
+					},
+					"rot": {
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					},
+					"size": {
+						"x": 0.8503,
+						"y": 0.43014994,
+						"z": 0.01
+					}
+				}
+			}
+		},
+		"cc9c3437-9eae-4bfb-add2-d33baf5a4ed3": {
+			"id": "cc9c3437-9eae-4bfb-add2-d33baf5a4ed3",
+			"props": {
+				"urlSource": "https://image.lexica.art/full_jpg/cbc8ac36-74cf-42ce-b3c5-594b76cefd48",
+				"name": "cbc8ac36-74cf-42ce-b3c5-594b76cefd48",
+				"urlContext": "https://lexica.art/?q=holographic+UIs&prompt=6434ddfe-3740-49c7-b142-d0aed1f37580",
+				"type": "image",
+				"aspect": "0.66667",
+				"assetPath": "cc9c3437-9eae-4bfb-add2-d33baf5a4ed3/ImageAsset.jpg"
+			},
+			"poses": {
+				"cc9c3437-9eae-4bfb-add2-d33baf5a4ed3": {
+					"pos": {
+						"x": -0.4975114,
+						"y": -0.82078475,
+						"z": -1.0323849
+					},
+					"rot": {
+						"x": 0.051550083,
+						"y": -0.15015708,
+						"z": 0.007840291,
+						"w": 0.9872862
+					},
+					"size": {
+						"x": 0.2501,
+						"y": 0.37514997,
+						"z": 0.001
+					}
+				},
+				"8db24e36-5a0b-46ae-aa73-47528ef15c4f": {
+					"pos": {
+						"x": 0.4220546,
+						"y": -1.1693782,
+						"z": -0.24109054
+					},
+					"rot": {
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					},
+					"size": {
+						"x": 0.2501,
+						"y": 0.37514997,
+						"z": 0.001
+					}
+				}
+			}
+		}
+	},
+	"edges": {
+		"8db24e36-5a0b-46ae-aa73-47528ef15c4f[includes]217e3036-5e34-4d89-89b7-37aeb867f713": {
+			"srcNodeID": "8db24e36-5a0b-46ae-aa73-47528ef15c4f",
+			"trgNodeID": "217e3036-5e34-4d89-89b7-37aeb867f713",
+			"type": "includes",
+			"props": {}
+		},
+		"4d7b5aec-4579-4277-b5fc-1bcea8ed3758[includes]11fc989b-e9c2-4154-bd3e-62eb8b5b46f2": {
+			"srcNodeID": "4d7b5aec-4579-4277-b5fc-1bcea8ed3758",
+			"trgNodeID": "11fc989b-e9c2-4154-bd3e-62eb8b5b46f2",
+			"type": "includes",
+			"props": {
+				"layoutIndexY": "0",
+				"layoutIndexX": "0"
+			}
+		},
+		"4d7b5aec-4579-4277-b5fc-1bcea8ed3758[includes]456b9ca9-7e9c-4b17-939f-d552b76ed4a8": {
+			"srcNodeID": "4d7b5aec-4579-4277-b5fc-1bcea8ed3758",
+			"trgNodeID": "456b9ca9-7e9c-4b17-939f-d552b76ed4a8",
+			"type": "includes",
+			"props": {
+				"layoutIndexY": "1",
+				"layoutIndexX": "1"
+			}
+		},
+		"4d7b5aec-4579-4277-b5fc-1bcea8ed3758[includes]d8bd75cc-f9a5-4b50-8604-e4e84a775b3c": {
+			"srcNodeID": "4d7b5aec-4579-4277-b5fc-1bcea8ed3758",
+			"trgNodeID": "d8bd75cc-f9a5-4b50-8604-e4e84a775b3c",
+			"type": "includes",
+			"props": {
+				"layoutIndexY": "0",
+				"layoutIndexX": "1"
+			}
+		},
+		"808223dd-bac4-4c11-ba05-66cbe587615b[includes]999d1533-c045-4954-9dcd-589590ee8105": {
+			"srcNodeID": "808223dd-bac4-4c11-ba05-66cbe587615b",
+			"trgNodeID": "999d1533-c045-4954-9dcd-589590ee8105",
+			"type": "includes",
+			"props": {
+				"layoutIndexY": "0",
+				"layoutIndexX": "-1"
+			}
+		},
+		"8db24e36-5a0b-46ae-aa73-47528ef15c4f[includes]4d7b5aec-4579-4277-b5fc-1bcea8ed3758": {
+			"srcNodeID": "8db24e36-5a0b-46ae-aa73-47528ef15c4f",
+			"trgNodeID": "4d7b5aec-4579-4277-b5fc-1bcea8ed3758",
+			"type": "includes",
+			"props": {}
+		},
+		"808223dd-bac4-4c11-ba05-66cbe587615b[includes]a3bc75fb-c865-43f5-954a-149b7928ad3e": {
+			"srcNodeID": "808223dd-bac4-4c11-ba05-66cbe587615b",
+			"trgNodeID": "a3bc75fb-c865-43f5-954a-149b7928ad3e",
+			"type": "includes",
+			"props": {
+				"layoutIndexY": "0",
+				"layoutIndexX": "0"
+			}
+		},
+		"808223dd-bac4-4c11-ba05-66cbe587615b[includes]e4039b64-5c6a-45f0-9349-d0d6f43604b2": {
+			"srcNodeID": "808223dd-bac4-4c11-ba05-66cbe587615b",
+			"trgNodeID": "e4039b64-5c6a-45f0-9349-d0d6f43604b2",
+			"type": "includes",
+			"props": {
+				"layoutIndexY": "1",
+				"layoutIndexX": "-1"
+			}
+		},
+		"8db24e36-5a0b-46ae-aa73-47528ef15c4f[includes]808223dd-bac4-4c11-ba05-66cbe587615b": {
+			"srcNodeID": "8db24e36-5a0b-46ae-aa73-47528ef15c4f",
+			"trgNodeID": "808223dd-bac4-4c11-ba05-66cbe587615b",
+			"type": "includes",
+			"props": {}
+		},
+		"854c8e34-85fe-48e3-b1a9-c79cf6c154f3[includes]e74ae924-c0d5-4a3e-83f4-2899259b6179": {
+			"srcNodeID": "854c8e34-85fe-48e3-b1a9-c79cf6c154f3",
+			"trgNodeID": "e74ae924-c0d5-4a3e-83f4-2899259b6179",
+			"type": "includes",
+			"props": {
+				"layoutIndexY": "1",
+				"layoutIndexX": "1"
+			}
+		},
+		"854c8e34-85fe-48e3-b1a9-c79cf6c154f3[includes]13b8a22f-2375-405e-ba09-47a387efa9f6": {
+			"srcNodeID": "854c8e34-85fe-48e3-b1a9-c79cf6c154f3",
+			"trgNodeID": "13b8a22f-2375-405e-ba09-47a387efa9f6",
+			"type": "includes",
+			"props": {
+				"layoutIndexY": "0",
+				"layoutIndexX": "1"
+			}
+		},
+		"854c8e34-85fe-48e3-b1a9-c79cf6c154f3[includes]a77f9451-d70f-44bc-9cab-d7f113e946db": {
+			"srcNodeID": "854c8e34-85fe-48e3-b1a9-c79cf6c154f3",
+			"trgNodeID": "a77f9451-d70f-44bc-9cab-d7f113e946db",
+			"type": "includes",
+			"props": {
+				"layoutIndexY": "0",
+				"layoutIndexX": "0"
+			}
+		},
+		"854c8e34-85fe-48e3-b1a9-c79cf6c154f3[includes]d3418a48-2912-40db-a00f-89ab7dc64a80": {
+			"srcNodeID": "854c8e34-85fe-48e3-b1a9-c79cf6c154f3",
+			"trgNodeID": "d3418a48-2912-40db-a00f-89ab7dc64a80",
+			"type": "includes",
+			"props": {
+				"layoutIndexY": "1",
+				"layoutIndexX": "0"
+			}
+		},
+		"8db24e36-5a0b-46ae-aa73-47528ef15c4f[includes]854c8e34-85fe-48e3-b1a9-c79cf6c154f3": {
+			"srcNodeID": "8db24e36-5a0b-46ae-aa73-47528ef15c4f",
+			"trgNodeID": "854c8e34-85fe-48e3-b1a9-c79cf6c154f3",
+			"type": "includes",
+			"props": {}
+		},
+		"8db24e36-5a0b-46ae-aa73-47528ef15c4f[includes]d7baf910-206a-4326-b921-6baecaf76d4b": {
+			"srcNodeID": "8db24e36-5a0b-46ae-aa73-47528ef15c4f",
+			"trgNodeID": "d7baf910-206a-4326-b921-6baecaf76d4b",
+			"type": "includes",
+			"props": {}
+		},
+		"d7baf910-206a-4326-b921-6baecaf76d4b[includes]d753e684-ae77-4674-a05f-a62dd5e53e3a": {
+			"srcNodeID": "d7baf910-206a-4326-b921-6baecaf76d4b",
+			"trgNodeID": "d753e684-ae77-4674-a05f-a62dd5e53e3a",
+			"type": "includes",
+			"props": {
+				"layoutIndexY": "0",
+				"layoutIndexX": "0"
+			}
+		},
+		"d7baf910-206a-4326-b921-6baecaf76d4b[includes]31432224-ba38-474d-a198-1946e810f81a": {
+			"srcNodeID": "d7baf910-206a-4326-b921-6baecaf76d4b",
+			"trgNodeID": "31432224-ba38-474d-a198-1946e810f81a",
+			"type": "includes",
+			"props": {
+				"layoutIndexY": "1",
+				"layoutIndexX": "0"
+			}
+		},
+		"d7baf910-206a-4326-b921-6baecaf76d4b[includes]f459f16e-4a7f-4fdf-a0a1-8f86fbfaf405": {
+			"srcNodeID": "d7baf910-206a-4326-b921-6baecaf76d4b",
+			"trgNodeID": "f459f16e-4a7f-4fdf-a0a1-8f86fbfaf405",
+			"type": "includes",
+			"props": {
+				"layoutIndexY": "2",
+				"layoutIndexX": "0"
+			}
+		},
+		"d7baf910-206a-4326-b921-6baecaf76d4b[includes]6e31c362-da36-49a9-ae42-cc4b15512341": {
+			"srcNodeID": "d7baf910-206a-4326-b921-6baecaf76d4b",
+			"trgNodeID": "6e31c362-da36-49a9-ae42-cc4b15512341",
+			"type": "includes",
+			"props": {
+				"layoutIndexY": "3",
+				"layoutIndexX": "0"
+			}
+		},
+		"d7baf910-206a-4326-b921-6baecaf76d4b[includes]8b9a6c68-5d5f-4bc9-9fd7-e601af2f0c6c": {
+			"srcNodeID": "d7baf910-206a-4326-b921-6baecaf76d4b",
+			"trgNodeID": "8b9a6c68-5d5f-4bc9-9fd7-e601af2f0c6c",
+			"type": "includes",
+			"props": {
+				"layoutIndexY": "4",
+				"layoutIndexX": "0"
+			}
+		},
+		"d7baf910-206a-4326-b921-6baecaf76d4b[includes]674d51a5-a596-481a-912a-54cbfeab8aea": {
+			"srcNodeID": "d7baf910-206a-4326-b921-6baecaf76d4b",
+			"trgNodeID": "674d51a5-a596-481a-912a-54cbfeab8aea",
+			"type": "includes",
+			"props": {
+				"layoutIndexY": "5",
+				"layoutIndexX": "0"
+			}
+		},
+		"d7baf910-206a-4326-b921-6baecaf76d4b[includes]7ec65030-61b8-4b95-9834-d2f98b6dcda0": {
+			"srcNodeID": "d7baf910-206a-4326-b921-6baecaf76d4b",
+			"trgNodeID": "7ec65030-61b8-4b95-9834-d2f98b6dcda0",
+			"type": "includes",
+			"props": {
+				"layoutIndexY": "6",
+				"layoutIndexX": "0"
+			}
+		},
+		"0bdc7b0e-f625-45b9-a461-a91327afed7e[includes]2b620f68-083e-4f83-9180-e01b2df19d68": {
+			"srcNodeID": "0bdc7b0e-f625-45b9-a461-a91327afed7e",
+			"trgNodeID": "2b620f68-083e-4f83-9180-e01b2df19d68",
+			"type": "includes",
+			"props": {
+				"layoutIndexY": "0",
+				"layoutIndexX": "0"
+			}
+		},
+		"8db24e36-5a0b-46ae-aa73-47528ef15c4f[includes]0bdc7b0e-f625-45b9-a461-a91327afed7e": {
+			"srcNodeID": "8db24e36-5a0b-46ae-aa73-47528ef15c4f",
+			"trgNodeID": "0bdc7b0e-f625-45b9-a461-a91327afed7e",
+			"type": "includes",
+			"props": {}
+		},
+		"0bdc7b0e-f625-45b9-a461-a91327afed7e[includes]3a8af130-19bb-4906-bac5-adea478a8380": {
+			"srcNodeID": "0bdc7b0e-f625-45b9-a461-a91327afed7e",
+			"trgNodeID": "3a8af130-19bb-4906-bac5-adea478a8380",
+			"type": "includes",
+			"props": {
+				"layoutIndexY": "1",
+				"layoutIndexX": "0"
+			}
+		},
+		"0bdc7b0e-f625-45b9-a461-a91327afed7e[includes]2cd5e48a-d0b1-4289-a4c0-0d0de1e07054": {
+			"srcNodeID": "0bdc7b0e-f625-45b9-a461-a91327afed7e",
+			"trgNodeID": "2cd5e48a-d0b1-4289-a4c0-0d0de1e07054",
+			"type": "includes",
+			"props": {
+				"layoutIndexY": "2",
+				"layoutIndexX": "0"
+			}
+		},
+		"0bdc7b0e-f625-45b9-a461-a91327afed7e[includes]99617654-a1a3-40ad-b8b5-74c565062ceb": {
+			"srcNodeID": "0bdc7b0e-f625-45b9-a461-a91327afed7e",
+			"trgNodeID": "99617654-a1a3-40ad-b8b5-74c565062ceb",
+			"type": "includes",
+			"props": {
+				"layoutIndexY": "3",
+				"layoutIndexX": "0"
+			}
+		},
+		"0bdc7b0e-f625-45b9-a461-a91327afed7e[includes]ca7d08ac-b5f3-4633-868d-d4ea17389f04": {
+			"srcNodeID": "0bdc7b0e-f625-45b9-a461-a91327afed7e",
+			"trgNodeID": "ca7d08ac-b5f3-4633-868d-d4ea17389f04",
+			"type": "includes",
+			"props": {
+				"layoutIndexY": "4",
+				"layoutIndexX": "0"
+			}
+		},
+		"0bdc7b0e-f625-45b9-a461-a91327afed7e[includes]2cd6cb8a-9bd8-4c8d-bf03-6def069a263f": {
+			"srcNodeID": "0bdc7b0e-f625-45b9-a461-a91327afed7e",
+			"trgNodeID": "2cd6cb8a-9bd8-4c8d-bf03-6def069a263f",
+			"type": "includes",
+			"props": {
+				"layoutIndexY": "5",
+				"layoutIndexX": "0"
+			}
+		},
+		"0bdc7b0e-f625-45b9-a461-a91327afed7e[includes]4e2658c3-e62f-4b0f-8069-2c6f0166cb47": {
+			"srcNodeID": "0bdc7b0e-f625-45b9-a461-a91327afed7e",
+			"trgNodeID": "4e2658c3-e62f-4b0f-8069-2c6f0166cb47",
+			"type": "includes",
+			"props": {
+				"layoutIndexY": "6",
+				"layoutIndexX": "0"
+			}
+		},
+		"8db24e36-5a0b-46ae-aa73-47528ef15c4f[includes]20518012-3418-4455-a9de-1d6cb8a1a8e6": {
+			"srcNodeID": "8db24e36-5a0b-46ae-aa73-47528ef15c4f",
+			"trgNodeID": "20518012-3418-4455-a9de-1d6cb8a1a8e6",
+			"type": "includes",
+			"props": {}
+		},
+		"20518012-3418-4455-a9de-1d6cb8a1a8e6[includes]ebdd6a96-55fd-410f-bd62-f1c6d76a036d": {
+			"srcNodeID": "20518012-3418-4455-a9de-1d6cb8a1a8e6",
+			"trgNodeID": "ebdd6a96-55fd-410f-bd62-f1c6d76a036d",
+			"type": "includes",
+			"props": {
+				"layoutIndexY": "0",
+				"layoutIndexX": "0"
+			}
+		},
+		"20518012-3418-4455-a9de-1d6cb8a1a8e6[includes]1a709d73-3ece-4c14-8c7c-f1a8539e7139": {
+			"srcNodeID": "20518012-3418-4455-a9de-1d6cb8a1a8e6",
+			"trgNodeID": "1a709d73-3ece-4c14-8c7c-f1a8539e7139",
+			"type": "includes",
+			"props": {
+				"layoutIndexY": "1",
+				"layoutIndexX": "0"
+			}
+		},
+		"20518012-3418-4455-a9de-1d6cb8a1a8e6[includes]51881b23-3b17-4a4b-a17f-313c1339eb58": {
+			"srcNodeID": "20518012-3418-4455-a9de-1d6cb8a1a8e6",
+			"trgNodeID": "51881b23-3b17-4a4b-a17f-313c1339eb58",
+			"type": "includes",
+			"props": {
+				"layoutIndexY": "2",
+				"layoutIndexX": "0"
+			}
+		},
+		"20518012-3418-4455-a9de-1d6cb8a1a8e6[includes]3c2f3bf9-59b9-4cd1-8470-72b4391c6e4d": {
+			"srcNodeID": "20518012-3418-4455-a9de-1d6cb8a1a8e6",
+			"trgNodeID": "3c2f3bf9-59b9-4cd1-8470-72b4391c6e4d",
+			"type": "includes",
+			"props": {
+				"layoutIndexY": "3",
+				"layoutIndexX": "0"
+			}
+		},
+		"20518012-3418-4455-a9de-1d6cb8a1a8e6[includes]aff72e5b-5240-41d4-973c-3cacd0881fbc": {
+			"srcNodeID": "20518012-3418-4455-a9de-1d6cb8a1a8e6",
+			"trgNodeID": "aff72e5b-5240-41d4-973c-3cacd0881fbc",
+			"type": "includes",
+			"props": {
+				"layoutIndexY": "4",
+				"layoutIndexX": "0"
+			}
+		},
+		"20518012-3418-4455-a9de-1d6cb8a1a8e6[includes]10a6ef6a-cac2-4f9b-b7c4-1b799f965769": {
+			"srcNodeID": "20518012-3418-4455-a9de-1d6cb8a1a8e6",
+			"trgNodeID": "10a6ef6a-cac2-4f9b-b7c4-1b799f965769",
+			"type": "includes",
+			"props": {
+				"layoutIndexY": "5",
+				"layoutIndexX": "0"
+			}
+		},
+		"20518012-3418-4455-a9de-1d6cb8a1a8e6[includes]a9c0646d-c8b9-4333-bc33-7c53aecf51ae": {
+			"srcNodeID": "20518012-3418-4455-a9de-1d6cb8a1a8e6",
+			"trgNodeID": "a9c0646d-c8b9-4333-bc33-7c53aecf51ae",
+			"type": "includes",
+			"props": {
+				"layoutIndexY": "6",
+				"layoutIndexX": "0"
+			}
+		},
+		"20518012-3418-4455-a9de-1d6cb8a1a8e6[includes]a0003709-ba53-4850-8081-4a45d8fb35e5": {
+			"srcNodeID": "20518012-3418-4455-a9de-1d6cb8a1a8e6",
+			"trgNodeID": "a0003709-ba53-4850-8081-4a45d8fb35e5",
+			"type": "includes",
+			"props": {
+				"layoutIndexY": "7",
+				"layoutIndexX": "0"
+			}
+		},
+		"8db24e36-5a0b-46ae-aa73-47528ef15c4f[includes]71362404-9ad5-4c50-a880-07baf6f3ce22": {
+			"srcNodeID": "8db24e36-5a0b-46ae-aa73-47528ef15c4f",
+			"trgNodeID": "71362404-9ad5-4c50-a880-07baf6f3ce22",
+			"type": "includes",
+			"props": {}
+		},
+		"ebdd6a96-55fd-410f-bd62-f1c6d76a036d[refersTo]71362404-9ad5-4c50-a880-07baf6f3ce22": {
+			"srcNodeID": "ebdd6a96-55fd-410f-bd62-f1c6d76a036d",
+			"trgNodeID": "71362404-9ad5-4c50-a880-07baf6f3ce22",
+			"type": "refersTo",
+			"props": null
+		},
+		"8db24e36-5a0b-46ae-aa73-47528ef15c4f[includes]c6c1bb4c-b159-4773-b489-cbac036ea9e3": {
+			"srcNodeID": "8db24e36-5a0b-46ae-aa73-47528ef15c4f",
+			"trgNodeID": "c6c1bb4c-b159-4773-b489-cbac036ea9e3",
+			"type": "includes",
+			"props": {}
+		},
+		"ebdd6a96-55fd-410f-bd62-f1c6d76a036d[refersTo]c6c1bb4c-b159-4773-b489-cbac036ea9e3": {
+			"srcNodeID": "ebdd6a96-55fd-410f-bd62-f1c6d76a036d",
+			"trgNodeID": "c6c1bb4c-b159-4773-b489-cbac036ea9e3",
+			"type": "refersTo",
+			"props": null
+		},
+		"8db24e36-5a0b-46ae-aa73-47528ef15c4f[includes]3c0535ab-a1ee-4148-bd81-a5a5014943ee": {
+			"srcNodeID": "8db24e36-5a0b-46ae-aa73-47528ef15c4f",
+			"trgNodeID": "3c0535ab-a1ee-4148-bd81-a5a5014943ee",
+			"type": "includes",
+			"props": {}
+		},
+		"51881b23-3b17-4a4b-a17f-313c1339eb58[refersTo]3c0535ab-a1ee-4148-bd81-a5a5014943ee": {
+			"srcNodeID": "51881b23-3b17-4a4b-a17f-313c1339eb58",
+			"trgNodeID": "3c0535ab-a1ee-4148-bd81-a5a5014943ee",
+			"type": "refersTo",
+			"props": null
+		},
+		"8db24e36-5a0b-46ae-aa73-47528ef15c4f[includes]575d95f8-5cfb-46c1-a74c-7f8869a8ed6e": {
+			"srcNodeID": "8db24e36-5a0b-46ae-aa73-47528ef15c4f",
+			"trgNodeID": "575d95f8-5cfb-46c1-a74c-7f8869a8ed6e",
+			"type": "includes",
+			"props": {}
+		},
+		"51881b23-3b17-4a4b-a17f-313c1339eb58[refersTo]575d95f8-5cfb-46c1-a74c-7f8869a8ed6e": {
+			"srcNodeID": "51881b23-3b17-4a4b-a17f-313c1339eb58",
+			"trgNodeID": "575d95f8-5cfb-46c1-a74c-7f8869a8ed6e",
+			"type": "refersTo",
+			"props": null
+		},
+		"8db24e36-5a0b-46ae-aa73-47528ef15c4f[includes]9094162e-2b24-4613-b9ca-29465f75fd15": {
+			"srcNodeID": "8db24e36-5a0b-46ae-aa73-47528ef15c4f",
+			"trgNodeID": "9094162e-2b24-4613-b9ca-29465f75fd15",
+			"type": "includes",
+			"props": {}
+		},
+		"3c2f3bf9-59b9-4cd1-8470-72b4391c6e4d[refersTo]9094162e-2b24-4613-b9ca-29465f75fd15": {
+			"srcNodeID": "3c2f3bf9-59b9-4cd1-8470-72b4391c6e4d",
+			"trgNodeID": "9094162e-2b24-4613-b9ca-29465f75fd15",
+			"type": "refersTo",
+			"props": null
+		},
+		"8db24e36-5a0b-46ae-aa73-47528ef15c4f[includes]a44f0240-2b95-40d7-8100-a49f96f0c235": {
+			"srcNodeID": "8db24e36-5a0b-46ae-aa73-47528ef15c4f",
+			"trgNodeID": "a44f0240-2b95-40d7-8100-a49f96f0c235",
+			"type": "includes",
+			"props": {}
+		},
+		"3c2f3bf9-59b9-4cd1-8470-72b4391c6e4d[refersTo]a44f0240-2b95-40d7-8100-a49f96f0c235": {
+			"srcNodeID": "3c2f3bf9-59b9-4cd1-8470-72b4391c6e4d",
+			"trgNodeID": "a44f0240-2b95-40d7-8100-a49f96f0c235",
+			"type": "refersTo",
+			"props": null
+		},
+		"8db24e36-5a0b-46ae-aa73-47528ef15c4f[includes]f4259891-4a91-455b-bdb1-964ed6739720": {
+			"srcNodeID": "8db24e36-5a0b-46ae-aa73-47528ef15c4f",
+			"trgNodeID": "f4259891-4a91-455b-bdb1-964ed6739720",
+			"type": "includes",
+			"props": {}
+		},
+		"10a6ef6a-cac2-4f9b-b7c4-1b799f965769[refersTo]f4259891-4a91-455b-bdb1-964ed6739720": {
+			"srcNodeID": "10a6ef6a-cac2-4f9b-b7c4-1b799f965769",
+			"trgNodeID": "f4259891-4a91-455b-bdb1-964ed6739720",
+			"type": "refersTo",
+			"props": null
+		},
+		"8db24e36-5a0b-46ae-aa73-47528ef15c4f[includes]380062e8-e273-414e-afcc-adcc52f11f54": {
+			"srcNodeID": "8db24e36-5a0b-46ae-aa73-47528ef15c4f",
+			"trgNodeID": "380062e8-e273-414e-afcc-adcc52f11f54",
+			"type": "includes",
+			"props": {}
+		},
+		"31432224-ba38-474d-a198-1946e810f81a[refersTo]380062e8-e273-414e-afcc-adcc52f11f54": {
+			"srcNodeID": "31432224-ba38-474d-a198-1946e810f81a",
+			"trgNodeID": "380062e8-e273-414e-afcc-adcc52f11f54",
+			"type": "refersTo",
+			"props": null
+		},
+		"8db24e36-5a0b-46ae-aa73-47528ef15c4f[includes]4e7ad3ae-fc7f-42bf-9ce8-88dac1fe07ab": {
+			"srcNodeID": "8db24e36-5a0b-46ae-aa73-47528ef15c4f",
+			"trgNodeID": "4e7ad3ae-fc7f-42bf-9ce8-88dac1fe07ab",
+			"type": "includes",
+			"props": {}
+		},
+		"f459f16e-4a7f-4fdf-a0a1-8f86fbfaf405[refersTo]4e7ad3ae-fc7f-42bf-9ce8-88dac1fe07ab": {
+			"srcNodeID": "f459f16e-4a7f-4fdf-a0a1-8f86fbfaf405",
+			"trgNodeID": "4e7ad3ae-fc7f-42bf-9ce8-88dac1fe07ab",
+			"type": "refersTo",
+			"props": null
+		},
+		"8db24e36-5a0b-46ae-aa73-47528ef15c4f[includes]dbbef628-082f-4f06-8c70-f6f5f7b30fac": {
+			"srcNodeID": "8db24e36-5a0b-46ae-aa73-47528ef15c4f",
+			"trgNodeID": "dbbef628-082f-4f06-8c70-f6f5f7b30fac",
+			"type": "includes",
+			"props": {}
+		},
+		"6e31c362-da36-49a9-ae42-cc4b15512341[refersTo]dbbef628-082f-4f06-8c70-f6f5f7b30fac": {
+			"srcNodeID": "6e31c362-da36-49a9-ae42-cc4b15512341",
+			"trgNodeID": "dbbef628-082f-4f06-8c70-f6f5f7b30fac",
+			"type": "refersTo",
+			"props": null
+		},
+		"0f56e392-304c-4fd8-99c2-fba99ac27785[includes]206c4ce1-a800-4538-a511-c114770a4a79": {
+			"srcNodeID": "0f56e392-304c-4fd8-99c2-fba99ac27785",
+			"trgNodeID": "206c4ce1-a800-4538-a511-c114770a4a79",
+			"type": "includes",
+			"props": {
+				"layoutIndexY": "1",
+				"layoutIndexX": "0"
+			}
+		},
+		"0f56e392-304c-4fd8-99c2-fba99ac27785[includes]eeef9e47-7b19-4bb7-9676-4259907194b6": {
+			"srcNodeID": "0f56e392-304c-4fd8-99c2-fba99ac27785",
+			"trgNodeID": "eeef9e47-7b19-4bb7-9676-4259907194b6",
+			"type": "includes",
+			"props": {
+				"layoutIndexY": "0",
+				"layoutIndexX": "0"
+			}
+		},
+		"8db24e36-5a0b-46ae-aa73-47528ef15c4f[includes]0f56e392-304c-4fd8-99c2-fba99ac27785": {
+			"srcNodeID": "8db24e36-5a0b-46ae-aa73-47528ef15c4f",
+			"trgNodeID": "0f56e392-304c-4fd8-99c2-fba99ac27785",
+			"type": "includes",
+			"props": {}
+		},
+		"0f56e392-304c-4fd8-99c2-fba99ac27785[includes]1837addc-b1cf-4068-8126-561ef6533f01": {
+			"srcNodeID": "0f56e392-304c-4fd8-99c2-fba99ac27785",
+			"trgNodeID": "1837addc-b1cf-4068-8126-561ef6533f01",
+			"type": "includes",
+			"props": {
+				"layoutIndexY": "2",
+				"layoutIndexX": "0"
+			}
+		},
+		"7cc300a1-99b6-4270-b23d-68195550f75c[includes]60bafc8c-1821-436f-8d52-7079b5662562": {
+			"srcNodeID": "7cc300a1-99b6-4270-b23d-68195550f75c",
+			"trgNodeID": "60bafc8c-1821-436f-8d52-7079b5662562",
+			"type": "includes",
+			"props": {
+				"layoutIndexY": "0",
+				"layoutIndexX": "0"
+			}
+		},
+		"7cc300a1-99b6-4270-b23d-68195550f75c[includes]e0e09650-ac9a-4a09-ad30-c4246e8748ba": {
+			"srcNodeID": "7cc300a1-99b6-4270-b23d-68195550f75c",
+			"trgNodeID": "e0e09650-ac9a-4a09-ad30-c4246e8748ba",
+			"type": "includes",
+			"props": {
+				"layoutIndexY": "0",
+				"layoutIndexX": "-1"
+			}
+		},
+		"8db24e36-5a0b-46ae-aa73-47528ef15c4f[includes]7cc300a1-99b6-4270-b23d-68195550f75c": {
+			"srcNodeID": "8db24e36-5a0b-46ae-aa73-47528ef15c4f",
+			"trgNodeID": "7cc300a1-99b6-4270-b23d-68195550f75c",
+			"type": "includes",
+			"props": {}
+		},
+		"7cc300a1-99b6-4270-b23d-68195550f75c[includes]cc9c3437-9eae-4bfb-add2-d33baf5a4ed3": {
+			"srcNodeID": "7cc300a1-99b6-4270-b23d-68195550f75c",
+			"trgNodeID": "cc9c3437-9eae-4bfb-add2-d33baf5a4ed3",
+			"type": "includes",
+			"props": {
+				"layoutIndexY": "0",
+				"layoutIndexX": "1"
+			}
+		}
+	}
+}
