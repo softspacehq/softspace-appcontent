@@ -1,16 +1,15 @@
 {
 	"schema": 230401,
-	"id": "8db24e36-5a0b-46ae-aa73-47528ef15c4f",
+	"id": "7972fc4f-df7a-48f8-8a2e-0ee589d36822",
 	"nodes": {
-		"8db24e36-5a0b-46ae-aa73-47528ef15c4f": {
-			"id": "8db24e36-5a0b-46ae-aa73-47528ef15c4f",
+		"7972fc4f-df7a-48f8-8a2e-0ee589d36822": {
+			"id": "7972fc4f-df7a-48f8-8a2e-0ee589d36822",
 			"props": {
-				"type": "topic",
-				"isExpanded": "False",
-				"name": "My First Softspace Workspace"
+				"type": "workspace",
+				"name": "New Demo Workspace"
 			},
 			"poses": {
-				"8db24e36-5a0b-46ae-aa73-47528ef15c4f": {
+				"7972fc4f-df7a-48f8-8a2e-0ee589d36822": {
 					"pos": {
 						"x": 0,
 						"y": 0,
@@ -30,37 +29,38 @@
 				}
 			}
 		},
-		"217e3036-5e34-4d89-89b7-37aeb867f713": {
-			"id": "217e3036-5e34-4d89-89b7-37aeb867f713",
+		"161d1f80-7b7d-49e1-b7f3-9ef29cc02d69": {
+			"id": "161d1f80-7b7d-49e1-b7f3-9ef29cc02d69",
 			"props": {
 				"type": "topic",
-				"isExpanded": "False",
-				"name": "Softspace Design Inspiration"
+				"isSuggested": "False",
+				"name": "What is generative AI?",
+				"summary": "Generative AI focuses on creating models and systems capable of generating new and original content. It involves training algorithms to understand patterns and structures in existing data and then using that knowledge to generate new data or content that resembles the original data. Generative AI can be applied in various domains, including image generation, text generation, music composition, and video game design."
 			},
 			"poses": {
-				"217e3036-5e34-4d89-89b7-37aeb867f713": {
+				"161d1f80-7b7d-49e1-b7f3-9ef29cc02d69": {
 					"pos": {
-						"x": -0.038752556,
-						"y": 0.022681832,
-						"z": -0.3137039
+						"x": -0.71626174,
+						"y": 0.9829658,
+						"z": -0.5267291
 					},
 					"rot": {
-						"x": 0.19347218,
-						"y": -0.021599364,
-						"z": 0.0042604273,
-						"w": 0.98085886
+						"x": 0,
+						"y": -0.0014122312,
+						"z": 0,
+						"w": 0.99999905
 					},
 					"size": {
-						"x": 0.2,
-						"y": 0.02,
-						"z": 2E-5
+						"x": 0.57019943,
+						"y": 0.43015054,
+						"z": 0.001
 					}
 				},
-				"8db24e36-5a0b-46ae-aa73-47528ef15c4f": {
+				"7972fc4f-df7a-48f8-8a2e-0ee589d36822": {
 					"pos": {
-						"x": -0.75124717,
-						"y": 0.51625824,
-						"z": -0.47292393
+						"x": -0.71626353,
+						"y": 0.9829717,
+						"z": -0.52673435
 					},
 					"rot": {
 						"x": 0,
@@ -69,241 +69,171 @@
 						"w": 1
 					},
 					"size": {
-						"x": 0.26999998,
-						"y": 0.0536,
-						"z": 0.01
+						"x": 0.57019943,
+						"y": 0.43015054,
+						"z": 0.001
+					}
+				},
+				"ParentingTrf-161d1f80-7b7d-49e1-b7f3-9ef29cc02d69": {
+					"pos": {
+						"x": 0.14005,
+						"y": 0,
+						"z": 0
+					},
+					"rot": {
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					},
+					"size": {
+						"x": 1,
+						"y": 1,
+						"z": 1
 					}
 				}
 			}
 		},
-		"11fc989b-e9c2-4154-bd3e-62eb8b5b46f2": {
-			"id": "11fc989b-e9c2-4154-bd3e-62eb8b5b46f2",
+		"80db4e7d-ab32-45ff-9d80-c7327ca63ce9": {
+			"id": "80db4e7d-ab32-45ff-9d80-c7327ca63ce9",
 			"props": {
-				"urlSource": "https://electronicmaterialsoffice.com/img/hero-1.jpg",
-				"name": "hero-1.jpg",
-				"urlContext": "https://electronicmaterialsoffice.com/",
-				"type": "image",
-				"aspect": "0.75117",
-				"assetPath": "11fc989b-e9c2-4154-bd3e-62eb8b5b46f2/ImageAsset.jpg"
+				"type": "text",
+				"text": "Generative AI refers to the field of artificial intelligence that focuses on creating models and systems capable of generating new and original content. It involves training algorithms to understand patterns and structures in existing data and then using that knowledge to generate new data or content that resembles the original data."
 			},
 			"poses": {
-				"11fc989b-e9c2-4154-bd3e-62eb8b5b46f2": {
+				"80db4e7d-ab32-45ff-9d80-c7327ca63ce9": {
 					"pos": {
-						"x": -0.34075192,
-						"y": 0.08450928,
-						"z": -0.56338394
-					},
-					"rot": {
-						"x": 0.120262176,
-						"y": -0.13203089,
-						"z": 0.016139936,
-						"w": 0.9837909
-					},
-					"size": {
-						"x": 0.2501,
-						"y": 0.33294883,
-						"z": 0.001
-					}
-				},
-				"8db24e36-5a0b-46ae-aa73-47528ef15c4f": {
-					"pos": {
-						"x": 0.56488717,
-						"y": 0.08475515,
-						"z": -0.19066429
+						"x": -0.5762123,
+						"y": 1.0845982,
+						"z": -0.5263336
 					},
 					"rot": {
 						"x": 0,
-						"y": 0,
+						"y": -0.0014122312,
 						"z": 0,
-						"w": 1
+						"w": 0.99999905
 					},
 					"size": {
 						"x": 0.2501,
-						"y": 0.33294883,
-						"z": 0.001
+						"y": 0.08229622,
+						"z": 0.000100000005
 					}
 				}
 			}
 		},
-		"456b9ca9-7e9c-4b17-939f-d552b76ed4a8": {
-			"id": "456b9ca9-7e9c-4b17-939f-d552b76ed4a8",
+		"244bb58c-e487-4e67-8291-447cd5a260c1": {
+			"id": "244bb58c-e487-4e67-8291-447cd5a260c1",
 			"props": {
-				"urlSource": "https://electronicmaterialsoffice.com/img/hero-2.jpg",
-				"name": "hero-2.jpg",
-				"urlContext": "https://electronicmaterialsoffice.com/",
-				"type": "image",
-				"aspect": "1.51322",
-				"assetPath": "456b9ca9-7e9c-4b17-939f-d552b76ed4a8/ImageAsset.jpg"
+				"type": "text",
+				"text": "Generative AI can be applied in various domains, including image generation, text generation, music composition, and even video game design. It utilizes techniques such as deep learning, neural networks, and probabilistic models to learn from large datasets and generate new content that is similar to what it has learned."
 			},
 			"poses": {
-				"456b9ca9-7e9c-4b17-939f-d552b76ed4a8": {
+				"244bb58c-e487-4e67-8291-447cd5a260c1": {
 					"pos": {
-						"x": -0.15187666,
-						"y": 0.1277141,
-						"z": -0.5006292
-					},
-					"rot": {
-						"x": 0.120262176,
-						"y": -0.13203089,
-						"z": 0.016139936,
-						"w": 0.9837909
-					},
-					"size": {
-						"x": 0.2501,
-						"y": 0.16527677,
-						"z": 0.001
-					}
-				},
-				"8db24e36-5a0b-46ae-aa73-47528ef15c4f": {
-					"pos": {
-						"x": 0.38896525,
-						"y": 0.4021631,
-						"z": -0.19066429
+						"x": -0.5762123,
+						"y": 1.0023121,
+						"z": -0.5263336
 					},
 					"rot": {
 						"x": 0,
-						"y": 0,
+						"y": -0.0014122312,
 						"z": 0,
-						"w": 1
+						"w": 0.99999905
 					},
 					"size": {
 						"x": 0.2501,
-						"y": 0.16527677,
-						"z": 0.001
+						"y": 0.08229622,
+						"z": 0.000100000005
 					}
 				}
 			}
 		},
-		"d8bd75cc-f9a5-4b50-8604-e4e84a775b3c": {
-			"id": "d8bd75cc-f9a5-4b50-8604-e4e84a775b3c",
+		"c173126e-e2c1-4a64-aeb7-ce3bdba0c44f": {
+			"id": "c173126e-e2c1-4a64-aeb7-ce3bdba0c44f",
 			"props": {
-				"urlSource": "https://electronicmaterialsoffice.com/img/hero-3.jpg",
-				"name": "hero-3.jpg",
-				"urlContext": "https://electronicmaterialsoffice.com/",
-				"type": "image",
-				"aspect": "2.27329",
-				"assetPath": "d8bd75cc-f9a5-4b50-8604-e4e84a775b3c/ImageAsset.jpg"
+				"type": "text",
+				"text": "One popular application of generative AI is in the creation of deepfake videos, where algorithms can generate realistic videos by swapping faces or manipulating existing footage. Another example is in natural language processing, where generative AI can be used to generate coherent and contextually relevant text based on a given prompt."
 			},
 			"poses": {
-				"d8bd75cc-f9a5-4b50-8604-e4e84a775b3c": {
+				"c173126e-e2c1-4a64-aeb7-ce3bdba0c44f": {
 					"pos": {
-						"x": -0.20404238,
-						"y": -0.0022705346,
-						"z": -0.5483267
-					},
-					"rot": {
-						"x": 0.120262176,
-						"y": -0.13203089,
-						"z": 0.016139936,
-						"w": 0.9837909
-					},
-					"size": {
-						"x": 0.2501,
-						"y": 0.11001667,
-						"z": 0.001
-					}
-				},
-				"8db24e36-5a0b-46ae-aa73-47528ef15c4f": {
-					"pos": {
-						"x": 0.64485985,
-						"y": 0.2278589,
-						"z": -0.19066429
+						"x": -0.5762123,
+						"y": 0.9200207,
+						"z": -0.5263336
 					},
 					"rot": {
 						"x": 0,
-						"y": 0,
+						"y": -0.0014122312,
 						"z": 0,
-						"w": 1
+						"w": 0.99999905
 					},
 					"size": {
 						"x": 0.2501,
-						"y": 0.11001667,
-						"z": 0.001
+						"y": 0.08229622,
+						"z": 0.00010000002
 					}
 				}
 			}
 		},
-		"999d1533-c045-4954-9dcd-589590ee8105": {
-			"id": "999d1533-c045-4954-9dcd-589590ee8105",
+		"3a99f722-012f-493c-b95f-ef3e62d00103": {
+			"id": "3a99f722-012f-493c-b95f-ef3e62d00103",
 			"props": {
-				"urlSource": "https://www.amazona.de/wp-content/uploads/2028/01/teenage-engineering-tp-7-5.jpeg",
-				"name": "teenage-engineering-tp-7-5.jpeg",
-				"urlContext": "https://www.google.com/search?q=teenage+engineering+tp-6&tbm=isch&ved=2ahUKEwiR3NWZ1pD_AhWmricCHZ-GDMIQ2-cCegQIABAA&oq=teenage+engineering+tp-6&gs_lcp=CgNpbWcQAzoHCAAQigUQQzoFCAAQgAQ6BwgAEBgQgARQkQhYlRFg6xFoAHAAeACAAawBiAG0BJIBAzUuMZgBAKABAaoBC2d3cy13aXotaW1nwAEB&sclient=img&ei=xG9vZJHqM6bdnsEPn42ykAw&bih=880&biw=1280#imgrc=Nw1SyJcsiQN66M",
-				"type": "image",
-				"aspect": "1.26549",
-				"assetPath": "999d1533-c045-4954-9dcd-589590ee8105/ImageAsset.jpg"
+				"type": "text",
+				"text": "Generative AI has the potential to revolutionize many industries by automating the creative process and enabling the generation of new and unique content."
 			},
 			"poses": {
-				"999d1533-c045-4954-9dcd-589590ee8105": {
+				"3a99f722-012f-493c-b95f-ef3e62d00103": {
 					"pos": {
-						"x": -0.3059733,
-						"y": -0.22070268,
-						"z": -0.3178495
-					},
-					"rot": {
-						"x": 0.110363066,
-						"y": -0.32599714,
-						"z": 0.03835109,
-						"w": 0.9381233
-					},
-					"size": {
-						"x": 0.2501,
-						"y": 0.19763146,
-						"z": 0.001
-					}
-				},
-				"8db24e36-5a0b-46ae-aa73-47528ef15c4f": {
-					"pos": {
-						"x": 0.0103397,
-						"y": -0.43869084,
-						"z": -0.19066429
+						"x": -0.5762123,
+						"y": 0.8595169,
+						"z": -0.5263336
 					},
 					"rot": {
 						"x": 0,
-						"y": 0,
+						"y": -0.0014122312,
 						"z": 0,
-						"w": 1
+						"w": 0.99999905
 					},
 					"size": {
 						"x": 0.2501,
-						"y": 0.19763146,
-						"z": 0.001
+						"y": 0.03869281,
+						"z": 0.0001
 					}
 				}
 			}
 		},
-		"4d7b5aec-4579-4277-b5fc-1bcea8ed3758": {
-			"id": "4d7b5aec-4579-4277-b5fc-1bcea8ed3758",
+		"fc8699e0-f418-41bc-ae82-e95614c599ed": {
+			"id": "fc8699e0-f418-41bc-ae82-e95614c599ed",
 			"props": {
 				"type": "topic",
-				"isExpanded": "True",
-				"name": "Electronic Materials Office",
-				"summary": ""
+				"isSuggested": "False",
+				"name": "What is spatial computing?",
+				"summary": "Spatial computing combines elements of virtual reality (VR), augmented reality (AR), and mixed reality (MR) to create immersive and interactive experiences. Spatial computing uses sensors, cameras, and other tracking devices to map and understand the physical environment. This technology has applications in various fields such as gaming, architecture, healthcare, education, and industrial design."
 			},
 			"poses": {
-				"4d7b5aec-4579-4277-b5fc-1bcea8ed3758": {
+				"fc8699e0-f418-41bc-ae82-e95614c599ed": {
 					"pos": {
-						"x": 0.7697021,
-						"y": 0.16440083,
-						"z": -0.19066688
+						"x": -0.026340801,
+						"y": -0.26199618,
+						"z": -0.22482923
 					},
 					"rot": {
-						"x": 2.5917045E-5,
-						"y": 6.860548E-5,
-						"z": -4.7006073E-5,
-						"w": 1
+						"x": 0,
+						"y": -0.00095650565,
+						"z": 0,
+						"w": 0.9999996
 					},
 					"size": {
-						"x": 0.36000034,
-						"y": 0.24749947,
+						"x": 0.29010034,
+						"y": 0.5669498,
 						"z": 0.001
 					}
 				},
-				"8db24e36-5a0b-46ae-aa73-47528ef15c4f": {
+				"7972fc4f-df7a-48f8-8a2e-0ee589d36822": {
 					"pos": {
-						"x": 0.32477206,
-						"y": 0.1302253,
-						"z": -0.19066429
+						"x": -0.026340924,
+						"y": -0.2619965,
+						"z": -0.22483039
 					},
 					"rot": {
 						"x": 0,
@@ -312,47 +242,16 @@
 						"w": 1
 					},
 					"size": {
-						"x": 0.5702,
-						"y": 0.3879488,
-						"z": 0.01
-					}
-				}
-			}
-		},
-		"a3bc75fb-c865-43f5-954a-149b7928ad3e": {
-			"id": "a3bc75fb-c865-43f5-954a-149b7928ad3e",
-			"props": {
-				"urlSource": "https://images.musicstore.de/images/1280/teenage-engineering-tx-6_1_SYN0008239-000.jpg",
-				"name": "teenage-engineering-tx-6_1_SYN0008239-000.jpg",
-				"urlContext": "https://www.google.com/search?q=teenage+engineering&source=lnms&tbm=isch&sa=X&ved=2ahUKEwio6umX1pD_AhWEyKQKHclxAmEQ_AUoA3oECAIQBQ&biw=1280&bih=880&dpr=1#imgrc=1ElxLZL9gBy2hM",
-				"type": "image",
-				"aspect": "1.00000",
-				"assetPath": "a3bc75fb-c865-43f5-954a-149b7928ad3e/ImageAsset.jpg"
-			},
-			"poses": {
-				"a3bc75fb-c865-43f5-954a-149b7928ad3e": {
-					"pos": {
-						"x": -0.30490774,
-						"y": -0.2322942,
-						"z": -0.32274145
-					},
-					"rot": {
-						"x": 0.110363066,
-						"y": -0.32599714,
-						"z": 0.03835109,
-						"w": 0.9381233
-					},
-					"size": {
-						"x": 0.2501,
-						"y": 0.2501,
+						"x": 0.29009998,
+						"y": 0.56694996,
 						"z": 0.001
 					}
 				},
-				"8db24e36-5a0b-46ae-aa73-47528ef15c4f": {
+				"ParentingTrf-fc8699e0-f418-41bc-ae82-e95614c599ed": {
 					"pos": {
-						"x": 0.32745498,
-						"y": -0.56357765,
-						"z": -0.19066429
+						"x": 0,
+						"y": 0,
+						"z": 0
 					},
 					"rot": {
 						"x": 0,
@@ -361,1691 +260,72 @@
 						"w": 1
 					},
 					"size": {
-						"x": 0.2501,
-						"y": 0.2501,
-						"z": 0.001
+						"x": 1,
+						"y": 1,
+						"z": 1
 					}
 				}
 			}
 		},
-		"e4039b64-5c6a-45f0-9349-d0d6f43604b2": {
-			"id": "e4039b64-5c6a-45f0-9349-d0d6f43604b2",
+		"3308fe31-45ab-49b3-b7d1-a874510d40c3": {
+			"id": "3308fe31-45ab-49b3-b7d1-a874510d40c3",
 			"props": {
-				"urlSource": "https://www.notebookcheck.com/fileadmin/Notebooks/News/_nc3/Teenage_Engineering_TP7a.jpg",
-				"name": "Teenage_Engineering_TP7a.jpg",
-				"urlContext": "https://www.google.com/search?q=teenage+engineering+tp-6&tbm=isch&ved=2ahUKEwiR3NWZ1pD_AhWmricCHZ-GDMIQ2-cCegQIABAA&oq=teenage+engineering+tp-6&gs_lcp=CgNpbWcQAzoHCAAQigUQQzoFCAAQgAQ6BwgAEBgQgARQkQhYlRFg6xFoAHAAeACAAawBiAG0BJIBAzUuMZgBAKABAaoBC2d3cy13aXotaW1nwAEB&sclient=img&ei=xG9vZJHqM6bdnsEPn42ykAw&bih=880&biw=1280#imgrc=VPSM-ChGSZy41M",
-				"type": "image",
-				"aspect": "1.52091",
-				"assetPath": "e4039b64-5c6a-45f0-9349-d0d6f43604b2/ImageAsset.jpg"
+				"type": "text",
+				"text": "Spatial computing refers to the use of technology to understand and interact with the physical space and objects in real-time. It combines elements of virtual reality (VR), augmented reality (AR), and mixed reality (MR) to create immersive and interactive experiences. Spatial computing uses sensors, cameras, and other tracking devices to map and understand the physical environment, allowing users to interact with virtual objects and information in a spatially aware manner. This technology has applications in various fields such as gaming, architecture, healthcare, education, and industrial design."
 			},
 			"poses": {
-				"e4039b64-5c6a-45f0-9349-d0d6f43604b2": {
+				"3308fe31-45ab-49b3-b7d1-a874510d40c3": {
 					"pos": {
-						"x": -0.31156906,
-						"y": -0.25096118,
-						"z": -0.3317288
-					},
-					"rot": {
-						"x": 0.110363066,
-						"y": -0.32599714,
-						"z": 0.03835109,
-						"w": 0.9381233
-					},
-					"size": {
-						"x": 0.2501,
-						"y": 0.16444074,
-						"z": 0.001
-					}
-				},
-				"8db24e36-5a0b-46ae-aa73-47528ef15c4f": {
-					"pos": {
-						"x": 0.32019666,
-						"y": -0.6573962,
-						"z": -0.19066429
+						"x": -0.026340801,
+						"y": -0.06692903,
+						"z": -0.22482923
 					},
 					"rot": {
 						"x": 0,
-						"y": 0,
+						"y": -0.00095650565,
 						"z": 0,
-						"w": 1
-					},
-					"size": {
-						"x": 0.2501,
-						"y": 0.16444074,
-						"z": 0.001
-					}
-				}
-			}
-		},
-		"808223dd-bac4-4c11-ba05-66cbe587615b": {
-			"id": "808223dd-bac4-4c11-ba05-66cbe587615b",
-			"props": {
-				"type": "topic",
-				"isExpanded": "True",
-				"name": "Teenage Engineering",
-				"summary": ""
-			},
-			"poses": {
-				"808223dd-bac4-4c11-ba05-66cbe587615b": {
-					"pos": {
-						"x": 0.3061404,
-						"y": -0.24555172,
-						"z": -0.19066392
-					},
-					"rot": {
-						"x": 0.0007208691,
-						"y": -0.0010825479,
-						"z": 0.00038332425,
-						"w": 0.9999991
-					},
-					"size": {
-						"x": 0.25010926,
-						"y": 0.17194957,
-						"z": 0.001
-					}
-				},
-				"8db24e36-5a0b-46ae-aa73-47528ef15c4f": {
-					"pos": {
-						"x": 0.37757537,
-						"y": -0.40302312,
-						"z": -0.19066429
-					},
-					"rot": {
-						"x": 0,
-						"y": 0,
-						"z": 0,
-						"w": 1
-					},
-					"size": {
-						"x": 0.5702,
-						"y": 0.4320722,
-						"z": 0.01
-					}
-				}
-			}
-		},
-		"e74ae924-c0d5-4a3e-83f4-2899259b6179": {
-			"id": "e74ae924-c0d5-4a3e-83f4-2899259b6179",
-			"props": {
-				"urlSource": "https://marc-newson.com/media/thumbnails/red-leica-camera/Leica_01.jpg.1920x1080_q90_crop.jpg",
-				"name": "Leica_01.jpg.1920x1080_q90_crop.jpg",
-				"urlContext": "https://www.google.com/search?q=jony+ive+product+red+leica&source=lnms&tbm=isch&sa=X&ved=2ahUKEwigzPSl1ZD_AhUwsaQKHbJ-CZoQ_AUoAXoECAEQAw&biw=1280&bih=880&dpr=1#imgrc=OXunBtBnuuP1-M",
-				"type": "image",
-				"aspect": "1.77778",
-				"assetPath": "e74ae924-c0d5-4a3e-83f4-2899259b6179/ImageAsset.jpg"
-			},
-			"poses": {
-				"e74ae924-c0d5-4a3e-83f4-2899259b6179": {
-					"pos": {
-						"x": 0.06748039,
-						"y": -0.3193384,
-						"z": -0.68208194
-					},
-					"rot": {
-						"x": 0.15665886,
-						"y": -0.2972328,
-						"z": 0.049506646,
-						"w": 0.9405636
-					},
-					"size": {
-						"x": 0.2501,
-						"y": 0.14068124,
-						"z": 0.001
-					}
-				},
-				"8db24e36-5a0b-46ae-aa73-47528ef15c4f": {
-					"pos": {
-						"x": 0.9193944,
-						"y": -0.3876891,
-						"z": -0.8881134
-					},
-					"rot": {
-						"x": 0,
-						"y": 0,
-						"z": 0,
-						"w": 1
-					},
-					"size": {
-						"x": 0.2501,
-						"y": 0.14068124,
-						"z": 0.001
-					}
-				}
-			}
-		},
-		"13b8a22f-2375-405e-ba09-47a387efa9f6": {
-			"id": "13b8a22f-2375-405e-ba09-47a387efa9f6",
-			"props": {
-				"urlSource": "data:image/jpeg;base64,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",
-				"name": "",
-				"urlContext": "https://www.google.com/search?q=jony+ive+product+red+leica&source=lnms&tbm=isch&sa=X&ved=2ahUKEwigzPSl1ZD_AhUwsaQKHbJ-CZoQ_AUoAXoECAEQAw&biw=1280&bih=880&dpr=1#imgrc=GukiB2PaPUtnfM",
-				"type": "image",
-				"aspect": "1.43850",
-				"assetPath": "13b8a22f-2375-405e-ba09-47a387efa9f6/ImageAsset.jpg"
-			},
-			"poses": {
-				"13b8a22f-2375-405e-ba09-47a387efa9f6": {
-					"pos": {
-						"x": -0.03254072,
-						"y": -0.30189154,
-						"z": -1.0518987
-					},
-					"rot": {
-						"x": 0.15665886,
-						"y": -0.2972328,
-						"z": 0.049506646,
-						"w": 0.9405636
-					},
-					"size": {
-						"x": 0.2501,
-						"y": 0.17386132,
-						"z": 0.001
-					}
-				},
-				"8db24e36-5a0b-46ae-aa73-47528ef15c4f": {
-					"pos": {
-						"x": 0.41769737,
-						"y": -0.07539413,
-						"z": -0.8881134
-					},
-					"rot": {
-						"x": 0,
-						"y": 0,
-						"z": 0,
-						"w": 1
-					},
-					"size": {
-						"x": 0.2501,
-						"y": 0.17386132,
-						"z": 0.001
-					}
-				}
-			}
-		},
-		"a77f9451-d70f-44bc-9cab-d7f113e946db": {
-			"id": "a77f9451-d70f-44bc-9cab-d7f113e946db",
-			"props": {
-				"urlSource": "data:image/jpeg;base64,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",
-				"name": "",
-				"urlContext": "https://www.google.com/search?q=jony+ive+product+red+leica&source=lnms&tbm=isch&sa=X&ved=2ahUKEwigzPSl1ZD_AhUwsaQKHbJ-CZoQ_AUoAXoECAEQAw&biw=1280&bih=880&dpr=1#imgrc=fM3lIFM96RcixM",
-				"type": "image",
-				"aspect": "1.78571",
-				"assetPath": "a77f9451-d70f-44bc-9cab-d7f113e946db/ImageAsset.jpg"
-			},
-			"poses": {
-				"a77f9451-d70f-44bc-9cab-d7f113e946db": {
-					"pos": {
-						"x": -0.014058389,
-						"y": -0.29388273,
-						"z": -1.0355319
-					},
-					"rot": {
-						"x": 0.15665886,
-						"y": -0.2972328,
-						"z": 0.049506646,
-						"w": 0.9405636
-					},
-					"size": {
-						"x": 0.2501,
-						"y": 0.140056,
-						"z": 0.001
-					}
-				},
-				"8db24e36-5a0b-46ae-aa73-47528ef15c4f": {
-					"pos": {
-						"x": 0.7338662,
-						"y": 0.16240054,
-						"z": -0.8881128
-					},
-					"rot": {
-						"x": 0,
-						"y": 0,
-						"z": 0,
-						"w": 1
-					},
-					"size": {
-						"x": 0.2501,
-						"y": 0.140056,
-						"z": 0.001
-					}
-				}
-			}
-		},
-		"d3418a48-2912-40db-a00f-89ab7dc64a80": {
-			"id": "d3418a48-2912-40db-a00f-89ab7dc64a80",
-			"props": {
-				"urlSource": "data:image/jpeg;base64,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",
-				"name": "",
-				"urlContext": "https://www.google.com/search?q=jony+ive+product+red+leica&source=lnms&tbm=isch&sa=X&ved=2ahUKEwigzPSl1ZD_AhUwsaQKHbJ-CZoQ_AUoAXoECAEQAw&biw=1280&bih=880&dpr=1#imgrc=ObsfsEAopuzBzM",
-				"type": "image",
-				"aspect": "1.22168",
-				"assetPath": "d3418a48-2912-40db-a00f-89ab7dc64a80/ImageAsset.jpg"
-			},
-			"poses": {
-				"d3418a48-2912-40db-a00f-89ab7dc64a80": {
-					"pos": {
-						"x": 0.009254638,
-						"y": -0.3158625,
-						"z": -1.0283321
-					},
-					"rot": {
-						"x": 0.15665886,
-						"y": -0.2972328,
-						"z": 0.049506646,
-						"w": 0.9405636
-					},
-					"size": {
-						"x": 0.2501,
-						"y": 0.20471893,
-						"z": 0.001
-					}
-				},
-				"8db24e36-5a0b-46ae-aa73-47528ef15c4f": {
-					"pos": {
-						"x": 0.7377818,
-						"y": -0.05997538,
-						"z": -0.8881128
-					},
-					"rot": {
-						"x": 0,
-						"y": 0,
-						"z": 0,
-						"w": 1
-					},
-					"size": {
-						"x": 0.2501,
-						"y": 0.20471893,
-						"z": 0.001
-					}
-				}
-			}
-		},
-		"854c8e34-85fe-48e3-b1a9-c79cf6c154f3": {
-			"id": "854c8e34-85fe-48e3-b1a9-c79cf6c154f3",
-			"props": {
-				"type": "topic",
-				"isExpanded": "True",
-				"name": "Leica Product (RED) Camera by Jony Ive and Marc Newson",
-				"summary": ""
-			},
-			"poses": {
-				"854c8e34-85fe-48e3-b1a9-c79cf6c154f3": {
-					"pos": {
-						"x": 0.7377814,
-						"y": -0.05997555,
-						"z": -0.8881134
-					},
-					"rot": {
-						"x": -5.941146E-5,
-						"y": 0.0008079899,
-						"z": -0.00039041816,
 						"w": 0.9999996
 					},
 					"size": {
 						"x": 0.2501,
-						"y": 0.20471893,
+						"y": 0.13678119,
+						"z": 0.000100000005
+					}
+				}
+			}
+		},
+		"fff97f1e-7b55-4858-8419-2820f2539eef": {
+			"id": "fff97f1e-7b55-4858-8419-2820f2539eef",
+			"props": {
+				"type": "topic",
+				"isSuggested": "False",
+				"name": "What are the different forms of spatial computing?",
+				"summary": "The different forms of spatial computing include: Virtual Reality, Augmented Reality and Mixed Reality. VR creates a fully immersive digital environment that users can interact with using specialized headsets or devices. AR overlays digital content onto the real world, enhancing the user's perception and interaction with their physical surroundings. MR combines elements of both VR and AR to create a hybrid experience."
+			},
+			"poses": {
+				"fff97f1e-7b55-4858-8419-2820f2539eef": {
+					"pos": {
+						"x": 0.5938362,
+						"y": -0.18333322,
+						"z": -0.22482783
+					},
+					"rot": {
+						"x": 0,
+						"y": -0.0012072191,
+						"z": 0,
+						"w": 0.9999993
+					},
+					"size": {
+						"x": 0.8503,
+						"y": 0.430152,
 						"z": 0.001
 					}
 				},
-				"8db24e36-5a0b-46ae-aa73-47528ef15c4f": {
+				"7972fc4f-df7a-48f8-8a2e-0ee589d36822": {
 					"pos": {
-						"x": 0.717663,
-						"y": -0.38009688,
-						"z": -0.19066429
-					},
-					"rot": {
-						"x": 0,
-						"y": 0,
-						"z": 0,
-						"w": 1
-					},
-					"size": {
-						"x": 0.5702,
-						"y": 0.41477492,
-						"z": 0.01
-					}
-				}
-			}
-		},
-		"d7baf910-206a-4326-b921-6baecaf76d4b": {
-			"id": "d7baf910-206a-4326-b921-6baecaf76d4b",
-			"props": {
-				"type": "topic",
-				"isExpanded": "True",
-				"name": "What are some good design references for 3D UIs?",
-				"summary": "Some good design references for 3D UIs include Apple's Human Interface Guidelines, Google's Material Design, Unity's Best Practices, and Valve's VR UI Guidelines."
-			},
-			"poses": {
-				"d7baf910-206a-4326-b921-6baecaf76d4b": {
-					"pos": {
-						"x": 0.1311574,
-						"y": -0.47911096,
-						"z": -1.2272718
-					},
-					"rot": {
-						"x": 0.24298216,
-						"y": -0.0032982305,
-						"z": 0.0008261781,
-						"w": 0.97002494
-					},
-					"size": {
-						"x": 0.2,
-						"y": 0.02,
-						"z": 2E-5
-					}
-				},
-				"8db24e36-5a0b-46ae-aa73-47528ef15c4f": {
-					"pos": {
-						"x": -0.2773347,
-						"y": -0.31705296,
-						"z": -0.19066429
-					},
-					"rot": {
-						"x": 0,
-						"y": 0,
-						"z": 0,
-						"w": 1
-					},
-					"size": {
-						"x": 0.29009998,
-						"y": 0.39809996,
-						"z": 0.01
-					}
-				}
-			}
-		},
-		"d753e684-ae77-4674-a05f-a62dd5e53e3a": {
-			"id": "d753e684-ae77-4674-a05f-a62dd5e53e3a",
-			"props": {
-				"type": "text",
-				"text": "Here are some good design references for 3D UIs:"
-			},
-			"poses": {
-				"d753e684-ae77-4674-a05f-a62dd5e53e3a": {
-					"pos": {
-						"x": 0.13194701,
-						"y": -0.4785561,
-						"z": -1.2270098
-					},
-					"rot": {
-						"x": 0.24298216,
-						"y": -0.0032982305,
-						"z": 0.0008261781,
-						"w": 0.97002494
-					},
-					"size": {
-						"x": 0.2,
-						"y": 0.02,
-						"z": 2E-5
-					}
-				}
-			}
-		},
-		"31432224-ba38-474d-a198-1946e810f81a": {
-			"id": "31432224-ba38-474d-a198-1946e810f81a",
-			"props": {
-				"type": "text",
-				"text": "• [[Apple Human Interface]] Guidelines - Apple has extensive guidelines for designing intuitive and usable 3D interfaces, especially for iOS and macOS. They cover things like use of lighting, shadows, materials, textures, animation, and interaction."
-			},
-			"poses": {
-				"31432224-ba38-474d-a198-1946e810f81a": {
-					"pos": {
-						"x": 0.13136935,
-						"y": -0.47974476,
-						"z": -1.2265279
-					},
-					"rot": {
-						"x": 0.24298216,
-						"y": -0.0032982305,
-						"z": 0.0008261781,
-						"w": 0.97002494
-					},
-					"size": {
-						"x": 0.2,
-						"y": 0.02,
-						"z": 2E-5
-					}
-				}
-			}
-		},
-		"f459f16e-4a7f-4fdf-a0a1-8f86fbfaf405": {
-			"id": "f459f16e-4a7f-4fdf-a0a1-8f86fbfaf405",
-			"props": {
-				"type": "text",
-				"text": "  • [[Google Material Design]] - Google's Material Design principles also apply to 3D interfaces, with a focus on simplicity, responsiveness, and meaningfulness. Things like flat design, elevation, animation, and motion are covered."
-			},
-			"poses": {
-				"f459f16e-4a7f-4fdf-a0a1-8f86fbfaf405": {
-					"pos": {
-						"x": 0.13108496,
-						"y": -0.47832948,
-						"z": -1.226652
-					},
-					"rot": {
-						"x": 0.24298216,
-						"y": -0.0032982305,
-						"z": 0.0008261781,
-						"w": 0.97002494
-					},
-					"size": {
-						"x": 0.2,
-						"y": 0.02,
-						"z": 2E-5
-					}
-				}
-			}
-		},
-		"6e31c362-da36-49a9-ae42-cc4b15512341": {
-			"id": "6e31c362-da36-49a9-ae42-cc4b15512341",
-			"props": {
-				"type": "text",
-				"text": "• [[Unity UI Best Practices]] - Unity has a set of recommendations for designing 3D UIs in their engine, covering layouts, text, buttons, sliders, menus, etc. They provide example assets and templates. "
-			},
-			"poses": {
-				"6e31c362-da36-49a9-ae42-cc4b15512341": {
-					"pos": {
-						"x": 0.13132682,
-						"y": -0.47983798,
-						"z": -1.2266065
-					},
-					"rot": {
-						"x": 0.24298216,
-						"y": -0.0032982305,
-						"z": 0.0008261781,
-						"w": 0.97002494
-					},
-					"size": {
-						"x": 0.2,
-						"y": 0.02,
-						"z": 2E-5
-					}
-				}
-			}
-		},
-		"8b9a6c68-5d5f-4bc9-9fd7-e601af2f0c6c": {
-			"id": "8b9a6c68-5d5f-4bc9-9fd7-e601af2f0c6c",
-			"props": {
-				"type": "text",
-				"text": "• Valve's VR UI Guidelines - Valve published a set of guidelines specifically for designing VR user interfaces, based on their experience developing VR games like The Lab and Half-Life: Alyx. They cover text legibility, widget sizing, interaction techniques, and more."
-			},
-			"poses": {
-				"8b9a6c68-5d5f-4bc9-9fd7-e601af2f0c6c": {
-					"pos": {
-						"x": 0.1306439,
-						"y": -0.47996858,
-						"z": -1.2272432
-					},
-					"rot": {
-						"x": 0.24298216,
-						"y": -0.0032982305,
-						"z": 0.0008261781,
-						"w": 0.97002494
-					},
-					"size": {
-						"x": 0.2,
-						"y": 0.02,
-						"z": 2E-5
-					}
-				}
-			}
-		},
-		"674d51a5-a596-481a-912a-54cbfeab8aea": {
-			"id": "674d51a5-a596-481a-912a-54cbfeab8aea",
-			"props": {
-				"type": "text",
-				"text": "• 3D UI Patterns - Sites like UI-Patterns.com and UI-Patterns.com provide examples of common 3D UI elements and patterns you can draw inspiration from, like menus, buttons, sliders, progress bars, tooltips, etc."
-			},
-			"poses": {
-				"674d51a5-a596-481a-912a-54cbfeab8aea": {
-					"pos": {
-						"x": 0.13113177,
-						"y": -0.4784188,
-						"z": -1.2279931
-					},
-					"rot": {
-						"x": 0.24298216,
-						"y": -0.0032982305,
-						"z": 0.0008261781,
-						"w": 0.97002494
-					},
-					"size": {
-						"x": 0.2,
-						"y": 0.02,
-						"z": 2E-5
-					}
-				}
-			}
-		},
-		"7ec65030-61b8-4b95-9834-d2f98b6dcda0": {
-			"id": "7ec65030-61b8-4b95-9834-d2f98b6dcda0",
-			"props": {
-				"type": "text",
-				"text": "• Example 3D Apps - Looking at how other apps have designed their 3D UIs can provide a lot of inspiration. Games, VR apps, and 3D"
-			},
-			"poses": {
-				"7ec65030-61b8-4b95-9834-d2f98b6dcda0": {
-					"pos": {
-						"x": 0.13195768,
-						"y": -0.4788671,
-						"z": -1.226724
-					},
-					"rot": {
-						"x": 0.24298216,
-						"y": -0.0032982305,
-						"z": 0.0008261781,
-						"w": 0.97002494
-					},
-					"size": {
-						"x": 0.2,
-						"y": 0.02,
-						"z": 2E-5
-					}
-				}
-			}
-		},
-		"2b620f68-083e-4f83-9180-e01b2df19d68": {
-			"id": "2b620f68-083e-4f83-9180-e01b2df19d68",
-			"props": {
-				"type": "text",
-				"text": "Here are some novel challenges to designing 3D UIs compared to 2D UIs:"
-			},
-			"poses": {
-				"2b620f68-083e-4f83-9180-e01b2df19d68": {
-					"pos": {
-						"x": -0.22862755,
-						"y": -0.3702427,
-						"z": -0.91348094
-					},
-					"rot": {
-						"x": 0.20497541,
-						"y": -0.0026055574,
-						"z": 0.00054566097,
-						"w": 0.9787636
-					},
-					"size": {
-						"x": 0.2,
-						"y": 0.02,
-						"z": 2E-5
-					}
-				}
-			}
-		},
-		"0bdc7b0e-f625-45b9-a461-a91327afed7e": {
-			"id": "0bdc7b0e-f625-45b9-a461-a91327afed7e",
-			"props": {
-				"type": "topic",
-				"isExpanded": "True",
-				"name": "What are some novel challenges to designing 3D UIs that don't exist in 2D? ",
-				"summary": "Some challenges that designers face when designing 3D UIs are depth perception, navigation, occlusion, and cognitive load. These challenges need to be taken into account when designing the UI, and designers need to be aware of how these challenges might affect users."
-			},
-			"poses": {
-				"0bdc7b0e-f625-45b9-a461-a91327afed7e": {
-					"pos": {
-						"x": -0.22953182,
-						"y": -0.37025976,
-						"z": -0.9130543
-					},
-					"rot": {
-						"x": 0.20497541,
-						"y": -0.0026055574,
-						"z": 0.00054566097,
-						"w": 0.9787636
-					},
-					"size": {
-						"x": 0.2,
-						"y": 0.02,
-						"z": 2E-5
-					}
-				},
-				"8db24e36-5a0b-46ae-aa73-47528ef15c4f": {
-					"pos": {
-						"x": -0.6174203,
-						"y": -0.31776026,
-						"z": -0.19066429
-					},
-					"rot": {
-						"x": 0,
-						"y": 0,
-						"z": 0,
-						"w": 1
-					},
-					"size": {
-						"x": 0.29009998,
-						"y": 0.3981,
-						"z": 0.01
-					}
-				}
-			}
-		},
-		"3a8af130-19bb-4906-bac5-adea478a8380": {
-			"id": "3a8af130-19bb-4906-bac5-adea478a8380",
-			"props": {
-				"type": "text",
-				"text": "1. Depth perception - Users need to perceive depth and distances in 3D space, which can be challenging. This requires special design considerations to aid depth perception."
-			},
-			"poses": {
-				"3a8af130-19bb-4906-bac5-adea478a8380": {
-					"pos": {
-						"x": -0.22979575,
-						"y": -0.36936727,
-						"z": -0.9134201
-					},
-					"rot": {
-						"x": 0.20497541,
-						"y": -0.0026055574,
-						"z": 0.00054566097,
-						"w": 0.9787636
-					},
-					"size": {
-						"x": 0.2,
-						"y": 0.02,
-						"z": 2E-5
-					}
-				}
-			}
-		},
-		"2cd5e48a-d0b1-4289-a4c0-0d0de1e07054": {
-			"id": "2cd5e48a-d0b1-4289-a4c0-0d0de1e07054",
-			"props": {
-				"type": "text",
-				"text": "2. Navigation - Navigating in 3D space is more complex than 2D. Users need to be able to move in 3 axes (forward/back, left/right, up/down) instead of just 2 axes. This requires new navigation metaphors and controls. "
-			},
-			"poses": {
-				"2cd5e48a-d0b1-4289-a4c0-0d0de1e07054": {
-					"pos": {
-						"x": -0.22991872,
-						"y": -0.36933866,
-						"z": -0.91309786
-					},
-					"rot": {
-						"x": 0.20497541,
-						"y": -0.0026055574,
-						"z": 0.00054566097,
-						"w": 0.9787636
-					},
-					"size": {
-						"x": 0.2,
-						"y": 0.02,
-						"z": 2E-5
-					}
-				}
-			}
-		},
-		"99617654-a1a3-40ad-b8b5-74c565062ceb": {
-			"id": "99617654-a1a3-40ad-b8b5-74c565062ceb",
-			"props": {
-				"type": "text",
-				"text": "3. Occlusion - Objects can occlude or hide other objects in 3D, which does not happen in typical 2D interfaces. The UI needs to account for what is visible to the user at any given time."
-			},
-			"poses": {
-				"99617654-a1a3-40ad-b8b5-74c565062ceb": {
-					"pos": {
-						"x": -0.2290648,
-						"y": -0.36939007,
-						"z": -0.9128945
-					},
-					"rot": {
-						"x": 0.20497541,
-						"y": -0.0026055574,
-						"z": 0.00054566097,
-						"w": 0.9787636
-					},
-					"size": {
-						"x": 0.2,
-						"y": 0.02,
-						"z": 2E-5
-					}
-				}
-			}
-		},
-		"ca7d08ac-b5f3-4633-868d-d4ea17389f04": {
-			"id": "ca7d08ac-b5f3-4633-868d-d4ea17389f04",
-			"props": {
-				"type": "text",
-				"text": "4. 3D object manipulation - Users need ways to select, manipulate and interact with 3D objects, which is more complex than interacting with 2D elements. This requires new interaction techniques and controls."
-			},
-			"poses": {
-				"ca7d08ac-b5f3-4633-868d-d4ea17389f04": {
-					"pos": {
-						"x": -0.23022838,
-						"y": -0.37094897,
-						"z": -0.9128548
-					},
-					"rot": {
-						"x": 0.20497541,
-						"y": -0.0026055574,
-						"z": 0.00054566097,
-						"w": 0.9787636
-					},
-					"size": {
-						"x": 0.2,
-						"y": 0.02,
-						"z": 2E-5
-					}
-				}
-			}
-		},
-		"2cd6cb8a-9bd8-4c8d-bf03-6def069a263f": {
-			"id": "2cd6cb8a-9bd8-4c8d-bf03-6def069a263f",
-			"props": {
-				"type": "text",
-				"text": "5. Stereoscopic viewing - For true 3D, stereoscopic displays are often used which present a different image to each eye. This requires special design for vergence-accommodation conflict, fatigue, and other visual issues."
-			},
-			"poses": {
-				"2cd6cb8a-9bd8-4c8d-bf03-6def069a263f": {
-					"pos": {
-						"x": -0.2302921,
-						"y": -0.3696725,
-						"z": -0.9127766
-					},
-					"rot": {
-						"x": 0.20497541,
-						"y": -0.0026055574,
-						"z": 0.00054566097,
-						"w": 0.9787636
-					},
-					"size": {
-						"x": 0.2,
-						"y": 0.02,
-						"z": 2E-5
-					}
-				}
-			}
-		},
-		"4e2658c3-e62f-4b0f-8069-2c6f0166cb47": {
-			"id": "4e2658c3-e62f-4b0f-8069-2c6f0166cb47",
-			"props": {
-				"type": "text",
-				"text": "6. Cognitive load - In general, 3D UIs tend to place a higher cognitive load on users due to the increased complexity of 3D perception and interaction. The UI design needs to account for and mitigate this increased load."
-			},
-			"poses": {
-				"4e2658c3-e62f-4b0f-8069-2c6f0166cb47": {
-					"pos": {
-						"x": -0.22977015,
-						"y": -0.3703696,
-						"z": -0.9140192
-					},
-					"rot": {
-						"x": 0.20497541,
-						"y": -0.0026055574,
-						"z": 0.00054566097,
-						"w": 0.9787636
-					},
-					"size": {
-						"x": 0.2,
-						"y": 0.02,
-						"z": 2E-5
-					}
-				}
-			}
-		},
-		"20518012-3418-4455-a9de-1d6cb8a1a8e6": {
-			"id": "20518012-3418-4455-a9de-1d6cb8a1a8e6",
-			"props": {
-				"type": "topic",
-				"isExpanded": "True",
-				"name": "Please outline a user testing framework for refining our 3D UI design.",
-				"summary": "This user testing framework can help you improve your 3D UI design by identifying areas of difficulty and confusion for your target audience."
-			},
-			"poses": {
-				"20518012-3418-4455-a9de-1d6cb8a1a8e6": {
-					"pos": {
-						"x": 0.5994359,
-						"y": -0.6882987,
-						"z": -1.0332417
-					},
-					"rot": {
-						"x": 0.21918909,
-						"y": -0.02433943,
-						"z": 0.005469691,
-						"w": 0.97536343
-					},
-					"size": {
-						"x": 0.2,
-						"y": 0.02,
-						"z": 2E-5
-					}
-				},
-				"8db24e36-5a0b-46ae-aa73-47528ef15c4f": {
-					"pos": {
-						"x": 0.94495714,
-						"y": 0.16296068,
-						"z": -0.19066429
-					},
-					"rot": {
-						"x": 0,
-						"y": 0,
-						"z": 0,
-						"w": 1
-					},
-					"size": {
-						"x": 0.29009998,
-						"y": 0.4259,
-						"z": 0.01
-					}
-				}
-			}
-		},
-		"ebdd6a96-55fd-410f-bd62-f1c6d76a036d": {
-			"id": "ebdd6a96-55fd-410f-bd62-f1c6d76a036d",
-			"props": {
-				"type": "text",
-				"text": "Here is a suggested [[user testing]] framework for refining your [[3D UI design]]:"
-			},
-			"poses": {
-				"ebdd6a96-55fd-410f-bd62-f1c6d76a036d": {
-					"pos": {
-						"x": 0.59929913,
-						"y": -0.68732536,
-						"z": -1.0334257
-					},
-					"rot": {
-						"x": 0.21918909,
-						"y": -0.02433943,
-						"z": 0.005469691,
-						"w": 0.97536343
-					},
-					"size": {
-						"x": 0.2,
-						"y": 0.02,
-						"z": 2E-5
-					}
-				}
-			}
-		},
-		"1a709d73-3ece-4c14-8c7c-f1a8539e7139": {
-			"id": "1a709d73-3ece-4c14-8c7c-f1a8539e7139",
-			"props": {
-				"type": "text",
-				"text": "1. Recruit a diverse set of test users. You'll want a mix of ages, genders, experience levels with 3D interfaces, and roles within your target audience. Aim for around 8-10 test users total."
-			},
-			"poses": {
-				"1a709d73-3ece-4c14-8c7c-f1a8539e7139": {
-					"pos": {
-						"x": 0.5992487,
-						"y": -0.68748176,
-						"z": -1.0337873
-					},
-					"rot": {
-						"x": 0.21918909,
-						"y": -0.02433943,
-						"z": 0.005469691,
-						"w": 0.97536343
-					},
-					"size": {
-						"x": 0.2,
-						"y": 0.02,
-						"z": 2E-5
-					}
-				}
-			}
-		},
-		"51881b23-3b17-4a4b-a17f-313c1339eb58": {
-			"id": "51881b23-3b17-4a4b-a17f-313c1339eb58",
-			"props": {
-				"type": "text",
-				"text": "2. Conduct a think aloud [[usability]] test. Have the users perform representative tasks while verbally describing what they are doing, thinking, and feeling. This will provide valuable insights into any usability issues or [[points of confusion]]."
-			},
-			"poses": {
-				"51881b23-3b17-4a4b-a17f-313c1339eb58": {
-					"pos": {
-						"x": 0.59901804,
-						"y": -0.68802124,
-						"z": -1.0341069
-					},
-					"rot": {
-						"x": 0.21918909,
-						"y": -0.02433943,
-						"z": 0.005469691,
-						"w": 0.97536343
-					},
-					"size": {
-						"x": 0.2,
-						"y": 0.02,
-						"z": 2E-5
-					}
-				}
-			}
-		},
-		"3c2f3bf9-59b9-4cd1-8470-72b4391c6e4d": {
-			"id": "3c2f3bf9-59b9-4cd1-8470-72b4391c6e4d",
-			"props": {
-				"type": "text",
-				"text": "3. Focus on key metrics. Track metrics like [[task completion rate]], time on task, number of errors, and [[user satisfaction]]. Look for areas where performance is poor or satisfaction is low."
-			},
-			"poses": {
-				"3c2f3bf9-59b9-4cd1-8470-72b4391c6e4d": {
-					"pos": {
-						"x": 0.59879726,
-						"y": -0.6875648,
-						"z": -1.033473
-					},
-					"rot": {
-						"x": 0.21918909,
-						"y": -0.02433943,
-						"z": 0.005469691,
-						"w": 0.97536343
-					},
-					"size": {
-						"x": 0.2,
-						"y": 0.02,
-						"z": 2E-5
-					}
-				}
-			}
-		},
-		"aff72e5b-5240-41d4-973c-3cacd0881fbc": {
-			"id": "aff72e5b-5240-41d4-973c-3cacd0881fbc",
-			"props": {
-				"type": "text",
-				"text": "4. Observe users' interactions closely. Pay attention to things like how they manipulate 3D objects, navigate the interface, and interpret visual elements. Note any difficulties or frustrations they encounter. "
-			},
-			"poses": {
-				"aff72e5b-5240-41d4-973c-3cacd0881fbc": {
-					"pos": {
-						"x": 0.5988127,
-						"y": -0.6884101,
-						"z": -1.0340158
-					},
-					"rot": {
-						"x": 0.21918909,
-						"y": -0.02433943,
-						"z": 0.005469691,
-						"w": 0.97536343
-					},
-					"size": {
-						"x": 0.2,
-						"y": 0.02,
-						"z": 2E-5
-					}
-				}
-			}
-		},
-		"10a6ef6a-cac2-4f9b-b7c4-1b799f965769": {
-			"id": "10a6ef6a-cac2-4f9b-b7c4-1b799f965769",
-			"props": {
-				"type": "text",
-				"text": "5. Ask [[open-ended questions]]. During and after the test, ask users to describe their experience in their own words. Probe for details about what was difficult, confusing, or unexpected."
-			},
-			"poses": {
-				"10a6ef6a-cac2-4f9b-b7c4-1b799f965769": {
-					"pos": {
-						"x": 0.6000371,
-						"y": -0.68773603,
-						"z": -1.0326743
-					},
-					"rot": {
-						"x": 0.21918909,
-						"y": -0.02433943,
-						"z": 0.005469691,
-						"w": 0.97536343
-					},
-					"size": {
-						"x": 0.2,
-						"y": 0.02,
-						"z": 2E-5
-					}
-				}
-			}
-		},
-		"a9c0646d-c8b9-4333-bc33-7c53aecf51ae": {
-			"id": "a9c0646d-c8b9-4333-bc33-7c53aecf51ae",
-			"props": {
-				"type": "text",
-				"text": "6. Gather specific improvement suggestions. In addition to general feedback, ask users how they think the interface could be improved. Capture their recommended changes and redesign suggestions."
-			},
-			"poses": {
-				"a9c0646d-c8b9-4333-bc33-7c53aecf51ae": {
-					"pos": {
-						"x": 0.59888613,
-						"y": -0.68890524,
-						"z": -1.0326674
-					},
-					"rot": {
-						"x": 0.21918909,
-						"y": -0.02433943,
-						"z": 0.005469691,
-						"w": 0.97536343
-					},
-					"size": {
-						"x": 0.2,
-						"y": 0.02,
-						"z": 2E-5
-					}
-				}
-			}
-		},
-		"a0003709-ba53-4850-8081-4a45d8fb35e5": {
-			"id": "a0003709-ba53-4850-8081-4a45d8fb35e5",
-			"props": {
-				"type": "text",
-				"text": "7. Analyze the results and prioritize improvements. Look for common themes and pain points across multiple users. Focus redesign efforts on the issues that"
-			},
-			"poses": {
-				"a0003709-ba53-4850-8081-4a45d8fb35e5": {
-					"pos": {
-						"x": 0.6003088,
-						"y": -0.68810374,
-						"z": -1.0336891
-					},
-					"rot": {
-						"x": 0.21918909,
-						"y": -0.02433943,
-						"z": 0.005469691,
-						"w": 0.97536343
-					},
-					"size": {
-						"x": 0.2,
-						"y": 0.02,
-						"z": 2E-5
-					}
-				}
-			}
-		},
-		"71362404-9ad5-4c50-a880-07baf6f3ce22": {
-			"id": "71362404-9ad5-4c50-a880-07baf6f3ce22",
-			"props": {
-				"type": "topic",
-				"isExpanded": "False",
-				"name": "user testing"
-			},
-			"poses": {
-				"8db24e36-5a0b-46ae-aa73-47528ef15c4f": {
-					"pos": {
-						"x": 0.7808662,
-						"y": 0.69494635,
-						"z": 0.10737796
-					},
-					"rot": {
-						"x": 0,
-						"y": 0,
-						"z": 0,
-						"w": 1
-					},
-					"size": {
-						"x": 0.26999998,
-						"y": 0.031799998,
-						"z": 0.01
-					}
-				}
-			}
-		},
-		"c6c1bb4c-b159-4773-b489-cbac036ea9e3": {
-			"id": "c6c1bb4c-b159-4773-b489-cbac036ea9e3",
-			"props": {
-				"type": "topic",
-				"isExpanded": "False",
-				"name": "3d ui design"
-			},
-			"poses": {
-				"8db24e36-5a0b-46ae-aa73-47528ef15c4f": {
-					"pos": {
-						"x": 1.1391658,
-						"y": 0.86840105,
-						"z": 0.030704241
-					},
-					"rot": {
-						"x": 0,
-						"y": 0,
-						"z": 0,
-						"w": 1
-					},
-					"size": {
-						"x": 0.26999998,
-						"y": 0.031799998,
-						"z": 0.01
-					}
-				}
-			}
-		},
-		"3c0535ab-a1ee-4148-bd81-a5a5014943ee": {
-			"id": "3c0535ab-a1ee-4148-bd81-a5a5014943ee",
-			"props": {
-				"type": "topic",
-				"isExpanded": "False",
-				"name": "usability"
-			},
-			"poses": {
-				"8db24e36-5a0b-46ae-aa73-47528ef15c4f": {
-					"pos": {
-						"x": 1.304102,
-						"y": 0.39042446,
-						"z": 0.032683015
-					},
-					"rot": {
-						"x": 0,
-						"y": 0,
-						"z": 0,
-						"w": 1
-					},
-					"size": {
-						"x": 0.26999998,
-						"y": 0.031799998,
-						"z": 0.01
-					}
-				}
-			}
-		},
-		"575d95f8-5cfb-46c1-a74c-7f8869a8ed6e": {
-			"id": "575d95f8-5cfb-46c1-a74c-7f8869a8ed6e",
-			"props": {
-				"type": "topic",
-				"isExpanded": "False",
-				"name": "points of confusion"
-			},
-			"poses": {
-				"8db24e36-5a0b-46ae-aa73-47528ef15c4f": {
-					"pos": {
-						"x": 0.6774884,
-						"y": 0.8285592,
-						"z": -0.048157383
-					},
-					"rot": {
-						"x": 0,
-						"y": 0,
-						"z": 0,
-						"w": 1
-					},
-					"size": {
-						"x": 0.26999998,
-						"y": 0.031799998,
-						"z": 0.01
-					}
-				}
-			}
-		},
-		"9094162e-2b24-4613-b9ca-29465f75fd15": {
-			"id": "9094162e-2b24-4613-b9ca-29465f75fd15",
-			"props": {
-				"type": "topic",
-				"isExpanded": "False",
-				"name": "task completion rate"
-			},
-			"poses": {
-				"8db24e36-5a0b-46ae-aa73-47528ef15c4f": {
-					"pos": {
-						"x": 1.4469433,
-						"y": 0.24712056,
-						"z": 0.029034048
-					},
-					"rot": {
-						"x": 0,
-						"y": 0,
-						"z": 0,
-						"w": 1
-					},
-					"size": {
-						"x": 0.26999998,
-						"y": 0.031799998,
-						"z": 0.01
-					}
-				}
-			}
-		},
-		"a44f0240-2b95-40d7-8100-a49f96f0c235": {
-			"id": "a44f0240-2b95-40d7-8100-a49f96f0c235",
-			"props": {
-				"type": "topic",
-				"isExpanded": "False",
-				"name": "user satisfaction"
-			},
-			"poses": {
-				"8db24e36-5a0b-46ae-aa73-47528ef15c4f": {
-					"pos": {
-						"x": 0.9831271,
-						"y": 0.49980432,
-						"z": 0.032683015
-					},
-					"rot": {
-						"x": 0,
-						"y": 0,
-						"z": 0,
-						"w": 1
-					},
-					"size": {
-						"x": 0.26999998,
-						"y": 0.031799998,
-						"z": 0.01
-					}
-				}
-			}
-		},
-		"f4259891-4a91-455b-bdb1-964ed6739720": {
-			"id": "f4259891-4a91-455b-bdb1-964ed6739720",
-			"props": {
-				"type": "topic",
-				"isExpanded": "False",
-				"name": "open-ended questions"
-			},
-			"poses": {
-				"8db24e36-5a0b-46ae-aa73-47528ef15c4f": {
-					"pos": {
-						"x": 1.3550465,
-						"y": 0.6284398,
-						"z": -0.004611943
-					},
-					"rot": {
-						"x": 0,
-						"y": 0,
-						"z": 0,
-						"w": 1
-					},
-					"size": {
-						"x": 0.26999998,
-						"y": 0.031799998,
-						"z": 0.01
-					}
-				}
-			}
-		},
-		"380062e8-e273-414e-afcc-adcc52f11f54": {
-			"id": "380062e8-e273-414e-afcc-adcc52f11f54",
-			"props": {
-				"type": "topic",
-				"isExpanded": "False",
-				"name": "apple human interface"
-			},
-			"poses": {
-				"8db24e36-5a0b-46ae-aa73-47528ef15c4f": {
-					"pos": {
-						"x": -0.30549556,
-						"y": 0.034165595,
-						"z": 0
-					},
-					"rot": {
-						"x": 0,
-						"y": 0,
-						"z": 0,
-						"w": 1
-					},
-					"size": {
-						"x": 0.26999998,
-						"y": 0.031799998,
-						"z": 0.01
-					}
-				}
-			}
-		},
-		"4e7ad3ae-fc7f-42bf-9ce8-88dac1fe07ab": {
-			"id": "4e7ad3ae-fc7f-42bf-9ce8-88dac1fe07ab",
-			"props": {
-				"type": "topic",
-				"isExpanded": "False",
-				"name": "google material design"
-			},
-			"poses": {
-				"8db24e36-5a0b-46ae-aa73-47528ef15c4f": {
-					"pos": {
-						"x": -0.30929637,
-						"y": 0.11595398,
-						"z": 0
-					},
-					"rot": {
-						"x": 0,
-						"y": 0,
-						"z": 0,
-						"w": 1
-					},
-					"size": {
-						"x": 0.26999998,
-						"y": 0.031799998,
-						"z": 0.01
-					}
-				}
-			}
-		},
-		"dbbef628-082f-4f06-8c70-f6f5f7b30fac": {
-			"id": "dbbef628-082f-4f06-8c70-f6f5f7b30fac",
-			"props": {
-				"type": "topic",
-				"isExpanded": "False",
-				"name": "unity ui best practices"
-			},
-			"poses": {
-				"8db24e36-5a0b-46ae-aa73-47528ef15c4f": {
-					"pos": {
-						"x": -0.32099625,
-						"y": 0.19773439,
-						"z": 0
-					},
-					"rot": {
-						"x": 0,
-						"y": 0,
-						"z": 0,
-						"w": 1
-					},
-					"size": {
-						"x": 0.26999998,
-						"y": 0.031799998,
-						"z": 0.01
-					}
-				}
-			}
-		},
-		"206c4ce1-a800-4538-a511-c114770a4a79": {
-			"id": "206c4ce1-a800-4538-a511-c114770a4a79",
-			"props": {
-				"urlSource": "https://venturebeat.com/wp-content/uploads/2016/11/minority-report.jpg?fit=400%2C234&strip=all",
-				"name": "minority-report.jpg",
-				"urlContext": "https://www.google.com/search?q=Minority+Report+futuristic+UIs&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjVvZTD2ZD_AhUPp6QKHYkMAIgQ_AUoAXoECAEQAw&biw=1280&bih=880&dpr=1#imgrc=q8lmr4rrcq80IM",
-				"type": "image",
-				"aspect": "1.70513",
-				"assetPath": "206c4ce1-a800-4538-a511-c114770a4a79/ImageAsset.jpg"
-			},
-			"poses": {
-				"206c4ce1-a800-4538-a511-c114770a4a79": {
-					"pos": {
-						"x": -0.46033183,
-						"y": 0.04800317,
-						"z": -1.0569378
-					},
-					"rot": {
-						"x": 0.11396733,
-						"y": -0.13717638,
-						"z": 0.015890412,
-						"w": 0.9838402
-					},
-					"size": {
-						"x": 0.2501,
-						"y": 0.14667518,
-						"z": 0.001
-					}
-				},
-				"8db24e36-5a0b-46ae-aa73-47528ef15c4f": {
-					"pos": {
-						"x": 0.7596332,
-						"y": -0.7699051,
-						"z": -0.45164847
-					},
-					"rot": {
-						"x": 0,
-						"y": 0,
-						"z": 0,
-						"w": 1
-					},
-					"size": {
-						"x": 0.2501,
-						"y": 0.14667518,
-						"z": 0.001
-					}
-				}
-			}
-		},
-		"eeef9e47-7b19-4bb7-9676-4259907194b6": {
-			"id": "eeef9e47-7b19-4bb7-9676-4259907194b6",
-			"props": {
-				"urlSource": "https://i.ytimg.com/vi/7SFeCgoep1c/hqdefault.jpg",
-				"name": "hqdefault.jpg",
-				"urlContext": "https://www.google.com/search?q=Minority+Report+futuristic+UIs&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjVvZTD2ZD_AhUPp6QKHYkMAIgQ_AUoAXoECAEQAw&biw=1280&bih=880&dpr=1#imgrc=_-KicOuUz5p4nM",
-				"type": "image",
-				"aspect": "1.33333",
-				"assetPath": "eeef9e47-7b19-4bb7-9676-4259907194b6/ImageAsset.jpg"
-			},
-			"poses": {
-				"eeef9e47-7b19-4bb7-9676-4259907194b6": {
-					"pos": {
-						"x": 0.024393432,
-						"y": -0.64652693,
-						"z": -1.0893283
-					},
-					"rot": {
-						"x": 0.11396733,
-						"y": -0.13717638,
-						"z": 0.015890412,
-						"w": 0.9838402
-					},
-					"size": {
-						"x": 0.2501,
-						"y": 0.18757498,
-						"z": 0.001
-					}
-				},
-				"8db24e36-5a0b-46ae-aa73-47528ef15c4f": {
-					"pos": {
-						"x": 0.8243109,
-						"y": -0.55279016,
-						"z": -0.45164847
-					},
-					"rot": {
-						"x": 0,
-						"y": 0,
-						"z": 0,
-						"w": 1
-					},
-					"size": {
-						"x": 0.2501,
-						"y": 0.18757498,
-						"z": 0.001
-					}
-				}
-			}
-		},
-		"0f56e392-304c-4fd8-99c2-fba99ac27785": {
-			"id": "0f56e392-304c-4fd8-99c2-fba99ac27785",
-			"props": {
-				"type": "topic",
-				"isExpanded": "True",
-				"name": "",
-				"summary": ""
-			},
-			"poses": {
-				"0f56e392-304c-4fd8-99c2-fba99ac27785": {
-					"pos": {
-						"x": 0.7596332,
-						"y": -0.7699051,
-						"z": -0.45164847
-					},
-					"rot": {
-						"x": 0.00020902796,
-						"y": 0.00034191707,
-						"z": -0.0013097557,
-						"w": 0.9999991
-					},
-					"size": {
-						"x": 0.2501,
-						"y": 0.14667518,
-						"z": 0.001
-					}
-				},
-				"8db24e36-5a0b-46ae-aa73-47528ef15c4f": {
-					"pos": {
-						"x": 0.3731556,
-						"y": -1.0316187,
-						"z": -0.51176333
-					},
-					"rot": {
-						"x": 0,
-						"y": 0,
-						"z": 0,
-						"w": 1
-					},
-					"size": {
-						"x": 0.29009998,
-						"y": 0.523198,
-						"z": 0.01
-					}
-				}
-			}
-		},
-		"1837addc-b1cf-4068-8126-561ef6533f01": {
-			"id": "1837addc-b1cf-4068-8126-561ef6533f01",
-			"props": {
-				"urlSource": "https://www.theawl.com/wp-content/uploads/2013/02/0GIEkFelizCz1ovZQ.jpg",
-				"name": "0GIEkFelizCz1ovZQ.jpg",
-				"urlContext": "https://www.google.com/search?q=Minority+Report+futuristic+UIs&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjVvZTD2ZD_AhUPp6QKHYkMAIgQ_AUoAXoECAEQAw&biw=1280&bih=880&dpr=1#imgrc=xJXcHRitN9g2_M",
-				"type": "image",
-				"aspect": "2.40602",
-				"assetPath": "1837addc-b1cf-4068-8126-561ef6533f01/ImageAsset.jpg"
-			},
-			"poses": {
-				"1837addc-b1cf-4068-8126-561ef6533f01": {
-					"pos": {
-						"x": 0.07418704,
-						"y": -0.6024464,
-						"z": -1.0644058
-					},
-					"rot": {
-						"x": 0.11396733,
-						"y": -0.13717638,
-						"z": 0.015890412,
-						"w": 0.9838402
-					},
-					"size": {
-						"x": 0.2501,
-						"y": 0.10394781,
-						"z": 0.001
-					}
-				},
-				"8db24e36-5a0b-46ae-aa73-47528ef15c4f": {
-					"pos": {
-						"x": 0.75466883,
-						"y": -1.0739856,
-						"z": -0.45164847
-					},
-					"rot": {
-						"x": 0,
-						"y": 0,
-						"z": 0,
-						"w": 1
-					},
-					"size": {
-						"x": 0.2501,
-						"y": 0.10394781,
-						"z": 0.001
-					}
-				}
-			}
-		},
-		"60bafc8c-1821-436f-8d52-7079b5662562": {
-			"id": "60bafc8c-1821-436f-8d52-7079b5662562",
-			"props": {
-				"urlSource": "https://image.lexica.art/full_jpg/2e31d74d-3388-458f-a637-cb332df8fb89",
-				"name": "2e31d74d-3388-458f-a637-cb332df8fb89",
-				"urlContext": "https://lexica.art/?q=holographic+UIs&prompt=65356b74-9c36-4e1d-a5ba-a2a9c86735b6",
-				"type": "image",
-				"aspect": "0.66667",
-				"assetPath": "60bafc8c-1821-436f-8d52-7079b5662562/ImageAsset.jpg"
-			},
-			"poses": {
-				"60bafc8c-1821-436f-8d52-7079b5662562": {
-					"pos": {
-						"x": -0.5037382,
-						"y": -0.79877806,
-						"z": -1.0319104
-					},
-					"rot": {
-						"x": 0.051550083,
-						"y": -0.15015708,
-						"z": 0.007840291,
-						"w": 0.9872862
-					},
-					"size": {
-						"x": 0.2501,
-						"y": 0.37514997,
-						"z": 0.001
-					}
-				},
-				"8db24e36-5a0b-46ae-aa73-47528ef15c4f": {
-					"pos": {
-						"x": 0.24090081,
-						"y": -1.1248918,
-						"z": -0.19066429
-					},
-					"rot": {
-						"x": 0,
-						"y": 0,
-						"z": 0,
-						"w": 1
-					},
-					"size": {
-						"x": 0.2501,
-						"y": 0.37514997,
-						"z": 0.001
-					}
-				}
-			}
-		},
-		"e0e09650-ac9a-4a09-ad30-c4246e8748ba": {
-			"id": "e0e09650-ac9a-4a09-ad30-c4246e8748ba",
-			"props": {
-				"urlSource": "https://image.lexica.art/full_jpg/c1f39f0d-f5e9-4d24-9f7f-148adc874027",
-				"name": "c1f39f0d-f5e9-4d24-9f7f-148adc874027",
-				"urlContext": "https://lexica.art/?q=holographic+UIs&prompt=65356b74-9c36-4e1d-a5ba-a2a9c86735b6",
-				"type": "image",
-				"aspect": "0.66667",
-				"assetPath": "e0e09650-ac9a-4a09-ad30-c4246e8748ba/ImageAsset.jpg"
-			},
-			"poses": {
-				"e0e09650-ac9a-4a09-ad30-c4246e8748ba": {
-					"pos": {
-						"x": -0.55795485,
-						"y": -0.8420095,
-						"z": -1.0535339
-					},
-					"rot": {
-						"x": 0.051550083,
-						"y": -0.15015708,
-						"z": 0.007840291,
-						"w": 0.9872862
-					},
-					"size": {
-						"x": 0.2501,
-						"y": 0.37514997,
-						"z": 0.001
-					}
-				},
-				"8db24e36-5a0b-46ae-aa73-47528ef15c4f": {
-					"pos": {
-						"x": -0.05918244,
-						"y": -1.1421505,
-						"z": -0.19066429
-					},
-					"rot": {
-						"x": 0,
-						"y": 0,
-						"z": 0,
-						"w": 1
-					},
-					"size": {
-						"x": 0.2501,
-						"y": 0.37514997,
-						"z": 0.001
-					}
-				}
-			}
-		},
-		"7cc300a1-99b6-4270-b23d-68195550f75c": {
-			"id": "7cc300a1-99b6-4270-b23d-68195550f75c",
-			"props": {
-				"type": "topic",
-				"isExpanded": "True",
-				"name": "",
-				"summary": ""
-			},
-			"poses": {
-				"7cc300a1-99b6-4270-b23d-68195550f75c": {
-					"pos": {
-						"x": 0.24090055,
-						"y": -1.1248915,
-						"z": -0.1906656
-					},
-					"rot": {
-						"x": 0.00033636403,
-						"y": 0.0008343605,
-						"z": -0.00028769253,
-						"w": 0.9999996
-					},
-					"size": {
-						"x": 0.2501,
-						"y": 0.37514997,
-						"z": 0.001
-					}
-				},
-				"8db24e36-5a0b-46ae-aa73-47528ef15c4f": {
-					"pos": {
-						"x": -0.24702881,
-						"y": -1.0285027,
-						"z": -0.5117633
+						"x": 0.5938436,
+						"y": -0.18333079,
+						"z": -0.22483039
 					},
 					"rot": {
 						"x": 0,
@@ -2056,33 +336,159 @@
 					"size": {
 						"x": 0.8503,
 						"y": 0.43014994,
-						"z": 0.01
+						"z": 0.001
+					}
+				},
+				"ParentingTrf-fff97f1e-7b55-4858-8419-2820f2539eef": {
+					"pos": {
+						"x": -0.2801,
+						"y": 0,
+						"z": 0
+					},
+					"rot": {
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					},
+					"size": {
+						"x": 1,
+						"y": 1,
+						"z": 1
 					}
 				}
 			}
 		},
-		"cc9c3437-9eae-4bfb-add2-d33baf5a4ed3": {
-			"id": "cc9c3437-9eae-4bfb-add2-d33baf5a4ed3",
+		"f404ce52-d2a9-48c2-9914-a96e460a1afd": {
+			"id": "f404ce52-d2a9-48c2-9914-a96e460a1afd",
 			"props": {
-				"urlSource": "https://image.lexica.art/full_jpg/cbc8ac36-74cf-42ce-b3c5-594b76cefd48",
-				"name": "cbc8ac36-74cf-42ce-b3c5-594b76cefd48",
-				"urlContext": "https://lexica.art/?q=holographic+UIs&prompt=6434ddfe-3740-49c7-b142-d0aed1f37580",
-				"type": "image",
-				"aspect": "0.66667",
-				"assetPath": "cc9c3437-9eae-4bfb-add2-d33baf5a4ed3/ImageAsset.jpg"
+				"type": "text",
+				"text": "The different forms of spatial computing include:"
 			},
 			"poses": {
-				"cc9c3437-9eae-4bfb-add2-d33baf5a4ed3": {
+				"f404ce52-d2a9-48c2-9914-a96e460a1afd": {
 					"pos": {
-						"x": -0.4975114,
-						"y": -0.82078475,
-						"z": -1.0323849
+						"x": 0.31373653,
+						"y": -0.059874132,
+						"z": -0.22550412
 					},
 					"rot": {
-						"x": 0.051550083,
-						"y": -0.15015708,
-						"z": 0.007840291,
-						"w": 0.9872862
+						"x": 0,
+						"y": -0.0012072191,
+						"z": 0,
+						"w": 0.9999993
+					},
+					"size": {
+						"x": 0.2501,
+						"y": 0.01690313,
+						"z": 0.00010000017
+					}
+				}
+			}
+		},
+		"aa0035d0-fe50-4a33-941c-8c00d34a75e2": {
+			"id": "aa0035d0-fe50-4a33-941c-8c00d34a75e2",
+			"props": {
+				"type": "text",
+				"text": "1. Virtual Reality (VR): VR creates a fully immersive digital environment that users can interact with using specialized headsets or devices. It typically involves wearing a headset that displays a virtual world and using controllers or other input devices to navigate and interact within that world."
+			},
+			"poses": {
+				"aa0035d0-fe50-4a33-941c-8c00d34a75e2": {
+					"pos": {
+						"x": 0.31373653,
+						"y": -0.10402413,
+						"z": -0.22550412
+					},
+					"rot": {
+						"x": 0,
+						"y": -0.0012072191,
+						"z": 0,
+						"w": 0.9999993
+					},
+					"size": {
+						"x": 0.2501,
+						"y": 0.071397066,
+						"z": 0.00010000001
+					}
+				}
+			}
+		},
+		"deb69011-cdec-4bbc-8ab7-6c29006673f3": {
+			"id": "deb69011-cdec-4bbc-8ab7-6c29006673f3",
+			"props": {
+				"type": "text",
+				"text": "2. Augmented Reality (AR): AR overlays digital content onto the real world, enhancing the user's perception and interaction with their physical surroundings. AR is typically experienced through smartphones, tablets, or smart glasses that use cameras and sensors to detect and track the real-world environment and overlay virtual elements onto it."
+			},
+			"poses": {
+				"deb69011-cdec-4bbc-8ab7-6c29006673f3": {
+					"pos": {
+						"x": 0.31373653,
+						"y": -0.18087412,
+						"z": -0.22550412
+					},
+					"rot": {
+						"x": 0,
+						"y": -0.0012072191,
+						"z": 0,
+						"w": 0.9999993
+					},
+					"size": {
+						"x": 0.2501,
+						"y": 0.08229622,
+						"z": 0.000100000005
+					}
+				}
+			}
+		},
+		"d8928baa-0403-478c-aa91-e0c094138129": {
+			"id": "d8928baa-0403-478c-aa91-e0c094138129",
+			"props": {
+				"type": "text",
+				"text": "3. Mixed Reality (MR): MR combines elements of both VR and AR to create a hybrid experience that blends virtual and real-world elements seamlessly. MR allows users to interact with virtual objects while still being aware of and able to interact with their physical environment. This technology often requires specialized headsets or devices that can track the user's position and overlay digital content accordingly."
+			},
+			"poses": {
+				"d8928baa-0403-478c-aa91-e0c094138129": {
+					"pos": {
+						"x": 0.31373653,
+						"y": -0.26862413,
+						"z": -0.22550412
+					},
+					"rot": {
+						"x": 0,
+						"y": -0.0012072191,
+						"z": 0,
+						"w": 0.9999993
+					},
+					"size": {
+						"x": 0.2501,
+						"y": 0.093189165,
+						"z": 0.00010000001
+					}
+				}
+			}
+		},
+		"b090ec5c-af71-4d05-afa3-6b606c4c8aee": {
+			"id": "b090ec5c-af71-4d05-afa3-6b606c4c8aee",
+			"props": {
+				"urlSource": "https://image.lexica.art/full_jpg/1d7b5178-a3d5-4df1-b40b-a4dea1078487",
+				"name": "1d7b5178-a3d5-4df1-b40b-a4dea1078487",
+				"urlContext": "https://lexica.art/?q=ai+artist&prompt=363e932a-7fc1-4f1d-a578-f8abcbb0d528",
+				"type": "image",
+				"aspectRatio": "0.66667",
+				"assetPath": "b090ec5c-af71-4d05-afa3-6b606c4c8aee/ImageAsset.jpg"
+			},
+			"poses": {
+				"b090ec5c-af71-4d05-afa3-6b606c4c8aee": {
+					"pos": {
+						"x": -0.8563112,
+						"y": 0.9829658,
+						"z": -0.52712464
+					},
+					"rot": {
+						"x": 0,
+						"y": -0.0014122312,
+						"z": 0,
+						"w": 0.99999905
 					},
 					"size": {
 						"x": 0.2501,
@@ -2090,11 +496,11 @@
 						"z": 0.001
 					}
 				},
-				"8db24e36-5a0b-46ae-aa73-47528ef15c4f": {
+				"7972fc4f-df7a-48f8-8a2e-0ee589d36822": {
 					"pos": {
-						"x": 0.4220546,
-						"y": -1.1693782,
-						"z": -0.24109054
+						"x": -0.34643888,
+						"y": 0.119466305,
+						"z": -0.22483039
 					},
 					"rot": {
 						"x": 0,
@@ -2109,523 +515,2235 @@
 					}
 				}
 			}
+		},
+		"4b33dbff-a2bf-4098-be3e-2b2911923357": {
+			"id": "4b33dbff-a2bf-4098-be3e-2b2911923357",
+			"props": {
+				"urlSource": "https://image.lexica.art/full_jpg/a02707db-a7bc-4df4-b769-ae87b0def58a",
+				"name": "a02707db-a7bc-4df4-b769-ae87b0def58a",
+				"urlContext": "https://lexica.art/?q=spatial+computing&prompt=9186812f-d852-4a77-ba65-f1fe5752383f",
+				"type": "image",
+				"aspectRatio": "0.66667",
+				"assetPath": "4b33dbff-a2bf-4098-be3e-2b2911923357/ImageAsset.jpg"
+			},
+			"poses": {
+				"4b33dbff-a2bf-4098-be3e-2b2911923357": {
+					"pos": {
+						"x": -0.026345162,
+						"y": -0.33039638,
+						"z": -0.22482924
+					},
+					"rot": {
+						"x": 3.7504887E-7,
+						"y": -0.0009565056,
+						"z": -0.00039210296,
+						"w": 0.9999995
+					},
+					"size": {
+						"x": 0.2501,
+						"y": 0.37514997,
+						"z": 0.001
+					}
+				},
+				"7972fc4f-df7a-48f8-8a2e-0ee589d36822": {
+					"pos": {
+						"x": 0.09367324,
+						"y": 0.27986854,
+						"z": -0.22483045
+					},
+					"rot": {
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					},
+					"size": {
+						"x": 0.2501,
+						"y": 0.37514997,
+						"z": 0.001
+					}
+				}
+			}
+		},
+		"34fe3659-a1ce-440e-8a16-696c02d41d26": {
+			"id": "34fe3659-a1ce-440e-8a16-696c02d41d26",
+			"props": {
+				"urlSource": "https://image.lexica.art/full_jpg/47f792ee-da25-425c-84ee-84f4e0cca28f",
+				"name": "47f792ee-da25-425c-84ee-84f4e0cca28f",
+				"urlContext": "https://lexica.art/?q=augmented+reality&prompt=28c4e3e1-2020-4e26-86a6-b7c0b2af50a0",
+				"type": "image",
+				"aspectRatio": "0.66667",
+				"assetPath": "34fe3659-a1ce-440e-8a16-696c02d41d26/ImageAsset.jpg"
+			},
+			"poses": {
+				"34fe3659-a1ce-440e-8a16-696c02d41d26": {
+					"pos": {
+						"x": 0.5938327,
+						"y": -0.18333282,
+						"z": -0.22482784
+					},
+					"rot": {
+						"x": 0,
+						"y": -0.0012072191,
+						"z": 0,
+						"w": 0.9999993
+					},
+					"size": {
+						"x": 0.2501,
+						"y": 0.37514997,
+						"z": 0.001
+					}
+				},
+				"7972fc4f-df7a-48f8-8a2e-0ee589d36822": {
+					"pos": {
+						"x": 0.77386904,
+						"y": -0.13116762,
+						"z": -0.22483039
+					},
+					"rot": {
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					},
+					"size": {
+						"x": 0.2501,
+						"y": 0.37514997,
+						"z": 0.001
+					}
+				}
+			}
+		},
+		"828f835b-7a0d-4ffc-aaeb-a48112c92edb": {
+			"id": "828f835b-7a0d-4ffc-aaeb-a48112c92edb",
+			"props": {
+				"urlSource": "https://image.lexica.art/full_jpg/d296bdbc-7531-4575-8154-d4bf4e40e0be",
+				"name": "d296bdbc-7531-4575-8154-d4bf4e40e0be",
+				"urlContext": "https://lexica.art/?q=augmented+reality&prompt=4d689da0-8c77-46b6-b2c7-eb0049bd0770",
+				"type": "image",
+				"aspectRatio": "0.66667",
+				"assetPath": "828f835b-7a0d-4ffc-aaeb-a48112c92edb/ImageAsset.jpg"
+			},
+			"poses": {
+				"828f835b-7a0d-4ffc-aaeb-a48112c92edb": {
+					"pos": {
+						"x": 0.873927,
+						"y": -0.18333222,
+						"z": -0.22415157
+					},
+					"rot": {
+						"x": 4.798025E-7,
+						"y": -0.001207219,
+						"z": -0.00039744415,
+						"w": 0.9999992
+					},
+					"size": {
+						"x": 0.2501,
+						"y": 0.37514997,
+						"z": 0.001
+					}
+				},
+				"7972fc4f-df7a-48f8-8a2e-0ee589d36822": {
+					"pos": {
+						"x": 0.91391754,
+						"y": -0.13353029,
+						"z": -0.22483045
+					},
+					"rot": {
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					},
+					"size": {
+						"x": 0.2501,
+						"y": 0.37514997,
+						"z": 0.001
+					}
+				}
+			}
+		},
+		"c3091a6c-cc97-4d9b-8476-33ed412f6d83": {
+			"id": "c3091a6c-cc97-4d9b-8476-33ed412f6d83",
+			"props": {
+				"type": "topic",
+				"isSuggested": "False",
+				"name": "Ways in which AI and AR relate:",
+				"summary": "AI algorithms can be used in AR applications to identify and recognize objects in the real world. This allows AR systems to overlay relevant information or virtual objects onto the real environment. AI algorithms can analyze user preferences, behavior, and contextual information to personalize AR experiences. Real-time tracking allows virtual objects to interact with thereal world."
+			},
+			"poses": {
+				"c3091a6c-cc97-4d9b-8476-33ed412f6d83": {
+					"pos": {
+						"x": 1.1885267,
+						"y": 0.40095663,
+						"z": 0.37341928
+					},
+					"rot": {
+						"x": 0,
+						"y": 0.00010607431,
+						"z": 0,
+						"w": 1
+					},
+					"size": {
+						"x": 1.4104998,
+						"y": 0.4906575,
+						"z": 0.001
+					}
+				},
+				"7972fc4f-df7a-48f8-8a2e-0ee589d36822": {
+					"pos": {
+						"x": 1.1885331,
+						"y": 0.40096015,
+						"z": 0.37341917
+					},
+					"rot": {
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					},
+					"size": {
+						"x": 1.4104998,
+						"y": 0.49064994,
+						"z": 0.001
+					}
+				},
+				"ParentingTrf-c3091a6c-cc97-4d9b-8476-33ed412f6d83": {
+					"pos": {
+						"x": -0.5602,
+						"y": 0,
+						"z": 0
+					},
+					"rot": {
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					},
+					"size": {
+						"x": 1,
+						"y": 1,
+						"z": 1
+					}
+				}
+			}
+		},
+		"5723f71e-1267-4a55-bc3c-4e08d906e48a": {
+			"id": "5723f71e-1267-4a55-bc3c-4e08d906e48a",
+			"props": {
+				"type": "text",
+				"text": "1. Object recognition: AI algorithms can be used in AR applications to identify and recognize objects in the real world. This allows AR systems to overlay relevant information or virtual objects onto the real environment."
+			},
+			"poses": {
+				"5723f71e-1267-4a55-bc3c-4e08d906e48a": {
+					"pos": {
+						"x": 0.62832797,
+						"y": 0.5960225,
+						"z": 0.37353814
+					},
+					"rot": {
+						"x": 0,
+						"y": 0.00010607431,
+						"z": 0,
+						"w": 1
+					},
+					"size": {
+						"x": 0.2501,
+						"y": 0.06048973,
+						"z": 0.000100348785
+					}
+				}
+			}
+		},
+		"b7d4c15a-9a78-44b1-b510-b67ffc5b9ab9": {
+			"id": "b7d4c15a-9a78-44b1-b510-b67ffc5b9ab9",
+			"props": {
+				"type": "text",
+				"text": "2. Scene understanding: AI algorithms can analyze and understand the scene captured by AR devices, such as identifying surfaces, objects, and their spatial relationships. This understanding enables AR systems to accurately place virtual objects in the real world."
+			},
+			"poses": {
+				"b7d4c15a-9a78-44b1-b510-b67ffc5b9ab9": {
+					"pos": {
+						"x": 0.90842795,
+						"y": 0.5960229,
+						"z": 0.3734787
+					},
+					"rot": {
+						"x": 0,
+						"y": 0.00010607431,
+						"z": 0,
+						"w": 1
+					},
+					"size": {
+						"x": 0.2501,
+						"y": 0.06048973,
+						"z": 0.000100348785
+					}
+				}
+			}
+		},
+		"9dc8c7e9-1640-415c-80cc-6d5c7d6c57d0": {
+			"id": "9dc8c7e9-1640-415c-80cc-6d5c7d6c57d0",
+			"props": {
+				"type": "text",
+				"text": "3. Real-time tracking: AI algorithms can track and analyze the movement of objects or people in real-time, which is essential for AR applications. This tracking allows virtual objects to interact with the real world and stay aligned with the user's perspective."
+			},
+			"poses": {
+				"9dc8c7e9-1640-415c-80cc-6d5c7d6c57d0": {
+					"pos": {
+						"x": 1.188528,
+						"y": 0.5960228,
+						"z": 0.37341928
+					},
+					"rot": {
+						"x": 0,
+						"y": 0.00010607431,
+						"z": 0,
+						"w": 1
+					},
+					"size": {
+						"x": 0.2501,
+						"y": 0.06049718,
+						"z": 0.000100095815
+					}
+				}
+			}
+		},
+		"5003af5f-2e44-4d9e-95d0-ab83bdbb17af": {
+			"id": "5003af5f-2e44-4d9e-95d0-ab83bdbb17af",
+			"props": {
+				"type": "text",
+				"text": "4. Natural language processing: AI technologies like natural language processing (NLP) can be used in AR applications to understand and interpret voice commands or text input from users. This enables more intuitive and interactive AR experiences."
+			},
+			"poses": {
+				"5003af5f-2e44-4d9e-95d0-ab83bdbb17af": {
+					"pos": {
+						"x": 1.4686279,
+						"y": 0.5960317,
+						"z": 0.37335986
+					},
+					"rot": {
+						"x": 0,
+						"y": 0.00010607431,
+						"z": 0,
+						"w": 1
+					},
+					"size": {
+						"x": 0.2501,
+						"y": 0.060490392,
+						"z": 0.0001003262
+					}
+				}
+			}
+		},
+		"1eef4589-177b-4d4b-a7b3-6851bf7d3969": {
+			"id": "1eef4589-177b-4d4b-a7b3-6851bf7d3969",
+			"props": {
+				"type": "text",
+				"text": "5. Personalization and recommendation: AI algorithms can analyze user preferences, behavior, and contextual information to personalize AR experiences."
+			},
+			"poses": {
+				"1eef4589-177b-4d4b-a7b3-6851bf7d3969": {
+					"pos": {
+						"x": 1.7487279,
+						"y": 0.596023,
+						"z": 0.37330043
+					},
+					"rot": {
+						"x": 0,
+						"y": 0.00010607431,
+						"z": 0,
+						"w": 1
+					},
+					"size": {
+						"x": 0.25010002,
+						"y": 0.038687736,
+						"z": 0.00010234857
+					}
+				}
+			}
+		},
+		"02f113f2-27fa-46ef-92cc-764eb9b72011": {
+			"id": "02f113f2-27fa-46ef-92cc-764eb9b72011",
+			"props": {
+				"urlSource": "https://image.lexica.art/full_jpg/b12cb85f-b22c-478e-b002-7d3ddc2aba1c",
+				"name": "b12cb85f-b22c-478e-b002-7d3ddc2aba1c",
+				"urlContext": "https://lexica.art/?q=object+recognition&prompt=0cf260b5-27e9-4e82-9c8f-5977d8161a2c",
+				"type": "image",
+				"aspectRatio": "0.66667",
+				"assetPath": "02f113f2-27fa-46ef-92cc-764eb9b72011/ImageAsset.jpg"
+			},
+			"poses": {
+				"02f113f2-27fa-46ef-92cc-764eb9b72011": {
+					"pos": {
+						"x": 0.6283252,
+						"y": 0.37071252,
+						"z": 0.37353814
+					},
+					"rot": {
+						"x": 1.0217717E-7,
+						"y": 0.00010607426,
+						"z": 0.00096326025,
+						"w": 0.9999995
+					},
+					"size": {
+						"x": 0.2501,
+						"y": 0.37514997,
+						"z": 0.001
+					}
+				},
+				"7972fc4f-df7a-48f8-8a2e-0ee589d36822": {
+					"pos": {
+						"x": 0.60178995,
+						"y": 0.113152295,
+						"z": 0.37341917
+					},
+					"rot": {
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					},
+					"size": {
+						"x": 0.2501,
+						"y": 0.37514997,
+						"z": 0.001
+					}
+				}
+			}
+		},
+		"e58090a7-e7f5-457e-9d91-00a4eb519477": {
+			"id": "e58090a7-e7f5-457e-9d91-00a4eb519477",
+			"props": {
+				"urlSource": "https://image.lexica.art/full_jpg/ed773f0b-608f-4799-b775-c0af875db179",
+				"name": "ed773f0b-608f-4799-b775-c0af875db179",
+				"urlContext": "https://lexica.art/?q=position+tracking&prompt=46692e57-9175-46af-9fc2-c731ff9b5157",
+				"type": "image",
+				"aspectRatio": "0.66667",
+				"assetPath": "e58090a7-e7f5-457e-9d91-00a4eb519477/ImageAsset.jpg"
+			},
+			"poses": {
+				"e58090a7-e7f5-457e-9d91-00a4eb519477": {
+					"pos": {
+						"x": 1.1885202,
+						"y": 0.37070155,
+						"z": 0.37341928
+					},
+					"rot": {
+						"x": -5.832649E-8,
+						"y": 0.000106074294,
+						"z": -0.00054986443,
+						"w": 0.9999999
+					},
+					"size": {
+						"x": 0.2501,
+						"y": 0.37514997,
+						"z": 0.001
+					}
+				},
+				"7972fc4f-df7a-48f8-8a2e-0ee589d36822": {
+					"pos": {
+						"x": 1.114388,
+						"y": -0.08192804,
+						"z": 0.37341917
+					},
+					"rot": {
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					},
+					"size": {
+						"x": 0.2501,
+						"y": 0.37514997,
+						"z": 0.001
+					}
+				}
+			}
+		},
+		"efecf171-a1ad-42c1-a44b-d05b4b06ea79": {
+			"id": "efecf171-a1ad-42c1-a44b-d05b4b06ea79",
+			"props": {
+				"urlSource": "https://image.lexica.art/full_jpg/2790d577-9ee2-4d88-9cb9-bb2883c83d2f",
+				"name": "2790d577-9ee2-4d88-9cb9-bb2883c83d2f",
+				"urlContext": "https://lexica.art/?q=natural+language+understanding&prompt=795632ab-8e9e-42bf-a69b-8988a1b5cec6",
+				"type": "image",
+				"aspectRatio": "0.66667",
+				"assetPath": "efecf171-a1ad-42c1-a44b-d05b4b06ea79/ImageAsset.jpg"
+			},
+			"poses": {
+				"efecf171-a1ad-42c1-a44b-d05b4b06ea79": {
+					"pos": {
+						"x": 1.4686279,
+						"y": 0.37070674,
+						"z": 0.37335986
+					},
+					"rot": {
+						"x": -4.92854E-8,
+						"y": 0.000106074294,
+						"z": -0.0004646309,
+						"w": 0.9999999
+					},
+					"size": {
+						"x": 0.2501,
+						"y": 0.37514997,
+						"z": 0.001
+					}
+				},
+				"7972fc4f-df7a-48f8-8a2e-0ee589d36822": {
+					"pos": {
+						"x": 1.3713834,
+						"y": -0.08192932,
+						"z": 0.37341917
+					},
+					"rot": {
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					},
+					"size": {
+						"x": 0.2501,
+						"y": 0.37514997,
+						"z": 0.001
+					}
+				}
+			}
+		},
+		"e324a670-2f1e-4266-8971-c74bdba031ff": {
+			"id": "e324a670-2f1e-4266-8971-c74bdba031ff",
+			"props": {
+				"urlSource": "https://image.lexica.art/full_jpg/737ca9e5-816d-4918-a0dd-7018652cae60",
+				"name": "737ca9e5-816d-4918-a0dd-7018652cae60",
+				"urlContext": "https://lexica.art/?q=personalization&prompt=fe2e0a3b-59e7-4393-9eb5-66a4d1991d7d",
+				"type": "image",
+				"aspectRatio": "0.66667",
+				"assetPath": "e324a670-2f1e-4266-8971-c74bdba031ff/ImageAsset.jpg"
+			},
+			"poses": {
+				"e324a670-2f1e-4266-8971-c74bdba031ff": {
+					"pos": {
+						"x": 1.7487206,
+						"y": 0.38160115,
+						"z": 0.37330043
+					},
+					"rot": {
+						"x": -7.272761E-8,
+						"y": 0.00010607429,
+						"z": -0.00068562885,
+						"w": 0.99999976
+					},
+					"size": {
+						"x": 0.2501,
+						"y": 0.37514997,
+						"z": 0.001
+					}
+				},
+				"7972fc4f-df7a-48f8-8a2e-0ee589d36822": {
+					"pos": {
+						"x": 1.6348087,
+						"y": -0.08192728,
+						"z": 0.37341917
+					},
+					"rot": {
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					},
+					"size": {
+						"x": 0.2501,
+						"y": 0.37514997,
+						"z": 0.001
+					}
+				}
+			}
+		},
+		"5e9a8136-0ced-46aa-ac6d-92d9fd3d50dc": {
+			"id": "5e9a8136-0ced-46aa-ac6d-92d9fd3d50dc",
+			"props": {
+				"urlSource": "https://image.lexica.art/full_jpg/3349b341-3984-4b15-9762-097b3be8912d",
+				"name": "3349b341-3984-4b15-9762-097b3be8912d",
+				"urlContext": "https://lexica.art/?q=scene&prompt=d88739d9-542b-446f-b4de-1417ed6b8a39",
+				"type": "image",
+				"aspectRatio": "0.66667",
+				"assetPath": "5e9a8136-0ced-46aa-ac6d-92d9fd3d50dc/ImageAsset.jpg"
+			},
+			"poses": {
+				"5e9a8136-0ced-46aa-ac6d-92d9fd3d50dc": {
+					"pos": {
+						"x": 0.9084263,
+						"y": 0.37070233,
+						"z": 0.3734787
+					},
+					"rot": {
+						"x": 4.3872923E-8,
+						"y": 0.0001060743,
+						"z": 0.00041360556,
+						"w": 0.99999994
+					},
+					"size": {
+						"x": 0.2501,
+						"y": 0.37514997,
+						"z": 0.001
+					}
+				},
+				"7972fc4f-df7a-48f8-8a2e-0ee589d36822": {
+					"pos": {
+						"x": 0.9621064,
+						"y": -0.08192184,
+						"z": 0.37341917
+					},
+					"rot": {
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					},
+					"size": {
+						"x": 0.2501,
+						"y": 0.37514997,
+						"z": 0.001
+					}
+				}
+			}
+		},
+		"5f74b358-5234-478d-8ab1-efca06ab91bb": {
+			"id": "5f74b358-5234-478d-8ab1-efca06ab91bb",
+			"props": {
+				"urlSource": "https://image.lexica.art/full_jpg/0e8eca99-eafa-4ce9-a83d-4610fe6f66ff",
+				"name": "0e8eca99-eafa-4ce9-a83d-4610fe6f66ff",
+				"urlContext": "https://lexica.art/?q=ai+utopia&prompt=7fb1ace9-fc3c-438b-9356-8554a225ed8d",
+				"type": "image",
+				"aspectRatio": "0.66667",
+				"assetPath": "5f74b358-5234-478d-8ab1-efca06ab91bb/ImageAsset.jpg"
+			},
+			"poses": {
+				"5f74b358-5234-478d-8ab1-efca06ab91bb": {
+					"pos": {
+						"x": 0.6641562,
+						"y": 0.9633065,
+						"z": -0.526733
+					},
+					"rot": {
+						"x": -3.0045354E-7,
+						"y": 0.0003686385,
+						"z": -0.00081503537,
+						"w": 0.99999964
+					},
+					"size": {
+						"x": 0.2501,
+						"y": 0.37514997,
+						"z": 0.001
+					}
+				},
+				"7972fc4f-df7a-48f8-8a2e-0ee589d36822": {
+					"pos": {
+						"x": 0.26404223,
+						"y": 0.9114944,
+						"z": -0.5267346
+					},
+					"rot": {
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					},
+					"size": {
+						"x": 0.2501,
+						"y": 0.37514997,
+						"z": 0.001
+					}
+				}
+			}
+		},
+		"ee70dcf4-57a2-4487-a581-6f69afbcc0e5": {
+			"id": "ee70dcf4-57a2-4487-a581-6f69afbcc0e5",
+			"props": {
+				"urlSource": "https://image.lexica.art/full_jpg/1bac6cc6-abd4-4bfa-bb99-b2569c146af8",
+				"name": "1bac6cc6-abd4-4bfa-bb99-b2569c146af8",
+				"urlContext": "https://lexica.art/?q=gpus&prompt=0fbcecdb-a37e-4ccc-be2d-e78540f40717",
+				"type": "image",
+				"aspectRatio": "0.66667",
+				"assetPath": "ee70dcf4-57a2-4487-a581-6f69afbcc0e5/ImageAsset.jpg"
+			},
+			"poses": {
+				"ee70dcf4-57a2-4487-a581-6f69afbcc0e5": {
+					"pos": {
+						"x": -0.23613235,
+						"y": 0.96731335,
+						"z": -0.5270278
+					},
+					"rot": {
+						"x": 3.5977055E-7,
+						"y": -0.0010473693,
+						"z": -0.000343499,
+						"w": 0.9999994
+					},
+					"size": {
+						"x": 0.2501,
+						"y": 0.37514997,
+						"z": 0.001
+					}
+				},
+				"7972fc4f-df7a-48f8-8a2e-0ee589d36822": {
+					"pos": {
+						"x": -0.016062811,
+						"y": 0.9365794,
+						"z": -0.5267346
+					},
+					"rot": {
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					},
+					"size": {
+						"x": 0.2501,
+						"y": 0.37514997,
+						"z": 0.001
+					}
+				}
+			}
+		},
+		"fa17154e-0cb7-481d-bedb-3c4bddc8328b": {
+			"id": "fa17154e-0cb7-481d-bedb-3c4bddc8328b",
+			"props": {
+				"type": "topic",
+				"isSuggested": "False",
+				"name": "video game design",
+				"summary": "Video game design refers to the process of creating the concept, gameplay mechanics, visuals, and overall experience of a video game. It involves a combination of art, storytelling, programming, and sound design to create an interactive and engaging game.Generative AI can play a role in video game design by helping to generate various elements of the game."
+			},
+			"poses": {
+				"fa17154e-0cb7-481d-bedb-3c4bddc8328b": {
+					"pos": {
+						"x": 0.033410527,
+						"y": 0.34665686,
+						"z": 0.8547368
+					},
+					"rot": {
+						"x": 0,
+						"y": -0.00014419183,
+						"z": 0,
+						"w": 1
+					},
+					"size": {
+						"x": 0.29009998,
+						"y": 0.65523124,
+						"z": 0.001
+					}
+				},
+				"7972fc4f-df7a-48f8-8a2e-0ee589d36822": {
+					"pos": {
+						"x": 0.03340938,
+						"y": 0.346654,
+						"z": 0.8547406
+					},
+					"rot": {
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					},
+					"size": {
+						"x": 0.29009998,
+						"y": 0.65525,
+						"z": 0.001
+					}
+				}
+			}
+		},
+		"9bba0415-4a53-4e65-bd33-c7f4220a8bdb": {
+			"id": "9bba0415-4a53-4e65-bd33-c7f4220a8bdb",
+			"props": {
+				"urlSource": "https://image.lexica.art/full_jpg/16861948-6d27-4f8e-89d5-6e70ce6a5dd5",
+				"name": "16861948-6d27-4f8e-89d5-6e70ce6a5dd5",
+				"urlContext": "https://lexica.art/?q=video+game+design&prompt=847c3d8f-dbd9-4fbf-972a-fe7fe275b0f8",
+				"type": "image",
+				"aspectRatio": "0.66667",
+				"assetPath": "9bba0415-4a53-4e65-bd33-c7f4220a8bdb/ImageAsset.jpg"
+			},
+			"poses": {
+				"9bba0415-4a53-4e65-bd33-c7f4220a8bdb": {
+					"pos": {
+						"x": 0.033408936,
+						"y": 0.23409739,
+						"z": 0.8547368
+					},
+					"rot": {
+						"x": 1.8532474E-7,
+						"y": -0.00014419171,
+						"z": -0.0012852652,
+						"w": 0.99999917
+					},
+					"size": {
+						"x": 0.2501,
+						"y": 0.37514997,
+						"z": 0.001
+					}
+				},
+				"7972fc4f-df7a-48f8-8a2e-0ee589d36822": {
+					"pos": {
+						"x": -0.086606264,
+						"y": 0.31450564,
+						"z": 0.8547406
+					},
+					"rot": {
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					},
+					"size": {
+						"x": 0.2501,
+						"y": 0.37514997,
+						"z": 0.001
+					}
+				}
+			}
+		},
+		"d385e4b5-8130-4727-878d-2a24ce94f9a8": {
+			"id": "d385e4b5-8130-4727-878d-2a24ce94f9a8",
+			"props": {
+				"urlSource": "https://image.lexica.art/full_jpg/8c754070-2088-45dc-8ec8-79c849c9e5b0",
+				"name": "8c754070-2088-45dc-8ec8-79c849c9e5b0",
+				"urlContext": "https://lexica.art/?q=industrial+design&prompt=0325a846-3410-4c21-bb3b-bb0d6829a8cf",
+				"type": "image",
+				"aspectRatio": "0.66667",
+				"assetPath": "d385e4b5-8130-4727-878d-2a24ce94f9a8/ImageAsset.jpg"
+			},
+			"poses": {
+				"d385e4b5-8130-4727-878d-2a24ce94f9a8": {
+					"pos": {
+						"x": -0.30667627,
+						"y": 0.2028578,
+						"z": 0.8547294
+					},
+					"rot": {
+						"x": 7.7417766E-8,
+						"y": -0.00024439007,
+						"z": -0.00031677948,
+						"w": 0.99999994
+					},
+					"size": {
+						"x": 0.2501,
+						"y": 0.37514997,
+						"z": 0.001
+					}
+				},
+				"7972fc4f-df7a-48f8-8a2e-0ee589d36822": {
+					"pos": {
+						"x": -0.32666108,
+						"y": -0.05469852,
+						"z": 0.8547406
+					},
+					"rot": {
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					},
+					"size": {
+						"x": 0.2501,
+						"y": 0.37514997,
+						"z": 0.001
+					}
+				}
+			}
+		},
+		"65748031-2125-433a-9b04-c17cac3c8114": {
+			"id": "65748031-2125-433a-9b04-c17cac3c8114",
+			"props": {
+				"type": "text",
+				"text": "5. Back Propagation: Backpropagation is a mathematical algorithm used in neural networks to train the network by adjusting the weights and biases of the network's connections. It calculates the gradient of the loss function with respect to each weight and bias, allowing the network to learn and improve its predictions. The algorithm works by propagating the error from the output layer back through the network, adjusting the weights and biases in each layer based on their contribution to the error. This process is repeated iteratively until the network's predictions converge to the desired output. Backpropagation is a key component of deep learning, enabling neural networks to learn complex patterns and make accurate predictions "
+			},
+			"poses": {
+				"65748031-2125-433a-9b04-c17cac3c8114": {
+					"pos": {
+						"x": 0.043961644,
+						"y": 0.8269539,
+						"z": -0.52644104
+					},
+					"rot": {
+						"x": 0,
+						"y": -0.0010473694,
+						"z": 0,
+						"w": 0.99999946
+					},
+					"size": {
+						"x": 0.2501,
+						"y": 0.1694,
+						"z": 0.0001
+					}
+				}
+			}
+		},
+		"7c915dde-06a3-4115-96bb-a926f10888d3": {
+			"id": "7c915dde-06a3-4115-96bb-a926f10888d3",
+			"props": {
+				"type": "text",
+				"text": "5. Improved decision-making: AI algorithms can process and analyze vast amounts of data to identify patterns and make predictions. This can help businesses and organizations make more informed and data-driven decisions."
+			},
+			"poses": {
+				"7c915dde-06a3-4115-96bb-a926f10888d3": {
+					"pos": {
+						"x": 0.94425607,
+						"y": 0.84473825,
+						"z": -0.5269395
+					},
+					"rot": {
+						"x": 0,
+						"y": 0.0003686386,
+						"z": 0,
+						"w": 0.99999994
+					},
+					"size": {
+						"x": 0.2501,
+						"y": 0.060483105,
+						"z": 0.0001005737
+					}
+				}
+			}
+		},
+		"3d018b6c-5174-48c3-aef8-9f7ab6befe1f": {
+			"id": "3d018b6c-5174-48c3-aef8-9f7ab6befe1f",
+			"props": {
+				"type": "text",
+				"text": "4. Enhanced customer service: AI-powered chatbots and virtual assistants can provide instant and personalized customer support, reducing response times and improving customer satisfaction."
+			},
+			"poses": {
+				"3d018b6c-5174-48c3-aef8-9f7ab6befe1f": {
+					"pos": {
+						"x": 0.94425607,
+						"y": 0.89978826,
+						"z": -0.5269395
+					},
+					"rot": {
+						"x": 0,
+						"y": 0.0003686386,
+						"z": 0,
+						"w": 0.99999994
+					},
+					"size": {
+						"x": 0.2501,
+						"y": 0.049595945,
+						"z": 0.000100233825
+					}
+				}
+			}
+		},
+		"a10bdaa8-a900-4c16-b694-6628d320987f": {
+			"id": "a10bdaa8-a900-4c16-b694-6628d320987f",
+			"props": {
+				"type": "text",
+				"text": "Video game design refers to the process of creating the concept, gameplay mechanics, visuals, and overall experience of a video game. It involves a combination of art, storytelling, programming, and sound design to create an interactive and engaging game."
+			},
+			"poses": {
+				"a10bdaa8-a900-4c16-b694-6628d320987f": {
+					"pos": {
+						"x": 0.033410527,
+						"y": 0.6240235,
+						"z": 0.8547368
+					},
+					"rot": {
+						"x": 0,
+						"y": -0.00014417693,
+						"z": 0,
+						"w": 1
+					},
+					"size": {
+						"x": 0.2501,
+						"y": 0.060489923,
+						"z": 0.000100342324
+					}
+				}
+			}
+		},
+		"25504046-a937-4538-acd6-047616b6fefa": {
+			"id": "25504046-a937-4538-acd6-047616b6fefa",
+			"props": {
+				"type": "topic",
+				"isSuggested": "False",
+				"name": "architecture",
+				"summary": "Architects can use virtual reality (VR) to create realistic 3D models of buildings and spaces. These VR models can be explored and experienced by wearing a VR headset. VR can also be used to simulate different lighting conditions, materials, and textures, helping architects make informed decisions."
+			},
+			"poses": {
+				"25504046-a937-4538-acd6-047616b6fefa": {
+					"pos": {
+						"x": -0.64675784,
+						"y": 0.34773535,
+						"z": 0.8547342
+					},
+					"rot": {
+						"x": 0,
+						"y": -0.0011165951,
+						"z": 0,
+						"w": 0.9999994
+					},
+					"size": {
+						"x": 0.29009998,
+						"y": 0.69883084,
+						"z": 0.001
+					}
+				},
+				"7972fc4f-df7a-48f8-8a2e-0ee589d36822": {
+					"pos": {
+						"x": -0.6467582,
+						"y": 0.34773955,
+						"z": 0.8547406
+					},
+					"rot": {
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					},
+					"size": {
+						"x": 0.29009998,
+						"y": 0.69885,
+						"z": 0.001
+					}
+				}
+			}
+		},
+		"7cda0f44-874e-4f71-8672-94bf6d7dfb3b": {
+			"id": "7cda0f44-874e-4f71-8672-94bf6d7dfb3b",
+			"props": {
+				"type": "text",
+				"text": "3. Healthcare advancements: AI can be used in medical diagnosis, drug discovery, and treatment planning. It can analyze medical images, predict disease progression, and assist in surgical procedures, leading to improved healthcare outcomes."
+			},
+			"poses": {
+				"7cda0f44-874e-4f71-8672-94bf6d7dfb3b": {
+					"pos": {
+						"x": 0.94425607,
+						"y": 0.95485675,
+						"z": -0.5269395
+					},
+					"rot": {
+						"x": 0,
+						"y": 0.0003686386,
+						"z": 0,
+						"w": 0.99999994
+					},
+					"size": {
+						"x": 0.2501,
+						"y": 0.060482424,
+						"z": 0.000100596924
+					}
+				}
+			}
+		},
+		"9880db2c-7eb2-4f0b-9c31-ce18ad4c037c": {
+			"id": "9880db2c-7eb2-4f0b-9c31-ce18ad4c037c",
+			"props": {
+				"type": "text",
+				"text": "2. Personalization: AI algorithms can analyze large amounts of data to understand individual preferences and behaviors. This enables personalized recommendations, tailored marketing campaigns, and customized user experiences."
+			},
+			"poses": {
+				"9880db2c-7eb2-4f0b-9c31-ce18ad4c037c": {
+					"pos": {
+						"x": 0.94425607,
+						"y": 1.0153568,
+						"z": -0.5269395
+					},
+					"rot": {
+						"x": 0,
+						"y": 0.0003686386,
+						"z": 0,
+						"w": 0.99999994
+					},
+					"size": {
+						"x": 0.2501,
+						"y": 0.060485438,
+						"z": 0.00010049454
+					}
+				}
+			}
+		},
+		"79952d5a-c7ba-4799-a48f-b427292d889d": {
+			"id": "79952d5a-c7ba-4799-a48f-b427292d889d",
+			"props": {
+				"type": "topic",
+				"isSuggested": "False",
+				"name": "industrial design",
+				"summary": "Industrial design is a field that focuses on creating and developing products that are aesthetically pleasing, functional, and user-friendly. AI algorithms can be used to analyze user preferences and behavior to gain insights into what features and designs are most appealing. AR can also play a significant role in industrial design by allowing designers to visualize and manipulate virtual objects in real-world environments."
+			},
+			"poses": {
+				"79952d5a-c7ba-4799-a48f-b427292d889d": {
+					"pos": {
+						"x": -0.3066704,
+						"y": 0.34265542,
+						"z": 0.85473686
+					},
+					"rot": {
+						"x": 0,
+						"y": -0.0002443901,
+						"z": 0,
+						"w": 1
+					},
+					"size": {
+						"x": 0.29009998,
+						"y": 0.7097498,
+						"z": 0.001
+					}
+				},
+				"7972fc4f-df7a-48f8-8a2e-0ee589d36822": {
+					"pos": {
+						"x": -0.30667293,
+						"y": 0.34265965,
+						"z": 0.8547406
+					},
+					"rot": {
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					},
+					"size": {
+						"x": 0.29009998,
+						"y": 0.70975,
+						"z": 0.001
+					}
+				}
+			}
+		},
+		"4a71bf03-68b7-4b8a-a4b2-be469a531ae0": {
+			"id": "4a71bf03-68b7-4b8a-a4b2-be469a531ae0",
+			"props": {
+				"type": "text",
+				"text": "1. Automation: AI has the potential to automate various tasks and processes, leading to increased efficiency and productivity. This can free up human resources to focus on more complex and creative tasks."
+			},
+			"poses": {
+				"4a71bf03-68b7-4b8a-a4b2-be469a531ae0": {
+					"pos": {
+						"x": 0.94425607,
+						"y": 1.0704067,
+						"z": -0.5269395
+					},
+					"rot": {
+						"x": 0,
+						"y": 0.0003686386,
+						"z": 0,
+						"w": 0.99999994
+					},
+					"size": {
+						"x": 0.2501,
+						"y": 0.049580187,
+						"z": 0.00010114303
+					}
+				}
+			}
+		},
+		"434aa5bc-a000-4669-afe2-b630c5909592": {
+			"id": "434aa5bc-a000-4669-afe2-b630c5909592",
+			"props": {
+				"type": "text",
+				"text": "Some of the transformative impacts of AI include:"
+			},
+			"poses": {
+				"434aa5bc-a000-4669-afe2-b630c5909592": {
+					"pos": {
+						"x": 0.94425607,
+						"y": 1.1036568,
+						"z": -0.5269395
+					},
+					"rot": {
+						"x": 0,
+						"y": 0.0003686386,
+						"z": 0,
+						"w": 0.99999994
+					},
+					"size": {
+						"x": 0.2501,
+						"y": 0.016912205,
+						"z": 0.000100642326
+					}
+				}
+			}
+		},
+		"90801856-884c-49ae-a7ce-626d4204d92e": {
+			"id": "90801856-884c-49ae-a7ce-626d4204d92e",
+			"props": {
+				"type": "topic",
+				"isSuggested": "False",
+				"name": "What might be some of the transformative impacts of AI?",
+				"summary": "AI can be used in medical diagnosis, drug discovery, and treatment planning. It can analyze medical images, predict disease progression, and assist in surgical procedures, leading to improved healthcare outcomes. AI-powered chatbots and virtual assistants can provide instant and personalized customer support, reducing response times and improving customer satisfaction."
+			},
+			"poses": {
+				"90801856-884c-49ae-a7ce-626d4204d92e": {
+					"pos": {
+						"x": 0.6641564,
+						"y": 0.9632975,
+						"z": -0.526733
+					},
+					"rot": {
+						"x": 0,
+						"y": 0.0003686386,
+						"z": 0,
+						"w": 0.99999994
+					},
+					"size": {
+						"x": 0.8503,
+						"y": 0.43014994,
+						"z": 0.001
+					}
+				},
+				"7972fc4f-df7a-48f8-8a2e-0ee589d36822": {
+					"pos": {
+						"x": 0.66415524,
+						"y": 0.96330357,
+						"z": -0.5267345
+					},
+					"rot": {
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					},
+					"size": {
+						"x": 0.8503,
+						"y": 0.43014994,
+						"z": 0.001
+					}
+				},
+				"ParentingTrf-90801856-884c-49ae-a7ce-626d4204d92e": {
+					"pos": {
+						"x": 0.2801,
+						"y": 0,
+						"z": 0
+					},
+					"rot": {
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					},
+					"size": {
+						"x": 1,
+						"y": 1,
+						"z": 1
+					}
+				}
+			}
+		},
+		"13e0d2d6-78be-4c80-a02e-155aa953a044": {
+			"id": "13e0d2d6-78be-4c80-a02e-155aa953a044",
+			"props": {
+				"urlSource": "https://image.lexica.art/full_jpg/04302eaf-44d4-46cd-a2dc-d56dd2676696",
+				"name": "04302eaf-44d4-46cd-a2dc-d56dd2676696",
+				"urlContext": "https://lexica.art/?q=architecture&prompt=0f22e61b-12d5-4612-aad0-d9b668c5eefb",
+				"type": "image",
+				"aspectRatio": "0.66667",
+				"assetPath": "13e0d2d6-78be-4c80-a02e-155aa953a044/ImageAsset.jpg"
+			},
+			"poses": {
+				"13e0d2d6-78be-4c80-a02e-155aa953a044": {
+					"pos": {
+						"x": -0.64675933,
+						"y": 0.21339087,
+						"z": 0.85472715
+					},
+					"rot": {
+						"x": -4.1692545E-7,
+						"y": -0.001116595,
+						"z": 0.00037338978,
+						"w": 0.99999934
+					},
+					"size": {
+						"x": 0.2501,
+						"y": 0.37514997,
+						"z": 0.001
+					}
+				},
+				"7972fc4f-df7a-48f8-8a2e-0ee589d36822": {
+					"pos": {
+						"x": -0.6576441,
+						"y": -0.044171035,
+						"z": 0.8547406
+					},
+					"rot": {
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					},
+					"size": {
+						"x": 0.2501,
+						"y": 0.37514997,
+						"z": 0.001
+					}
+				}
+			}
+		},
+		"f56e348b-0560-449d-a0fc-77e71a312866": {
+			"id": "f56e348b-0560-449d-a0fc-77e71a312866",
+			"props": {
+				"type": "text",
+				"text": "4. Loss Function: The output generated by the neural network is compared to the expected output from the labeled data using a loss function. The loss function measures the difference between the predicted output and the actual output."
+			},
+			"poses": {
+				"f56e348b-0560-449d-a0fc-77e71a312866": {
+					"pos": {
+						"x": 0.043961644,
+						"y": 0.9419039,
+						"z": -0.52644104
+					},
+					"rot": {
+						"x": 0,
+						"y": -0.0010473694,
+						"z": 0,
+						"w": 0.99999946
+					},
+					"size": {
+						"x": 0.2501,
+						"y": 0.060499888,
+						"z": 0.00010000379
+					}
+				}
+			}
+		},
+		"1c2cf52a-aa50-47d2-88f5-c75955c648c9": {
+			"id": "1c2cf52a-aa50-47d2-88f5-c75955c648c9",
+			"props": {
+				"type": "text",
+				"text": "3. Forward Propagation: During the training process, data is fed into the neural network through the input layer. The data flows through the network, and calculations are performed at each node to produce an output."
+			},
+			"poses": {
+				"1c2cf52a-aa50-47d2-88f5-c75955c648c9": {
+					"pos": {
+						"x": 0.043961644,
+						"y": 1.0024039,
+						"z": -0.52644104
+					},
+					"rot": {
+						"x": 0,
+						"y": -0.0010473694,
+						"z": 0,
+						"w": 0.99999946
+					},
+					"size": {
+						"x": 0.2501,
+						"y": 0.06048435,
+						"z": 0.0001005315
+					}
+				}
+			}
+		},
+		"77622c33-a783-40ae-b2ce-0cd4c82e0774": {
+			"id": "77622c33-a783-40ae-b2ce-0cd4c82e0774",
+			"props": {
+				"type": "text",
+				"text": "2. Neural Network Architecture: The neural network is composed of multiple layers of interconnected nodes or artificial neurons. Each node takes in input data, applies mathematical operations, and produces an output."
+			},
+			"poses": {
+				"77622c33-a783-40ae-b2ce-0cd4c82e0774": {
+					"pos": {
+						"x": 0.043961644,
+						"y": 1.0629184,
+						"z": -0.52644104
+					},
+					"rot": {
+						"x": 0,
+						"y": -0.0010473694,
+						"z": 0,
+						"w": 0.99999946
+					},
+					"size": {
+						"x": 0.2501,
+						"y": 0.06049063,
+						"z": 0.000100318284
+					}
+				}
+			}
+		},
+		"8d9126a0-1011-419c-8929-3cc1a496c657": {
+			"id": "8d9126a0-1011-419c-8929-3cc1a496c657",
+			"props": {
+				"type": "text",
+				"text": "1. Data Collection: The first step in deep learning is collecting a large amount of labeled data. This data is used to train the neural network and teach it patterns and relationships."
+			},
+			"poses": {
+				"8d9126a0-1011-419c-8929-3cc1a496c657": {
+					"pos": {
+						"x": 0.043961644,
+						"y": 1.1179684,
+						"z": -0.52644104
+					},
+					"rot": {
+						"x": 0,
+						"y": -0.0010473694,
+						"z": 0,
+						"w": 0.99999946
+					},
+					"size": {
+						"x": 0.2501,
+						"y": 0.049580954,
+						"z": 0.000101098674
+					}
+				}
+			}
+		},
+		"2c3cf9ef-54ea-4949-bd8b-4598382d575e": {
+			"id": "2c3cf9ef-54ea-4949-bd8b-4598382d575e",
+			"props": {
+				"type": "text",
+				"text": "In the context of spatial computing, architecture refers to the application of spatial computing technologies in the field of architectural design and visualization. Spatial computing can be used to create immersive and interactive architectural experiences for designers, clients, and users."
+			},
+			"poses": {
+				"2c3cf9ef-54ea-4949-bd8b-4598382d575e": {
+					"pos": {
+						"x": -0.64675784,
+						"y": 0.64145136,
+						"z": 0.8547342
+					},
+					"rot": {
+						"x": -3E-45,
+						"y": -0.0022773787,
+						"z": -3E-45,
+						"w": 0.99999744
+					},
+					"size": {
+						"x": 0.2501,
+						"y": 0.071392514,
+						"z": 0.00010018004
+					}
+				}
+			}
+		},
+		"1b38ae76-2cd6-4c06-9692-8fc87817f937": {
+			"id": "1b38ae76-2cd6-4c06-9692-8fc87817f937",
+			"props": {
+				"type": "text",
+				"text": "Architects can use virtual reality (VR) to create realistic 3D models of buildings and spaces. These VR models can be explored and experienced by wearing a VR headset, allowing architects to visualize their designs in a more immersive and accurate manner. VR can also be used to simulate different lighting conditions, materials, and textures, helping architects make informed decisions about design elements."
+			},
+			"poses": {
+				"1b38ae76-2cd6-4c06-9692-8fc87817f937": {
+					"pos": {
+						"x": -0.64675784,
+						"y": 0.55915135,
+						"z": 0.8547342
+					},
+					"rot": {
+						"x": -3E-45,
+						"y": -0.0022773787,
+						"z": -3E-45,
+						"w": 0.99999744
+					},
+					"size": {
+						"x": 0.2501,
+						"y": 0.09319672,
+						"z": 0.00010004983
+					}
+				}
+			}
+		},
+		"99de3269-af74-482c-a0ea-aa11265a8010": {
+			"id": "99de3269-af74-482c-a0ea-aa11265a8010",
+			"props": {
+				"type": "text",
+				"text": "Augmented reality (AR) can be used in architecture to overlay virtual elements onto the real world. For example, architects can use AR to superimpose 3D models of buildings onto physical construction sites, allowing them to visualize how the proposed design will fit into the existing environment. AR can also be used to provide real-time information about a building's performance, such as energy usage or structural integrity."
+			},
+			"poses": {
+				"99de3269-af74-482c-a0ea-aa11265a8010": {
+					"pos": {
+						"x": -0.64675784,
+						"y": 0.46050137,
+						"z": 0.8547342
+					},
+					"rot": {
+						"x": -3E-45,
+						"y": -0.0024743641,
+						"z": -3E-45,
+						"w": 0.999997
+					},
+					"size": {
+						"x": 0.2501,
+						"y": 0.10409967,
+						"z": 0.000100004254
+					}
+				}
+			}
+		},
+		"05462a56-bb48-49dd-bc53-c1b7a6317573": {
+			"id": "05462a56-bb48-49dd-bc53-c1b7a6317573",
+			"props": {
+				"type": "text",
+				"text": "Industrial design is a field that focuses on creating and developing products that are aesthetically pleasing, functional, and user-friendly. It involves the process of designing and improving the appearance, usability, and production of various products, including consumer goods, appliances, furniture, vehicles, and more."
+			},
+			"poses": {
+				"05462a56-bb48-49dd-bc53-c1b7a6317573": {
+					"pos": {
+						"x": -0.3066704,
+						"y": 0.63637054,
+						"z": 0.85473686
+					},
+					"rot": {
+						"x": 0,
+						"y": -0.0002443901,
+						"z": 0,
+						"w": 1
+					},
+					"size": {
+						"x": 0.2501,
+						"y": 0.082296506,
+						"z": 0.00010006502
+					}
+				}
+			}
+		},
+		"ecbcfefc-f5e9-4d36-8dbd-df6abe2138dd": {
+			"id": "ecbcfefc-f5e9-4d36-8dbd-df6abe2138dd",
+			"props": {
+				"type": "text",
+				"text": "In the context of spatial computing, industrial design can benefit from the integration of AI and AR technologies. AI algorithms can be used to analyze user preferences and behavior to gain insights into what features and designs are most appealing and functional. This information can then be used to inform the design process and create products that better meet the needs and desires of consumers."
+			},
+			"poses": {
+				"ecbcfefc-f5e9-4d36-8dbd-df6abe2138dd": {
+					"pos": {
+						"x": -0.3066704,
+						"y": 0.5486206,
+						"z": 0.85473686
+					},
+					"rot": {
+						"x": 0,
+						"y": -0.0002443901,
+						"z": 0,
+						"w": 1
+					},
+					"size": {
+						"x": 0.2501,
+						"y": 0.09318474,
+						"z": 0.00010023196
+					}
+				}
+			}
+		},
+		"9e2c172a-411c-43ce-9f14-82b2e144b952": {
+			"id": "9e2c172a-411c-43ce-9f14-82b2e144b952",
+			"props": {
+				"type": "text",
+				"text": "AR can also play a significant role in industrial design by allowing designers to visualize and manipulate virtual objects in real-world environments. This enables them to prototype and test product designs in a more efficient and cost-effective manner. AR can overlay virtual design elements onto physical prototypes, allowing designers to assess the appearance and functionality of a product before it is manufactured."
+			},
+			"poses": {
+				"9e2c172a-411c-43ce-9f14-82b2e144b952": {
+					"pos": {
+						"x": -0.3066704,
+						"y": 0.44997054,
+						"z": 0.85473686
+					},
+					"rot": {
+						"x": 0,
+						"y": -8.127456E-5,
+						"z": 0,
+						"w": 1
+					},
+					"size": {
+						"x": 0.2501,
+						"y": 0.10408786,
+						"z": 0.00010015583
+					}
+				}
+			}
+		},
+		"4a2f9233-420c-4469-979c-d47f236f8abb": {
+			"id": "4a2f9233-420c-4469-979c-d47f236f8abb",
+			"props": {
+				"type": "text",
+				"text": "Deep learning is a subset of machine learning that involves training artificial neural networks to learn and make predictions or decisions. Here is a simplified explanation of how deep learning works:"
+			},
+			"poses": {
+				"4a2f9233-420c-4469-979c-d47f236f8abb": {
+					"pos": {
+						"x": 0.043961644,
+						"y": 1.1675684,
+						"z": -0.52644104
+					},
+					"rot": {
+						"x": 0,
+						"y": -0.0010473694,
+						"z": 0,
+						"w": 0.99999946
+					},
+					"size": {
+						"x": 0.2501,
+						"y": 0.049580954,
+						"z": 0.000101098674
+					}
+				}
+			}
+		},
+		"cb85d2a8-341c-48cf-a0b2-5b1446d04e06": {
+			"id": "cb85d2a8-341c-48cf-a0b2-5b1446d04e06",
+			"props": {
+				"urlSource": "https://image.lexica.art/full_jpg/ed65d5a2-60a9-415d-a868-398ad6159e42",
+				"name": "ed65d5a2-60a9-415d-a868-398ad6159e42",
+				"urlContext": "https://lexica.art/?q=misinformation&prompt=d50ed6ca-266b-4294-9f81-d5618c427e76",
+				"type": "image",
+				"aspectRatio": "0.66667",
+				"assetPath": "cb85d2a8-341c-48cf-a0b2-5b1446d04e06/ImageAsset.jpg"
+			},
+			"poses": {
+				"cb85d2a8-341c-48cf-a0b2-5b1446d04e06": {
+					"pos": {
+						"x": 0.38405645,
+						"y": 0.9632976,
+						"z": -0.5265266
+					},
+					"rot": {
+						"x": 3.9224463E-7,
+						"y": 0.0003686384,
+						"z": 0.0010640356,
+						"w": 0.9999994
+					},
+					"size": {
+						"x": 0.2501,
+						"y": 0.37514997,
+						"z": 0.001
+					}
+				},
+				"7972fc4f-df7a-48f8-8a2e-0ee589d36822": {
+					"pos": {
+						"x": 0.26403978,
+						"y": 0.96129805,
+						"z": -0.5267345
+					},
+					"rot": {
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					},
+					"size": {
+						"x": 0.2501,
+						"y": 0.37514997,
+						"z": 0.001
+					}
+				}
+			}
+		},
+		"5722e3e8-4326-442b-9f78-468edf4be3c6": {
+			"id": "5722e3e8-4326-442b-9f78-468edf4be3c6",
+			"props": {
+				"type": "topic",
+				"isSuggested": "False",
+				"name": "How does deep learning work?",
+				"summary": "Deep learning is a subset of machine learning that involves training artificial neural networks to learn and make predictions or decisions. The first step in deep learning is collecting a large amount of labeled data. This data is used to train the neural network and teach it patterns and relationships. Backpropagation is a key component of deep learning, enabling neural Networks to learn complex patterns and make accurate predictions."
+			},
+			"poses": {
+				"5722e3e8-4326-442b-9f78-468edf4be3c6": {
+					"pos": {
+						"x": -0.096080855,
+						"y": 0.96731114,
+						"z": -0.5267344
+					},
+					"rot": {
+						"x": 0,
+						"y": -0.0010473694,
+						"z": 0,
+						"w": 0.99999946
+					},
+					"size": {
+						"x": 0.5702,
+						"y": 0.4901,
+						"z": 0.001
+					}
+				},
+				"7972fc4f-df7a-48f8-8a2e-0ee589d36822": {
+					"pos": {
+						"x": -0.096080646,
+						"y": 0.96731365,
+						"z": -0.5267345
+					},
+					"rot": {
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					},
+					"size": {
+						"x": 0.5702,
+						"y": 0.4901,
+						"z": 0.001
+					}
+				},
+				"ParentingTrf-5722e3e8-4326-442b-9f78-468edf4be3c6": {
+					"pos": {
+						"x": 0.14005,
+						"y": 0,
+						"z": 0
+					},
+					"rot": {
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					},
+					"size": {
+						"x": 1,
+						"y": 1,
+						"z": 1
+					}
+				}
+			}
+		},
+		"2d725dca-303f-48e8-a8a8-81a3c4c1f66c": {
+			"id": "2d725dca-303f-48e8-a8a8-81a3c4c1f66c",
+			"props": {
+				"type": "text",
+				"text": "Text generation algorithms can also be used in video game design to generate dialogue, narratives, and quests. This can help create dynamic and immersive storytelling experiences for players, as AI-generated content can adapt and respond to player choices and actions."
+			},
+			"poses": {
+				"2d725dca-303f-48e8-a8a8-81a3c4c1f66c": {
+					"pos": {
+						"x": 0.033410527,
+						"y": 0.46487543,
+						"z": 0.8547368
+					},
+					"rot": {
+						"x": 0,
+						"y": 0.00018636063,
+						"z": 0,
+						"w": 1
+					},
+					"size": {
+						"x": 0.2501,
+						"y": 0.07138568,
+						"z": 0.00010034436
+					}
+				}
+			}
+		},
+		"63332159-c338-4d85-98d4-1587fb780fb3": {
+			"id": "63332159-c338-4d85-98d4-1587fb780fb3",
+			"props": {
+				"type": "text",
+				"text": "Generative AI can play a role in video game design by helping to generate various elements of the game. For example, AI algorithms can be trained to generate realistic and visually appealing landscapes, characters, and objects. This can save time and effort for game developers, as they can use AI-generated content as a starting point and then customize and refine it to fit their specific vision."
+			},
+			"poses": {
+				"63332159-c338-4d85-98d4-1587fb780fb3": {
+					"pos": {
+						"x": 0.033410527,
+						"y": 0.5471735,
+						"z": 0.8547368
+					},
+					"rot": {
+						"x": 0,
+						"y": -0.00014417693,
+						"z": 0,
+						"w": 1
+					},
+					"size": {
+						"x": 0.2501,
+						"y": 0.09318891,
+						"z": 0.00010016863
+					}
+				}
+			}
 		}
 	},
 	"edges": {
-		"8db24e36-5a0b-46ae-aa73-47528ef15c4f[includes]217e3036-5e34-4d89-89b7-37aeb867f713": {
-			"srcNodeID": "8db24e36-5a0b-46ae-aa73-47528ef15c4f",
-			"trgNodeID": "217e3036-5e34-4d89-89b7-37aeb867f713",
+		"7972fc4f-df7a-48f8-8a2e-0ee589d36822[includes]161d1f80-7b7d-49e1-b7f3-9ef29cc02d69": {
+			"srcNodeID": "7972fc4f-df7a-48f8-8a2e-0ee589d36822",
+			"trgNodeID": "161d1f80-7b7d-49e1-b7f3-9ef29cc02d69",
 			"type": "includes",
 			"props": {}
 		},
-		"4d7b5aec-4579-4277-b5fc-1bcea8ed3758[includes]11fc989b-e9c2-4154-bd3e-62eb8b5b46f2": {
-			"srcNodeID": "4d7b5aec-4579-4277-b5fc-1bcea8ed3758",
-			"trgNodeID": "11fc989b-e9c2-4154-bd3e-62eb8b5b46f2",
+		"161d1f80-7b7d-49e1-b7f3-9ef29cc02d69[includes]80db4e7d-ab32-45ff-9d80-c7327ca63ce9": {
+			"srcNodeID": "161d1f80-7b7d-49e1-b7f3-9ef29cc02d69",
+			"trgNodeID": "80db4e7d-ab32-45ff-9d80-c7327ca63ce9",
 			"type": "includes",
 			"props": {
 				"layoutIndexY": "0",
 				"layoutIndexX": "0"
 			}
 		},
-		"4d7b5aec-4579-4277-b5fc-1bcea8ed3758[includes]456b9ca9-7e9c-4b17-939f-d552b76ed4a8": {
-			"srcNodeID": "4d7b5aec-4579-4277-b5fc-1bcea8ed3758",
-			"trgNodeID": "456b9ca9-7e9c-4b17-939f-d552b76ed4a8",
-			"type": "includes",
-			"props": {
-				"layoutIndexY": "1",
-				"layoutIndexX": "1"
-			}
-		},
-		"4d7b5aec-4579-4277-b5fc-1bcea8ed3758[includes]d8bd75cc-f9a5-4b50-8604-e4e84a775b3c": {
-			"srcNodeID": "4d7b5aec-4579-4277-b5fc-1bcea8ed3758",
-			"trgNodeID": "d8bd75cc-f9a5-4b50-8604-e4e84a775b3c",
-			"type": "includes",
-			"props": {
-				"layoutIndexY": "0",
-				"layoutIndexX": "1"
-			}
-		},
-		"808223dd-bac4-4c11-ba05-66cbe587615b[includes]999d1533-c045-4954-9dcd-589590ee8105": {
-			"srcNodeID": "808223dd-bac4-4c11-ba05-66cbe587615b",
-			"trgNodeID": "999d1533-c045-4954-9dcd-589590ee8105",
-			"type": "includes",
-			"props": {
-				"layoutIndexY": "0",
-				"layoutIndexX": "-1"
-			}
-		},
-		"8db24e36-5a0b-46ae-aa73-47528ef15c4f[includes]4d7b5aec-4579-4277-b5fc-1bcea8ed3758": {
-			"srcNodeID": "8db24e36-5a0b-46ae-aa73-47528ef15c4f",
-			"trgNodeID": "4d7b5aec-4579-4277-b5fc-1bcea8ed3758",
-			"type": "includes",
-			"props": {}
-		},
-		"808223dd-bac4-4c11-ba05-66cbe587615b[includes]a3bc75fb-c865-43f5-954a-149b7928ad3e": {
-			"srcNodeID": "808223dd-bac4-4c11-ba05-66cbe587615b",
-			"trgNodeID": "a3bc75fb-c865-43f5-954a-149b7928ad3e",
-			"type": "includes",
-			"props": {
-				"layoutIndexY": "0",
-				"layoutIndexX": "0"
-			}
-		},
-		"808223dd-bac4-4c11-ba05-66cbe587615b[includes]e4039b64-5c6a-45f0-9349-d0d6f43604b2": {
-			"srcNodeID": "808223dd-bac4-4c11-ba05-66cbe587615b",
-			"trgNodeID": "e4039b64-5c6a-45f0-9349-d0d6f43604b2",
-			"type": "includes",
-			"props": {
-				"layoutIndexY": "1",
-				"layoutIndexX": "-1"
-			}
-		},
-		"8db24e36-5a0b-46ae-aa73-47528ef15c4f[includes]808223dd-bac4-4c11-ba05-66cbe587615b": {
-			"srcNodeID": "8db24e36-5a0b-46ae-aa73-47528ef15c4f",
-			"trgNodeID": "808223dd-bac4-4c11-ba05-66cbe587615b",
-			"type": "includes",
-			"props": {}
-		},
-		"854c8e34-85fe-48e3-b1a9-c79cf6c154f3[includes]e74ae924-c0d5-4a3e-83f4-2899259b6179": {
-			"srcNodeID": "854c8e34-85fe-48e3-b1a9-c79cf6c154f3",
-			"trgNodeID": "e74ae924-c0d5-4a3e-83f4-2899259b6179",
-			"type": "includes",
-			"props": {
-				"layoutIndexY": "1",
-				"layoutIndexX": "1"
-			}
-		},
-		"854c8e34-85fe-48e3-b1a9-c79cf6c154f3[includes]13b8a22f-2375-405e-ba09-47a387efa9f6": {
-			"srcNodeID": "854c8e34-85fe-48e3-b1a9-c79cf6c154f3",
-			"trgNodeID": "13b8a22f-2375-405e-ba09-47a387efa9f6",
-			"type": "includes",
-			"props": {
-				"layoutIndexY": "0",
-				"layoutIndexX": "1"
-			}
-		},
-		"854c8e34-85fe-48e3-b1a9-c79cf6c154f3[includes]a77f9451-d70f-44bc-9cab-d7f113e946db": {
-			"srcNodeID": "854c8e34-85fe-48e3-b1a9-c79cf6c154f3",
-			"trgNodeID": "a77f9451-d70f-44bc-9cab-d7f113e946db",
-			"type": "includes",
-			"props": {
-				"layoutIndexY": "0",
-				"layoutIndexX": "0"
-			}
-		},
-		"854c8e34-85fe-48e3-b1a9-c79cf6c154f3[includes]d3418a48-2912-40db-a00f-89ab7dc64a80": {
-			"srcNodeID": "854c8e34-85fe-48e3-b1a9-c79cf6c154f3",
-			"trgNodeID": "d3418a48-2912-40db-a00f-89ab7dc64a80",
+		"161d1f80-7b7d-49e1-b7f3-9ef29cc02d69[includes]244bb58c-e487-4e67-8291-447cd5a260c1": {
+			"srcNodeID": "161d1f80-7b7d-49e1-b7f3-9ef29cc02d69",
+			"trgNodeID": "244bb58c-e487-4e67-8291-447cd5a260c1",
 			"type": "includes",
 			"props": {
 				"layoutIndexY": "1",
 				"layoutIndexX": "0"
 			}
 		},
-		"8db24e36-5a0b-46ae-aa73-47528ef15c4f[includes]854c8e34-85fe-48e3-b1a9-c79cf6c154f3": {
-			"srcNodeID": "8db24e36-5a0b-46ae-aa73-47528ef15c4f",
-			"trgNodeID": "854c8e34-85fe-48e3-b1a9-c79cf6c154f3",
-			"type": "includes",
-			"props": {}
-		},
-		"8db24e36-5a0b-46ae-aa73-47528ef15c4f[includes]d7baf910-206a-4326-b921-6baecaf76d4b": {
-			"srcNodeID": "8db24e36-5a0b-46ae-aa73-47528ef15c4f",
-			"trgNodeID": "d7baf910-206a-4326-b921-6baecaf76d4b",
-			"type": "includes",
-			"props": {}
-		},
-		"d7baf910-206a-4326-b921-6baecaf76d4b[includes]d753e684-ae77-4674-a05f-a62dd5e53e3a": {
-			"srcNodeID": "d7baf910-206a-4326-b921-6baecaf76d4b",
-			"trgNodeID": "d753e684-ae77-4674-a05f-a62dd5e53e3a",
-			"type": "includes",
-			"props": {
-				"layoutIndexY": "0",
-				"layoutIndexX": "0"
-			}
-		},
-		"d7baf910-206a-4326-b921-6baecaf76d4b[includes]31432224-ba38-474d-a198-1946e810f81a": {
-			"srcNodeID": "d7baf910-206a-4326-b921-6baecaf76d4b",
-			"trgNodeID": "31432224-ba38-474d-a198-1946e810f81a",
-			"type": "includes",
-			"props": {
-				"layoutIndexY": "1",
-				"layoutIndexX": "0"
-			}
-		},
-		"d7baf910-206a-4326-b921-6baecaf76d4b[includes]f459f16e-4a7f-4fdf-a0a1-8f86fbfaf405": {
-			"srcNodeID": "d7baf910-206a-4326-b921-6baecaf76d4b",
-			"trgNodeID": "f459f16e-4a7f-4fdf-a0a1-8f86fbfaf405",
+		"161d1f80-7b7d-49e1-b7f3-9ef29cc02d69[includes]c173126e-e2c1-4a64-aeb7-ce3bdba0c44f": {
+			"srcNodeID": "161d1f80-7b7d-49e1-b7f3-9ef29cc02d69",
+			"trgNodeID": "c173126e-e2c1-4a64-aeb7-ce3bdba0c44f",
 			"type": "includes",
 			"props": {
 				"layoutIndexY": "2",
 				"layoutIndexX": "0"
 			}
 		},
-		"d7baf910-206a-4326-b921-6baecaf76d4b[includes]6e31c362-da36-49a9-ae42-cc4b15512341": {
-			"srcNodeID": "d7baf910-206a-4326-b921-6baecaf76d4b",
-			"trgNodeID": "6e31c362-da36-49a9-ae42-cc4b15512341",
+		"161d1f80-7b7d-49e1-b7f3-9ef29cc02d69[includes]3a99f722-012f-493c-b95f-ef3e62d00103": {
+			"srcNodeID": "161d1f80-7b7d-49e1-b7f3-9ef29cc02d69",
+			"trgNodeID": "3a99f722-012f-493c-b95f-ef3e62d00103",
 			"type": "includes",
 			"props": {
 				"layoutIndexY": "3",
 				"layoutIndexX": "0"
 			}
 		},
-		"d7baf910-206a-4326-b921-6baecaf76d4b[includes]8b9a6c68-5d5f-4bc9-9fd7-e601af2f0c6c": {
-			"srcNodeID": "d7baf910-206a-4326-b921-6baecaf76d4b",
-			"trgNodeID": "8b9a6c68-5d5f-4bc9-9fd7-e601af2f0c6c",
+		"7972fc4f-df7a-48f8-8a2e-0ee589d36822[includes]fc8699e0-f418-41bc-ae82-e95614c599ed": {
+			"srcNodeID": "7972fc4f-df7a-48f8-8a2e-0ee589d36822",
+			"trgNodeID": "fc8699e0-f418-41bc-ae82-e95614c599ed",
 			"type": "includes",
-			"props": {
-				"layoutIndexY": "4",
-				"layoutIndexX": "0"
-			}
+			"props": {}
 		},
-		"d7baf910-206a-4326-b921-6baecaf76d4b[includes]674d51a5-a596-481a-912a-54cbfeab8aea": {
-			"srcNodeID": "d7baf910-206a-4326-b921-6baecaf76d4b",
-			"trgNodeID": "674d51a5-a596-481a-912a-54cbfeab8aea",
-			"type": "includes",
-			"props": {
-				"layoutIndexY": "5",
-				"layoutIndexX": "0"
-			}
-		},
-		"d7baf910-206a-4326-b921-6baecaf76d4b[includes]7ec65030-61b8-4b95-9834-d2f98b6dcda0": {
-			"srcNodeID": "d7baf910-206a-4326-b921-6baecaf76d4b",
-			"trgNodeID": "7ec65030-61b8-4b95-9834-d2f98b6dcda0",
-			"type": "includes",
-			"props": {
-				"layoutIndexY": "6",
-				"layoutIndexX": "0"
-			}
-		},
-		"0bdc7b0e-f625-45b9-a461-a91327afed7e[includes]2b620f68-083e-4f83-9180-e01b2df19d68": {
-			"srcNodeID": "0bdc7b0e-f625-45b9-a461-a91327afed7e",
-			"trgNodeID": "2b620f68-083e-4f83-9180-e01b2df19d68",
+		"fc8699e0-f418-41bc-ae82-e95614c599ed[includes]3308fe31-45ab-49b3-b7d1-a874510d40c3": {
+			"srcNodeID": "fc8699e0-f418-41bc-ae82-e95614c599ed",
+			"trgNodeID": "3308fe31-45ab-49b3-b7d1-a874510d40c3",
 			"type": "includes",
 			"props": {
 				"layoutIndexY": "0",
 				"layoutIndexX": "0"
 			}
 		},
-		"8db24e36-5a0b-46ae-aa73-47528ef15c4f[includes]0bdc7b0e-f625-45b9-a461-a91327afed7e": {
-			"srcNodeID": "8db24e36-5a0b-46ae-aa73-47528ef15c4f",
-			"trgNodeID": "0bdc7b0e-f625-45b9-a461-a91327afed7e",
+		"7972fc4f-df7a-48f8-8a2e-0ee589d36822[includes]fff97f1e-7b55-4858-8419-2820f2539eef": {
+			"srcNodeID": "7972fc4f-df7a-48f8-8a2e-0ee589d36822",
+			"trgNodeID": "fff97f1e-7b55-4858-8419-2820f2539eef",
 			"type": "includes",
 			"props": {}
 		},
-		"0bdc7b0e-f625-45b9-a461-a91327afed7e[includes]3a8af130-19bb-4906-bac5-adea478a8380": {
-			"srcNodeID": "0bdc7b0e-f625-45b9-a461-a91327afed7e",
-			"trgNodeID": "3a8af130-19bb-4906-bac5-adea478a8380",
+		"fff97f1e-7b55-4858-8419-2820f2539eef[includes]f404ce52-d2a9-48c2-9914-a96e460a1afd": {
+			"srcNodeID": "fff97f1e-7b55-4858-8419-2820f2539eef",
+			"trgNodeID": "f404ce52-d2a9-48c2-9914-a96e460a1afd",
+			"type": "includes",
+			"props": {
+				"layoutIndexY": "0",
+				"layoutIndexX": "0"
+			}
+		},
+		"fff97f1e-7b55-4858-8419-2820f2539eef[includes]aa0035d0-fe50-4a33-941c-8c00d34a75e2": {
+			"srcNodeID": "fff97f1e-7b55-4858-8419-2820f2539eef",
+			"trgNodeID": "aa0035d0-fe50-4a33-941c-8c00d34a75e2",
 			"type": "includes",
 			"props": {
 				"layoutIndexY": "1",
 				"layoutIndexX": "0"
 			}
 		},
-		"0bdc7b0e-f625-45b9-a461-a91327afed7e[includes]2cd5e48a-d0b1-4289-a4c0-0d0de1e07054": {
-			"srcNodeID": "0bdc7b0e-f625-45b9-a461-a91327afed7e",
-			"trgNodeID": "2cd5e48a-d0b1-4289-a4c0-0d0de1e07054",
+		"fff97f1e-7b55-4858-8419-2820f2539eef[includes]deb69011-cdec-4bbc-8ab7-6c29006673f3": {
+			"srcNodeID": "fff97f1e-7b55-4858-8419-2820f2539eef",
+			"trgNodeID": "deb69011-cdec-4bbc-8ab7-6c29006673f3",
 			"type": "includes",
 			"props": {
 				"layoutIndexY": "2",
 				"layoutIndexX": "0"
 			}
 		},
-		"0bdc7b0e-f625-45b9-a461-a91327afed7e[includes]99617654-a1a3-40ad-b8b5-74c565062ceb": {
-			"srcNodeID": "0bdc7b0e-f625-45b9-a461-a91327afed7e",
-			"trgNodeID": "99617654-a1a3-40ad-b8b5-74c565062ceb",
+		"fff97f1e-7b55-4858-8419-2820f2539eef[includes]d8928baa-0403-478c-aa91-e0c094138129": {
+			"srcNodeID": "fff97f1e-7b55-4858-8419-2820f2539eef",
+			"trgNodeID": "d8928baa-0403-478c-aa91-e0c094138129",
 			"type": "includes",
 			"props": {
 				"layoutIndexY": "3",
 				"layoutIndexX": "0"
 			}
 		},
-		"0bdc7b0e-f625-45b9-a461-a91327afed7e[includes]ca7d08ac-b5f3-4633-868d-d4ea17389f04": {
-			"srcNodeID": "0bdc7b0e-f625-45b9-a461-a91327afed7e",
-			"trgNodeID": "ca7d08ac-b5f3-4633-868d-d4ea17389f04",
-			"type": "includes",
-			"props": {
-				"layoutIndexY": "4",
-				"layoutIndexX": "0"
-			}
-		},
-		"0bdc7b0e-f625-45b9-a461-a91327afed7e[includes]2cd6cb8a-9bd8-4c8d-bf03-6def069a263f": {
-			"srcNodeID": "0bdc7b0e-f625-45b9-a461-a91327afed7e",
-			"trgNodeID": "2cd6cb8a-9bd8-4c8d-bf03-6def069a263f",
-			"type": "includes",
-			"props": {
-				"layoutIndexY": "5",
-				"layoutIndexX": "0"
-			}
-		},
-		"0bdc7b0e-f625-45b9-a461-a91327afed7e[includes]4e2658c3-e62f-4b0f-8069-2c6f0166cb47": {
-			"srcNodeID": "0bdc7b0e-f625-45b9-a461-a91327afed7e",
-			"trgNodeID": "4e2658c3-e62f-4b0f-8069-2c6f0166cb47",
-			"type": "includes",
-			"props": {
-				"layoutIndexY": "6",
-				"layoutIndexX": "0"
-			}
-		},
-		"8db24e36-5a0b-46ae-aa73-47528ef15c4f[includes]20518012-3418-4455-a9de-1d6cb8a1a8e6": {
-			"srcNodeID": "8db24e36-5a0b-46ae-aa73-47528ef15c4f",
-			"trgNodeID": "20518012-3418-4455-a9de-1d6cb8a1a8e6",
-			"type": "includes",
-			"props": {}
-		},
-		"20518012-3418-4455-a9de-1d6cb8a1a8e6[includes]ebdd6a96-55fd-410f-bd62-f1c6d76a036d": {
-			"srcNodeID": "20518012-3418-4455-a9de-1d6cb8a1a8e6",
-			"trgNodeID": "ebdd6a96-55fd-410f-bd62-f1c6d76a036d",
-			"type": "includes",
-			"props": {
-				"layoutIndexY": "0",
-				"layoutIndexX": "0"
-			}
-		},
-		"20518012-3418-4455-a9de-1d6cb8a1a8e6[includes]1a709d73-3ece-4c14-8c7c-f1a8539e7139": {
-			"srcNodeID": "20518012-3418-4455-a9de-1d6cb8a1a8e6",
-			"trgNodeID": "1a709d73-3ece-4c14-8c7c-f1a8539e7139",
-			"type": "includes",
-			"props": {
-				"layoutIndexY": "1",
-				"layoutIndexX": "0"
-			}
-		},
-		"20518012-3418-4455-a9de-1d6cb8a1a8e6[includes]51881b23-3b17-4a4b-a17f-313c1339eb58": {
-			"srcNodeID": "20518012-3418-4455-a9de-1d6cb8a1a8e6",
-			"trgNodeID": "51881b23-3b17-4a4b-a17f-313c1339eb58",
-			"type": "includes",
-			"props": {
-				"layoutIndexY": "2",
-				"layoutIndexX": "0"
-			}
-		},
-		"20518012-3418-4455-a9de-1d6cb8a1a8e6[includes]3c2f3bf9-59b9-4cd1-8470-72b4391c6e4d": {
-			"srcNodeID": "20518012-3418-4455-a9de-1d6cb8a1a8e6",
-			"trgNodeID": "3c2f3bf9-59b9-4cd1-8470-72b4391c6e4d",
-			"type": "includes",
-			"props": {
-				"layoutIndexY": "3",
-				"layoutIndexX": "0"
-			}
-		},
-		"20518012-3418-4455-a9de-1d6cb8a1a8e6[includes]aff72e5b-5240-41d4-973c-3cacd0881fbc": {
-			"srcNodeID": "20518012-3418-4455-a9de-1d6cb8a1a8e6",
-			"trgNodeID": "aff72e5b-5240-41d4-973c-3cacd0881fbc",
-			"type": "includes",
-			"props": {
-				"layoutIndexY": "4",
-				"layoutIndexX": "0"
-			}
-		},
-		"20518012-3418-4455-a9de-1d6cb8a1a8e6[includes]10a6ef6a-cac2-4f9b-b7c4-1b799f965769": {
-			"srcNodeID": "20518012-3418-4455-a9de-1d6cb8a1a8e6",
-			"trgNodeID": "10a6ef6a-cac2-4f9b-b7c4-1b799f965769",
-			"type": "includes",
-			"props": {
-				"layoutIndexY": "5",
-				"layoutIndexX": "0"
-			}
-		},
-		"20518012-3418-4455-a9de-1d6cb8a1a8e6[includes]a9c0646d-c8b9-4333-bc33-7c53aecf51ae": {
-			"srcNodeID": "20518012-3418-4455-a9de-1d6cb8a1a8e6",
-			"trgNodeID": "a9c0646d-c8b9-4333-bc33-7c53aecf51ae",
-			"type": "includes",
-			"props": {
-				"layoutIndexY": "6",
-				"layoutIndexX": "0"
-			}
-		},
-		"20518012-3418-4455-a9de-1d6cb8a1a8e6[includes]a0003709-ba53-4850-8081-4a45d8fb35e5": {
-			"srcNodeID": "20518012-3418-4455-a9de-1d6cb8a1a8e6",
-			"trgNodeID": "a0003709-ba53-4850-8081-4a45d8fb35e5",
-			"type": "includes",
-			"props": {
-				"layoutIndexY": "7",
-				"layoutIndexX": "0"
-			}
-		},
-		"8db24e36-5a0b-46ae-aa73-47528ef15c4f[includes]71362404-9ad5-4c50-a880-07baf6f3ce22": {
-			"srcNodeID": "8db24e36-5a0b-46ae-aa73-47528ef15c4f",
-			"trgNodeID": "71362404-9ad5-4c50-a880-07baf6f3ce22",
-			"type": "includes",
-			"props": {}
-		},
-		"ebdd6a96-55fd-410f-bd62-f1c6d76a036d[refersTo]71362404-9ad5-4c50-a880-07baf6f3ce22": {
-			"srcNodeID": "ebdd6a96-55fd-410f-bd62-f1c6d76a036d",
-			"trgNodeID": "71362404-9ad5-4c50-a880-07baf6f3ce22",
-			"type": "refersTo",
-			"props": null
-		},
-		"8db24e36-5a0b-46ae-aa73-47528ef15c4f[includes]c6c1bb4c-b159-4773-b489-cbac036ea9e3": {
-			"srcNodeID": "8db24e36-5a0b-46ae-aa73-47528ef15c4f",
-			"trgNodeID": "c6c1bb4c-b159-4773-b489-cbac036ea9e3",
-			"type": "includes",
-			"props": {}
-		},
-		"ebdd6a96-55fd-410f-bd62-f1c6d76a036d[refersTo]c6c1bb4c-b159-4773-b489-cbac036ea9e3": {
-			"srcNodeID": "ebdd6a96-55fd-410f-bd62-f1c6d76a036d",
-			"trgNodeID": "c6c1bb4c-b159-4773-b489-cbac036ea9e3",
-			"type": "refersTo",
-			"props": null
-		},
-		"8db24e36-5a0b-46ae-aa73-47528ef15c4f[includes]3c0535ab-a1ee-4148-bd81-a5a5014943ee": {
-			"srcNodeID": "8db24e36-5a0b-46ae-aa73-47528ef15c4f",
-			"trgNodeID": "3c0535ab-a1ee-4148-bd81-a5a5014943ee",
-			"type": "includes",
-			"props": {}
-		},
-		"51881b23-3b17-4a4b-a17f-313c1339eb58[refersTo]3c0535ab-a1ee-4148-bd81-a5a5014943ee": {
-			"srcNodeID": "51881b23-3b17-4a4b-a17f-313c1339eb58",
-			"trgNodeID": "3c0535ab-a1ee-4148-bd81-a5a5014943ee",
-			"type": "refersTo",
-			"props": null
-		},
-		"8db24e36-5a0b-46ae-aa73-47528ef15c4f[includes]575d95f8-5cfb-46c1-a74c-7f8869a8ed6e": {
-			"srcNodeID": "8db24e36-5a0b-46ae-aa73-47528ef15c4f",
-			"trgNodeID": "575d95f8-5cfb-46c1-a74c-7f8869a8ed6e",
-			"type": "includes",
-			"props": {}
-		},
-		"51881b23-3b17-4a4b-a17f-313c1339eb58[refersTo]575d95f8-5cfb-46c1-a74c-7f8869a8ed6e": {
-			"srcNodeID": "51881b23-3b17-4a4b-a17f-313c1339eb58",
-			"trgNodeID": "575d95f8-5cfb-46c1-a74c-7f8869a8ed6e",
-			"type": "refersTo",
-			"props": null
-		},
-		"8db24e36-5a0b-46ae-aa73-47528ef15c4f[includes]9094162e-2b24-4613-b9ca-29465f75fd15": {
-			"srcNodeID": "8db24e36-5a0b-46ae-aa73-47528ef15c4f",
-			"trgNodeID": "9094162e-2b24-4613-b9ca-29465f75fd15",
-			"type": "includes",
-			"props": {}
-		},
-		"3c2f3bf9-59b9-4cd1-8470-72b4391c6e4d[refersTo]9094162e-2b24-4613-b9ca-29465f75fd15": {
-			"srcNodeID": "3c2f3bf9-59b9-4cd1-8470-72b4391c6e4d",
-			"trgNodeID": "9094162e-2b24-4613-b9ca-29465f75fd15",
-			"type": "refersTo",
-			"props": null
-		},
-		"8db24e36-5a0b-46ae-aa73-47528ef15c4f[includes]a44f0240-2b95-40d7-8100-a49f96f0c235": {
-			"srcNodeID": "8db24e36-5a0b-46ae-aa73-47528ef15c4f",
-			"trgNodeID": "a44f0240-2b95-40d7-8100-a49f96f0c235",
-			"type": "includes",
-			"props": {}
-		},
-		"3c2f3bf9-59b9-4cd1-8470-72b4391c6e4d[refersTo]a44f0240-2b95-40d7-8100-a49f96f0c235": {
-			"srcNodeID": "3c2f3bf9-59b9-4cd1-8470-72b4391c6e4d",
-			"trgNodeID": "a44f0240-2b95-40d7-8100-a49f96f0c235",
-			"type": "refersTo",
-			"props": null
-		},
-		"8db24e36-5a0b-46ae-aa73-47528ef15c4f[includes]f4259891-4a91-455b-bdb1-964ed6739720": {
-			"srcNodeID": "8db24e36-5a0b-46ae-aa73-47528ef15c4f",
-			"trgNodeID": "f4259891-4a91-455b-bdb1-964ed6739720",
-			"type": "includes",
-			"props": {}
-		},
-		"10a6ef6a-cac2-4f9b-b7c4-1b799f965769[refersTo]f4259891-4a91-455b-bdb1-964ed6739720": {
-			"srcNodeID": "10a6ef6a-cac2-4f9b-b7c4-1b799f965769",
-			"trgNodeID": "f4259891-4a91-455b-bdb1-964ed6739720",
-			"type": "refersTo",
-			"props": null
-		},
-		"8db24e36-5a0b-46ae-aa73-47528ef15c4f[includes]380062e8-e273-414e-afcc-adcc52f11f54": {
-			"srcNodeID": "8db24e36-5a0b-46ae-aa73-47528ef15c4f",
-			"trgNodeID": "380062e8-e273-414e-afcc-adcc52f11f54",
-			"type": "includes",
-			"props": {}
-		},
-		"31432224-ba38-474d-a198-1946e810f81a[refersTo]380062e8-e273-414e-afcc-adcc52f11f54": {
-			"srcNodeID": "31432224-ba38-474d-a198-1946e810f81a",
-			"trgNodeID": "380062e8-e273-414e-afcc-adcc52f11f54",
-			"type": "refersTo",
-			"props": null
-		},
-		"8db24e36-5a0b-46ae-aa73-47528ef15c4f[includes]4e7ad3ae-fc7f-42bf-9ce8-88dac1fe07ab": {
-			"srcNodeID": "8db24e36-5a0b-46ae-aa73-47528ef15c4f",
-			"trgNodeID": "4e7ad3ae-fc7f-42bf-9ce8-88dac1fe07ab",
-			"type": "includes",
-			"props": {}
-		},
-		"f459f16e-4a7f-4fdf-a0a1-8f86fbfaf405[refersTo]4e7ad3ae-fc7f-42bf-9ce8-88dac1fe07ab": {
-			"srcNodeID": "f459f16e-4a7f-4fdf-a0a1-8f86fbfaf405",
-			"trgNodeID": "4e7ad3ae-fc7f-42bf-9ce8-88dac1fe07ab",
-			"type": "refersTo",
-			"props": null
-		},
-		"8db24e36-5a0b-46ae-aa73-47528ef15c4f[includes]dbbef628-082f-4f06-8c70-f6f5f7b30fac": {
-			"srcNodeID": "8db24e36-5a0b-46ae-aa73-47528ef15c4f",
-			"trgNodeID": "dbbef628-082f-4f06-8c70-f6f5f7b30fac",
-			"type": "includes",
-			"props": {}
-		},
-		"6e31c362-da36-49a9-ae42-cc4b15512341[refersTo]dbbef628-082f-4f06-8c70-f6f5f7b30fac": {
-			"srcNodeID": "6e31c362-da36-49a9-ae42-cc4b15512341",
-			"trgNodeID": "dbbef628-082f-4f06-8c70-f6f5f7b30fac",
-			"type": "refersTo",
-			"props": null
-		},
-		"0f56e392-304c-4fd8-99c2-fba99ac27785[includes]206c4ce1-a800-4538-a511-c114770a4a79": {
-			"srcNodeID": "0f56e392-304c-4fd8-99c2-fba99ac27785",
-			"trgNodeID": "206c4ce1-a800-4538-a511-c114770a4a79",
-			"type": "includes",
-			"props": {
-				"layoutIndexY": "1",
-				"layoutIndexX": "0"
-			}
-		},
-		"0f56e392-304c-4fd8-99c2-fba99ac27785[includes]eeef9e47-7b19-4bb7-9676-4259907194b6": {
-			"srcNodeID": "0f56e392-304c-4fd8-99c2-fba99ac27785",
-			"trgNodeID": "eeef9e47-7b19-4bb7-9676-4259907194b6",
-			"type": "includes",
-			"props": {
-				"layoutIndexY": "0",
-				"layoutIndexX": "0"
-			}
-		},
-		"8db24e36-5a0b-46ae-aa73-47528ef15c4f[includes]0f56e392-304c-4fd8-99c2-fba99ac27785": {
-			"srcNodeID": "8db24e36-5a0b-46ae-aa73-47528ef15c4f",
-			"trgNodeID": "0f56e392-304c-4fd8-99c2-fba99ac27785",
-			"type": "includes",
-			"props": {}
-		},
-		"0f56e392-304c-4fd8-99c2-fba99ac27785[includes]1837addc-b1cf-4068-8126-561ef6533f01": {
-			"srcNodeID": "0f56e392-304c-4fd8-99c2-fba99ac27785",
-			"trgNodeID": "1837addc-b1cf-4068-8126-561ef6533f01",
-			"type": "includes",
-			"props": {
-				"layoutIndexY": "2",
-				"layoutIndexX": "0"
-			}
-		},
-		"7cc300a1-99b6-4270-b23d-68195550f75c[includes]60bafc8c-1821-436f-8d52-7079b5662562": {
-			"srcNodeID": "7cc300a1-99b6-4270-b23d-68195550f75c",
-			"trgNodeID": "60bafc8c-1821-436f-8d52-7079b5662562",
-			"type": "includes",
-			"props": {
-				"layoutIndexY": "0",
-				"layoutIndexX": "0"
-			}
-		},
-		"7cc300a1-99b6-4270-b23d-68195550f75c[includes]e0e09650-ac9a-4a09-ad30-c4246e8748ba": {
-			"srcNodeID": "7cc300a1-99b6-4270-b23d-68195550f75c",
-			"trgNodeID": "e0e09650-ac9a-4a09-ad30-c4246e8748ba",
+		"161d1f80-7b7d-49e1-b7f3-9ef29cc02d69[includes]b090ec5c-af71-4d05-afa3-6b606c4c8aee": {
+			"srcNodeID": "161d1f80-7b7d-49e1-b7f3-9ef29cc02d69",
+			"trgNodeID": "b090ec5c-af71-4d05-afa3-6b606c4c8aee",
 			"type": "includes",
 			"props": {
 				"layoutIndexY": "0",
 				"layoutIndexX": "-1"
 			}
 		},
-		"8db24e36-5a0b-46ae-aa73-47528ef15c4f[includes]7cc300a1-99b6-4270-b23d-68195550f75c": {
-			"srcNodeID": "8db24e36-5a0b-46ae-aa73-47528ef15c4f",
-			"trgNodeID": "7cc300a1-99b6-4270-b23d-68195550f75c",
+		"fc8699e0-f418-41bc-ae82-e95614c599ed[includes]4b33dbff-a2bf-4098-be3e-2b2911923357": {
+			"srcNodeID": "fc8699e0-f418-41bc-ae82-e95614c599ed",
+			"trgNodeID": "4b33dbff-a2bf-4098-be3e-2b2911923357",
 			"type": "includes",
-			"props": {}
+			"props": {
+				"layoutIndexY": "1",
+				"layoutIndexX": "0"
+			}
 		},
-		"7cc300a1-99b6-4270-b23d-68195550f75c[includes]cc9c3437-9eae-4bfb-add2-d33baf5a4ed3": {
-			"srcNodeID": "7cc300a1-99b6-4270-b23d-68195550f75c",
-			"trgNodeID": "cc9c3437-9eae-4bfb-add2-d33baf5a4ed3",
+		"fff97f1e-7b55-4858-8419-2820f2539eef[includes]34fe3659-a1ce-440e-8a16-696c02d41d26": {
+			"srcNodeID": "fff97f1e-7b55-4858-8419-2820f2539eef",
+			"trgNodeID": "34fe3659-a1ce-440e-8a16-696c02d41d26",
 			"type": "includes",
 			"props": {
 				"layoutIndexY": "0",
 				"layoutIndexX": "1"
+			}
+		},
+		"fff97f1e-7b55-4858-8419-2820f2539eef[includes]828f835b-7a0d-4ffc-aaeb-a48112c92edb": {
+			"srcNodeID": "fff97f1e-7b55-4858-8419-2820f2539eef",
+			"trgNodeID": "828f835b-7a0d-4ffc-aaeb-a48112c92edb",
+			"type": "includes",
+			"props": {
+				"layoutIndexY": "0",
+				"layoutIndexX": "2"
+			}
+		},
+		"7972fc4f-df7a-48f8-8a2e-0ee589d36822[includes]c3091a6c-cc97-4d9b-8476-33ed412f6d83": {
+			"srcNodeID": "7972fc4f-df7a-48f8-8a2e-0ee589d36822",
+			"trgNodeID": "c3091a6c-cc97-4d9b-8476-33ed412f6d83",
+			"type": "includes",
+			"props": {}
+		},
+		"c3091a6c-cc97-4d9b-8476-33ed412f6d83[includes]5723f71e-1267-4a55-bc3c-4e08d906e48a": {
+			"srcNodeID": "c3091a6c-cc97-4d9b-8476-33ed412f6d83",
+			"trgNodeID": "5723f71e-1267-4a55-bc3c-4e08d906e48a",
+			"type": "includes",
+			"props": {
+				"layoutIndexY": "0",
+				"layoutIndexX": "0"
+			}
+		},
+		"c3091a6c-cc97-4d9b-8476-33ed412f6d83[includes]b7d4c15a-9a78-44b1-b510-b67ffc5b9ab9": {
+			"srcNodeID": "c3091a6c-cc97-4d9b-8476-33ed412f6d83",
+			"trgNodeID": "b7d4c15a-9a78-44b1-b510-b67ffc5b9ab9",
+			"type": "includes",
+			"props": {
+				"layoutIndexY": "0",
+				"layoutIndexX": "1"
+			}
+		},
+		"c3091a6c-cc97-4d9b-8476-33ed412f6d83[includes]9dc8c7e9-1640-415c-80cc-6d5c7d6c57d0": {
+			"srcNodeID": "c3091a6c-cc97-4d9b-8476-33ed412f6d83",
+			"trgNodeID": "9dc8c7e9-1640-415c-80cc-6d5c7d6c57d0",
+			"type": "includes",
+			"props": {
+				"layoutIndexY": "0",
+				"layoutIndexX": "2"
+			}
+		},
+		"c3091a6c-cc97-4d9b-8476-33ed412f6d83[includes]5003af5f-2e44-4d9e-95d0-ab83bdbb17af": {
+			"srcNodeID": "c3091a6c-cc97-4d9b-8476-33ed412f6d83",
+			"trgNodeID": "5003af5f-2e44-4d9e-95d0-ab83bdbb17af",
+			"type": "includes",
+			"props": {
+				"layoutIndexY": "0",
+				"layoutIndexX": "3"
+			}
+		},
+		"c3091a6c-cc97-4d9b-8476-33ed412f6d83[includes]1eef4589-177b-4d4b-a7b3-6851bf7d3969": {
+			"srcNodeID": "c3091a6c-cc97-4d9b-8476-33ed412f6d83",
+			"trgNodeID": "1eef4589-177b-4d4b-a7b3-6851bf7d3969",
+			"type": "includes",
+			"props": {
+				"layoutIndexY": "0",
+				"layoutIndexX": "4"
+			}
+		},
+		"c3091a6c-cc97-4d9b-8476-33ed412f6d83[includes]02f113f2-27fa-46ef-92cc-764eb9b72011": {
+			"srcNodeID": "c3091a6c-cc97-4d9b-8476-33ed412f6d83",
+			"trgNodeID": "02f113f2-27fa-46ef-92cc-764eb9b72011",
+			"type": "includes",
+			"props": {
+				"layoutIndexY": "1",
+				"layoutIndexX": "0"
+			}
+		},
+		"c3091a6c-cc97-4d9b-8476-33ed412f6d83[includes]e58090a7-e7f5-457e-9d91-00a4eb519477": {
+			"srcNodeID": "c3091a6c-cc97-4d9b-8476-33ed412f6d83",
+			"trgNodeID": "e58090a7-e7f5-457e-9d91-00a4eb519477",
+			"type": "includes",
+			"props": {
+				"layoutIndexY": "1",
+				"layoutIndexX": "2"
+			}
+		},
+		"c3091a6c-cc97-4d9b-8476-33ed412f6d83[includes]efecf171-a1ad-42c1-a44b-d05b4b06ea79": {
+			"srcNodeID": "c3091a6c-cc97-4d9b-8476-33ed412f6d83",
+			"trgNodeID": "efecf171-a1ad-42c1-a44b-d05b4b06ea79",
+			"type": "includes",
+			"props": {
+				"layoutIndexY": "1",
+				"layoutIndexX": "3"
+			}
+		},
+		"c3091a6c-cc97-4d9b-8476-33ed412f6d83[includes]e324a670-2f1e-4266-8971-c74bdba031ff": {
+			"srcNodeID": "c3091a6c-cc97-4d9b-8476-33ed412f6d83",
+			"trgNodeID": "e324a670-2f1e-4266-8971-c74bdba031ff",
+			"type": "includes",
+			"props": {
+				"layoutIndexY": "1",
+				"layoutIndexX": "4"
+			}
+		},
+		"c3091a6c-cc97-4d9b-8476-33ed412f6d83[includes]5e9a8136-0ced-46aa-ac6d-92d9fd3d50dc": {
+			"srcNodeID": "c3091a6c-cc97-4d9b-8476-33ed412f6d83",
+			"trgNodeID": "5e9a8136-0ced-46aa-ac6d-92d9fd3d50dc",
+			"type": "includes",
+			"props": {
+				"layoutIndexY": "1",
+				"layoutIndexX": "1"
+			}
+		},
+		"90801856-884c-49ae-a7ce-626d4204d92e[includes]5f74b358-5234-478d-8ab1-efca06ab91bb": {
+			"srcNodeID": "90801856-884c-49ae-a7ce-626d4204d92e",
+			"trgNodeID": "5f74b358-5234-478d-8ab1-efca06ab91bb",
+			"type": "includes",
+			"props": {
+				"layoutIndexY": "0",
+				"layoutIndexX": "-1"
+			}
+		},
+		"5722e3e8-4326-442b-9f78-468edf4be3c6[includes]ee70dcf4-57a2-4487-a581-6f69afbcc0e5": {
+			"srcNodeID": "5722e3e8-4326-442b-9f78-468edf4be3c6",
+			"trgNodeID": "ee70dcf4-57a2-4487-a581-6f69afbcc0e5",
+			"type": "includes",
+			"props": {
+				"layoutIndexY": "0",
+				"layoutIndexX": "-1"
+			}
+		},
+		"7972fc4f-df7a-48f8-8a2e-0ee589d36822[includes]fa17154e-0cb7-481d-bedb-3c4bddc8328b": {
+			"srcNodeID": "7972fc4f-df7a-48f8-8a2e-0ee589d36822",
+			"trgNodeID": "fa17154e-0cb7-481d-bedb-3c4bddc8328b",
+			"type": "includes",
+			"props": {}
+		},
+		"fa17154e-0cb7-481d-bedb-3c4bddc8328b[includes]9bba0415-4a53-4e65-bd33-c7f4220a8bdb": {
+			"srcNodeID": "fa17154e-0cb7-481d-bedb-3c4bddc8328b",
+			"trgNodeID": "9bba0415-4a53-4e65-bd33-c7f4220a8bdb",
+			"type": "includes",
+			"props": {
+				"layoutIndexY": "3",
+				"layoutIndexX": "0"
+			}
+		},
+		"79952d5a-c7ba-4799-a48f-b427292d889d[includes]d385e4b5-8130-4727-878d-2a24ce94f9a8": {
+			"srcNodeID": "79952d5a-c7ba-4799-a48f-b427292d889d",
+			"trgNodeID": "d385e4b5-8130-4727-878d-2a24ce94f9a8",
+			"type": "includes",
+			"props": {
+				"layoutIndexY": "3",
+				"layoutIndexX": "0"
+			}
+		},
+		"5722e3e8-4326-442b-9f78-468edf4be3c6[includes]65748031-2125-433a-9b04-c17cac3c8114": {
+			"srcNodeID": "5722e3e8-4326-442b-9f78-468edf4be3c6",
+			"trgNodeID": "65748031-2125-433a-9b04-c17cac3c8114",
+			"type": "includes",
+			"props": {
+				"layoutIndexX": "0",
+				"layoutIndexY": "5"
+			}
+		},
+		"90801856-884c-49ae-a7ce-626d4204d92e[includes]7c915dde-06a3-4115-96bb-a926f10888d3": {
+			"srcNodeID": "90801856-884c-49ae-a7ce-626d4204d92e",
+			"trgNodeID": "7c915dde-06a3-4115-96bb-a926f10888d3",
+			"type": "includes",
+			"props": {
+				"layoutIndexY": "5",
+				"layoutIndexX": "0"
+			}
+		},
+		"90801856-884c-49ae-a7ce-626d4204d92e[includes]3d018b6c-5174-48c3-aef8-9f7ab6befe1f": {
+			"srcNodeID": "90801856-884c-49ae-a7ce-626d4204d92e",
+			"trgNodeID": "3d018b6c-5174-48c3-aef8-9f7ab6befe1f",
+			"type": "includes",
+			"props": {
+				"layoutIndexY": "4",
+				"layoutIndexX": "0"
+			}
+		},
+		"fa17154e-0cb7-481d-bedb-3c4bddc8328b[includes]a10bdaa8-a900-4c16-b694-6628d320987f": {
+			"srcNodeID": "fa17154e-0cb7-481d-bedb-3c4bddc8328b",
+			"trgNodeID": "a10bdaa8-a900-4c16-b694-6628d320987f",
+			"type": "includes",
+			"props": {
+				"layoutIndexY": "0",
+				"layoutIndexX": "0"
+			}
+		},
+		"7972fc4f-df7a-48f8-8a2e-0ee589d36822[includes]25504046-a937-4538-acd6-047616b6fefa": {
+			"srcNodeID": "7972fc4f-df7a-48f8-8a2e-0ee589d36822",
+			"trgNodeID": "25504046-a937-4538-acd6-047616b6fefa",
+			"type": "includes",
+			"props": {}
+		},
+		"90801856-884c-49ae-a7ce-626d4204d92e[includes]7cda0f44-874e-4f71-8672-94bf6d7dfb3b": {
+			"srcNodeID": "90801856-884c-49ae-a7ce-626d4204d92e",
+			"trgNodeID": "7cda0f44-874e-4f71-8672-94bf6d7dfb3b",
+			"type": "includes",
+			"props": {
+				"layoutIndexY": "3",
+				"layoutIndexX": "0"
+			}
+		},
+		"90801856-884c-49ae-a7ce-626d4204d92e[includes]9880db2c-7eb2-4f0b-9c31-ce18ad4c037c": {
+			"srcNodeID": "90801856-884c-49ae-a7ce-626d4204d92e",
+			"trgNodeID": "9880db2c-7eb2-4f0b-9c31-ce18ad4c037c",
+			"type": "includes",
+			"props": {
+				"layoutIndexY": "2",
+				"layoutIndexX": "0"
+			}
+		},
+		"7972fc4f-df7a-48f8-8a2e-0ee589d36822[includes]79952d5a-c7ba-4799-a48f-b427292d889d": {
+			"srcNodeID": "7972fc4f-df7a-48f8-8a2e-0ee589d36822",
+			"trgNodeID": "79952d5a-c7ba-4799-a48f-b427292d889d",
+			"type": "includes",
+			"props": {}
+		},
+		"90801856-884c-49ae-a7ce-626d4204d92e[includes]4a71bf03-68b7-4b8a-a4b2-be469a531ae0": {
+			"srcNodeID": "90801856-884c-49ae-a7ce-626d4204d92e",
+			"trgNodeID": "4a71bf03-68b7-4b8a-a4b2-be469a531ae0",
+			"type": "includes",
+			"props": {
+				"layoutIndexY": "1",
+				"layoutIndexX": "0"
+			}
+		},
+		"90801856-884c-49ae-a7ce-626d4204d92e[includes]434aa5bc-a000-4669-afe2-b630c5909592": {
+			"srcNodeID": "90801856-884c-49ae-a7ce-626d4204d92e",
+			"trgNodeID": "434aa5bc-a000-4669-afe2-b630c5909592",
+			"type": "includes",
+			"props": {
+				"layoutIndexY": "0",
+				"layoutIndexX": "0"
+			}
+		},
+		"7972fc4f-df7a-48f8-8a2e-0ee589d36822[includes]90801856-884c-49ae-a7ce-626d4204d92e": {
+			"srcNodeID": "7972fc4f-df7a-48f8-8a2e-0ee589d36822",
+			"trgNodeID": "90801856-884c-49ae-a7ce-626d4204d92e",
+			"type": "includes",
+			"props": {}
+		},
+		"25504046-a937-4538-acd6-047616b6fefa[includes]13e0d2d6-78be-4c80-a02e-155aa953a044": {
+			"srcNodeID": "25504046-a937-4538-acd6-047616b6fefa",
+			"trgNodeID": "13e0d2d6-78be-4c80-a02e-155aa953a044",
+			"type": "includes",
+			"props": {
+				"layoutIndexY": "3",
+				"layoutIndexX": "0"
+			}
+		},
+		"5722e3e8-4326-442b-9f78-468edf4be3c6[includes]f56e348b-0560-449d-a0fc-77e71a312866": {
+			"srcNodeID": "5722e3e8-4326-442b-9f78-468edf4be3c6",
+			"trgNodeID": "f56e348b-0560-449d-a0fc-77e71a312866",
+			"type": "includes",
+			"props": {
+				"layoutIndexY": "4",
+				"layoutIndexX": "0"
+			}
+		},
+		"5722e3e8-4326-442b-9f78-468edf4be3c6[includes]1c2cf52a-aa50-47d2-88f5-c75955c648c9": {
+			"srcNodeID": "5722e3e8-4326-442b-9f78-468edf4be3c6",
+			"trgNodeID": "1c2cf52a-aa50-47d2-88f5-c75955c648c9",
+			"type": "includes",
+			"props": {
+				"layoutIndexY": "3",
+				"layoutIndexX": "0"
+			}
+		},
+		"5722e3e8-4326-442b-9f78-468edf4be3c6[includes]77622c33-a783-40ae-b2ce-0cd4c82e0774": {
+			"srcNodeID": "5722e3e8-4326-442b-9f78-468edf4be3c6",
+			"trgNodeID": "77622c33-a783-40ae-b2ce-0cd4c82e0774",
+			"type": "includes",
+			"props": {
+				"layoutIndexY": "2",
+				"layoutIndexX": "0"
+			}
+		},
+		"5722e3e8-4326-442b-9f78-468edf4be3c6[includes]8d9126a0-1011-419c-8929-3cc1a496c657": {
+			"srcNodeID": "5722e3e8-4326-442b-9f78-468edf4be3c6",
+			"trgNodeID": "8d9126a0-1011-419c-8929-3cc1a496c657",
+			"type": "includes",
+			"props": {
+				"layoutIndexY": "1",
+				"layoutIndexX": "0"
+			}
+		},
+		"25504046-a937-4538-acd6-047616b6fefa[includes]2c3cf9ef-54ea-4949-bd8b-4598382d575e": {
+			"srcNodeID": "25504046-a937-4538-acd6-047616b6fefa",
+			"trgNodeID": "2c3cf9ef-54ea-4949-bd8b-4598382d575e",
+			"type": "includes",
+			"props": {
+				"layoutIndexY": "0",
+				"layoutIndexX": "0"
+			}
+		},
+		"25504046-a937-4538-acd6-047616b6fefa[includes]1b38ae76-2cd6-4c06-9692-8fc87817f937": {
+			"srcNodeID": "25504046-a937-4538-acd6-047616b6fefa",
+			"trgNodeID": "1b38ae76-2cd6-4c06-9692-8fc87817f937",
+			"type": "includes",
+			"props": {
+				"layoutIndexY": "1",
+				"layoutIndexX": "0"
+			}
+		},
+		"25504046-a937-4538-acd6-047616b6fefa[includes]99de3269-af74-482c-a0ea-aa11265a8010": {
+			"srcNodeID": "25504046-a937-4538-acd6-047616b6fefa",
+			"trgNodeID": "99de3269-af74-482c-a0ea-aa11265a8010",
+			"type": "includes",
+			"props": {
+				"layoutIndexY": "2",
+				"layoutIndexX": "0"
+			}
+		},
+		"79952d5a-c7ba-4799-a48f-b427292d889d[includes]05462a56-bb48-49dd-bc53-c1b7a6317573": {
+			"srcNodeID": "79952d5a-c7ba-4799-a48f-b427292d889d",
+			"trgNodeID": "05462a56-bb48-49dd-bc53-c1b7a6317573",
+			"type": "includes",
+			"props": {
+				"layoutIndexY": "0",
+				"layoutIndexX": "0"
+			}
+		},
+		"79952d5a-c7ba-4799-a48f-b427292d889d[includes]ecbcfefc-f5e9-4d36-8dbd-df6abe2138dd": {
+			"srcNodeID": "79952d5a-c7ba-4799-a48f-b427292d889d",
+			"trgNodeID": "ecbcfefc-f5e9-4d36-8dbd-df6abe2138dd",
+			"type": "includes",
+			"props": {
+				"layoutIndexY": "1",
+				"layoutIndexX": "0"
+			}
+		},
+		"79952d5a-c7ba-4799-a48f-b427292d889d[includes]9e2c172a-411c-43ce-9f14-82b2e144b952": {
+			"srcNodeID": "79952d5a-c7ba-4799-a48f-b427292d889d",
+			"trgNodeID": "9e2c172a-411c-43ce-9f14-82b2e144b952",
+			"type": "includes",
+			"props": {
+				"layoutIndexY": "2",
+				"layoutIndexX": "0"
+			}
+		},
+		"5722e3e8-4326-442b-9f78-468edf4be3c6[includes]4a2f9233-420c-4469-979c-d47f236f8abb": {
+			"srcNodeID": "5722e3e8-4326-442b-9f78-468edf4be3c6",
+			"trgNodeID": "4a2f9233-420c-4469-979c-d47f236f8abb",
+			"type": "includes",
+			"props": {
+				"layoutIndexY": "0",
+				"layoutIndexX": "0"
+			}
+		},
+		"90801856-884c-49ae-a7ce-626d4204d92e[includes]cb85d2a8-341c-48cf-a0b2-5b1446d04e06": {
+			"srcNodeID": "90801856-884c-49ae-a7ce-626d4204d92e",
+			"trgNodeID": "cb85d2a8-341c-48cf-a0b2-5b1446d04e06",
+			"type": "includes",
+			"props": {
+				"layoutIndexY": "0",
+				"layoutIndexX": "-2"
+			}
+		},
+		"7972fc4f-df7a-48f8-8a2e-0ee589d36822[includes]5722e3e8-4326-442b-9f78-468edf4be3c6": {
+			"srcNodeID": "7972fc4f-df7a-48f8-8a2e-0ee589d36822",
+			"trgNodeID": "5722e3e8-4326-442b-9f78-468edf4be3c6",
+			"type": "includes",
+			"props": {}
+		},
+		"fa17154e-0cb7-481d-bedb-3c4bddc8328b[includes]2d725dca-303f-48e8-a8a8-81a3c4c1f66c": {
+			"srcNodeID": "fa17154e-0cb7-481d-bedb-3c4bddc8328b",
+			"trgNodeID": "2d725dca-303f-48e8-a8a8-81a3c4c1f66c",
+			"type": "includes",
+			"props": {
+				"layoutIndexY": "2",
+				"layoutIndexX": "0"
+			}
+		},
+		"fa17154e-0cb7-481d-bedb-3c4bddc8328b[includes]63332159-c338-4d85-98d4-1587fb780fb3": {
+			"srcNodeID": "fa17154e-0cb7-481d-bedb-3c4bddc8328b",
+			"trgNodeID": "63332159-c338-4d85-98d4-1587fb780fb3",
+			"type": "includes",
+			"props": {
+				"layoutIndexY": "1",
+				"layoutIndexX": "0"
 			}
 		}
 	}
