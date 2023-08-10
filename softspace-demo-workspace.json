@@ -1,15 +1,15 @@
 {
 	"schema": 230401,
-	"id": "7972fc4f-df7a-48f8-8a2e-0ee589d36822",
+	"id": "a36b5916-89a9-4afe-8759-49f644d812a3",
 	"nodes": {
-		"7972fc4f-df7a-48f8-8a2e-0ee589d36822": {
-			"id": "7972fc4f-df7a-48f8-8a2e-0ee589d36822",
+		"a36b5916-89a9-4afe-8759-49f644d812a3": {
+			"id": "a36b5916-89a9-4afe-8759-49f644d812a3",
 			"props": {
 				"type": "workspace",
 				"name": "New Demo Workspace"
 			},
 			"poses": {
-				"7972fc4f-df7a-48f8-8a2e-0ee589d36822": {
+				"a36b5916-89a9-4afe-8759-49f644d812a3": {
 					"pos": {
 						"x": 0,
 						"y": 0,
@@ -35,7 +35,7 @@
 				"type": "topic",
 				"isSuggested": "False",
 				"name": "What is generative AI?",
-				"summary": "Generative AI focuses on creating models and systems capable of generating new and original content. It involves training algorithms to understand patterns and structures in existing data and then using that knowledge to generate new data or content that resembles the original data. Generative AI can be applied in various domains, including image generation, text generation, music composition, and video game design."
+				"summary": "\n\nGenerative AI refers to the field of artificial intelligence that focuses on creating models and systems capable of generating new and original content. It involves training algorithms to understand patterns and structures in existing data and then using that knowledge to generate new data or content that resembles the original data.\n\nGenerative AI can be applied in various domains, including image generation, text generation, music composition, and even video game design. It utilizes techniques such as deep learning, neural networks, and probabilistic models to learn from large datasets and generate new content that is similar to what it has learned.\n\nOne popular application of generative AI is in the creation of deepfake videos, where algorithms can generate realistic videos by swapping faces or manipulating existing footage. Another example is in natural language processing, where generative AI can be used to generate coherent and contextually relevant text based on a given prompt.\n\nGenerative AI has the potential to revolutionize many industries by automating the creative process and enabling the generation of new and unique content."
 			},
 			"poses": {
 				"161d1f80-7b7d-49e1-b7f3-9ef29cc02d69": {
@@ -46,9 +46,9 @@
 					},
 					"rot": {
 						"x": 0,
-						"y": -0.0014122312,
+						"y": 0,
 						"z": 0,
-						"w": 0.99999905
+						"w": 1
 					},
 					"size": {
 						"x": 0.57019943,
@@ -56,7 +56,7 @@
 						"z": 0.001
 					}
 				},
-				"7972fc4f-df7a-48f8-8a2e-0ee589d36822": {
+				"a36b5916-89a9-4afe-8759-49f644d812a3": {
 					"pos": {
 						"x": -0.71626353,
 						"y": 0.9829717,
@@ -103,20 +103,20 @@
 			"poses": {
 				"80db4e7d-ab32-45ff-9d80-c7327ca63ce9": {
 					"pos": {
-						"x": -0.5762123,
-						"y": 1.0845982,
-						"z": -0.5263336
+						"x": -0.57621175,
+						"y": 1.0846093,
+						"z": -0.5267291
 					},
 					"rot": {
 						"x": 0,
-						"y": -0.0014122312,
+						"y": 0,
 						"z": 0,
-						"w": 0.99999905
+						"w": 1
 					},
 					"size": {
 						"x": 0.2501,
-						"y": 0.08229622,
-						"z": 0.000100000005
+						"y": 0.08229938,
+						"z": 0.0001
 					}
 				}
 			}
@@ -130,20 +130,20 @@
 			"poses": {
 				"244bb58c-e487-4e67-8291-447cd5a260c1": {
 					"pos": {
-						"x": -0.5762123,
-						"y": 1.0023121,
-						"z": -0.5263336
+						"x": -0.57621175,
+						"y": 1.0023154,
+						"z": -0.5267291
 					},
 					"rot": {
 						"x": 0,
-						"y": -0.0014122312,
+						"y": 0,
 						"z": 0,
-						"w": 0.99999905
+						"w": 1
 					},
 					"size": {
 						"x": 0.2501,
-						"y": 0.08229622,
-						"z": 0.000100000005
+						"y": 0.08229938,
+						"z": 0.0001
 					}
 				}
 			}
@@ -157,20 +157,20 @@
 			"poses": {
 				"c173126e-e2c1-4a64-aeb7-ce3bdba0c44f": {
 					"pos": {
-						"x": -0.5762123,
-						"y": 0.9200207,
-						"z": -0.5263336
+						"x": -0.57621175,
+						"y": 0.9200064,
+						"z": -0.5267291
 					},
 					"rot": {
 						"x": 0,
-						"y": -0.0014122312,
+						"y": 0,
 						"z": 0,
-						"w": 0.99999905
+						"w": 1
 					},
 					"size": {
 						"x": 0.2501,
-						"y": 0.08229622,
-						"z": 0.00010000002
+						"y": 0.08229938,
+						"z": 0.0001
 					}
 				}
 			}
@@ -184,19 +184,19 @@
 			"poses": {
 				"3a99f722-012f-493c-b95f-ef3e62d00103": {
 					"pos": {
-						"x": -0.5762123,
-						"y": 0.8595169,
-						"z": -0.5263336
+						"x": -0.57621175,
+						"y": 0.8595215,
+						"z": -0.5267291
 					},
 					"rot": {
 						"x": 0,
-						"y": -0.0014122312,
+						"y": 0,
 						"z": 0,
-						"w": 0.99999905
+						"w": 1
 					},
 					"size": {
 						"x": 0.2501,
-						"y": 0.03869281,
+						"y": 0.0387,
 						"z": 0.0001
 					}
 				}
@@ -208,31 +208,31 @@
 				"type": "topic",
 				"isSuggested": "False",
 				"name": "What is spatial computing?",
-				"summary": "Spatial computing combines elements of virtual reality (VR), augmented reality (AR), and mixed reality (MR) to create immersive and interactive experiences. Spatial computing uses sensors, cameras, and other tracking devices to map and understand the physical environment. This technology has applications in various fields such as gaming, architecture, healthcare, education, and industrial design."
+				"summary": "\n\nSpatial computing refers to the use of technology to understand and interact with the physical space and objects in real-time. It combines elements of virtual reality (VR), augmented reality (AR), and mixed reality (MR) to create immersive and interactive experiences. Spatial computing uses sensors, cameras, and other tracking devices to map and understand the physical environment, allowing users to interact with virtual objects and information in a spatially aware manner. This technology has applications in various fields such as gaming, architecture, healthcare, education, and industrial design."
 			},
 			"poses": {
 				"fc8699e0-f418-41bc-ae82-e95614c599ed": {
 					"pos": {
-						"x": -0.026340801,
-						"y": -0.26199618,
-						"z": -0.22482923
+						"x": 0.11371033,
+						"y": -0.4372084,
+						"z": -0.22482133
 					},
 					"rot": {
 						"x": 0,
-						"y": -0.00095650565,
+						"y": 0,
 						"z": 0,
-						"w": 0.9999996
+						"w": 1
 					},
 					"size": {
-						"x": 0.29010034,
-						"y": 0.5669498,
+						"x": 1.1303993,
+						"y": 0.4301507,
 						"z": 0.001
 					}
 				},
-				"7972fc4f-df7a-48f8-8a2e-0ee589d36822": {
+				"a36b5916-89a9-4afe-8759-49f644d812a3": {
 					"pos": {
-						"x": -0.026340924,
-						"y": -0.2619965,
+						"x": 0.113707766,
+						"y": -0.43720526,
 						"z": -0.22483039
 					},
 					"rot": {
@@ -242,14 +242,14 @@
 						"w": 1
 					},
 					"size": {
-						"x": 0.29009998,
-						"y": 0.56694996,
+						"x": 1.1304,
+						"y": 0.43014994,
 						"z": 0.001
 					}
 				},
 				"ParentingTrf-fc8699e0-f418-41bc-ae82-e95614c599ed": {
 					"pos": {
-						"x": 0,
+						"x": -0.14005,
 						"y": 0,
 						"z": 0
 					},
@@ -276,20 +276,20 @@
 			"poses": {
 				"3308fe31-45ab-49b3-b7d1-a874510d40c3": {
 					"pos": {
-						"x": -0.026340801,
-						"y": -0.06692903,
-						"z": -0.22482923
+						"x": -0.30643398,
+						"y": -0.43720806,
+						"z": -0.22482133
 					},
 					"rot": {
 						"x": 0,
-						"y": -0.00095650565,
+						"y": 0,
 						"z": 0,
-						"w": 0.9999996
+						"w": 1
 					},
 					"size": {
 						"x": 0.2501,
-						"y": 0.13678119,
-						"z": 0.000100000005
+						"y": 0.13678199,
+						"z": 0.0001
 					}
 				}
 			}
@@ -300,31 +300,31 @@
 				"type": "topic",
 				"isSuggested": "False",
 				"name": "What are the different forms of spatial computing?",
-				"summary": "The different forms of spatial computing include: Virtual Reality, Augmented Reality and Mixed Reality. VR creates a fully immersive digital environment that users can interact with using specialized headsets or devices. AR overlays digital content onto the real world, enhancing the user's perception and interaction with their physical surroundings. MR combines elements of both VR and AR to create a hybrid experience."
+				"summary": "\n\nThe different forms of spatial computing include:\n\n1. Virtual Reality (VR): VR creates a fully immersive digital environment that users can interact with using specialized headsets or devices. It typically involves wearing a headset that displays a virtual world and using controllers or other input devices to navigate and interact within that world.\n\n2. Augmented Reality (AR): AR overlays digital content onto the real world, enhancing the user's perception and interaction with their physical surroundings. AR is typically experienced through smartphones, tablets, or smart glasses that use cameras and sensors to detect and track the real-world environment and overlay virtual elements onto it.\n\n3. Mixed Reality (MR): MR combines elements of both VR and AR to create a hybrid experience that blends virtual and real-world elements seamlessly. MR allows users to interact with virtual objects while still being aware of and able to interact with their physical environment. This technology often requires specialized headsets or devices that can track the user's position and overlay digital content accordingly."
 			},
 			"poses": {
 				"fff97f1e-7b55-4858-8419-2820f2539eef": {
 					"pos": {
-						"x": 0.5938362,
-						"y": -0.18333322,
-						"z": -0.22482783
+						"x": 0.87394226,
+						"y": -0.3748675,
+						"z": -0.22483005
 					},
 					"rot": {
 						"x": 0,
-						"y": -0.0012072191,
+						"y": 0,
 						"z": 0,
-						"w": 0.9999993
+						"w": 1
 					},
 					"size": {
-						"x": 0.8503,
-						"y": 0.430152,
+						"x": 0.29010296,
+						"y": 0.3038004,
 						"z": 0.001
 					}
 				},
-				"7972fc4f-df7a-48f8-8a2e-0ee589d36822": {
+				"a36b5916-89a9-4afe-8759-49f644d812a3": {
 					"pos": {
-						"x": 0.5938436,
-						"y": -0.18333079,
+						"x": 0.87394243,
+						"y": -0.37486738,
 						"z": -0.22483039
 					},
 					"rot": {
@@ -334,14 +334,14 @@
 						"w": 1
 					},
 					"size": {
-						"x": 0.8503,
-						"y": 0.43014994,
+						"x": 0.29009998,
+						"y": 0.30379996,
 						"z": 0.001
 					}
 				},
 				"ParentingTrf-fff97f1e-7b55-4858-8419-2820f2539eef": {
 					"pos": {
-						"x": -0.2801,
+						"x": 0,
 						"y": 0,
 						"z": 0
 					},
@@ -368,20 +368,20 @@
 			"poses": {
 				"f404ce52-d2a9-48c2-9914-a96e460a1afd": {
 					"pos": {
-						"x": 0.31373653,
-						"y": -0.059874132,
-						"z": -0.22550412
+						"x": 0.87394077,
+						"y": -0.2514135,
+						"z": -0.22483005
 					},
 					"rot": {
 						"x": 0,
-						"y": -0.0012072191,
+						"y": 0,
 						"z": 0,
-						"w": 0.9999993
+						"w": 1
 					},
 					"size": {
 						"x": 0.2501,
-						"y": 0.01690313,
-						"z": 0.00010000017
+						"y": 0.016902996,
+						"z": 0.0001
 					}
 				}
 			}
@@ -395,20 +395,20 @@
 			"poses": {
 				"aa0035d0-fe50-4a33-941c-8c00d34a75e2": {
 					"pos": {
-						"x": 0.31373653,
-						"y": -0.10402413,
-						"z": -0.22550412
+						"x": 0.87394077,
+						"y": -0.2955635,
+						"z": -0.22483005
 					},
 					"rot": {
 						"x": 0,
-						"y": -0.0012072191,
+						"y": 0,
 						"z": 0,
-						"w": 0.9999993
+						"w": 1
 					},
 					"size": {
 						"x": 0.2501,
-						"y": 0.071397066,
-						"z": 0.00010000001
+						"y": 0.071393445,
+						"z": 0.0001
 					}
 				}
 			}
@@ -422,20 +422,20 @@
 			"poses": {
 				"deb69011-cdec-4bbc-8ab7-6c29006673f3": {
 					"pos": {
-						"x": 0.31373653,
-						"y": -0.18087412,
-						"z": -0.22550412
+						"x": 0.87394077,
+						"y": -0.3724135,
+						"z": -0.22483005
 					},
 					"rot": {
 						"x": 0,
-						"y": -0.0012072191,
+						"y": 0,
 						"z": 0,
-						"w": 0.9999993
+						"w": 1
 					},
 					"size": {
 						"x": 0.2501,
-						"y": 0.08229622,
-						"z": 0.000100000005
+						"y": 0.08229938,
+						"z": 0.0001
 					}
 				}
 			}
@@ -449,20 +449,20 @@
 			"poses": {
 				"d8928baa-0403-478c-aa91-e0c094138129": {
 					"pos": {
-						"x": 0.31373653,
-						"y": -0.26862413,
-						"z": -0.22550412
+						"x": 0.87394077,
+						"y": -0.4601715,
+						"z": -0.22483005
 					},
 					"rot": {
 						"x": 0,
-						"y": -0.0012072191,
+						"y": 0,
 						"z": 0,
-						"w": 0.9999993
+						"w": 1
 					},
 					"size": {
 						"x": 0.2501,
-						"y": 0.093189165,
-						"z": 0.00010000001
+						"y": 0.09319675,
+						"z": 0.0001
 					}
 				}
 			}
@@ -480,15 +480,15 @@
 			"poses": {
 				"b090ec5c-af71-4d05-afa3-6b606c4c8aee": {
 					"pos": {
-						"x": -0.8563112,
+						"x": -0.85631174,
 						"y": 0.9829658,
-						"z": -0.52712464
+						"z": -0.5267291
 					},
 					"rot": {
 						"x": 0,
-						"y": -0.0014122312,
+						"y": 0,
 						"z": 0,
-						"w": 0.99999905
+						"w": 1
 					},
 					"size": {
 						"x": 0.2501,
@@ -496,7 +496,7 @@
 						"z": 0.001
 					}
 				},
-				"7972fc4f-df7a-48f8-8a2e-0ee589d36822": {
+				"a36b5916-89a9-4afe-8759-49f644d812a3": {
 					"pos": {
 						"x": -0.34643888,
 						"y": 0.119466305,
@@ -529,15 +529,15 @@
 			"poses": {
 				"4b33dbff-a2bf-4098-be3e-2b2911923357": {
 					"pos": {
-						"x": -0.026345162,
-						"y": -0.33039638,
-						"z": -0.22482924
+						"x": -0.026334196,
+						"y": -0.4372122,
+						"z": -0.22482133
 					},
 					"rot": {
-						"x": 3.7504887E-7,
-						"y": -0.0009565056,
-						"z": -0.00039210296,
-						"w": 0.9999995
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
 					},
 					"size": {
 						"x": 0.2501,
@@ -545,7 +545,7 @@
 						"z": 0.001
 					}
 				},
-				"7972fc4f-df7a-48f8-8a2e-0ee589d36822": {
+				"a36b5916-89a9-4afe-8759-49f644d812a3": {
 					"pos": {
 						"x": 0.09367324,
 						"y": 0.27986854,
@@ -565,77 +565,28 @@
 				}
 			}
 		},
-		"34fe3659-a1ce-440e-8a16-696c02d41d26": {
-			"id": "34fe3659-a1ce-440e-8a16-696c02d41d26",
+		"09b4eeb4-17c4-4e20-ac75-cc30a3823812": {
+			"id": "09b4eeb4-17c4-4e20-ac75-cc30a3823812",
 			"props": {
-				"urlSource": "https://image.lexica.art/full_jpg/47f792ee-da25-425c-84ee-84f4e0cca28f",
-				"name": "47f792ee-da25-425c-84ee-84f4e0cca28f",
-				"urlContext": "https://lexica.art/?q=augmented+reality&prompt=28c4e3e1-2020-4e26-86a6-b7c0b2af50a0",
+				"urlSource": "https://image.lexica.art/full_jpg/c1f39f0d-f5e9-4d24-9f7f-148adc874027",
+				"name": "c1f39f0d-f5e9-4d24-9f7f-148adc874027",
+				"urlContext": "https://lexica.art/?q=holograms&prompt=65356b74-9c36-4e1d-a5ba-a2a9c86735b6",
 				"type": "image",
 				"aspectRatio": "0.66667",
-				"assetPath": "34fe3659-a1ce-440e-8a16-696c02d41d26/ImageAsset.jpg"
+				"assetPath": "09b4eeb4-17c4-4e20-ac75-cc30a3823812/ImageAsset.jpg"
 			},
 			"poses": {
-				"34fe3659-a1ce-440e-8a16-696c02d41d26": {
+				"09b4eeb4-17c4-4e20-ac75-cc30a3823812": {
 					"pos": {
-						"x": 0.5938327,
-						"y": -0.18333282,
-						"z": -0.22482784
-					},
-					"rot": {
-						"x": 0,
-						"y": -0.0012072191,
-						"z": 0,
-						"w": 0.9999993
-					},
-					"size": {
-						"x": 0.2501,
-						"y": 0.37514997,
-						"z": 0.001
-					}
-				},
-				"7972fc4f-df7a-48f8-8a2e-0ee589d36822": {
-					"pos": {
-						"x": 0.77386904,
-						"y": -0.13116762,
-						"z": -0.22483039
+						"x": 0.2537658,
+						"y": -0.43720108,
+						"z": -0.22482133
 					},
 					"rot": {
 						"x": 0,
 						"y": 0,
-						"z": 0,
-						"w": 1
-					},
-					"size": {
-						"x": 0.2501,
-						"y": 0.37514997,
-						"z": 0.001
-					}
-				}
-			}
-		},
-		"828f835b-7a0d-4ffc-aaeb-a48112c92edb": {
-			"id": "828f835b-7a0d-4ffc-aaeb-a48112c92edb",
-			"props": {
-				"urlSource": "https://image.lexica.art/full_jpg/d296bdbc-7531-4575-8154-d4bf4e40e0be",
-				"name": "d296bdbc-7531-4575-8154-d4bf4e40e0be",
-				"urlContext": "https://lexica.art/?q=augmented+reality&prompt=4d689da0-8c77-46b6-b2c7-eb0049bd0770",
-				"type": "image",
-				"aspectRatio": "0.66667",
-				"assetPath": "828f835b-7a0d-4ffc-aaeb-a48112c92edb/ImageAsset.jpg"
-			},
-			"poses": {
-				"828f835b-7a0d-4ffc-aaeb-a48112c92edb": {
-					"pos": {
-						"x": 0.873927,
-						"y": -0.18333222,
-						"z": -0.22415157
-					},
-					"rot": {
-						"x": 4.798025E-7,
-						"y": -0.001207219,
-						"z": -0.00039744415,
-						"w": 0.9999992
+						"z": -0.0005849241,
+						"w": 0.9999998
 					},
 					"size": {
 						"x": 0.2501,
@@ -643,11 +594,11 @@
 						"z": 0.001
 					}
 				},
-				"7972fc4f-df7a-48f8-8a2e-0ee589d36822": {
+				"a36b5916-89a9-4afe-8759-49f644d812a3": {
 					"pos": {
-						"x": 0.91391754,
-						"y": -0.13353029,
-						"z": -0.22483045
+						"x": 0.29374117,
+						"y": -0.1333915,
+						"z": -0.22483039
 					},
 					"rot": {
 						"x": 0,
@@ -669,7 +620,7 @@
 				"type": "topic",
 				"isSuggested": "False",
 				"name": "Ways in which AI and AR relate:",
-				"summary": "AI algorithms can be used in AR applications to identify and recognize objects in the real world. This allows AR systems to overlay relevant information or virtual objects onto the real environment. AI algorithms can analyze user preferences, behavior, and contextual information to personalize AR experiences. Real-time tracking allows virtual objects to interact with thereal world."
+				"summary": "\n\n1. Object recognition: AI algorithms can be used in AR applications to identify and recognize objects in the real world. This allows AR systems to overlay relevant information or virtual objects onto the real environment.\n\n2. Scene understanding: AI algorithms can analyze and understand the scene captured by AR devices, such as identifying surfaces, objects, and their spatial relationships. This understanding enables AR systems to accurately place virtual objects in the real world.\n\n3. Real-time tracking: AI algorithms can track and analyze the movement of objects or people in real-time, which is essential for AR applications. This tracking allows virtual objects to interact with the real world and stay aligned with the user's perspective.\n\n4. Natural language processing: AI technologies like natural language processing (NLP) can be used in AR applications to understand and interpret voice commands or text input from users. This enables more intuitive and interactive AR experiences.\n\n5. Personalization and recommendation: AI algorithms can analyze user preferences, behavior, and contextual information to personalize AR experiences."
 			},
 			"poses": {
 				"c3091a6c-cc97-4d9b-8476-33ed412f6d83": {
@@ -680,7 +631,7 @@
 					},
 					"rot": {
 						"x": 0,
-						"y": 0.00010607431,
+						"y": 0,
 						"z": 0,
 						"w": 1
 					},
@@ -690,7 +641,7 @@
 						"z": 0.001
 					}
 				},
-				"7972fc4f-df7a-48f8-8a2e-0ee589d36822": {
+				"a36b5916-89a9-4afe-8759-49f644d812a3": {
 					"pos": {
 						"x": 1.1885331,
 						"y": 0.40096015,
@@ -737,20 +688,20 @@
 			"poses": {
 				"5723f71e-1267-4a55-bc3c-4e08d906e48a": {
 					"pos": {
-						"x": 0.62832797,
-						"y": 0.5960225,
-						"z": 0.37353814
+						"x": 0.6283268,
+						"y": 0.5960315,
+						"z": 0.37341928
 					},
 					"rot": {
 						"x": 0,
-						"y": 0.00010607431,
+						"y": 0,
 						"z": 0,
 						"w": 1
 					},
 					"size": {
 						"x": 0.2501,
-						"y": 0.06048973,
-						"z": 0.000100348785
+						"y": 0.060481586,
+						"z": 0.0001
 					}
 				}
 			}
@@ -764,20 +715,20 @@
 			"poses": {
 				"b7d4c15a-9a78-44b1-b510-b67ffc5b9ab9": {
 					"pos": {
-						"x": 0.90842795,
-						"y": 0.5960229,
-						"z": 0.3734787
+						"x": 0.90842676,
+						"y": 0.5960315,
+						"z": 0.37341928
 					},
 					"rot": {
 						"x": 0,
-						"y": 0.00010607431,
+						"y": 0,
 						"z": 0,
 						"w": 1
 					},
 					"size": {
 						"x": 0.2501,
-						"y": 0.06048973,
-						"z": 0.000100348785
+						"y": 0.060481586,
+						"z": 0.0001
 					}
 				}
 			}
@@ -791,20 +742,20 @@
 			"poses": {
 				"9dc8c7e9-1640-415c-80cc-6d5c7d6c57d0": {
 					"pos": {
-						"x": 1.188528,
-						"y": 0.5960228,
+						"x": 1.1885267,
+						"y": 0.5960315,
 						"z": 0.37341928
 					},
 					"rot": {
 						"x": 0,
-						"y": 0.00010607431,
+						"y": 0,
 						"z": 0,
 						"w": 1
 					},
 					"size": {
 						"x": 0.2501,
-						"y": 0.06049718,
-						"z": 0.000100095815
+						"y": 0.060481586,
+						"z": 0.0001
 					}
 				}
 			}
@@ -818,20 +769,20 @@
 			"poses": {
 				"5003af5f-2e44-4d9e-95d0-ab83bdbb17af": {
 					"pos": {
-						"x": 1.4686279,
-						"y": 0.5960317,
-						"z": 0.37335986
+						"x": 1.4686267,
+						"y": 0.5960315,
+						"z": 0.37341928
 					},
 					"rot": {
 						"x": 0,
-						"y": 0.00010607431,
+						"y": 0,
 						"z": 0,
 						"w": 1
 					},
 					"size": {
 						"x": 0.2501,
-						"y": 0.060490392,
-						"z": 0.0001003262
+						"y": 0.060481586,
+						"z": 0.0001
 					}
 				}
 			}
@@ -845,20 +796,20 @@
 			"poses": {
 				"1eef4589-177b-4d4b-a7b3-6851bf7d3969": {
 					"pos": {
-						"x": 1.7487279,
-						"y": 0.596023,
-						"z": 0.37330043
+						"x": 1.7487267,
+						"y": 0.5960315,
+						"z": 0.37341928
 					},
 					"rot": {
 						"x": 0,
-						"y": 0.00010607431,
+						"y": 0,
 						"z": 0,
 						"w": 1
 					},
 					"size": {
-						"x": 0.25010002,
-						"y": 0.038687736,
-						"z": 0.00010234857
+						"x": 0.2501,
+						"y": 0.03869241,
+						"z": 0.0001
 					}
 				}
 			}
@@ -876,15 +827,15 @@
 			"poses": {
 				"02f113f2-27fa-46ef-92cc-764eb9b72011": {
 					"pos": {
-						"x": 0.6283252,
-						"y": 0.37071252,
-						"z": 0.37353814
+						"x": 0.6283268,
+						"y": 0.37071177,
+						"z": 0.37341928
 					},
 					"rot": {
-						"x": 1.0217717E-7,
-						"y": 0.00010607426,
-						"z": 0.00096326025,
-						"w": 0.9999995
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
 					},
 					"size": {
 						"x": 0.2501,
@@ -892,7 +843,7 @@
 						"z": 0.001
 					}
 				},
-				"7972fc4f-df7a-48f8-8a2e-0ee589d36822": {
+				"a36b5916-89a9-4afe-8759-49f644d812a3": {
 					"pos": {
 						"x": 0.60178995,
 						"y": 0.113152295,
@@ -925,15 +876,15 @@
 			"poses": {
 				"e58090a7-e7f5-457e-9d91-00a4eb519477": {
 					"pos": {
-						"x": 1.1885202,
-						"y": 0.37070155,
+						"x": 1.1885267,
+						"y": 0.37071586,
 						"z": 0.37341928
 					},
 					"rot": {
-						"x": -5.832649E-8,
-						"y": 0.000106074294,
-						"z": -0.00054986443,
-						"w": 0.9999999
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
 					},
 					"size": {
 						"x": 0.2501,
@@ -941,7 +892,7 @@
 						"z": 0.001
 					}
 				},
-				"7972fc4f-df7a-48f8-8a2e-0ee589d36822": {
+				"a36b5916-89a9-4afe-8759-49f644d812a3": {
 					"pos": {
 						"x": 1.114388,
 						"y": -0.08192804,
@@ -974,15 +925,15 @@
 			"poses": {
 				"efecf171-a1ad-42c1-a44b-d05b4b06ea79": {
 					"pos": {
-						"x": 1.4686279,
-						"y": 0.37070674,
-						"z": 0.37335986
+						"x": 1.4686267,
+						"y": 0.37071145,
+						"z": 0.37341928
 					},
 					"rot": {
-						"x": -4.92854E-8,
-						"y": 0.000106074294,
-						"z": -0.0004646309,
-						"w": 0.9999999
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
 					},
 					"size": {
 						"x": 0.2501,
@@ -990,7 +941,7 @@
 						"z": 0.001
 					}
 				},
-				"7972fc4f-df7a-48f8-8a2e-0ee589d36822": {
+				"a36b5916-89a9-4afe-8759-49f644d812a3": {
 					"pos": {
 						"x": 1.3713834,
 						"y": -0.08192932,
@@ -1023,15 +974,15 @@
 			"poses": {
 				"e324a670-2f1e-4266-8971-c74bdba031ff": {
 					"pos": {
-						"x": 1.7487206,
-						"y": 0.38160115,
-						"z": 0.37330043
+						"x": 1.7487267,
+						"y": 0.38161278,
+						"z": 0.37341928
 					},
 					"rot": {
-						"x": -7.272761E-8,
-						"y": 0.00010607429,
-						"z": -0.00068562885,
-						"w": 0.99999976
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
 					},
 					"size": {
 						"x": 0.2501,
@@ -1039,7 +990,7 @@
 						"z": 0.001
 					}
 				},
-				"7972fc4f-df7a-48f8-8a2e-0ee589d36822": {
+				"a36b5916-89a9-4afe-8759-49f644d812a3": {
 					"pos": {
 						"x": 1.6348087,
 						"y": -0.08192728,
@@ -1072,15 +1023,15 @@
 			"poses": {
 				"5e9a8136-0ced-46aa-ac6d-92d9fd3d50dc": {
 					"pos": {
-						"x": 0.9084263,
-						"y": 0.37070233,
-						"z": 0.3734787
+						"x": 0.90842676,
+						"y": 0.37071177,
+						"z": 0.37341928
 					},
 					"rot": {
-						"x": 4.3872923E-8,
-						"y": 0.0001060743,
-						"z": 0.00041360556,
-						"w": 0.99999994
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
 					},
 					"size": {
 						"x": 0.2501,
@@ -1088,7 +1039,7 @@
 						"z": 0.001
 					}
 				},
-				"7972fc4f-df7a-48f8-8a2e-0ee589d36822": {
+				"a36b5916-89a9-4afe-8759-49f644d812a3": {
 					"pos": {
 						"x": 0.9621064,
 						"y": -0.08192184,
@@ -1126,10 +1077,10 @@
 						"z": -0.526733
 					},
 					"rot": {
-						"x": -3.0045354E-7,
-						"y": 0.0003686385,
-						"z": -0.00081503537,
-						"w": 0.99999964
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
 					},
 					"size": {
 						"x": 0.2501,
@@ -1137,7 +1088,7 @@
 						"z": 0.001
 					}
 				},
-				"7972fc4f-df7a-48f8-8a2e-0ee589d36822": {
+				"a36b5916-89a9-4afe-8759-49f644d812a3": {
 					"pos": {
 						"x": 0.26404223,
 						"y": 0.9114944,
@@ -1170,15 +1121,15 @@
 			"poses": {
 				"ee70dcf4-57a2-4487-a581-6f69afbcc0e5": {
 					"pos": {
-						"x": -0.23613235,
-						"y": 0.96731335,
-						"z": -0.5270278
+						"x": -0.23613085,
+						"y": 0.96731114,
+						"z": -0.5267344
 					},
 					"rot": {
-						"x": 3.5977055E-7,
-						"y": -0.0010473693,
-						"z": -0.000343499,
-						"w": 0.9999994
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
 					},
 					"size": {
 						"x": 0.2501,
@@ -1186,7 +1137,7 @@
 						"z": 0.001
 					}
 				},
-				"7972fc4f-df7a-48f8-8a2e-0ee589d36822": {
+				"a36b5916-89a9-4afe-8759-49f644d812a3": {
 					"pos": {
 						"x": -0.016062811,
 						"y": 0.9365794,
@@ -1212,7 +1163,7 @@
 				"type": "topic",
 				"isSuggested": "False",
 				"name": "video game design",
-				"summary": "Video game design refers to the process of creating the concept, gameplay mechanics, visuals, and overall experience of a video game. It involves a combination of art, storytelling, programming, and sound design to create an interactive and engaging game.Generative AI can play a role in video game design by helping to generate various elements of the game."
+				"summary": "\n\nVideo game design refers to the process of creating the concept, gameplay mechanics, visuals, and overall experience of a video game. It involves a combination of art, storytelling, programming, and sound design to create an interactive and engaging game.\n\nGenerative AI can play a role in video game design by helping to generate various elements of the game. For example, AI algorithms can be trained to generate realistic and visually appealing landscapes, characters, and objects. This can save time and effort for game developers, as they can use AI-generated content as a starting point and then customize and refine it to fit their specific vision.\n\nText generation algorithms can also be used in video game design to generate dialogue, narratives, and quests. This can help create dynamic and immersive storytelling experiences for players, as AI-generated content can adapt and respond to player choices and actions."
 			},
 			"poses": {
 				"fa17154e-0cb7-481d-bedb-3c4bddc8328b": {
@@ -1223,7 +1174,7 @@
 					},
 					"rot": {
 						"x": 0,
-						"y": -0.00014419183,
+						"y": 0,
 						"z": 0,
 						"w": 1
 					},
@@ -1233,7 +1184,7 @@
 						"z": 0.001
 					}
 				},
-				"7972fc4f-df7a-48f8-8a2e-0ee589d36822": {
+				"a36b5916-89a9-4afe-8759-49f644d812a3": {
 					"pos": {
 						"x": 0.03340938,
 						"y": 0.346654,
@@ -1266,15 +1217,15 @@
 			"poses": {
 				"9bba0415-4a53-4e65-bd33-c7f4220a8bdb": {
 					"pos": {
-						"x": 0.033408936,
-						"y": 0.23409739,
+						"x": 0.033410527,
+						"y": 0.23411594,
 						"z": 0.8547368
 					},
 					"rot": {
-						"x": 1.8532474E-7,
-						"y": -0.00014419171,
-						"z": -0.0012852652,
-						"w": 0.99999917
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
 					},
 					"size": {
 						"x": 0.2501,
@@ -1282,7 +1233,7 @@
 						"z": 0.001
 					}
 				},
-				"7972fc4f-df7a-48f8-8a2e-0ee589d36822": {
+				"a36b5916-89a9-4afe-8759-49f644d812a3": {
 					"pos": {
 						"x": -0.086606264,
 						"y": 0.31450564,
@@ -1315,15 +1266,15 @@
 			"poses": {
 				"d385e4b5-8130-4727-878d-2a24ce94f9a8": {
 					"pos": {
-						"x": -0.30667627,
-						"y": 0.2028578,
-						"z": 0.8547294
+						"x": -0.3066704,
+						"y": 0.20285547,
+						"z": 0.85473686
 					},
 					"rot": {
-						"x": 7.7417766E-8,
-						"y": -0.00024439007,
-						"z": -0.00031677948,
-						"w": 0.99999994
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
 					},
 					"size": {
 						"x": 0.2501,
@@ -1331,7 +1282,7 @@
 						"z": 0.001
 					}
 				},
-				"7972fc4f-df7a-48f8-8a2e-0ee589d36822": {
+				"a36b5916-89a9-4afe-8759-49f644d812a3": {
 					"pos": {
 						"x": -0.32666108,
 						"y": -0.05469852,
@@ -1360,15 +1311,15 @@
 			"poses": {
 				"65748031-2125-433a-9b04-c17cac3c8114": {
 					"pos": {
-						"x": 0.043961644,
-						"y": 0.8269539,
-						"z": -0.52644104
+						"x": 0.04396914,
+						"y": 0.82696116,
+						"z": -0.5267344
 					},
 					"rot": {
 						"x": 0,
-						"y": -0.0010473694,
+						"y": 0,
 						"z": 0,
-						"w": 0.99999946
+						"w": 1
 					},
 					"size": {
 						"x": 0.2501,
@@ -1387,20 +1338,20 @@
 			"poses": {
 				"7c915dde-06a3-4115-96bb-a926f10888d3": {
 					"pos": {
-						"x": 0.94425607,
-						"y": 0.84473825,
-						"z": -0.5269395
+						"x": 0.94425637,
+						"y": 0.84474754,
+						"z": -0.526733
 					},
 					"rot": {
 						"x": 0,
-						"y": 0.0003686386,
+						"y": 0,
 						"z": 0,
-						"w": 0.99999994
+						"w": 1
 					},
 					"size": {
 						"x": 0.2501,
-						"y": 0.060483105,
-						"z": 0.0001005737
+						"y": 0.0605,
+						"z": 0.0001
 					}
 				}
 			}
@@ -1414,20 +1365,20 @@
 			"poses": {
 				"3d018b6c-5174-48c3-aef8-9f7ab6befe1f": {
 					"pos": {
-						"x": 0.94425607,
-						"y": 0.89978826,
-						"z": -0.5269395
+						"x": 0.94425637,
+						"y": 0.8997975,
+						"z": -0.526733
 					},
 					"rot": {
 						"x": 0,
-						"y": 0.0003686386,
+						"y": 0,
 						"z": 0,
-						"w": 0.99999994
+						"w": 1
 					},
 					"size": {
 						"x": 0.2501,
-						"y": 0.049595945,
-						"z": 0.000100233825
+						"y": 0.049599998,
+						"z": 0.0001
 					}
 				}
 			}
@@ -1442,19 +1393,19 @@
 				"a10bdaa8-a900-4c16-b694-6628d320987f": {
 					"pos": {
 						"x": 0.033410527,
-						"y": 0.6240235,
+						"y": 0.6240318,
 						"z": 0.8547368
 					},
 					"rot": {
 						"x": 0,
-						"y": -0.00014417693,
+						"y": 0,
 						"z": 0,
 						"w": 1
 					},
 					"size": {
 						"x": 0.2501,
-						"y": 0.060489923,
-						"z": 0.000100342324
+						"y": 0.0605,
+						"z": 0.0001
 					}
 				}
 			}
@@ -1465,7 +1416,7 @@
 				"type": "topic",
 				"isSuggested": "False",
 				"name": "architecture",
-				"summary": "Architects can use virtual reality (VR) to create realistic 3D models of buildings and spaces. These VR models can be explored and experienced by wearing a VR headset. VR can also be used to simulate different lighting conditions, materials, and textures, helping architects make informed decisions."
+				"summary": "\n\nIn the context of spatial computing, architecture refers to the application of spatial computing technologies in the field of architectural design and visualization. Spatial computing can be used to create immersive and interactive architectural experiences for designers, clients, and users.\n\nArchitects can use virtual reality (VR) to create realistic 3D models of buildings and spaces. These VR models can be explored and experienced by wearing a VR headset, allowing architects to visualize their designs in a more immersive and accurate manner. VR can also be used to simulate different lighting conditions, materials, and textures, helping architects make informed decisions about design elements.\n\nAugmented reality (AR) can be used in architecture to overlay virtual elements onto the real world. For example, architects can use AR to superimpose 3D models of buildings onto physical construction sites, allowing them to visualize how the proposed design will fit into the existing environment. AR can also be used to provide real-time information about a building's performance, such as energy usage or structural integrity."
 			},
 			"poses": {
 				"25504046-a937-4538-acd6-047616b6fefa": {
@@ -1476,9 +1427,9 @@
 					},
 					"rot": {
 						"x": 0,
-						"y": -0.0011165951,
+						"y": 0,
 						"z": 0,
-						"w": 0.9999994
+						"w": 1
 					},
 					"size": {
 						"x": 0.29009998,
@@ -1486,7 +1437,7 @@
 						"z": 0.001
 					}
 				},
-				"7972fc4f-df7a-48f8-8a2e-0ee589d36822": {
+				"a36b5916-89a9-4afe-8759-49f644d812a3": {
 					"pos": {
 						"x": -0.6467582,
 						"y": 0.34773955,
@@ -1515,20 +1466,20 @@
 			"poses": {
 				"7cda0f44-874e-4f71-8672-94bf6d7dfb3b": {
 					"pos": {
-						"x": 0.94425607,
-						"y": 0.95485675,
-						"z": -0.5269395
+						"x": 0.94425637,
+						"y": 0.954856,
+						"z": -0.526733
 					},
 					"rot": {
 						"x": 0,
-						"y": 0.0003686386,
+						"y": 0,
 						"z": 0,
-						"w": 0.99999994
+						"w": 1
 					},
 					"size": {
 						"x": 0.2501,
-						"y": 0.060482424,
-						"z": 0.000100596924
+						"y": 0.0605,
+						"z": 0.0001
 					}
 				}
 			}
@@ -1542,20 +1493,20 @@
 			"poses": {
 				"9880db2c-7eb2-4f0b-9c31-ce18ad4c037c": {
 					"pos": {
-						"x": 0.94425607,
-						"y": 1.0153568,
-						"z": -0.5269395
+						"x": 0.94425637,
+						"y": 1.0153475,
+						"z": -0.526733
 					},
 					"rot": {
 						"x": 0,
-						"y": 0.0003686386,
+						"y": 0,
 						"z": 0,
-						"w": 0.99999994
+						"w": 1
 					},
 					"size": {
 						"x": 0.2501,
-						"y": 0.060485438,
-						"z": 0.00010049454
+						"y": 0.0605,
+						"z": 0.0001
 					}
 				}
 			}
@@ -1566,7 +1517,7 @@
 				"type": "topic",
 				"isSuggested": "False",
 				"name": "industrial design",
-				"summary": "Industrial design is a field that focuses on creating and developing products that are aesthetically pleasing, functional, and user-friendly. AI algorithms can be used to analyze user preferences and behavior to gain insights into what features and designs are most appealing. AR can also play a significant role in industrial design by allowing designers to visualize and manipulate virtual objects in real-world environments."
+				"summary": "\n\nIndustrial design is a field that focuses on creating and developing products that are aesthetically pleasing, functional, and user-friendly. It involves the process of designing and improving the appearance, usability, and production of various products, including consumer goods, appliances, furniture, vehicles, and more.\n\nIn the context of spatial computing, industrial design can benefit from the integration of AI and AR technologies. AI algorithms can be used to analyze user preferences and behavior to gain insights into what features and designs are most appealing and functional. This information can then be used to inform the design process and create products that better meet the needs and desires of consumers.\n\nAR can also play a significant role in industrial design by allowing designers to visualize and manipulate virtual objects in real-world environments. This enables them to prototype and test product designs in a more efficient and cost-effective manner. AR can overlay virtual design elements onto physical prototypes, allowing designers to assess the appearance and functionality of a product before it is manufactured."
 			},
 			"poses": {
 				"79952d5a-c7ba-4799-a48f-b427292d889d": {
@@ -1577,17 +1528,17 @@
 					},
 					"rot": {
 						"x": 0,
-						"y": -0.0002443901,
+						"y": 0,
 						"z": 0,
 						"w": 1
 					},
 					"size": {
 						"x": 0.29009998,
-						"y": 0.7097498,
+						"y": 0.7097423,
 						"z": 0.001
 					}
 				},
-				"7972fc4f-df7a-48f8-8a2e-0ee589d36822": {
+				"a36b5916-89a9-4afe-8759-49f644d812a3": {
 					"pos": {
 						"x": -0.30667293,
 						"y": 0.34265965,
@@ -1616,20 +1567,20 @@
 			"poses": {
 				"4a71bf03-68b7-4b8a-a4b2-be469a531ae0": {
 					"pos": {
-						"x": 0.94425607,
-						"y": 1.0704067,
-						"z": -0.5269395
+						"x": 0.94425637,
+						"y": 1.0704026,
+						"z": -0.526733
 					},
 					"rot": {
 						"x": 0,
-						"y": 0.0003686386,
+						"y": 0,
 						"z": 0,
-						"w": 0.99999994
+						"w": 1
 					},
 					"size": {
 						"x": 0.2501,
-						"y": 0.049580187,
-						"z": 0.00010114303
+						"y": 0.049599998,
+						"z": 0.0001
 					}
 				}
 			}
@@ -1643,20 +1594,20 @@
 			"poses": {
 				"434aa5bc-a000-4669-afe2-b630c5909592": {
 					"pos": {
-						"x": 0.94425607,
-						"y": 1.1036568,
-						"z": -0.5269395
+						"x": 0.94425637,
+						"y": 1.1036384,
+						"z": -0.526733
 					},
 					"rot": {
 						"x": 0,
-						"y": 0.0003686386,
+						"y": 0,
 						"z": 0,
-						"w": 0.99999994
+						"w": 1
 					},
 					"size": {
 						"x": 0.2501,
-						"y": 0.016912205,
-						"z": 0.000100642326
+						"y": 0.016900001,
+						"z": 0.0001
 					}
 				}
 			}
@@ -1667,7 +1618,7 @@
 				"type": "topic",
 				"isSuggested": "False",
 				"name": "What might be some of the transformative impacts of AI?",
-				"summary": "AI can be used in medical diagnosis, drug discovery, and treatment planning. It can analyze medical images, predict disease progression, and assist in surgical procedures, leading to improved healthcare outcomes. AI-powered chatbots and virtual assistants can provide instant and personalized customer support, reducing response times and improving customer satisfaction."
+				"summary": "\n\nSome of the transformative impacts of AI include:\n\n1. Automation: AI has the potential to automate various tasks and processes, leading to increased efficiency and productivity. This can free up human resources to focus on more complex and creative tasks.\n\n2. Personalization: AI algorithms can analyze large amounts of data to understand individual preferences and behaviors. This enables personalized recommendations, tailored marketing campaigns, and customized user experiences.\n\n3. Healthcare advancements: AI can be used in medical diagnosis, drug discovery, and treatment planning. It can analyze medical images, predict disease progression, and assist in surgical procedures, leading to improved healthcare outcomes.\n\n4. Enhanced customer service: AI-powered chatbots and virtual assistants can provide instant and personalized customer support, reducing response times and improving customer satisfaction.\n\n5. Improved decision-making: AI algorithms can process and analyze vast amounts of data to identify patterns and make predictions. This can help businesses and organizations make more informed and data-driven decisions."
 			},
 			"poses": {
 				"90801856-884c-49ae-a7ce-626d4204d92e": {
@@ -1678,9 +1629,9 @@
 					},
 					"rot": {
 						"x": 0,
-						"y": 0.0003686386,
+						"y": 0,
 						"z": 0,
-						"w": 0.99999994
+						"w": 1
 					},
 					"size": {
 						"x": 0.8503,
@@ -1688,7 +1639,7 @@
 						"z": 0.001
 					}
 				},
-				"7972fc4f-df7a-48f8-8a2e-0ee589d36822": {
+				"a36b5916-89a9-4afe-8759-49f644d812a3": {
 					"pos": {
 						"x": 0.66415524,
 						"y": 0.96330357,
@@ -1739,15 +1690,15 @@
 			"poses": {
 				"13e0d2d6-78be-4c80-a02e-155aa953a044": {
 					"pos": {
-						"x": -0.64675933,
-						"y": 0.21339087,
-						"z": 0.85472715
+						"x": -0.64675784,
+						"y": 0.2133854,
+						"z": 0.8547342
 					},
 					"rot": {
-						"x": -4.1692545E-7,
-						"y": -0.001116595,
-						"z": 0.00037338978,
-						"w": 0.99999934
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
 					},
 					"size": {
 						"x": 0.2501,
@@ -1755,7 +1706,7 @@
 						"z": 0.001
 					}
 				},
-				"7972fc4f-df7a-48f8-8a2e-0ee589d36822": {
+				"a36b5916-89a9-4afe-8759-49f644d812a3": {
 					"pos": {
 						"x": -0.6576441,
 						"y": -0.044171035,
@@ -1784,20 +1735,20 @@
 			"poses": {
 				"f56e348b-0560-449d-a0fc-77e71a312866": {
 					"pos": {
-						"x": 0.043961644,
-						"y": 0.9419039,
-						"z": -0.52644104
+						"x": 0.04396914,
+						"y": 0.94192,
+						"z": -0.5267344
 					},
 					"rot": {
 						"x": 0,
-						"y": -0.0010473694,
+						"y": 0,
 						"z": 0,
-						"w": 0.99999946
+						"w": 1
 					},
 					"size": {
 						"x": 0.2501,
-						"y": 0.060499888,
-						"z": 0.00010000379
+						"y": 0.0605,
+						"z": 0.0001
 					}
 				}
 			}
@@ -1811,20 +1762,20 @@
 			"poses": {
 				"1c2cf52a-aa50-47d2-88f5-c75955c648c9": {
 					"pos": {
-						"x": 0.043961644,
-						"y": 1.0024039,
-						"z": -0.52644104
+						"x": 0.04396914,
+						"y": 1.0024111,
+						"z": -0.5267344
 					},
 					"rot": {
 						"x": 0,
-						"y": -0.0010473694,
+						"y": 0,
 						"z": 0,
-						"w": 0.99999946
+						"w": 1
 					},
 					"size": {
 						"x": 0.2501,
-						"y": 0.06048435,
-						"z": 0.0001005315
+						"y": 0.0605,
+						"z": 0.0001
 					}
 				}
 			}
@@ -1838,20 +1789,20 @@
 			"poses": {
 				"77622c33-a783-40ae-b2ce-0cd4c82e0774": {
 					"pos": {
-						"x": 0.043961644,
-						"y": 1.0629184,
-						"z": -0.52644104
+						"x": 0.04396914,
+						"y": 1.0629151,
+						"z": -0.5267344
 					},
 					"rot": {
 						"x": 0,
-						"y": -0.0010473694,
+						"y": 0,
 						"z": 0,
-						"w": 0.99999946
+						"w": 1
 					},
 					"size": {
 						"x": 0.2501,
-						"y": 0.06049063,
-						"z": 0.000100318284
+						"y": 0.0605,
+						"z": 0.0001
 					}
 				}
 			}
@@ -1865,20 +1816,20 @@
 			"poses": {
 				"8d9126a0-1011-419c-8929-3cc1a496c657": {
 					"pos": {
-						"x": 0.043961644,
-						"y": 1.1179684,
-						"z": -0.52644104
+						"x": 0.04396914,
+						"y": 1.1179631,
+						"z": -0.5267344
 					},
 					"rot": {
 						"x": 0,
-						"y": -0.0010473694,
+						"y": 0,
 						"z": 0,
-						"w": 0.99999946
+						"w": 1
 					},
 					"size": {
 						"x": 0.2501,
-						"y": 0.049580954,
-						"z": 0.000101098674
+						"y": 0.049599998,
+						"z": 0.0001
 					}
 				}
 			}
@@ -1893,19 +1844,19 @@
 				"2c3cf9ef-54ea-4949-bd8b-4598382d575e": {
 					"pos": {
 						"x": -0.64675784,
-						"y": 0.64145136,
+						"y": 0.6414603,
 						"z": 0.8547342
 					},
 					"rot": {
-						"x": -3E-45,
-						"y": -0.0022773787,
+						"x": 0,
+						"y": 0,
 						"z": -3E-45,
-						"w": 0.99999744
+						"w": 1
 					},
 					"size": {
 						"x": 0.2501,
-						"y": 0.071392514,
-						"z": 0.00010018004
+						"y": 0.071399994,
+						"z": 0.0001
 					}
 				}
 			}
@@ -1920,19 +1871,19 @@
 				"1b38ae76-2cd6-4c06-9692-8fc87817f937": {
 					"pos": {
 						"x": -0.64675784,
-						"y": 0.55915135,
+						"y": 0.55915487,
 						"z": 0.8547342
 					},
 					"rot": {
-						"x": -3E-45,
-						"y": -0.0022773787,
+						"x": 0,
+						"y": 0,
 						"z": -3E-45,
-						"w": 0.99999744
+						"w": 1
 					},
 					"size": {
 						"x": 0.2501,
-						"y": 0.09319672,
-						"z": 0.00010004983
+						"y": 0.0932,
+						"z": 0.0001
 					}
 				}
 			}
@@ -1947,19 +1898,19 @@
 				"99de3269-af74-482c-a0ea-aa11265a8010": {
 					"pos": {
 						"x": -0.64675784,
-						"y": 0.46050137,
+						"y": 0.46051568,
 						"z": 0.8547342
 					},
 					"rot": {
-						"x": -3E-45,
-						"y": -0.0024743641,
+						"x": 0,
+						"y": 0,
 						"z": -3E-45,
-						"w": 0.999997
+						"w": 1
 					},
 					"size": {
 						"x": 0.2501,
-						"y": 0.10409967,
-						"z": 0.000100004254
+						"y": 0.1041,
+						"z": 0.0001
 					}
 				}
 			}
@@ -1974,19 +1925,19 @@
 				"05462a56-bb48-49dd-bc53-c1b7a6317573": {
 					"pos": {
 						"x": -0.3066704,
-						"y": 0.63637054,
+						"y": 0.6363804,
 						"z": 0.85473686
 					},
 					"rot": {
 						"x": 0,
-						"y": -0.0002443901,
+						"y": 0,
 						"z": 0,
 						"w": 1
 					},
 					"size": {
 						"x": 0.2501,
-						"y": 0.082296506,
-						"z": 0.00010006502
+						"y": 0.08229999,
+						"z": 0.0001
 					}
 				}
 			}
@@ -2001,19 +1952,19 @@
 				"ecbcfefc-f5e9-4d36-8dbd-df6abe2138dd": {
 					"pos": {
 						"x": -0.3066704,
-						"y": 0.5486206,
+						"y": 0.54862493,
 						"z": 0.85473686
 					},
 					"rot": {
 						"x": 0,
-						"y": -0.0002443901,
+						"y": 0,
 						"z": 0,
 						"w": 1
 					},
 					"size": {
 						"x": 0.2501,
-						"y": 0.09318474,
-						"z": 0.00010023196
+						"y": 0.0932,
+						"z": 0.0001
 					}
 				}
 			}
@@ -2028,19 +1979,19 @@
 				"9e2c172a-411c-43ce-9f14-82b2e144b952": {
 					"pos": {
 						"x": -0.3066704,
-						"y": 0.44997054,
+						"y": 0.44998974,
 						"z": 0.85473686
 					},
 					"rot": {
 						"x": 0,
-						"y": -8.127456E-5,
+						"y": 0,
 						"z": 0,
 						"w": 1
 					},
 					"size": {
 						"x": 0.2501,
-						"y": 0.10408786,
-						"z": 0.00010015583
+						"y": 0.1041,
+						"z": 0.0001
 					}
 				}
 			}
@@ -2054,20 +2005,20 @@
 			"poses": {
 				"4a2f9233-420c-4469-979c-d47f236f8abb": {
 					"pos": {
-						"x": 0.043961644,
-						"y": 1.1675684,
-						"z": -0.52644104
+						"x": 0.04396914,
+						"y": 1.1675556,
+						"z": -0.5267344
 					},
 					"rot": {
 						"x": 0,
-						"y": -0.0010473694,
+						"y": 0,
 						"z": 0,
-						"w": 0.99999946
+						"w": 1
 					},
 					"size": {
 						"x": 0.2501,
-						"y": 0.049580954,
-						"z": 0.000101098674
+						"y": 0.049599998,
+						"z": 0.0001
 					}
 				}
 			}
@@ -2085,15 +2036,15 @@
 			"poses": {
 				"cb85d2a8-341c-48cf-a0b2-5b1446d04e06": {
 					"pos": {
-						"x": 0.38405645,
-						"y": 0.9632976,
-						"z": -0.5265266
+						"x": 0.3840564,
+						"y": 0.9632975,
+						"z": -0.526733
 					},
 					"rot": {
-						"x": 3.9224463E-7,
-						"y": 0.0003686384,
-						"z": 0.0010640356,
-						"w": 0.9999994
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
 					},
 					"size": {
 						"x": 0.2501,
@@ -2101,7 +2052,7 @@
 						"z": 0.001
 					}
 				},
-				"7972fc4f-df7a-48f8-8a2e-0ee589d36822": {
+				"a36b5916-89a9-4afe-8759-49f644d812a3": {
 					"pos": {
 						"x": 0.26403978,
 						"y": 0.96129805,
@@ -2127,7 +2078,7 @@
 				"type": "topic",
 				"isSuggested": "False",
 				"name": "How does deep learning work?",
-				"summary": "Deep learning is a subset of machine learning that involves training artificial neural networks to learn and make predictions or decisions. The first step in deep learning is collecting a large amount of labeled data. This data is used to train the neural network and teach it patterns and relationships. Backpropagation is a key component of deep learning, enabling neural Networks to learn complex patterns and make accurate predictions."
+				"summary": "\n\nDeep learning is a subset of machine learning that involves training artificial neural networks to learn and make predictions or decisions. Here is a simplified explanation of how deep learning works:\n\n1. Data Collection: The first step in deep learning is collecting a large amount of labeled data. This data is used to train the neural network and teach it patterns and relationships.\n\n2. Neural Network Architecture: The neural network is composed of multiple layers of interconnected nodes or artificial neurons. Each node takes in input data, applies mathematical operations, and produces an output.\n\n3. Forward Propagation: During the training process, data is fed into the neural network through the input layer. The data flows through the network, and calculations are performed at each node to produce an output.\n\n4. Loss Function: The output generated by the neural network is compared to the expected output from the labeled data using a loss function. The loss function measures the difference between the predicted output and the actual output.\n\n5. Back Propagation: Backpropagation is a mathematical algorithm used in neural networks to train the network by adjusting the weights and biases of the network's connections. It calculates the gradient of the loss function with respect to each weight and bias, allowing the network to learn and improve its predictions. The algorithm works by propagating the error from the output layer back through the network, adjusting the weights and biases in each layer based on their contribution to the error. This process is repeated iteratively until the network's predictions converge to the desired output. Backpropagation is a key component of deep learning, enabling neural networks to learn complex patterns and make accurate predictions "
 			},
 			"poses": {
 				"5722e3e8-4326-442b-9f78-468edf4be3c6": {
@@ -2138,9 +2089,9 @@
 					},
 					"rot": {
 						"x": 0,
-						"y": -0.0010473694,
+						"y": 0,
 						"z": 0,
-						"w": 0.99999946
+						"w": 1
 					},
 					"size": {
 						"x": 0.5702,
@@ -2148,7 +2099,7 @@
 						"z": 0.001
 					}
 				},
-				"7972fc4f-df7a-48f8-8a2e-0ee589d36822": {
+				"a36b5916-89a9-4afe-8759-49f644d812a3": {
 					"pos": {
 						"x": -0.096080646,
 						"y": 0.96731365,
@@ -2196,19 +2147,19 @@
 				"2d725dca-303f-48e8-a8a8-81a3c4c1f66c": {
 					"pos": {
 						"x": 0.033410527,
-						"y": 0.46487543,
+						"y": 0.4648856,
 						"z": 0.8547368
 					},
 					"rot": {
 						"x": 0,
-						"y": 0.00018636063,
+						"y": 0,
 						"z": 0,
 						"w": 1
 					},
 					"size": {
 						"x": 0.2501,
-						"y": 0.07138568,
-						"z": 0.00010034436
+						"y": 0.071399994,
+						"z": 0.0001
 					}
 				}
 			}
@@ -2228,22 +2179,71 @@
 					},
 					"rot": {
 						"x": 0,
-						"y": -0.00014417693,
+						"y": 0,
 						"z": 0,
 						"w": 1
 					},
 					"size": {
 						"x": 0.2501,
-						"y": 0.09318891,
-						"z": 0.00010016863
+						"y": 0.0932,
+						"z": 0.0001
+					}
+				}
+			}
+		},
+		"ef146664-f951-4e82-9e84-334566d5933e": {
+			"id": "ef146664-f951-4e82-9e84-334566d5933e",
+			"props": {
+				"urlSource": "https://image.lexica.art/full_jpg/2efd77f0-7fa2-401a-ac0b-b92852f485f0",
+				"name": "2efd77f0-7fa2-401a-ac0b-b92852f485f0",
+				"urlContext": "https://lexica.art/?q=holograms&prompt=8621b7c9-dc89-4a26-98ae-d0488aba6f14",
+				"type": "image",
+				"aspectRatio": "0.66667",
+				"assetPath": "ef146664-f951-4e82-9e84-334566d5933e/ImageAsset.jpg"
+			},
+			"poses": {
+				"ef146664-f951-4e82-9e84-334566d5933e": {
+					"pos": {
+						"x": 0.5338653,
+						"y": -0.43720874,
+						"z": -0.22482133
+					},
+					"rot": {
+						"x": 0,
+						"y": 0,
+						"z": -0.0007248039,
+						"w": 0.99999976
+					},
+					"size": {
+						"x": 0.2501,
+						"y": 0.37514997,
+						"z": 0.001
+					}
+				},
+				"a36b5916-89a9-4afe-8759-49f644d812a3": {
+					"pos": {
+						"x": 0.5738534,
+						"y": -0.26066706,
+						"z": -0.22483039
+					},
+					"rot": {
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					},
+					"size": {
+						"x": 0.2501,
+						"y": 0.37514997,
+						"z": 0.001
 					}
 				}
 			}
 		}
 	},
 	"edges": {
-		"7972fc4f-df7a-48f8-8a2e-0ee589d36822[includes]161d1f80-7b7d-49e1-b7f3-9ef29cc02d69": {
-			"srcNodeID": "7972fc4f-df7a-48f8-8a2e-0ee589d36822",
+		"a36b5916-89a9-4afe-8759-49f644d812a3[includes]161d1f80-7b7d-49e1-b7f3-9ef29cc02d69": {
+			"srcNodeID": "a36b5916-89a9-4afe-8759-49f644d812a3",
 			"trgNodeID": "161d1f80-7b7d-49e1-b7f3-9ef29cc02d69",
 			"type": "includes",
 			"props": {}
@@ -2284,8 +2284,8 @@
 				"layoutIndexX": "0"
 			}
 		},
-		"7972fc4f-df7a-48f8-8a2e-0ee589d36822[includes]fc8699e0-f418-41bc-ae82-e95614c599ed": {
-			"srcNodeID": "7972fc4f-df7a-48f8-8a2e-0ee589d36822",
+		"a36b5916-89a9-4afe-8759-49f644d812a3[includes]fc8699e0-f418-41bc-ae82-e95614c599ed": {
+			"srcNodeID": "a36b5916-89a9-4afe-8759-49f644d812a3",
 			"trgNodeID": "fc8699e0-f418-41bc-ae82-e95614c599ed",
 			"type": "includes",
 			"props": {}
@@ -2296,11 +2296,11 @@
 			"type": "includes",
 			"props": {
 				"layoutIndexY": "0",
-				"layoutIndexX": "0"
+				"layoutIndexX": "-1"
 			}
 		},
-		"7972fc4f-df7a-48f8-8a2e-0ee589d36822[includes]fff97f1e-7b55-4858-8419-2820f2539eef": {
-			"srcNodeID": "7972fc4f-df7a-48f8-8a2e-0ee589d36822",
+		"a36b5916-89a9-4afe-8759-49f644d812a3[includes]fff97f1e-7b55-4858-8419-2820f2539eef": {
+			"srcNodeID": "a36b5916-89a9-4afe-8759-49f644d812a3",
 			"trgNodeID": "fff97f1e-7b55-4858-8419-2820f2539eef",
 			"type": "includes",
 			"props": {}
@@ -2355,30 +2355,21 @@
 			"trgNodeID": "4b33dbff-a2bf-4098-be3e-2b2911923357",
 			"type": "includes",
 			"props": {
-				"layoutIndexY": "1",
+				"layoutIndexY": "0",
 				"layoutIndexX": "0"
 			}
 		},
-		"fff97f1e-7b55-4858-8419-2820f2539eef[includes]34fe3659-a1ce-440e-8a16-696c02d41d26": {
-			"srcNodeID": "fff97f1e-7b55-4858-8419-2820f2539eef",
-			"trgNodeID": "34fe3659-a1ce-440e-8a16-696c02d41d26",
+		"fc8699e0-f418-41bc-ae82-e95614c599ed[includes]09b4eeb4-17c4-4e20-ac75-cc30a3823812": {
+			"srcNodeID": "fc8699e0-f418-41bc-ae82-e95614c599ed",
+			"trgNodeID": "09b4eeb4-17c4-4e20-ac75-cc30a3823812",
 			"type": "includes",
 			"props": {
 				"layoutIndexY": "0",
 				"layoutIndexX": "1"
 			}
 		},
-		"fff97f1e-7b55-4858-8419-2820f2539eef[includes]828f835b-7a0d-4ffc-aaeb-a48112c92edb": {
-			"srcNodeID": "fff97f1e-7b55-4858-8419-2820f2539eef",
-			"trgNodeID": "828f835b-7a0d-4ffc-aaeb-a48112c92edb",
-			"type": "includes",
-			"props": {
-				"layoutIndexY": "0",
-				"layoutIndexX": "2"
-			}
-		},
-		"7972fc4f-df7a-48f8-8a2e-0ee589d36822[includes]c3091a6c-cc97-4d9b-8476-33ed412f6d83": {
-			"srcNodeID": "7972fc4f-df7a-48f8-8a2e-0ee589d36822",
+		"a36b5916-89a9-4afe-8759-49f644d812a3[includes]c3091a6c-cc97-4d9b-8476-33ed412f6d83": {
+			"srcNodeID": "a36b5916-89a9-4afe-8759-49f644d812a3",
 			"trgNodeID": "c3091a6c-cc97-4d9b-8476-33ed412f6d83",
 			"type": "includes",
 			"props": {}
@@ -2491,8 +2482,8 @@
 				"layoutIndexX": "-1"
 			}
 		},
-		"7972fc4f-df7a-48f8-8a2e-0ee589d36822[includes]fa17154e-0cb7-481d-bedb-3c4bddc8328b": {
-			"srcNodeID": "7972fc4f-df7a-48f8-8a2e-0ee589d36822",
+		"a36b5916-89a9-4afe-8759-49f644d812a3[includes]fa17154e-0cb7-481d-bedb-3c4bddc8328b": {
+			"srcNodeID": "a36b5916-89a9-4afe-8759-49f644d812a3",
 			"trgNodeID": "fa17154e-0cb7-481d-bedb-3c4bddc8328b",
 			"type": "includes",
 			"props": {}
@@ -2551,8 +2542,8 @@
 				"layoutIndexX": "0"
 			}
 		},
-		"7972fc4f-df7a-48f8-8a2e-0ee589d36822[includes]25504046-a937-4538-acd6-047616b6fefa": {
-			"srcNodeID": "7972fc4f-df7a-48f8-8a2e-0ee589d36822",
+		"a36b5916-89a9-4afe-8759-49f644d812a3[includes]25504046-a937-4538-acd6-047616b6fefa": {
+			"srcNodeID": "a36b5916-89a9-4afe-8759-49f644d812a3",
 			"trgNodeID": "25504046-a937-4538-acd6-047616b6fefa",
 			"type": "includes",
 			"props": {}
@@ -2575,8 +2566,8 @@
 				"layoutIndexX": "0"
 			}
 		},
-		"7972fc4f-df7a-48f8-8a2e-0ee589d36822[includes]79952d5a-c7ba-4799-a48f-b427292d889d": {
-			"srcNodeID": "7972fc4f-df7a-48f8-8a2e-0ee589d36822",
+		"a36b5916-89a9-4afe-8759-49f644d812a3[includes]79952d5a-c7ba-4799-a48f-b427292d889d": {
+			"srcNodeID": "a36b5916-89a9-4afe-8759-49f644d812a3",
 			"trgNodeID": "79952d5a-c7ba-4799-a48f-b427292d889d",
 			"type": "includes",
 			"props": {}
@@ -2599,8 +2590,8 @@
 				"layoutIndexX": "0"
 			}
 		},
-		"7972fc4f-df7a-48f8-8a2e-0ee589d36822[includes]90801856-884c-49ae-a7ce-626d4204d92e": {
-			"srcNodeID": "7972fc4f-df7a-48f8-8a2e-0ee589d36822",
+		"a36b5916-89a9-4afe-8759-49f644d812a3[includes]90801856-884c-49ae-a7ce-626d4204d92e": {
+			"srcNodeID": "a36b5916-89a9-4afe-8759-49f644d812a3",
 			"trgNodeID": "90801856-884c-49ae-a7ce-626d4204d92e",
 			"type": "includes",
 			"props": {}
@@ -2722,8 +2713,8 @@
 				"layoutIndexX": "-2"
 			}
 		},
-		"7972fc4f-df7a-48f8-8a2e-0ee589d36822[includes]5722e3e8-4326-442b-9f78-468edf4be3c6": {
-			"srcNodeID": "7972fc4f-df7a-48f8-8a2e-0ee589d36822",
+		"a36b5916-89a9-4afe-8759-49f644d812a3[includes]5722e3e8-4326-442b-9f78-468edf4be3c6": {
+			"srcNodeID": "a36b5916-89a9-4afe-8759-49f644d812a3",
 			"trgNodeID": "5722e3e8-4326-442b-9f78-468edf4be3c6",
 			"type": "includes",
 			"props": {}
@@ -2744,6 +2735,15 @@
 			"props": {
 				"layoutIndexY": "1",
 				"layoutIndexX": "0"
+			}
+		},
+		"fc8699e0-f418-41bc-ae82-e95614c599ed[includes]ef146664-f951-4e82-9e84-334566d5933e": {
+			"srcNodeID": "fc8699e0-f418-41bc-ae82-e95614c599ed",
+			"trgNodeID": "ef146664-f951-4e82-9e84-334566d5933e",
+			"type": "includes",
+			"props": {
+				"layoutIndexY": "0",
+				"layoutIndexX": "2"
 			}
 		}
 	}
