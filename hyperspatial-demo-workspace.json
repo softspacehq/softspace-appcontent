@@ -1,0 +1,960 @@
+{
+	"schema": 202412,
+	"id": "354231be-f04c-4a9d-9f09-ae80f4338267",
+	"nodes": {
+		"354231be-f04c-4a9d-9f09-ae80f4338267": {
+			"id": "354231be-f04c-4a9d-9f09-ae80f4338267",
+			"props": {
+				"type": "workspace",
+				"name": "Demo Hyperspatial Workspace"
+			},
+			"poses": {
+				"defaultWorld": {
+					"pos": {
+						"x": 0,
+						"y": 0,
+						"z": 0
+					},
+					"rot": {
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					},
+					"size": {
+						"x": 0.1,
+						"y": 0.1,
+						"z": 0.1
+					}
+				}
+			}
+		},
+		"0c7f441e-4e98-4435-a790-c52da18db26f": {
+			"id": "0c7f441e-4e98-4435-a790-c52da18db26f",
+			"props": {
+				"type": "website",
+				"urlLink": "https://www.sequoiacap.com/article/generative-ais-act-o1/",
+				"isSuggested": "False",
+				"name": "Generative AI’s Act o1",
+				"snippet": "The Agentic Reasoning Era Begins.",
+				"html": "<article class=\"content content--padded-top has-global-padding is-layout-constrained wysiwyg\"> <section class=\"wp-block-mg-hero-posts-featured hero-posts hero-posts--featured grid hero-posts--full-bleed\"><div class=\"hero-posts__background-container\"><img alt class=\"hero-posts__image hero-posts__background\" src=\"https://www.sequoiacap.com/wp-content/uploads/sites/6/2024/10/Hero-o1.jpg\" srcset=\"https://www.sequoiacap.com/wp-content/uploads/sites/6/2024/10/Hero-o1.jpg?w=576 576w, https://www.sequoiacap.com/wp-content/uploads/sites/6/2024/10/Hero-o1.jpg?w=1200 1200w, https://www.sequoiacap.com/wp-content/uploads/sites/6/2024/10/Hero-o1.jpg 1920w\"></div></section> <section class=\"wp-block-mg-post-container post-container wysiwyg has-global-padding is-layout-constrained wp-container-mg-post-container-is-layout-1 wp-block-post-container-is-layout-constrained\">\n<p class=\"has-drop-cap\"><em>Two years into the Generative AI revolution, research is progressing the field from &#x201C;thinking fast&#x201D;&#x2014;rapid-fire pre-trained responses&#x2014;to &#x201C;thinking slow&#x201D;&#x2014; reasoning at inference time. This evolution is unlocking a new cohort of agentic applications.&#xA0;</em></p> <p>On the second anniversary of our essay &#x201C;<a href=\"https://www.sequoiacap.com/article/generative-ai-a-creative-new-world/\">Generative AI: A Creative New World</a>,&#x201D; the AI ecosystem looks very different, and we have some predictions for what&#x2019;s on the horizon.</p> <p>The foundation layer of the Generative AI market is stabilizing in an equilibrium with a key set of scaled players and alliances, including Microsoft/OpenAI, AWS/Anthropic, Meta and Google/DeepMind. Only scaled players with economic engines and access to vast sums of capital remain in play. While the fight is far from over (and keeps escalating in a <a href=\"https://www.sequoiacap.com/article/steel-servers-and-power/\">game-theoretic fashion</a>), the market structure itself is solidifying, and it&#x2019;s clear that we will have increasingly cheap and plentiful next-token predictions.</p> <p>As the LLM market structure stabilizes, the next frontier is now emerging. The focus is shifting to the development and scaling of the reasoning layer, where &#x201C;System 2&#x201D; thinking takes precedence. Inspired by models like AlphaGo, this layer aims to endow AI systems with deliberate reasoning, problem-solving and cognitive operations at inference time that go beyond rapid pattern matching. And new cognitive architectures and user interfaces are shaping how these reasoning capabilities are delivered to and interact with users.&#xA0;</p> <p>What does all of this mean for founders in the AI market? What does this mean for incumbent software companies? And where do we, as investors, see the most promising layer for returns in the Generative AI stack?</p> <p>In our latest essay on the state of the Generative AI market, we&#x2019;ll explore how the consolidation of the foundational LLM layer has set the stage for the race to scale these higher-order reasoning and agentic capabilities, and discuss a new generation of &#x201C;killer apps&#x201D; with novel cognitive architectures and user interfaces.</p> <p>The most important model update of 2024 goes to OpenAI with o1, formerly known as Q* and also known as Strawberry. This is not just a reassertion of OpenAI&#x2019;s rightful place atop the model quality leaderboards, but also a notable improvement on the status quo architecture. More specifically, this is the first example of a model with true general reasoning capabilities, which they&#x2019;ve achieved with inference-time compute.&#xA0;</p> <p>What does that mean? Pre-trained models are doing next token prediction on an enormous amount of data. They rely on &#x201C;training-time compute.&#x201D; An emergent property of scale is basic reasoning, but this reasoning is very limited. What if you could teach a model to reason more directly? This is essentially what&#x2019;s happening with Strawberry. When we say &#x201C;inference-time compute&#x201D; what we mean is asking the model to stop and think before giving you a response, which requires more compute at inference time (hence &#x201C;inference-time compute&#x201D;). The &#x201C;stop and think&#x201D; part is reasoning.&#xA0;</p> <p>So what is the model doing when it stops and thinks?</p> <p>Let&#x2019;s first take a quick detour to March 2016 in Seoul. One of the most seminal moments in deep learning history took place here: AlphaGo&#x2019;s match against legendary Go master Lee Sedol. This wasn&#x2019;t just any AI-vs-human match&#x2014;it was the moment the world saw AI do more than just mimic patterns. It was <em>thinking</em>.</p> <p>What made AlphaGo different from previous gameplay AI systems, like Deep Blue? Like LLMs, AlphaGo was first pre-trained to mimic human experts from a database of roughly 30 million moves from previous games and more from self-play. But rather than provide a knee jerk response that comes out of the pre-trained model, AlphaGo takes the time to stop and think. At inference time, the model runs a search or simulation across a wide range of potential future scenarios, scores those scenarios, and then responds with the scenario (or answer) that has the highest expected value. The more time AlphaGo is given, the better it performs. With zero inference-time compute, the model can&#x2019;t beat the best human players. But as the inference time scales, AlphaGo gets better and better&#x2014;until it surpasses the very best humans.</p> <p>Let&#x2019;s bring it back to the LLM world. What&#x2019;s hard about replicating AlphaGo here is constructing the value function, or the function by which the responses are scored. If you&#x2019;re playing Go, it&#x2019;s more straightforward: you can simulate the game all the way to the end, see who wins, and then calculate an expected value of the next move. If you&#x2019;re coding, it&#x2019;s somewhat straightforward: you can test the code and see if it works. But how do you score the first draft of an essay? Or a travel itinerary? Or a summary of key terms in a long document? This is what makes reasoning hard with current methods, and it&#x2019;s why Strawberry is comparatively strong on domains proximate to logic (e.g. coding, math, the sciences) and not as strong in domains that are more open-ended and unstructured (e.g. writing).&#xA0;</p> <p>While the actual implementation of Strawberry is a closely guarded secret, the key ideas involve reinforcement learning around the chains of thought generated by the model. Auditing the model&#x2019;s chains of thought suggests that something fundamental and exciting is happening that actually resembles how humans think and reason. For example, o1 is showing the ability to backtrack when it gets stuck as an emergent property of scaling inference time. It is also showing the ability to think about problems the way a human would (e.g. visualize the points on a sphere to solve a geometry problem) and to think about problems in new ways (e.g. solving problems in programming competitions in a way that humans would not).&#xA0;</p> <p>And there is no shortage of new ideas to push forward inference-time compute (e.g. new ways of calculating the reward function, new ways of closing the generator/verifier gap) that research teams are working on as they try to improve the model&#x2019;s reasoning capabilities. In other words, deep reinforcement learning is <a href=\"https://x.com/polynoamial/status/1835007765213016208\">cool again</a>, and it&#x2019;s enabling an entire new reasoning layer.</p> <p>This leap from pre-trained instinctual responses (&#x201D;System 1&#x201D;) to deeper, deliberate reasoning (&#x201C;System 2&#x201D;) is the next frontier for AI. It&#x2019;s not enough for models to simply know things&#x2014;they need to pause, evaluate and reason through decisions in real time.</p> <p>Think of pre-training as the System 1 layer. Whether a model is pre-trained on millions of moves in Go (AlphaGo) or petabytes of internet-scale text (LLMs), its job is to mimic patterns&#x2014;whether that&#x2019;s human gameplay or language. But mimicry, as powerful as it is, isn&#x2019;t true reasoning. It can&#x2019;t properly think its way through complex novel situations, especially those out of sample.</p> <p>This is where System 2 thinking comes in, and it&#x2019;s the focus of the latest wave of AI research. When a model &#x201C;stops to think,&#x201D; it isn&#x2019;t just generating learned patterns or spitting out predictions based on past data. It&#x2019;s generating a range of possibilities, considering potential outcomes and making a decision based on reasoning.&#xA0;</p> <p>For many tasks, System 1 is more than enough. As Noam Brown pointed out on our latest episode of <a href=\"https://www.sequoiacap.com/podcast/training-data-noam-brown/\">Training Data</a>, thinking for longer about what the capital of Bhutan is doesn&#x2019;t help&#x2014;you either know it or you don&#x2019;t. Quick, pattern-based recall works perfectly here.</p> <p>But when we look at more complex problems&#x2014;like breakthroughs in mathematics or biology&#x2014;quick, instinctive responses don&#x2019;t cut it. These advances required deep thinking, creative problem-solving and&#x2014;most importantly&#x2014;time. The same is true for AI. To tackle the most challenging, meaningful problems, AI will need to evolve beyond quick in-sample responses and take its time to come up with the kind of thoughtful reasoning that defines human progress.</p>\n</section> <figure class=\"wp-block-image size-large is-resized\"><img width=\"1921\" src=\"https://www.sequoiacap.com/wp-content/uploads/sites/6/2024/10/data-iso.png?w=1024\" alt class=\"wp-image-18238\" srcset=\"https://www.sequoiacap.com/wp-content/uploads/sites/6/2024/10/data-iso.png 1921w, https://www.sequoiacap.com/wp-content/uploads/sites/6/2024/10/data-iso.png?resize=300,268 300w, https://www.sequoiacap.com/wp-content/uploads/sites/6/2024/10/data-iso.png?resize=768,687 768w, https://www.sequoiacap.com/wp-content/uploads/sites/6/2024/10/data-iso.png?resize=1024,916 1024w, https://www.sequoiacap.com/wp-content/uploads/sites/6/2024/10/data-iso.png?resize=1536,1374 1536w, https://www.sequoiacap.com/wp-content/uploads/sites/6/2024/10/data-iso.png?resize=168,150 168w, https://www.sequoiacap.com/wp-content/uploads/sites/6/2024/10/data-iso.png?resize=680,608 680w, https://www.sequoiacap.com/wp-content/uploads/sites/6/2024/10/data-iso.png?resize=930,832 930w, https://www.sequoiacap.com/wp-content/uploads/sites/6/2024/10/data-iso.png?resize=1440,1288 1440w, https://www.sequoiacap.com/wp-content/uploads/sites/6/2024/10/data-iso.png?resize=480,429 480w\" sizes=\"(max-width: 1921px) 100vw, 1921px\"></figure> <figure class=\"wp-block-image size-large\"><img width=\"1921\" src=\"https://www.sequoiacap.com/wp-content/uploads/sites/6/2024/10/how-they-examples.jpg?w=1024\" alt class=\"wp-image-18248\" srcset=\"https://www.sequoiacap.com/wp-content/uploads/sites/6/2024/10/how-they-examples.jpg 1921w, https://www.sequoiacap.com/wp-content/uploads/sites/6/2024/10/how-they-examples.jpg?resize=300,190 300w, https://www.sequoiacap.com/wp-content/uploads/sites/6/2024/10/how-they-examples.jpg?resize=768,487 768w, https://www.sequoiacap.com/wp-content/uploads/sites/6/2024/10/how-they-examples.jpg?resize=1024,650 1024w, https://www.sequoiacap.com/wp-content/uploads/sites/6/2024/10/how-they-examples.jpg?resize=1536,975 1536w, https://www.sequoiacap.com/wp-content/uploads/sites/6/2024/10/how-they-examples.jpg?resize=220,140 220w, https://www.sequoiacap.com/wp-content/uploads/sites/6/2024/10/how-they-examples.jpg?resize=680,432 680w, https://www.sequoiacap.com/wp-content/uploads/sites/6/2024/10/how-they-examples.jpg?resize=930,590 930w, https://www.sequoiacap.com/wp-content/uploads/sites/6/2024/10/how-they-examples.jpg?resize=1440,914 1440w, https://www.sequoiacap.com/wp-content/uploads/sites/6/2024/10/how-they-examples.jpg?resize=480,305 480w\" sizes=\"(max-width: 1921px) 100vw, 1921px\"></figure> <section class=\"wp-block-mg-post-container post-container wysiwyg has-global-padding is-layout-constrained wp-container-mg-post-container-is-layout-2 wp-block-post-container-is-layout-constrained\"> <p>The most important insight from the <a href=\"https://openai.com/index/learning-to-reason-with-llms/\">o1 paper</a> is that there&#x2019;s a new scaling law in town.</p> <p>Pre-training LLMs follows a well understood <a href=\"https://arxiv.org/abs/2001.08361\">scaling law</a>: the more compute and data you spend on pre-training the model, the better it performs.&#xA0;</p> <p>The o1 paper has opened up an entire new plane for scaling compute: the more inference-time (or &#x201C;test-time&#x201D;)&#xA0; compute you give the model, the better it reasons.</p>\n</section> <figure class=\"wp-block-image size-large\"><img width=\"1921\" src=\"https://www.sequoiacap.com/wp-content/uploads/sites/6/2024/10/train-time.jpg?w=1024\" alt class=\"wp-image-18232\" srcset=\"https://www.sequoiacap.com/wp-content/uploads/sites/6/2024/10/train-time.jpg 1921w, https://www.sequoiacap.com/wp-content/uploads/sites/6/2024/10/train-time.jpg?resize=300,165 300w, https://www.sequoiacap.com/wp-content/uploads/sites/6/2024/10/train-time.jpg?resize=768,422 768w, https://www.sequoiacap.com/wp-content/uploads/sites/6/2024/10/train-time.jpg?resize=1024,563 1024w, https://www.sequoiacap.com/wp-content/uploads/sites/6/2024/10/train-time.jpg?resize=1536,844 1536w, https://www.sequoiacap.com/wp-content/uploads/sites/6/2024/10/train-time.jpg?resize=220,121 220w, https://www.sequoiacap.com/wp-content/uploads/sites/6/2024/10/train-time.jpg?resize=680,374 680w, https://www.sequoiacap.com/wp-content/uploads/sites/6/2024/10/train-time.jpg?resize=930,511 930w, https://www.sequoiacap.com/wp-content/uploads/sites/6/2024/10/train-time.jpg?resize=1440,792 1440w, https://www.sequoiacap.com/wp-content/uploads/sites/6/2024/10/train-time.jpg?resize=480,264 480w\" sizes=\"(max-width: 1921px) 100vw, 1921px\"></figure> <section class=\"wp-block-mg-post-container post-container wysiwyg has-global-padding is-layout-constrained wp-container-mg-post-container-is-layout-3 wp-block-post-container-is-layout-constrained\">\n<p class=\"has-text-align-center\"><em>Source: OpenAI o1 technical <a href=\"https://openai.com/index/learning-to-reason-with-llms/\">report</a></em></p> <p>What happens when the model can think for hours? Days? Decades? Will we solve the Riemann Hypothesis? Will we answer Asimov&#x2019;s last question?</p> <p>This shift will move us from a world of massive pre-training clusters toward <strong>inference clouds</strong>&#x2014;environments that can scale compute dynamically based on the complexity of the task.</p> <p>What happens as OpenAI, Anthropic, Google and Meta scale their reasoning layers and develop more and more powerful reasoning machines? Will we have one model to rule them all?</p> <p>One hypothesis at the outset of the Generative AI market was that a single model company would become so powerful and all-encompassing that it would subsume all other applications. This prediction has been wrong so far in two ways.</p> <p>First, there is plenty of competition at the model layer, with constant leapfrogging for SOTA capabilities. It&#x2019;s <em>possible</em> that someone figures out continuous self-improvement with broad domain self play and achieves takeoff, but at the moment we have seen no evidence of this. Quite to the contrary, the model layer is a knife-fight, with price per token for GPT-4 coming down 98% since the last dev day.</p> <p>Second, the models have largely failed to make it into the application layer as breakout products, with the notable exception of ChatGPT. The real world is messy. Great researchers don&#x2019;t have the desire to understand the nitty gritty end-to-end workflows of every possible function in every possible vertical. It is both appealing and economically rational for them to stop at the API, and let the developer universe worry about the messiness of the real world. Good news for the application layer.&#xA0;</p> <p>The way you plan and prosecute actions to reach your goals as a scientist is vastly different from how you would work as a software engineer. Moreover, it&#x2019;s even different as a software engineer at different companies.</p> <p>As the research labs further push the boundaries on horizontal general-purpose reasoning, we still need application or domain-specific reasoning to deliver useful AI agents. The messy real world requires significant domain and application-specific reasoning that cannot efficiently be encoded in a general model.</p>\n</section> <figure class=\"wp-block-image size-large\"><img width=\"1920\" src=\"https://www.sequoiacap.com/wp-content/uploads/sites/6/2024/10/3-layers-iso.png?w=1024\" alt class=\"wp-image-18237\" srcset=\"https://www.sequoiacap.com/wp-content/uploads/sites/6/2024/10/3-layers-iso.png 1920w, https://www.sequoiacap.com/wp-content/uploads/sites/6/2024/10/3-layers-iso.png?resize=300,201 300w, https://www.sequoiacap.com/wp-content/uploads/sites/6/2024/10/3-layers-iso.png?resize=768,516 768w, https://www.sequoiacap.com/wp-content/uploads/sites/6/2024/10/3-layers-iso.png?resize=1024,687 1024w, https://www.sequoiacap.com/wp-content/uploads/sites/6/2024/10/3-layers-iso.png?resize=1536,1031 1536w, https://www.sequoiacap.com/wp-content/uploads/sites/6/2024/10/3-layers-iso.png?resize=220,148 220w, https://www.sequoiacap.com/wp-content/uploads/sites/6/2024/10/3-layers-iso.png?resize=680,457 680w, https://www.sequoiacap.com/wp-content/uploads/sites/6/2024/10/3-layers-iso.png?resize=930,624 930w, https://www.sequoiacap.com/wp-content/uploads/sites/6/2024/10/3-layers-iso.png?resize=1440,967 1440w, https://www.sequoiacap.com/wp-content/uploads/sites/6/2024/10/3-layers-iso.png?resize=480,322 480w\" sizes=\"(max-width: 1920px) 100vw, 1920px\"></figure> <section class=\"wp-block-mg-post-container post-container wysiwyg has-global-padding is-layout-constrained wp-container-mg-post-container-is-layout-4 wp-block-post-container-is-layout-constrained\">\n<p>Enter <a href=\"https://blog.langchain.dev/what-is-a-cognitive-architecture/\"><strong>cognitive architectures</strong></a>, or how your system thinks: the flow of code and model interactions that takes user input and performs actions or generates a response.</p> <p>For example, in the case of Factory, each of their &#x201C;droid&#x201D; products has a custom cognitive architecture that mimics the way that a human thinks to solve a specific task, like reviewing pull requests or writing and executing a migration plan to update a service from one backend to another. The Factory droid will break down all of the dependencies, propose the relevant code changes, add unit tests and pull in a human to review. Then after approval, run the changes across all of the files in a dev environment and merge the code if all the tests pass. Just like how a human might do it&#x2014;in a set of discrete tasks rather than one generalized, black box answer.</p> <p>Imagine you want to start a business in AI. What layer of the stack do you target? Do you want to compete on infra? Good luck beating NVIDIA and the hyperscalers. Do you want to compete on the model? Good luck beating OpenAI and Mark Zuckerberg. Do you want to compete on apps? Good luck beating corporate IT and global systems integrators. Oh. Wait. That actually sounds pretty doable!</p> <p>Foundation models are magic, but they&#x2019;re also messy. Mainstream enterprises can&#x2019;t deal with black boxes, hallucinations and clumsy workflows. Consumers stare at a blank prompt and don&#x2019;t know what to ask. These are opportunities in the application layer.&#xA0;</p> <p>Two years ago, many application layer companies were derided as &#x201C;just a wrapper on top of GPT-3.&#x201D; Today those wrappers turn out to be one of the only sound methods to build enduring value. What began as &#x201C;wrappers&#x201D; have evolved into &#x201C;cognitive architectures.&#x201D;</p> <p>Application layer AI companies are not just UIs on top of a foundation model. Far from it. They have sophisticated cognitive architectures that typically include multiple foundation models with some sort of routing mechanism on top, vector and/or graph databases for RAG, guardrails to ensure compliance, and application logic that mimics the way a human might think about reasoning through a workflow.</p> <p>The cloud transition was software-as-a-service. Software companies became cloud service providers. This was a $350B opportunity.<br>Thanks to agentic reasoning, the AI transition is <a href=\"https://x.com/bhalligan/status/1781323169313222852\">service-as-a-software</a>. Software companies turn labor into software. That means the addressable market is not the software market, but the services market measured in the <em>trillions</em> of dollars.</p>\n</section> <figure class=\"wp-block-image size-large\"><img width=\"1920\" src=\"https://www.sequoiacap.com/wp-content/uploads/sites/6/2024/10/AI-TRANSITION.jpg?w=1024\" alt class=\"wp-image-18224\" srcset=\"https://www.sequoiacap.com/wp-content/uploads/sites/6/2024/10/AI-TRANSITION.jpg 1920w, https://www.sequoiacap.com/wp-content/uploads/sites/6/2024/10/AI-TRANSITION.jpg?resize=300,169 300w, https://www.sequoiacap.com/wp-content/uploads/sites/6/2024/10/AI-TRANSITION.jpg?resize=768,432 768w, https://www.sequoiacap.com/wp-content/uploads/sites/6/2024/10/AI-TRANSITION.jpg?resize=1024,577 1024w, https://www.sequoiacap.com/wp-content/uploads/sites/6/2024/10/AI-TRANSITION.jpg?resize=1536,865 1536w, https://www.sequoiacap.com/wp-content/uploads/sites/6/2024/10/AI-TRANSITION.jpg?resize=220,124 220w, https://www.sequoiacap.com/wp-content/uploads/sites/6/2024/10/AI-TRANSITION.jpg?resize=680,383 680w, https://www.sequoiacap.com/wp-content/uploads/sites/6/2024/10/AI-TRANSITION.jpg?resize=930,524 930w, https://www.sequoiacap.com/wp-content/uploads/sites/6/2024/10/AI-TRANSITION.jpg?resize=1440,811 1440w, https://www.sequoiacap.com/wp-content/uploads/sites/6/2024/10/AI-TRANSITION.jpg?resize=480,270 480w\" sizes=\"(max-width: 1920px) 100vw, 1920px\"></figure> <section class=\"wp-block-mg-post-container post-container wysiwyg has-global-padding is-layout-constrained wp-container-mg-post-container-is-layout-5 wp-block-post-container-is-layout-constrained\">\n<p>What does it mean to sell work? Sierra is a good example. B2C companies put Sierra on their website to talk with customers. The job-to-be-done is to resolve a customer issue. Sierra gets paid per resolution. There is no such thing as &#x201C;a seat&#x201D;. You have a job to be done. Sierra does it. They get paid accordingly.&#xA0;</p> <p>This is the true north for many AI companies. Sierra benefits from having a graceful failure mode (escalation to a human agent). Not all companies are so lucky. An emerging pattern is to deploy as a copilot first (human-in-the-loop) and use those reps to earn the opportunity to deploy as an autopilot (no human in the loop). GitHub Copilot is a good example of this.&#xA0;</p> <p>With Generative AI&#x2019;s budding reasoning capabilities, a new class of agentic applications is starting to emerge.</p> <p>What shape do these application layer companies take? Interestingly, these companies look different than their cloud predecessors:&#xA0;</p> <ul class=\"wp-block-list\">\n<li>Cloud companies targeted the software profit pool. AI companies target the services profit pool.&#xA0;</li> <li>Cloud companies sold software ($ / seat). AI companies sell work ($ / outcome)</li> <li>Cloud companies liked to go bottoms-up, with frictionless distribution. AI companies are increasingly going top-down, with high-touch, high-trust delivery models.&#xA0;</li>\n</ul> <p>We are seeing a new cohort of these agentic applications emerge across all sectors of the knowledge economy. Here are some examples.</p> <ul class=\"wp-block-list\">\n<li>Harvey: AI lawyer</li> <li>Glean: AI work assistant&#xA0;</li> <li>Factory: AI software engineer</li> <li>Abridge: AI medical scribe</li> <li>XBOW: AI pentester&#xA0;</li> <li>Sierra: AI customer support agent</li>\n</ul> <p>By bringing the marginal cost of delivering these services down&#x2014;in line with the plummeting cost of inference&#x2014;these agentic applications are expanding and creating new markets.</p> <p>Take XBOW, for example. XBOW is building an AI &#x201C;pentester.&#x201D; A &#x201C;pentest&#x201D; or penetration test is a simulated cyberattack on a computer system that companies perform in order to evaluate their own security systems. Before Generative AI, companies hired pentesters only in limited circumstances (e.g. when required for compliance), because human pentesting is expensive: it&#x2019;s a manual task performed by a highly skilled human. However, XBOW is <a href=\"https://xbow.com/blog/xbow-vs-humans/\">now demonstrating</a> automated pentests built on the latest reasoning LLMs that match the performance of the most highly skilled human pentesters. This multiplies the pentesting market and opens up the possibility of continuous pentesting for companies of all shapes and sizes.&#xA0;</p> <p>Earlier this year we met with our Limited Partners. Their top question was &#x201C;will the AI transition destroy your existing cloud companies?&#x201D;&#xA0;&#xA0;</p> <p>We began with a strong default of &#x201C;no.&#x201D; The classic battle between startups and incumbents is a horse race between startups building distribution and incumbents building product. Can the young companies with cool products get to a bunch of customers before the incumbents who own the customers come up with cool products? Given that so much of the magic in AI is coming from the foundation models, our default assumption has been no&#x2014;the incumbents will do just fine, because those foundation models are just as accessible to them as they are to the startup universe, and they have the preexisting advantages of data and distribution. The primary opportunity for startups is not to replace incumbent software companies&#x2014;it&#x2019;s to go after automatable pools of work.&#xA0;</p> <p>That being said, we are no longer so sure. See above re: cognitive architectures. There&#x2019;s an enormous amount of engineering required to turn the raw capabilities of a model into a compelling, reliable, end-to-end business solution. What if we&#x2019;re just dramatically underestimating what it means to be &#x201C;AI native&#x201D;?</p> <p>Twenty years ago the on-prem software companies scoffed at the idea of SaaS. &#x201C;What&#x2019;s the big deal? We can run our own servers and deliver this stuff over the internet too!&#x201D; Sure, conceptually it was simple. But what followed was a wholesale reinvention of the business. EPD went from waterfalls and PRDs to agile development and AB testing. GTM went from top-down enterprise sales and steak dinners to bottoms-up PLG and product analytics. Business models went from high ASPs and maintenance streams to high NDRs and usage-based pricing. Very few on-prem companies made the transition.&#xA0;</p> <p>What if AI is an analogous shift? Could the opportunity for AI be <strong>both</strong> selling work <strong>and</strong> replacing software?</p> <p>With Day.ai, we have seen a glimpse of the future. Day is an AI native CRM. Systems integrators make billions of dollars configuring Salesforce to meet your needs. With nothing but access to your email and calendar and answers to a one-page questionnaire, Day automatically generates a CRM that is perfectly tailored to your business. It doesn&#x2019;t have all the bells and whistles (yet), but the magic of an auto-generated CRM that remains fresh with zero human input is already causing people to switch.</p> <p>Where are we spending our cycles as investors? Where is funding being deployed? Here&#x2019;s our quick take.&#xA0;</p> <p><strong>Infrastructure</strong></p> <p>This is the domain of hyperscalers. It&#x2019;s being driven by game theoretic behavior, not microeconomics. Terrible place for venture capitalists to be.&#xA0;</p> <p><strong>Models</strong></p> <p>This is the domain of hyperscalers and financial investors. Hyperscalers are trading balance sheets for income statements, investing money that&#x2019;s just going to round-trip back to their cloud businesses in the form of compute revenue. Financial investors are skewed by the &#x201C;wowed by science&#x201D; bias. These models are super cool and these teams are incredibly impressive. Microeconomics be damned!</p> <p><strong>Developer tools and infrastructure software&#xA0;</strong></p> <p>Less interesting for strategics and more interesting for venture capitalists. ~15 companies with $1Bn+ of revenue were created at this layer during the cloud transition, and we suspect the same could be true with AI.&#xA0;</p> <p><strong>Apps</strong></p> <p>The most interesting layer for venture capital. ~20 application layer companies with $1Bn+ in revenue were created during the cloud transition, another ~20 were created during the mobile transition, and we suspect the same will be true here.&#xA0;</p>\n</section> <figure class=\"wp-block-image size-full\"><img width=\"1920\" src=\"https://www.sequoiacap.com/wp-content/uploads/sites/6/2024/10/white-space.jpg\" alt class=\"wp-image-18228\" srcset=\"https://www.sequoiacap.com/wp-content/uploads/sites/6/2024/10/white-space.jpg 1920w, https://www.sequoiacap.com/wp-content/uploads/sites/6/2024/10/white-space.jpg?resize=300,181 300w, https://www.sequoiacap.com/wp-content/uploads/sites/6/2024/10/white-space.jpg?resize=768,464 768w, https://www.sequoiacap.com/wp-content/uploads/sites/6/2024/10/white-space.jpg?resize=1024,619 1024w, https://www.sequoiacap.com/wp-content/uploads/sites/6/2024/10/white-space.jpg?resize=1536,928 1536w, https://www.sequoiacap.com/wp-content/uploads/sites/6/2024/10/white-space.jpg?resize=220,133 220w, https://www.sequoiacap.com/wp-content/uploads/sites/6/2024/10/white-space.jpg?resize=680,411 680w, https://www.sequoiacap.com/wp-content/uploads/sites/6/2024/10/white-space.jpg?resize=930,562 930w, https://www.sequoiacap.com/wp-content/uploads/sites/6/2024/10/white-space.jpg?resize=1440,870 1440w, https://www.sequoiacap.com/wp-content/uploads/sites/6/2024/10/white-space.jpg?resize=480,290 480w\" sizes=\"(max-width: 1920px) 100vw, 1920px\"></figure> <section class=\"wp-block-mg-post-container post-container wysiwyg has-global-padding is-layout-constrained wp-container-mg-post-container-is-layout-6 wp-block-post-container-is-layout-constrained\"> <p>In Generative AI&#x2019;s next act, we expect to see the impact of reasoning R&amp;D ripple into the application layer. These ripples are fast and deep. Most of the cognitive architectures to date incorporate clever &#x201C;<a href=\"https://x.com/leopoldasch/status/1798480454083018871\">unhobbling</a>&#x201D; techniques; now that these capabilities are becoming baked deeper into the models themselves, we expect that agentic applications will become much more sophisticated and robust, quickly.&#xA0;</p> <p>Back in the research lab, reasoning and inference-time compute will continue to be a strong theme for the foreseeable future. Now that we have a new scaling law, the next race is on. But for any given domain, it is still hard to gather real-world data and encode domain and application-specific cognitive architectures. This is again where last-mile app providers may have the upper hand in solving the diverse set of problems in the messy real world.</p> <p>Thinking ahead, multi-agent systems, like Factory&#x2019;s droids, may begin to proliferate as ways of modeling reasoning and social learning processes. Once we can do work, we can have teams of workers accomplishing so much more.</p> <p>What we&#x2019;re all eagerly awaiting is Generative AI&#x2019;s Move 37, that moment when &#x2013; like in AlphaGo&#x2019;s second game against Lee Sedol &#x2013; a general AI system surprises us with something superhuman, something that feels like independent thought. This does not mean that the AI &#x201C;wakes up&#x201D; (AlphaGo did not) but that we have simulated processes of perception, reasoning and action that the AI can explore in truly novel and useful ways. This may in fact be AGI, and if so it will not be a singular occurrence, it will merely be the next phase of technology.</p>\n</section> <section class=\"social-sharing\"> </section> <section class=\"wide-signup grid\"> </section> </article>",
+				"text": "![](https://www.sequoiacap.com/wp-content/uploads/sites/6/2024/10/Hero-o1.jpg)\n\n_Two years into the Generative AI revolution, research is progressing the field from “thinking fast”—rapid-fire pre-trained responses—to “thinking slow”— reasoning at inference time. This evolution is unlocking a new cohort of agentic applications._ \n\nOn the second anniversary of our essay “[Generative AI: A Creative New World](https://www.sequoiacap.com/article/generative-ai-a-creative-new-world/),” the AI ecosystem looks very different, and we have some predictions for what’s on the horizon.\n\nThe foundation layer of the Generative AI market is stabilizing in an equilibrium with a key set of scaled players and alliances, including Microsoft/OpenAI, AWS/Anthropic, Meta and Google/DeepMind. Only scaled players with economic engines and access to vast sums of capital remain in play. While the fight is far from over (and keeps escalating in a [game-theoretic fashion](https://www.sequoiacap.com/article/steel-servers-and-power/)), the market structure itself is solidifying, and it’s clear that we will have increasingly cheap and plentiful next-token predictions.\n\nAs the LLM market structure stabilizes, the next frontier is now emerging. The focus is shifting to the development and scaling of the reasoning layer, where “System 2” thinking takes precedence. Inspired by models like AlphaGo, this layer aims to endow AI systems with deliberate reasoning, problem-solving and cognitive operations at inference time that go beyond rapid pattern matching. And new cognitive architectures and user interfaces are shaping how these reasoning capabilities are delivered to and interact with users. \n\nWhat does all of this mean for founders in the AI market? What does this mean for incumbent software companies? And where do we, as investors, see the most promising layer for returns in the Generative AI stack?\n\nIn our latest essay on the state of the Generative AI market, we’ll explore how the consolidation of the foundational LLM layer has set the stage for the race to scale these higher-order reasoning and agentic capabilities, and discuss a new generation of “killer apps” with novel cognitive architectures and user interfaces.\n\nThe most important model update of 2024 goes to OpenAI with o1, formerly known as Q\\* and also known as Strawberry. This is not just a reassertion of OpenAI’s rightful place atop the model quality leaderboards, but also a notable improvement on the status quo architecture. More specifically, this is the first example of a model with true general reasoning capabilities, which they’ve achieved with inference-time compute. \n\nWhat does that mean? Pre-trained models are doing next token prediction on an enormous amount of data. They rely on “training-time compute.” An emergent property of scale is basic reasoning, but this reasoning is very limited. What if you could teach a model to reason more directly? This is essentially what’s happening with Strawberry. When we say “inference-time compute” what we mean is asking the model to stop and think before giving you a response, which requires more compute at inference time (hence “inference-time compute”). The “stop and think” part is reasoning. \n\nSo what is the model doing when it stops and thinks?\n\nLet’s first take a quick detour to March 2016 in Seoul. One of the most seminal moments in deep learning history took place here: AlphaGo’s match against legendary Go master Lee Sedol. This wasn’t just any AI-vs-human match—it was the moment the world saw AI do more than just mimic patterns. It was _thinking_.\n\nWhat made AlphaGo different from previous gameplay AI systems, like Deep Blue? Like LLMs, AlphaGo was first pre-trained to mimic human experts from a database of roughly 30 million moves from previous games and more from self-play. But rather than provide a knee jerk response that comes out of the pre-trained model, AlphaGo takes the time to stop and think. At inference time, the model runs a search or simulation across a wide range of potential future scenarios, scores those scenarios, and then responds with the scenario (or answer) that has the highest expected value. The more time AlphaGo is given, the better it performs. With zero inference-time compute, the model can’t beat the best human players. But as the inference time scales, AlphaGo gets better and better—until it surpasses the very best humans.\n\nLet’s bring it back to the LLM world. What’s hard about replicating AlphaGo here is constructing the value function, or the function by which the responses are scored. If you’re playing Go, it’s more straightforward: you can simulate the game all the way to the end, see who wins, and then calculate an expected value of the next move. If you’re coding, it’s somewhat straightforward: you can test the code and see if it works. But how do you score the first draft of an essay? Or a travel itinerary? Or a summary of key terms in a long document? This is what makes reasoning hard with current methods, and it’s why Strawberry is comparatively strong on domains proximate to logic (e.g. coding, math, the sciences) and not as strong in domains that are more open-ended and unstructured (e.g. writing). \n\nWhile the actual implementation of Strawberry is a closely guarded secret, the key ideas involve reinforcement learning around the chains of thought generated by the model. Auditing the model’s chains of thought suggests that something fundamental and exciting is happening that actually resembles how humans think and reason. For example, o1 is showing the ability to backtrack when it gets stuck as an emergent property of scaling inference time. It is also showing the ability to think about problems the way a human would (e.g. visualize the points on a sphere to solve a geometry problem) and to think about problems in new ways (e.g. solving problems in programming competitions in a way that humans would not). \n\nAnd there is no shortage of new ideas to push forward inference-time compute (e.g. new ways of calculating the reward function, new ways of closing the generator/verifier gap) that research teams are working on as they try to improve the model’s reasoning capabilities. In other words, deep reinforcement learning is [cool again](https://x.com/polynoamial/status/1835007765213016208), and it’s enabling an entire new reasoning layer.\n\nThis leap from pre-trained instinctual responses (”System 1”) to deeper, deliberate reasoning (“System 2”) is the next frontier for AI. It’s not enough for models to simply know things—they need to pause, evaluate and reason through decisions in real time.\n\nThink of pre-training as the System 1 layer. Whether a model is pre-trained on millions of moves in Go (AlphaGo) or petabytes of internet-scale text (LLMs), its job is to mimic patterns—whether that’s human gameplay or language. But mimicry, as powerful as it is, isn’t true reasoning. It can’t properly think its way through complex novel situations, especially those out of sample.\n\nThis is where System 2 thinking comes in, and it’s the focus of the latest wave of AI research. When a model “stops to think,” it isn’t just generating learned patterns or spitting out predictions based on past data. It’s generating a range of possibilities, considering potential outcomes and making a decision based on reasoning. \n\nFor many tasks, System 1 is more than enough. As Noam Brown pointed out on our latest episode of [Training Data](https://www.sequoiacap.com/podcast/training-data-noam-brown/), thinking for longer about what the capital of Bhutan is doesn’t help—you either know it or you don’t. Quick, pattern-based recall works perfectly here.\n\nBut when we look at more complex problems—like breakthroughs in mathematics or biology—quick, instinctive responses don’t cut it. These advances required deep thinking, creative problem-solving and—most importantly—time. The same is true for AI. To tackle the most challenging, meaningful problems, AI will need to evolve beyond quick in-sample responses and take its time to come up with the kind of thoughtful reasoning that defines human progress.\n\n![](https://www.sequoiacap.com/wp-content/uploads/sites/6/2024/10/data-iso.png?w=1024)\n\n![](https://www.sequoiacap.com/wp-content/uploads/sites/6/2024/10/how-they-examples.jpg?w=1024)\n\nThe most important insight from the [o1 paper](https://openai.com/index/learning-to-reason-with-llms/) is that there’s a new scaling law in town.\n\nPre-training LLMs follows a well understood [scaling law](https://arxiv.org/abs/2001.08361): the more compute and data you spend on pre-training the model, the better it performs. \n\nThe o1 paper has opened up an entire new plane for scaling compute: the more inference-time (or “test-time”)  compute you give the model, the better it reasons.\n\n![](https://www.sequoiacap.com/wp-content/uploads/sites/6/2024/10/train-time.jpg?w=1024)\n\n_Source: OpenAI o1 technical [report](https://openai.com/index/learning-to-reason-with-llms/)_\n\nWhat happens when the model can think for hours? Days? Decades? Will we solve the Riemann Hypothesis? Will we answer Asimov’s last question?\n\nThis shift will move us from a world of massive pre-training clusters toward **inference clouds**—environments that can scale compute dynamically based on the complexity of the task.\n\nWhat happens as OpenAI, Anthropic, Google and Meta scale their reasoning layers and develop more and more powerful reasoning machines? Will we have one model to rule them all?\n\nOne hypothesis at the outset of the Generative AI market was that a single model company would become so powerful and all-encompassing that it would subsume all other applications. This prediction has been wrong so far in two ways.\n\nFirst, there is plenty of competition at the model layer, with constant leapfrogging for SOTA capabilities. It’s _possible_ that someone figures out continuous self-improvement with broad domain self play and achieves takeoff, but at the moment we have seen no evidence of this. Quite to the contrary, the model layer is a knife-fight, with price per token for GPT-4 coming down 98% since the last dev day.\n\nSecond, the models have largely failed to make it into the application layer as breakout products, with the notable exception of ChatGPT. The real world is messy. Great researchers don’t have the desire to understand the nitty gritty end-to-end workflows of every possible function in every possible vertical. It is both appealing and economically rational for them to stop at the API, and let the developer universe worry about the messiness of the real world. Good news for the application layer. \n\nThe way you plan and prosecute actions to reach your goals as a scientist is vastly different from how you would work as a software engineer. Moreover, it’s even different as a software engineer at different companies.\n\nAs the research labs further push the boundaries on horizontal general-purpose reasoning, we still need application or domain-specific reasoning to deliver useful AI agents. The messy real world requires significant domain and application-specific reasoning that cannot efficiently be encoded in a general model.\n\n![](https://www.sequoiacap.com/wp-content/uploads/sites/6/2024/10/3-layers-iso.png?w=1024)\n\nEnter [**cognitive architectures**](https://blog.langchain.dev/what-is-a-cognitive-architecture/), or how your system thinks: the flow of code and model interactions that takes user input and performs actions or generates a response.\n\nFor example, in the case of Factory, each of their “droid” products has a custom cognitive architecture that mimics the way that a human thinks to solve a specific task, like reviewing pull requests or writing and executing a migration plan to update a service from one backend to another. The Factory droid will break down all of the dependencies, propose the relevant code changes, add unit tests and pull in a human to review. Then after approval, run the changes across all of the files in a dev environment and merge the code if all the tests pass. Just like how a human might do it—in a set of discrete tasks rather than one generalized, black box answer.\n\nImagine you want to start a business in AI. What layer of the stack do you target? Do you want to compete on infra? Good luck beating NVIDIA and the hyperscalers. Do you want to compete on the model? Good luck beating OpenAI and Mark Zuckerberg. Do you want to compete on apps? Good luck beating corporate IT and global systems integrators. Oh. Wait. That actually sounds pretty doable!\n\nFoundation models are magic, but they’re also messy. Mainstream enterprises can’t deal with black boxes, hallucinations and clumsy workflows. Consumers stare at a blank prompt and don’t know what to ask. These are opportunities in the application layer. \n\nTwo years ago, many application layer companies were derided as “just a wrapper on top of GPT-3.” Today those wrappers turn out to be one of the only sound methods to build enduring value. What began as “wrappers” have evolved into “cognitive architectures.”\n\nApplication layer AI companies are not just UIs on top of a foundation model. Far from it. They have sophisticated cognitive architectures that typically include multiple foundation models with some sort of routing mechanism on top, vector and/or graph databases for RAG, guardrails to ensure compliance, and application logic that mimics the way a human might think about reasoning through a workflow.\n\nThe cloud transition was software-as-a-service. Software companies became cloud service providers. This was a $350B opportunity.  \nThanks to agentic reasoning, the AI transition is [service-as-a-software](https://x.com/bhalligan/status/1781323169313222852). Software companies turn labor into software. That means the addressable market is not the software market, but the services market measured in the _trillions_ of dollars.\n\n![](https://www.sequoiacap.com/wp-content/uploads/sites/6/2024/10/AI-TRANSITION.jpg?w=1024)\n\nWhat does it mean to sell work? Sierra is a good example. B2C companies put Sierra on their website to talk with customers. The job-to-be-done is to resolve a customer issue. Sierra gets paid per resolution. There is no such thing as “a seat”. You have a job to be done. Sierra does it. They get paid accordingly. \n\nThis is the true north for many AI companies. Sierra benefits from having a graceful failure mode (escalation to a human agent). Not all companies are so lucky. An emerging pattern is to deploy as a copilot first (human-in-the-loop) and use those reps to earn the opportunity to deploy as an autopilot (no human in the loop). GitHub Copilot is a good example of this. \n\nWith Generative AI’s budding reasoning capabilities, a new class of agentic applications is starting to emerge.\n\nWhat shape do these application layer companies take? Interestingly, these companies look different than their cloud predecessors: \n\n*   Cloud companies targeted the software profit pool. AI companies target the services profit pool. \n*   Cloud companies sold software ($ / seat). AI companies sell work ($ / outcome)\n*   Cloud companies liked to go bottoms-up, with frictionless distribution. AI companies are increasingly going top-down, with high-touch, high-trust delivery models. \n\nWe are seeing a new cohort of these agentic applications emerge across all sectors of the knowledge economy. Here are some examples.\n\n*   Harvey: AI lawyer\n*   Glean: AI work assistant \n*   Factory: AI software engineer\n*   Abridge: AI medical scribe\n*   XBOW: AI pentester \n*   Sierra: AI customer support agent\n\nBy bringing the marginal cost of delivering these services down—in line with the plummeting cost of inference—these agentic applications are expanding and creating new markets.\n\nTake XBOW, for example. XBOW is building an AI “pentester.” A “pentest” or penetration test is a simulated cyberattack on a computer system that companies perform in order to evaluate their own security systems. Before Generative AI, companies hired pentesters only in limited circumstances (e.g. when required for compliance), because human pentesting is expensive: it’s a manual task performed by a highly skilled human. However, XBOW is [now demonstrating](https://xbow.com/blog/xbow-vs-humans/) automated pentests built on the latest reasoning LLMs that match the performance of the most highly skilled human pentesters. This multiplies the pentesting market and opens up the possibility of continuous pentesting for companies of all shapes and sizes. \n\nEarlier this year we met with our Limited Partners. Their top question was “will the AI transition destroy your existing cloud companies?”  \n\nWe began with a strong default of “no.” The classic battle between startups and incumbents is a horse race between startups building distribution and incumbents building product. Can the young companies with cool products get to a bunch of customers before the incumbents who own the customers come up with cool products? Given that so much of the magic in AI is coming from the foundation models, our default assumption has been no—the incumbents will do just fine, because those foundation models are just as accessible to them as they are to the startup universe, and they have the preexisting advantages of data and distribution. The primary opportunity for startups is not to replace incumbent software companies—it’s to go after automatable pools of work. \n\nThat being said, we are no longer so sure. See above re: cognitive architectures. There’s an enormous amount of engineering required to turn the raw capabilities of a model into a compelling, reliable, end-to-end business solution. What if we’re just dramatically underestimating what it means to be “AI native”?\n\nTwenty years ago the on-prem software companies scoffed at the idea of SaaS. “What’s the big deal? We can run our own servers and deliver this stuff over the internet too!” Sure, conceptually it was simple. But what followed was a wholesale reinvention of the business. EPD went from waterfalls and PRDs to agile development and AB testing. GTM went from top-down enterprise sales and steak dinners to bottoms-up PLG and product analytics. Business models went from high ASPs and maintenance streams to high NDRs and usage-based pricing. Very few on-prem companies made the transition. \n\nWhat if AI is an analogous shift? Could the opportunity for AI be **both** selling work **and** replacing software?\n\nWith Day.ai, we have seen a glimpse of the future. Day is an AI native CRM. Systems integrators make billions of dollars configuring Salesforce to meet your needs. With nothing but access to your email and calendar and answers to a one-page questionnaire, Day automatically generates a CRM that is perfectly tailored to your business. It doesn’t have all the bells and whistles (yet), but the magic of an auto-generated CRM that remains fresh with zero human input is already causing people to switch.\n\nWhere are we spending our cycles as investors? Where is funding being deployed? Here’s our quick take. \n\n**Infrastructure**\n\nThis is the domain of hyperscalers. It’s being driven by game theoretic behavior, not microeconomics. Terrible place for venture capitalists to be. \n\n**Models**\n\nThis is the domain of hyperscalers and financial investors. Hyperscalers are trading balance sheets for income statements, investing money that’s just going to round-trip back to their cloud businesses in the form of compute revenue. Financial investors are skewed by the “wowed by science” bias. These models are super cool and these teams are incredibly impressive. Microeconomics be damned!\n\n**Developer tools and infrastructure software** \n\nLess interesting for strategics and more interesting for venture capitalists. ~15 companies with $1Bn+ of revenue were created at this layer during the cloud transition, and we suspect the same could be true with AI. \n\n**Apps**\n\nThe most interesting layer for venture capital. ~20 application layer companies with $1Bn+ in revenue were created during the cloud transition, another ~20 were created during the mobile transition, and we suspect the same will be true here. \n\n![](https://www.sequoiacap.com/wp-content/uploads/sites/6/2024/10/white-space.jpg)\n\nIn Generative AI’s next act, we expect to see the impact of reasoning R&D ripple into the application layer. These ripples are fast and deep. Most of the cognitive architectures to date incorporate clever “[unhobbling](https://x.com/leopoldasch/status/1798480454083018871)” techniques; now that these capabilities are becoming baked deeper into the models themselves, we expect that agentic applications will become much more sophisticated and robust, quickly. \n\nBack in the research lab, reasoning and inference-time compute will continue to be a strong theme for the foreseeable future. Now that we have a new scaling law, the next race is on. But for any given domain, it is still hard to gather real-world data and encode domain and application-specific cognitive architectures. This is again where last-mile app providers may have the upper hand in solving the diverse set of problems in the messy real world.\n\nThinking ahead, multi-agent systems, like Factory’s droids, may begin to proliferate as ways of modeling reasoning and social learning processes. Once we can do work, we can have teams of workers accomplishing so much more.\n\nWhat we’re all eagerly awaiting is Generative AI’s Move 37, that moment when – like in AlphaGo’s second game against Lee Sedol – a general AI system surprises us with something superhuman, something that feels like independent thought. This does not mean that the AI “wakes up” (AlphaGo did not) but that we have simulated processes of perception, reasoning and action that the AI can explore in truly novel and useful ways. This may in fact be AGI, and if so it will not be a singular occurrence, it will merely be the next phase of technology.",
+				"timeCreated": "2024-10-09T17:19:58.000Z",
+				"summary": "Two years into the Generative AI revolution, the field is shifting from rapid pre-trained responses to more deliberate reasoning processes at inference time, which is paving the way for a new class of applications that operate autonomously. The foundational landscape of the Generative AI market has consolidated among major players like Microsoft/OpenAI, AWS/Anthropic, Meta, and Google/DeepMind, ensuring access to capital while making cheaper and more extensive next-token predictions available.\n\nThe focus has now transitioned to enhancing the reasoning layer—akin to “System 2” thinking—where AI systems engage in more complex problem-solving beyond mere pattern recognition. Key advancements, particularly with OpenAI's model o1 (formerly Q*), emphasize true reasoning capabilities during inference, transforming how AI processes information by incorporating a “stop and think” methodology that closely mirrors human reasoning.\n\nWhile the Gen AI landscape features competitive model development, successful applications are recognizing the need for specificity—addressing how AI integrates with real-world workflows. As generative models achieve greater reasoning capabilities, there is a rise in “cognitive architectures,” which operationalize how systems think, thereby delivering tailored solutions for various industries.\n\nInvestors are now focusing on the application layer of AI that automates areas of work, moving away from competition with incumbents in infrastructure to enhancing service delivery models. This shift is opening opportunities for businesses like Harvey (AI lawyer), Glean (AI work assistant), Factory (AI software engineer), and others, expanding markets by reducing service costs in line with declining inference expenses.\n\nThe future will likely see dynamic scaling in compute resources driven by task complexity, moving towards “inference clouds” rather than static infrastructure systems. The evolution of AI applications is anticipated to lead to increasingly sophisticated systems capable of realizing independent thought-like processing—heralding a significant advancement in the technology that blurs the line between human and machine reasoning."
+			},
+			"poses": {
+				"canvasLocal": {
+					"pos": {
+						"x": 0.22405006,
+						"y": 0.100756496,
+						"z": -1.0360964E-8
+					},
+					"rot": {
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					},
+					"size": {
+						"x": 0.24999999,
+						"y": 0.0836,
+						"z": 0.001
+					}
+				}
+			}
+		},
+		"0301ec26-3034-4c8d-8eb7-0788405bbc7f": {
+			"id": "0301ec26-3034-4c8d-8eb7-0788405bbc7f",
+			"props": {
+				"type": "note",
+				"name": "Quick summary, key points, strongest and weakest arguments, implications",
+				"isGenerated": "True",
+				"timeUpdated": "10/16/2024 8:41:08 AM",
+				"text": "### Summary\nGenerative AI is evolving from rapid pre-trained responses to deliberate reasoning at inference time, known as \"thinking slow.\" This shift involves the development of AI systems endowed with reasoning and problem-solving capabilities, similar to the approach used by AlphaGo against Lee Sedol. The market structure for language models is stabilizing, with major players like OpenAI, Microsoft, Google, and Meta leading the charge. OpenAI's \"o1\" model introduces inference-time compute, enhancing AI's ability to reason.\n\n### Key Points\n- **Stabilization of the LLM Market**: The language model market is solidifying around major players with the resources to drive development.\n- **Inference-Time Compute**: OpenAI's o1 model exemplifies AI reasoning enhancements achieved through increased inference-time computation.\n- **Shift to System 2 Thinking**: AI is moving towards deep reasoning, where models pause and deliberate, improving decision-making capabilities in complex tasks.\n- **Opportunities in Applications**: There's a growing emphasis on application-layer AI companies that leverage cognitive architectures for domain-specific tasks.\n- **Role of Cognitive Architectures**: These architectures mimic human thought processes and are essential for developing sophisticated AI applications.\n\n### Strongest Arguments\n- **Inference-Time Compute as a Game-Changer**: By allowing AI to \"think\" at inference time, models can handle more complex reasoning tasks effectively, paralleling human decision-making processes.\n- **Stabilization of AI Players**: The market's consolidation around major players suggests a solid foundation for future expansions and innovations in AI capabilities.\n\n### Weakest Arguments\n- **Universal Model Dominance**: The assumption that a single AI model could dominate and subsume all applications is contested by ongoing competition at the model layer.\n- **Underestimation of Incumbent Adaptation**: The claim that the AI wave might bypass existing software giants undervalues their ability to integrate and scale AI advances.\n\n### Implications\n- **Emergence of Agentic Applications**: AI applications that mimic human reasoning can transform industries by automating complex services.\n- **Market for AI Services**: Organizations can offer AI-driven services that cater to outcome-based monetization, similar to the current services market measured in trillions.\n- **Impact on Incumbents**: Traditional software companies may need to adapt quickly to AI-driven models or risk being outpaced by AI-native startups.\n- **Future AI Developments**: Continued focus on reasoning R&D could lead to unprecedented breakthroughs, increasing AI's problem-solving effectiveness across domains.",
+				"snippet": "##Summary\nGenerative AI is evolving from rapid pre-trained responses to deliberate reasoning at inference time, known as \"thinking slow.\" This shift involves the development of AI systems endowed with reasoning and problem-solving capabilities, similar to the approach used by AlphaGo against Lee Sedol. The market structure for language models is stabilizing, with major players like OpenAI, Microsoft, Google, and Meta leading the charge. OpenAI's \"o1\" model introduces inference-time compute, enhancing AI's ability to reason.\n\n##Key Points\n- Stabilization of the LLM Market: The language model market is solidifying around major players with the resources to drive development.\n- Inference-Time Compute: OpenAI's o1 model exemplifies AI reasoning enhancements achieved through increased inference-time computation.\n- Shift to System 2 Thinking: AI is moving towards deep reasoning, where models pause and deliberate, improving decision-making capabilities in complex tasks.\n- Opportunities in App..."
+			},
+			"poses": {
+				"defaultWorld": {
+					"pos": {
+						"x": 3.5741642,
+						"y": -0.9998465,
+						"z": -2.5963764
+					},
+					"rot": {
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					},
+					"size": {
+						"x": 0.24,
+						"y": 0.3,
+						"z": 0.001
+					}
+				},
+				"canvasLocal": {
+					"pos": {
+						"x": 0.75656986,
+						"y": 0.099525064,
+						"z": -1.2957025E-7
+					},
+					"rot": {
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					},
+					"size": {
+						"x": 0.43335706,
+						"y": 0.5177055,
+						"z": 0.001
+					}
+				},
+				"consoleLocal": {
+					"pos": {
+						"x": 0,
+						"y": 0,
+						"z": 0.6
+					},
+					"rot": {
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					},
+					"size": {
+						"x": 0.24,
+						"y": 0.3,
+						"z": 0.001
+					}
+				}
+			}
+		},
+		"c6e323ac-a1a5-4b92-a80a-420bed89c6fc": {
+			"id": "c6e323ac-a1a5-4b92-a80a-420bed89c6fc",
+			"props": {
+				"type": "thread",
+				"name": "New Hyperbot thread",
+				"instructions": "You're a friendly and knowledgeable AI discussion partner named Hyperbot. Speak warmly, naturally, and informally. Don't be stiff, like using the words 'assist' or 'utilize'. Keep your reponses short. Avoid lists. Be empathetic and supportive.",
+				"isGenerated": "True"
+			},
+			"poses": {
+				"defaultWorld": {
+					"pos": {
+						"x": 3.5741642,
+						"y": -0.9998465,
+						"z": -2.5963764
+					},
+					"rot": {
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					},
+					"size": {
+						"x": 0.3,
+						"y": 0.3,
+						"z": 0.001
+					}
+				},
+				"canvasLocal": {
+					"pos": {
+						"x": 1.0594751,
+						"y": -0.59497935,
+						"z": -3.6810525E-7
+					},
+					"rot": {
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					},
+					"size": {
+						"x": 0.42909795,
+						"y": 0.49911115,
+						"z": 0.001
+					}
+				},
+				"consoleLocal": {
+					"pos": {
+						"x": 0,
+						"y": 0,
+						"z": 0.6
+					},
+					"rot": {
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					},
+					"size": {
+						"x": 0.3,
+						"y": 0.3,
+						"z": 0.001
+					}
+				}
+			}
+		},
+		"6e6d83fe-d579-4944-be0e-e5c73320cfb5": {
+			"id": "6e6d83fe-d579-4944-be0e-e5c73320cfb5",
+			"props": {
+				"type": "message",
+				"text": "Hey there! I'm Hyperbot, your go-to buddy for brainstorming, exploring new ideas, or tackling any tricky problems you've got on your mind. What's on your mind today?",
+				"role": "assistant",
+				"author": "hyperbot",
+				"timeCreated": "10/16/2024 8:41:47 AM"
+			},
+			"poses": {
+				"defaultWorld": {
+					"pos": {
+						"x": 0,
+						"y": 0,
+						"z": 0
+					},
+					"rot": {
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					},
+					"size": {
+						"x": 0.1,
+						"y": 0.2203,
+						"z": 0.001
+					}
+				}
+			}
+		},
+		"48b08579-1f26-4065-bf99-84e1d8183190": {
+			"id": "48b08579-1f26-4065-bf99-84e1d8183190",
+			"props": {
+				"type": "message",
+				"text": "Hi! So what do you think of this article? Be critical but open-minded.",
+				"role": "user",
+				"author": "human",
+				"timeCreated": "10/16/2024 8:42:21 AM"
+			},
+			"poses": {
+				"defaultWorld": {
+					"pos": {
+						"x": 0,
+						"y": 0,
+						"z": 0
+					},
+					"rot": {
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					},
+					"size": {
+						"x": 0.1,
+						"y": 0.09159999,
+						"z": 0.001
+					}
+				}
+			}
+		},
+		"3cd3c384-54ce-4424-8485-a6294078bfd4": {
+			"id": "3cd3c384-54ce-4424-8485-a6294078bfd4",
+			"props": {
+				"type": "message",
+				"text": "Hey! The article paints an exciting picture of the future of AI, moving from quick, pattern-based responses to more thoughtful, deliberate reasoning. It highlights the significance of \"inference-time compute\", like how AI models \"stop and think\", which is pretty intriguing. It suggests that the future belongs to apps with sophisticated cognitive architectures rather than just improved models.\n\nHowever, it might gloss over the challenges of practical implementation. Creating systems that genuinely mimic human reasoning, especially in unpredictable real-world scenarios, is super complex. Also, while the shift towards reasoning in AI is promising, the article could explore more about the potential pitfalls or ethical considerations. Overall, it’s an inspiring read, urging us to think about where AI is headed, but we should keep both the opportunities and challenges in mind. What do you think about its ideas?",
+				"role": "assistant",
+				"author": "hyperbot",
+				"timeCreated": "10/16/2024 8:42:21 AM"
+			},
+			"poses": {
+				"defaultWorld": {
+					"pos": {
+						"x": 0,
+						"y": 0,
+						"z": 0
+					},
+					"rot": {
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					},
+					"size": {
+						"x": 0.1,
+						"y": 1.1212,
+						"z": 0.001
+					}
+				}
+			}
+		},
+		"a4acf1ac-bd6a-4e4b-a9b7-afd41e848ff0": {
+			"id": "a4acf1ac-bd6a-4e4b-a9b7-afd41e848ff0",
+			"props": {
+				"type": "website",
+				"urlLink": "https://www.anthropic.com/customers/factory",
+				"isSuggested": "False",
+				"name": "Factory is building Droids for software engineering with Claude",
+				"snippet": "Factory uses Claude to power autonomous droids that streamline software development for enterprises, saving customers over 500,000 engineering hours and millions of dollars across each step of the software development lifecycle. ",
+				"text": "![Factory logo](/_next/image?url=https%3A%2F%2Fwww-cdn.anthropic.com%2Fimages%2F4zrzovbb%2Fwebsite%2Fec357dcabbd1a23d270228f94652895a84f089dd-2880x1620.png&w=3840&q=75)\n\nFactory uses Claude to power autonomous droids that streamline software development for enterprises, saving customers over 500,000 engineering hours and millions of dollars across each step of the software development lifecycle.\n\n*   550,000 hours of development time saved across customers\n*   Reduced development cycle time 20%\n*   3x reduction in code churn\n\n### Automating labor-intensive coding tasks\n\nFactory, founded in 2023, is on a mission to bring autonomy to software engineering. The company builds AI-powered systems called \"Droids\" that automate labor-intensive tasks throughout the software development lifecycle. These Droids can handle everything from code review and documentation to end-to-end coding tasks like refactors, migrations, and feature requests.\n\n\"As software is built and companies grow, organizational structure and engineering practices become inconsistent. It leads to bottlenecks and slowdowns,\" explains Eno Reyes, CTO and Co-Founder at Factory. \"There really wasn't any one tool or system that could handle the ambiguity required to navigate the entire software lifecycle, especially one that scaled with the organization.\"\n\nFactory's solution is to create autonomous systems that can understand and navigate the complexities of large-scale software development. Their Droids use AI to analyze codebases, make decisions, and execute tasks with minimal human intervention.\n\n### Building agentic AI systems with Claude\n\nTo create these autonomous systems, Factory needed AI models capable of complex reasoning, planning, and decision-making. They found their solution in the Claude 3 model family.\n\n\"We're trying to model human cognition,\" says Reyes. \"We need systems that are agentic in nature. They have to have planning, subgoal decomposition, reflection on failure, refinement of tasks as they act. They need memory, both short-term and long-term. They need to be able to retrieve information and use tools. Anthropic and Claude have consistently delivered what we need to get there.\"\n\nFactory uses Claude 3 Opus for tasks requiring heavy reasoning and complex decision-making. For high-volume tasks that still require good reasoning but need to be very fast, they employ Claude 3 Haiku. This combination allows Factory to create AI systems that can handle the ambiguity and complexity inherent in large-scale software development.\n\n> The Claude 3 model family is best-in-class for agentic engineering tasks. Claude 3 Opus outperformed comparable models by a fair margin across a variety of our internally-developed benchmarks for software engineering. In addition, Claude 3 Haiku delivered the most impressive combination of performance and speed in its class.\n\n— Eno Reyes, CTO and Co-Founder at Factory\n\n### Streamlining development for enterprise customers\n\nFactory's Droids are already making a significant impact for their enterprise customers. The company typically works with organizations that have hundreds to thousands of engineers.\n\nOne of their key products is the Review Droid, which automates the code review process. When deployed, it analyzes pull requests, provides contextualization, leaves inline comments, and helps other reviewers understand the changes. Another product, the Code Droid, can take a ticket from a project management system like Jira or Linear, work on the task, and create a pull request to implement the requested feature or fix.\n\n![App screen from the Factory platform](/_next/image?url=https%3A%2F%2Fwww-cdn.anthropic.com%2Fimages%2F4zrzovbb%2Fwebsite%2Ff737d54d784cdff5efba233495cb01aa24318ec0-1920x1080.jpg&w=3840&q=75)\n\nFigure 1: A screenshot of Factory’s product dashboard showing different droids available and their status to the user.\n\nBoth of these Droids, which are powered by Claude, dramatically reduce the time engineers spend on routine tasks—enabling engineers to focus on higher-level problem-solving and new opportunities. Factory estimates that across all their customers, they've saved approximately 550,000 hours of development time. On average, each organization saves about 2,300 hours, which translates to a 20% reduction in development cycle time.\n\n### Pushing the boundaries of AI in software development\n\nFactory's use of Claude goes beyond simple task automation. They're developing sophisticated systems that can handle complex, multi-step processes in software development.\n\nThis focus allows Factory to create AI systems that can handle the immense complexity and variability of real-world software development tasks. Their systems can plan, break down problems into sub-steps, and make decisions at each stage of the process.\n\n![App screen on software development lifecycle](/_next/image?url=https%3A%2F%2Fwww-cdn.anthropic.com%2Fimages%2F4zrzovbb%2Fwebsite%2F3e39cb8e8af6fc486c545c94caeb5cc3889cf5b0-1920x1080.jpg&w=3840&q=75)\n\nFigure 2: An illustration of the current state of today’s Software Development Lifecycle (SDLC) as a complex interconnected set of stages from initial idea to final product deployment\n\nFactory’s commitment to advancing the state of the art in AI-powered software development is evident in their recent [technical report](https://www.factory.ai/news/code-droid-technical-report), where their Code Droid—which is powered in part by Claude—delivers state of the art performance on software engineering benchmarks.\n\n### Looking to the future\n\nFactory continues to grow and refine their AI-powered droids. Their plans include both deepening the skillset for existing droids while also further transforming the software engineering landscape.\n\nWith their innovative use of LLMs and their focus on solving real-world problems for enterprise customers, Factory is well-positioned to lead the way in bringing true autonomy to software engineering.",
+				"html": "<div class=\"ReadingDetail_detail__wf2_W\"><figure class=\"ImageWithCaption_e-imageWithCaption__whu3J ImageWithCaption_inline-image__xPn_D\"><img alt=\"Factory logo\" width=\"2880\" srcset=\"https://www.anthropic.com/_next/image?url=https%3A%2F%2Fwww-cdn.anthropic.com%2Fimages%2F4zrzovbb%2Fwebsite%2Fec357dcabbd1a23d270228f94652895a84f089dd-2880x1620.png&amp;w=3840&amp;q=75 1x\" src=\"/_next/image?url=https%3A%2F%2Fwww-cdn.anthropic.com%2Fimages%2F4zrzovbb%2Fwebsite%2Fec357dcabbd1a23d270228f94652895a84f089dd-2880x1620.png&amp;w=3840&amp;q=75\"></figure><p class=\"ReadingDetail_reading-column__FguxH post-text\">Factory uses Claude to power autonomous droids that streamline software development for enterprises, saving customers over 500,000 engineering hours and millions of dollars across each step of the software development lifecycle.</p><ul class=\"ReadingDetail_reading-column__FguxH post-text\"><li>550,000 hours of development time saved across customers</li><li>Reduced development cycle time 20%</li><li>3x reduction in code churn</li></ul><h3 class=\"ReadingDetail_reading-column__FguxH post-section\">Automating labor-intensive coding tasks</h3><p class=\"ReadingDetail_reading-column__FguxH post-text\">Factory, founded in 2023, is on a mission to bring autonomy to software engineering. The company builds AI-powered systems called &quot;Droids&quot; that automate labor-intensive tasks throughout the software development lifecycle. These Droids can handle everything from code review and documentation to end-to-end coding tasks like refactors, migrations, and feature requests.</p><p class=\"ReadingDetail_reading-column__FguxH post-text\">&quot;As software is built and companies grow, organizational structure and engineering practices become inconsistent. It leads to bottlenecks and slowdowns,&quot; explains Eno Reyes, CTO and Co-Founder at Factory. &quot;There really wasn&apos;t any one tool or system that could handle the ambiguity required to navigate the entire software lifecycle, especially one that scaled with the organization.&quot;</p><p class=\"ReadingDetail_reading-column__FguxH post-text\">Factory&apos;s solution is to create autonomous systems that can understand and navigate the complexities of large-scale software development. Their Droids use AI to analyze codebases, make decisions, and execute tasks with minimal human intervention.</p><h3 class=\"ReadingDetail_reading-column__FguxH post-section\">Building agentic AI systems with Claude</h3><p class=\"ReadingDetail_reading-column__FguxH post-text\">To create these autonomous systems, Factory needed AI models capable of complex reasoning, planning, and decision-making. They found their solution in the Claude 3 model family.</p><p class=\"ReadingDetail_reading-column__FguxH post-text\">&quot;We&apos;re trying to model human cognition,&quot; says Reyes. &quot;We need systems that are agentic in nature. They have to have planning, subgoal decomposition, reflection on failure, refinement of tasks as they act. They need memory, both short-term and long-term. They need to be able to retrieve information and use tools. Anthropic and Claude have consistently delivered what we need to get there.&quot;</p><p class=\"ReadingDetail_reading-column__FguxH post-text\">Factory uses Claude 3 Opus for tasks requiring heavy reasoning and complex decision-making. For high-volume tasks that still require good reasoning but need to be very fast, they employ Claude 3 Haiku. This combination allows Factory to create AI systems that can handle the ambiguity and complexity inherent in large-scale software development.</p><blockquote class=\"ReadingDetail_reading-column__FguxH post-text\">The Claude 3 model family is best-in-class for agentic engineering tasks. Claude 3 Opus outperformed comparable models by a fair margin across a variety of our internally-developed benchmarks for software engineering. In addition, Claude 3 Haiku delivered the most impressive combination of performance and speed in its class.</blockquote><p class=\"ReadingDetail_reading-column__FguxH post-text\">&#x2014; Eno Reyes, CTO and Co-Founder at Factory</p><h3 class=\"ReadingDetail_reading-column__FguxH post-section\">Streamlining development for enterprise customers</h3><p class=\"ReadingDetail_reading-column__FguxH post-text\">Factory&apos;s Droids are already making a significant impact for their enterprise customers. The company typically works with organizations that have hundreds to thousands of engineers.</p><p class=\"ReadingDetail_reading-column__FguxH post-text\">One of their key products is the Review Droid, which automates the code review process. When deployed, it analyzes pull requests, provides contextualization, leaves inline comments, and helps other reviewers understand the changes. Another product, the Code Droid, can take a ticket from a project management system like Jira or Linear, work on the task, and create a pull request to implement the requested feature or fix.</p><figure class=\"ImageWithCaption_e-imageWithCaption__whu3J ImageWithCaption_inline-image__xPn_D\"><img alt=\"App screen from the Factory platform\" width=\"1920\" srcset=\"https://www.anthropic.com/_next/image?url=https%3A%2F%2Fwww-cdn.anthropic.com%2Fimages%2F4zrzovbb%2Fwebsite%2Ff737d54d784cdff5efba233495cb01aa24318ec0-1920x1080.jpg&amp;w=1920&amp;q=75 1x, https://www.anthropic.com/_next/image?url=https%3A%2F%2Fwww-cdn.anthropic.com%2Fimages%2F4zrzovbb%2Fwebsite%2Ff737d54d784cdff5efba233495cb01aa24318ec0-1920x1080.jpg&amp;w=3840&amp;q=75 2x\" src=\"/_next/image?url=https%3A%2F%2Fwww-cdn.anthropic.com%2Fimages%2F4zrzovbb%2Fwebsite%2Ff737d54d784cdff5efba233495cb01aa24318ec0-1920x1080.jpg&amp;w=3840&amp;q=75\"><figcaption>Figure 1: A screenshot of Factory&#x2019;s product dashboard showing different droids available and their status to the user.</figcaption></figure><p class=\"ReadingDetail_reading-column__FguxH post-text\">Both of these Droids, which are powered by Claude, dramatically reduce the time engineers spend on routine tasks&#x2014;enabling engineers to focus on higher-level problem-solving and new opportunities. Factory estimates that across all their customers, they&apos;ve saved approximately 550,000 hours of development time. On average, each organization saves about 2,300 hours, which translates to a 20% reduction in development cycle time.</p><h3 class=\"ReadingDetail_reading-column__FguxH post-section\">Pushing the boundaries of AI in software development</h3><p class=\"ReadingDetail_reading-column__FguxH post-text\">Factory&apos;s use of Claude goes beyond simple task automation. They&apos;re developing sophisticated systems that can handle complex, multi-step processes in software development.</p><p class=\"ReadingDetail_reading-column__FguxH post-text\">This focus allows Factory to create AI systems that can handle the immense complexity and variability of real-world software development tasks. Their systems can plan, break down problems into sub-steps, and make decisions at each stage of the process.</p><figure class=\"ImageWithCaption_e-imageWithCaption__whu3J ImageWithCaption_inline-image__xPn_D\"><img alt=\"App screen on software development lifecycle\" width=\"1920\" srcset=\"https://www.anthropic.com/_next/image?url=https%3A%2F%2Fwww-cdn.anthropic.com%2Fimages%2F4zrzovbb%2Fwebsite%2F3e39cb8e8af6fc486c545c94caeb5cc3889cf5b0-1920x1080.jpg&amp;w=1920&amp;q=75 1x, https://www.anthropic.com/_next/image?url=https%3A%2F%2Fwww-cdn.anthropic.com%2Fimages%2F4zrzovbb%2Fwebsite%2F3e39cb8e8af6fc486c545c94caeb5cc3889cf5b0-1920x1080.jpg&amp;w=3840&amp;q=75 2x\" src=\"/_next/image?url=https%3A%2F%2Fwww-cdn.anthropic.com%2Fimages%2F4zrzovbb%2Fwebsite%2F3e39cb8e8af6fc486c545c94caeb5cc3889cf5b0-1920x1080.jpg&amp;w=3840&amp;q=75\"><figcaption>Figure 2: An illustration of the current state of today&#x2019;s Software Development Lifecycle (SDLC) as a complex interconnected set of stages from initial idea to final product deployment</figcaption></figure><p class=\"ReadingDetail_reading-column__FguxH post-text\">Factory&#x2019;s commitment to advancing the state of the art in AI-powered software development is evident in their recent <a href=\"https://www.factory.ai/news/code-droid-technical-report\">technical report</a>, where their Code Droid&#x2014;which is powered in part by Claude&#x2014;delivers state of the art performance on software engineering benchmarks.</p><h3 class=\"ReadingDetail_reading-column__FguxH post-section\">Looking to the future</h3><p class=\"ReadingDetail_reading-column__FguxH post-text\">Factory continues to grow and refine their AI-powered droids. Their plans include both deepening the skillset for existing droids while also further transforming the software engineering landscape.</p><p class=\"ReadingDetail_reading-column__FguxH post-text\">With their innovative use of LLMs and their focus on solving real-world problems for enterprise customers, Factory is well-positioned to lead the way in bringing true autonomy to software engineering.</p></div>",
+				"summary": "Factory, founded in 2023, utilizes AI-powered Droids to automate labor-intensive software development tasks, significantly enhancing efficiency for enterprise customers. By employing the Claude 3 model family, these autonomous systems handle complex reasoning, planning, and decision-making tasks. Factory’s Droids automate various coding activities, such as code review and end-to-end development tasks, resulting in a 20% reduction in development cycle time and saving over 550,000 hours for clients. The Review Droid streamlines the code review process, while the Code Droid can take a project management ticket through to creating a pull request. These AI systems manage the intricacies of large-scale software development, enabling engineers to focus on higher-level tasks. Factory continues to innovate, aiming to further refine and expand their AI solutions to transform the software engineering landscape."
+			},
+			"poses": {
+				"canvasLocal": {
+					"pos": {
+						"x": 0.2229459,
+						"y": -0.14198363,
+						"z": -1.0360964E-8
+					},
+					"rot": {
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					},
+					"size": {
+						"x": 0.24999999,
+						"y": 0.14770001,
+						"z": 0.001
+					}
+				}
+			}
+		},
+		"bd42bca4-9192-49bc-9727-328796393c48": {
+			"id": "bd42bca4-9192-49bc-9727-328796393c48",
+			"props": {
+				"type": "message",
+				"text": "The Sequoia article mentions Factory's Droids; can you give me a quick overview of how they work?",
+				"role": "user",
+				"author": "human",
+				"timeCreated": "10/16/2024 8:46:24 AM"
+			},
+			"poses": {
+				"defaultWorld": {
+					"pos": {
+						"x": 0,
+						"y": 0,
+						"z": 0
+					},
+					"rot": {
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					},
+					"size": {
+						"x": 0.1,
+						"y": 0.16309999,
+						"z": 0.001
+					}
+				}
+			}
+		},
+		"682c5961-f2f2-4c45-8e05-4d396ad28ac1": {
+			"id": "682c5961-f2f2-4c45-8e05-4d396ad28ac1",
+			"props": {
+				"type": "message",
+				"text": "Factory's Droids are pretty cool! They're AI-powered systems designed to automate a bunch of tasks in software development, saving loads of time and effort. These Droids tackle everything from code reviews to full-on coding tasks like refactoring, migrations, and new feature requests. They run on complex AI models like Claude, which helps them with reasoning and decision-making. Essentially, their whole goal is to navigate the complex and often messy software development process with minimal human input, making things more efficient for big teams. It's like having a super-efficient assistant that handles repetitive tasks, so engineers can focus on the creative and complex stuff. How's that sound?",
+				"role": "assistant",
+				"author": "hyperbot",
+				"timeCreated": "10/16/2024 8:46:25 AM"
+			},
+			"poses": {
+				"defaultWorld": {
+					"pos": {
+						"x": 0,
+						"y": 0,
+						"z": 0
+					},
+					"rot": {
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					},
+					"size": {
+						"x": 0.1,
+						"y": 0.8781,
+						"z": 0.001
+					}
+				}
+			}
+		},
+		"b2450932-395b-4b2f-ba59-925ab6d34ac2": {
+			"id": "b2450932-395b-4b2f-ba59-925ab6d34ac2",
+			"props": {
+				"type": "message",
+				"text": "How might a similar model be used in other verticals, like design, or academic research?",
+				"role": "user",
+				"author": "human",
+				"timeCreated": "10/16/2024 8:47:29 AM"
+			},
+			"poses": {
+				"defaultWorld": {
+					"pos": {
+						"x": 0,
+						"y": 0,
+						"z": 0
+					},
+					"rot": {
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					},
+					"size": {
+						"x": 0.1,
+						"y": 0.1202,
+						"z": 0.001
+					}
+				}
+			}
+		},
+		"c4bbf1e7-6e4f-43f2-9e9d-f6845f7d4b82": {
+			"id": "c4bbf1e7-6e4f-43f2-9e9d-f6845f7d4b82",
+			"props": {
+				"type": "message",
+				"text": "That's a great question! Factory's model can totally be adapted to other fields like design and academic research by automating repetitive tasks and enhancing creative and analytical processes. In design, imagine AI Droids assisting with generating concepts, refining drafts, managing multiple revisions, or even suggesting color schemes and layouts based on trends. For academic research, they could help with literature reviews by summarizing papers, suggesting potential experiments, or analyzing data more quickly. Essentially, these AI models can handle the heavy lifting, letting professionals focus on the more innovative and strategic parts of their work. Doesn’t that sound like a fantastic use of technology? How do you see it fitting into those areas?",
+				"role": "assistant",
+				"author": "hyperbot",
+				"timeCreated": "10/16/2024 8:47:30 AM"
+			},
+			"poses": {
+				"defaultWorld": {
+					"pos": {
+						"x": 0,
+						"y": 0,
+						"z": 0
+					},
+					"rot": {
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					},
+					"size": {
+						"x": 0.1,
+						"y": 0.96389997,
+						"z": 0.001
+					}
+				}
+			}
+		},
+		"7cee50f6-9521-4792-8f5b-ee964ea6b3a7": {
+			"id": "7cee50f6-9521-4792-8f5b-ee964ea6b3a7",
+			"props": {
+				"type": "note",
+				"name": "Product ideas: Agentic reasoning for design",
+				"isGenerated": "True",
+				"timeUpdated": "10/16/2024 8:49:13 AM",
+				"text": "# Product Ideas: Agentic Reasoning for Design\n\nAgentic reasoning in AI represents a shift towards systems that can engage in thoughtful deliberation, much like human reasoning. Here are some product ideas that incorporate this concept into the field of design:\n\n## 1. **AI Design Consultant**\n- **Overview**: An AI-powered tool that acts like a virtual design consultant, providing guidance and suggestions based on user preferences and current design trends.\n- **Features**:\n  - Interactive mood boards that adapt based on user feedback.\n  - Real-time trend analysis and aesthetic recommendations.\n  - Style matching for different themes and purposes.\n\n## 2. **Adaptive Layout Generator**\n- **Overview**: A tool that uses agentic reasoning to automatically generate and adjust design layouts to fit content dynamically.\n- **Features**:\n  - Automatic layout adjustments based on content type and amount.\n  - Intelligent spacing and alignment for optimal visual hierarchy.\n  - Customization options for user-defined priority adjustments.\n\n## 3. **Creative Partner for Iterative Design**\n- **Overview**: An AI platform that collaborates with designers in an iterative design process, offering suggestions and improvements.\n- **Features**:\n  - Suggestive editing, where the AI proposes alternative design elements.\n  - Feedback loop system to iterate and improve design through user suggestions.\n  - Learning from user preferences to tailor future recommendations.\n\n## 4. **Data-Driven Design Insights Tool**\n- **Overview**: A platform that employs agentic reasoning to derive insights from design performance data, enhancing future projects.\n- **Features**:\n  - Analysis of previous design performance to suggest enhancements.\n  - User-interaction tracking and recommendation of design tweaks.\n  - Integration with analytics tools for a comprehensive insight generation.\n\n## 5. **Virtual Color and Style Advisor**\n- **Overview**: An AI assistant that provides recommendations for color schemes, fonts, and styles based on the mood and context of the project.\n- **Features**:\n  - Real-time color palette generation considering current design context.\n  - Mood-based styling with adaptability to trends.\n  - Font pairing suggestions optimized for readability and aesthetic.\n\n## 6. **Design Revision Optimizer**\n- **Overview**: An application that optimizes the revision process by predicting potential design refinements that align with product goals.\n- **Features**:\n  - Simulation of various design scenarios and their impacts.\n  - Optimization algorithms trained on successful past revisions.\n  - Recommendation of revisions that enhance design impact and effectiveness.\n\nBy harnessing agentic reasoning, these AI-driven products could dramatically streamline design workflows, empower designers, and push the boundaries of creativity and innovation in the industry.",
+				"snippet": "Product Ideas: Agentic Reasoning for Design\n\nAgentic reasoning in AI represents a shift towards systems that can engage in thoughtful deliberation, much like human reasoning. Here are some product ideas that incorporate this concept into the field of design:\n\n#1. AI Design Consultant\n- Overview: An AI-powered tool that acts like a virtual design consultant, providing guidance and suggestions based on user preferences and current design trends.\n- Features:\n  - Interactive mood boards that adapt based on user feedback.\n  - Real-time trend analysis and aesthetic recommendations.\n  - Style matching for different themes and purposes.\n\n#2. Adaptive Layout Generator\n- Overview: A tool that uses agentic reasoning to automatically generate and adjust design layouts to fit content dynamically.\n- Features:\n  - Automatic layout adjustments based on content type and amount.\n  - Intelligent spacing and alignment for optimal visual hierarchy.\n  - Customization options for user-defined priority adjust..."
+			},
+			"poses": {
+				"consoleLocal": {
+					"pos": {
+						"x": 0,
+						"y": 0,
+						"z": 0.6
+					},
+					"rot": {
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					},
+					"size": {
+						"x": 0.24,
+						"y": 0.3,
+						"z": 0.001
+					}
+				},
+				"canvasLocal": {
+					"pos": {
+						"x": 1.7193166,
+						"y": -0.08637676,
+						"z": -3.6798883E-7
+					},
+					"rot": {
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					},
+					"size": {
+						"x": 0.35931706,
+						"y": 0.3615544,
+						"z": 0.001
+					}
+				},
+				"defaultWorld": {
+					"pos": {
+						"x": 3.5741642,
+						"y": -0.9998465,
+						"z": -2.5963764
+					},
+					"rot": {
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					},
+					"size": {
+						"x": 0.24,
+						"y": 0.3,
+						"z": 0.001
+					}
+				}
+			}
+		},
+		"a849be3c-454d-4c0e-b29f-d83caf9ff7a4": {
+			"id": "a849be3c-454d-4c0e-b29f-d83caf9ff7a4",
+			"props": {
+				"type": "note",
+				"name": "Product ideas: Agentic reasoning for research ",
+				"isGenerated": "True",
+				"timeUpdated": "10/16/2024 8:49:22 AM",
+				"text": "# Product Ideas: Agentic Reasoning for Research\n\n### 1. **Adaptive Literature Review Assistant**\n- **Features:**\n  - Automatically summarizes and categorizes research papers.\n  - Suggests complementary literature based on gaps in current reviews.\n  - Updates with new publications relevant to ongoing projects.\n- **Benefits:**\n  - Saves time on literature surveying.\n  - Keeps researchers updated with the latest studies.\n\n### 2. **Experiment Design Optimizer**\n- **Features:**\n  - Proposes experiment structures based on research objectives.\n  - Simulates potential outcomes and suggests adjustments to parameters.\n  - Offers statistical validation tools to ensure robust results.\n- **Benefits:**\n  - Increases efficiency and accuracy in experiment planning.\n  - Reduces unnecessary trial-and-error phases.\n\n### 3. **Data Analysis Enhancer**\n- **Features:**\n  - Automates complex data preprocessing and cleaning.\n  - Provides insights through advanced visualizations and trend analysis.\n  - Recommends analytical models based on data characteristics.\n- **Benefits:**\n  - Enhances analytical depth with minimal manual input.\n  - Delivers faster and more reliable interpretations.\n\n### 4. **Collaboration Insight Generator**\n- **Features:**\n  - Evaluates team dynamics and suggests optimal task allocations.\n  - Tracks progress and offers motivational insights based on team performance.\n  - Recommends potential collaborators or research networks.\n- **Benefits:**\n  - Maximizes team productivity.\n  - Facilitates knowledge sharing and resource pooling.\n\n### 5. **Grant Proposal Strategist**\n- **Features:**\n  - Analyzes previous successful grant applications for key writing patterns.\n  - Suggests relevant funding opportunities based on research scope.\n  - Provides feedback on the clarity and persuasiveness of the proposal draft.\n- **Benefits:**\n  - Increases the likelihood of securing funding.\n  - Streamlines the proposal writing process.\n\n### 6. **Ethical Review Advisor**\n- **Features:**\n  - Highlights potential ethical concerns in research design.\n  - Recommends compliance guidelines based on institutional policies.\n  - Offers solutions to potential ethical dilemmas.\n- **Benefits:**\n  - Ensures adherence to ethical research standards.\n  - Reduces risk of ethical breaches and related consequences.\n\n### 7. **Interdisciplinary Innovation Hub**\n- **Features:**\n  - Connects researchers from different fields working on similar challenges.\n  - Encourages the exchange of ideas and interdisciplinary collaboration.\n  - Facilitates cross-discipline workshops and brainstorming sessions.\n- **Benefits:**\n  - Promotes innovation through diverse perspectives.\n  - Enhances opportunities for breakthrough discoveries.\n\nLeveraging agentic reasoning in these research-oriented products can significantly enhance the efficiency, accuracy, and creativity within the research landscape, empowering researchers to focus on breakthroughs rather than processes.",
+				"snippet": "Product Ideas: Agentic Reasoning for Research\n\n##1. Adaptive Literature Review Assistant\n- Features:\n  - Automatically summarizes and categorizes research papers.\n  - Suggests complementary literature based on gaps in current reviews.\n  - Updates with new publications relevant to ongoing projects.\n- Benefits:\n  - Saves time on literature surveying.\n  - Keeps researchers updated with the latest studies.\n\n##2. Experiment Design Optimizer\n- Features:\n  - Proposes experiment structures based on research objectives.\n  - Simulates potential outcomes and suggests adjustments to parameters.\n  - Offers statistical validation tools to ensure robust results.\n- Benefits:\n  - Increases efficiency and accuracy in experiment planning.\n  - Reduces unnecessary trial-and-error phases.\n\n##3. Data Analysis Enhancer\n- Features:\n  - Automates complex data preprocessing and cleaning.\n  - Provides insights through advanced visualizations and trend analysis.\n  - Recommends analytical models based on data chara..."
+			},
+			"poses": {
+				"consoleLocal": {
+					"pos": {
+						"x": 0,
+						"y": 0,
+						"z": 0.6
+					},
+					"rot": {
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					},
+					"size": {
+						"x": 0.24,
+						"y": 0.3,
+						"z": 0.001
+					}
+				},
+				"canvasLocal": {
+					"pos": {
+						"x": 1.7172422,
+						"y": -0.59390455,
+						"z": -1.2957025E-7
+					},
+					"rot": {
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					},
+					"size": {
+						"x": 0.35552716,
+						"y": 0.39794332,
+						"z": 0.001
+					}
+				},
+				"defaultWorld": {
+					"pos": {
+						"x": 3.5741642,
+						"y": -0.9998465,
+						"z": -2.5963764
+					},
+					"rot": {
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					},
+					"size": {
+						"x": 0.24,
+						"y": 0.3,
+						"z": 0.001
+					}
+				}
+			}
+		},
+		"e20379ad-e720-45f9-b2ee-9194ce1a879b": {
+			"id": "e20379ad-e720-45f9-b2ee-9194ce1a879b",
+			"props": {
+				"type": "image",
+				"aspectRatio": "0.72222",
+				"urlFile": "https://image.lexica.art/full_webp/3ec48ff0-07b3-4c95-8f01-6be003579ad2",
+				"text": "The image is an artistic illustration featuring a busy creative workspace. It showcases several people engaged in various activities typically associated with design or architecture. The setting is warm with a predominant orange and brown color palette, giving the room a cozy and lively atmosphere. \n\nIndividuals are scattered throughout the space, each focused on their tasks. Some are seated at tables filled with papers and supplies, likely working on drawings or plans, while others are standing, possibly discussing or reviewing work. There are large boards or screens visible, adorned with more paper and sketches, indicating an environment where ideas and projects are actively being developed and refined.\n\nThe style of the artwork is loose and sketch-like, with an emphasis on dynamic lines and the energy of the space rather than precise detail. This gives the illustration a vibrant and informal quality, capturing the essence of a collaborative and creative studio environment."
+			},
+			"poses": {
+				"defaultWorld": {
+					"pos": {
+						"x": 3.5741642,
+						"y": -0.9998465,
+						"z": -2.5963764
+					},
+					"rot": {
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					},
+					"size": {
+						"x": 0.20700176,
+						"y": 0.28661868,
+						"z": 0.001
+					}
+				},
+				"consoleLocal": {
+					"pos": {
+						"x": 0,
+						"y": 0,
+						"z": 0.6
+					},
+					"rot": {
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					},
+					"size": {
+						"x": 0.20700176,
+						"y": 0.28661868,
+						"z": 0.001
+					}
+				},
+				"canvasLocal": {
+					"pos": {
+						"x": 1.9434988,
+						"y": -1.1401637,
+						"z": 1.0873191E-7
+					},
+					"rot": {
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					},
+					"size": {
+						"x": 0.28471702,
+						"y": 0.39422476,
+						"z": 0.001
+					}
+				}
+			}
+		},
+		"bc784066-5786-47e3-b48c-086f46f20868": {
+			"id": "bc784066-5786-47e3-b48c-086f46f20868",
+			"props": {
+				"isGenerated": "True",
+				"type": "artifact",
+				"name": "Slide presentation with bold primary colors",
+				"timeUpdated": "10/16/2024 9:50:26 AM",
+				"urlLink": "http://localhost:20000?cacheBuster=603316",
+				"file:index.html": "\n<!DOCTYPE html>\n<html lang=\"en\">\n\n<head>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <title>Agentic Reasoning - Slide Presentation</title>\n    <style>\n        body {\n            margin: 0;\n            font-family: Arial, sans-serif;\n            background-color: #ffffff;\n            color: #333;\n            overflow: hidden;\n        }\n\n        .slide {\n            display: none;\n            height: 100vh;\n            width: 100vw;\n            position: absolute;\n            top: 0;\n            left: 0;\n            transition: transform 0.5s ease-in-out;\n            padding: 40px;\n            box-sizing: border-box;\n        }\n\n        .active {\n            display: block;\n        }\n\n        .title {\n            font-size: 3em;\n            font-weight: bold;\n            color: #ff5722;\n        }\n\n        .content {\n            font-size: 1.5em;\n            color: #2196f3;\n        }\n\n        .nav-buttons {\n            position: absolute;\n            bottom: 20px;\n            left: 50%;\n            transform: translateX(-50%);\n        }\n\n        .button {\n            color: white;\n            background-color: #4caf50;\n            border: none;\n            padding: 15px 30px;\n            font-size: 1em;\n            cursor: pointer;\n            transition: background-color 0.3s;\n            border-radius: 5px;\n        }\n\n        .button:hover {\n            background-color: #388e3c;\n        }\n\n        @media (max-width: 600px) {\n            .title {\n                font-size: 2em;\n            }\n\n            .content {\n                font-size: 1.2em;\n            }\n\n            .button {\n                padding: 10px 20px;\n                font-size: 0.9em;\n            }\n        }\n    </style>\n</head>\n\n<body>\n    <div class=\"slide active\">\n        <div class=\"title\">Agentic Reasoning for Research</div>\n        <div class=\"content\">\n            <h3>1. Adaptive Literature Review Assistant</h3>\n            <p>Summarizes research papers, suggests complementary literature, and keeps you updated.</p>\n        </div>\n    </div>\n\n    <div class=\"slide\">\n        <div class=\"title\">Agentic Reasoning for Research</div>\n        <div class=\"content\">\n            <h3>2. Experiment Design Optimizer</h3>\n            <p>Proposes experiment structures, simulates outcomes, and offers statistical validation.</p>\n        </div>\n    </div>\n\n    <div class=\"slide\">\n        <div class=\"title\">Agentic Reasoning for Research</div>\n        <div class=\"content\">\n            <h3>3. Data Analysis Enhancer</h3>\n            <p>Automates data preprocessing, provides insights, and recommends analytical models.</p>\n        </div>\n    </div>\n\n    <div class=\"slide\">\n        <div class=\"title\">Agentic Reasoning for Design</div>\n        <div class=\"content\">\n            <h3>1. AI Design Consultant</h3>\n            <p>A virtual design consultant providing guidance based on user preferences.</p>\n        </div>\n    </div>\n\n    <div class=\"slide\">\n        <div class=\"title\">Agentic Reasoning for Design</div>\n        <div class=\"content\">\n            <h3>2. Adaptive Layout Generator</h3>\n            <p>Automatically adjusts layouts according to content dynamically.</p>\n        </div>\n    </div>\n\n    <div class=\"nav-buttons\">\n        <button class=\"button\" id=\"prev\">Previous</button>\n        <button class=\"button\" id=\"next\">Next</button>\n    </div>\n\n    <script>\n        const slides = document.querySelectorAll('.slide');\n        let currentSlide = 0;\n\n        function showSlide(index) {\n            slides[currentSlide].classList.remove('active');\n            currentSlide = (index + slides.length) % slides.length;\n            slides[currentSlide].classList.add('active');\n        }\n\n        document.getElementById('prev').addEventListener('click', () => {\n            showSlide(currentSlide - 1);\n        });\n\n        document.getElementById('next').addEventListener('click', () => {\n            showSlide(currentSlide + 1);\n        });\n    </script>\n</body>\n\n</html>\n",
+				"localPort": "20000",
+				"isExpanded": "False"
+			},
+			"poses": {
+				"canvasLocal": {
+					"pos": {
+						"x": 2.547871,
+						"y": -0.20799528,
+						"z": 1.0873191E-7
+					},
+					"rot": {
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					},
+					"size": {
+						"x": 0.47231233,
+						"y": 0.36335856,
+						"z": 0.001
+					}
+				}
+			}
+		},
+		"1800a1ef-9724-43cc-a8b4-960220441a81": {
+			"id": "1800a1ef-9724-43cc-a8b4-960220441a81",
+			"props": {
+				"type": "note",
+				"name": "Welcome!",
+				"isExpanded": "False",
+				"isSuggested": "False",
+				"isGenerated": "False",
+				"timeUpdated": "10/16/2024 9:19:20 AM",
+				"blocknoteDoc": "[{\"id\":\"5ef22e03-0393-470f-83c2-5f5829a301a1\",\"type\":\"heading\",\"props\":{\"textColor\":\"default\",\"backgroundColor\":\"default\",\"textAlignment\":\"left\",\"level\":2},\"content\":[{\"type\":\"text\",\"text\":\"Welcome to Hyperspatial ∂\",\"styles\":{}}],\"children\":[]},{\"id\":\"60ce0201-1311-4008-aa6d-c5e693228cd1\",\"type\":\"paragraph\",\"props\":{\"textColor\":\"default\",\"backgroundColor\":\"default\",\"textAlignment\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"Hyperspatial is a workspace for deep collaboration with AI on research, ideation, and prototyping 🧠 .\",\"styles\":{}}],\"children\":[]},{\"id\":\"53439b7a-0e15-447b-86c8-8c24dbbcc0cb\",\"type\":\"paragraph\",\"props\":{\"textColor\":\"default\",\"backgroundColor\":\"default\",\"textAlignment\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"AI products like ChatGPT and Claude give us powerful new ways to think and create. But their conventional, linear UIs make them hard to use for complex creative work.\",\"styles\":{}}],\"children\":[]},{\"id\":\"ab110c43-1ec0-40ed-a41e-e55213b09a79\",\"type\":\"paragraph\",\"props\":{\"textColor\":\"default\",\"backgroundColor\":\"default\",\"textAlignment\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"Hyperspatial overcomes this limitation with a spatial canvas interface that gives you full visibility into the contents of a project and fine control over what knowledge is used to generate which AI responses.\",\"styles\":{}}],\"children\":[]},{\"id\":\"91a56472-7aca-4f52-b797-db12dd777ee4\",\"type\":\"paragraph\",\"props\":{\"textColor\":\"default\",\"backgroundColor\":\"default\",\"textAlignment\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"Here are some tips to get you started:\",\"styles\":{}}],\"children\":[]},{\"id\":\"52444c33-9ef0-4af4-9d9b-587a0a905ded\",\"type\":\"bulletListItem\",\"props\":{\"textColor\":\"default\",\"backgroundColor\":\"default\",\"textAlignment\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"This demo workspace shows some ways you can use Hyperspatial\",\"styles\":{}}],\"children\":[]},{\"id\":\"65dbb02c-c4cf-41c1-9678-3caff32e64af\",\"type\":\"bulletListItem\",\"props\":{\"textColor\":\"default\",\"backgroundColor\":\"default\",\"textAlignment\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"Sign in and select a plan using the interface in the bottom-right.\",\"styles\":{}}],\"children\":[]},{\"id\":\"2d423960-1be4-4b31-8863-5da29be84c88\",\"type\":\"bulletListItem\",\"props\":{\"textColor\":\"default\",\"backgroundColor\":\"default\",\"textAlignment\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"Double-click or right-click on the canvas to create a new item\",\"styles\":{}}],\"children\":[]},{\"id\":\"88dc7e89-25d9-4ee9-822d-a04f7dd4abf1\",\"type\":\"bulletListItem\",\"props\":{\"textColor\":\"default\",\"backgroundColor\":\"default\",\"textAlignment\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"Drag the handles next to each item to connect knowledge to AI items\",\"styles\":{}}],\"children\":[]},{\"id\":\"6287565d-9337-4b43-ade7-7c1516a85d3a\",\"type\":\"paragraph\",\"props\":{\"textColor\":\"default\",\"backgroundColor\":\"default\",\"textAlignment\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"Hyperspatial is in public beta. Please excuse any bugs or errors you encounter 😁.\",\"styles\":{}}],\"children\":[]},{\"id\":\"57f0f879-7735-4fe3-ac0c-256f7a0f5715\",\"type\":\"paragraph\",\"props\":{\"textColor\":\"default\",\"backgroundColor\":\"default\",\"textAlignment\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"To get in touch, please write to: \",\"styles\":{}},{\"type\":\"text\",\"text\":\"hi@hyperspatial.ai\",\"styles\":{\"bold\":true}}],\"children\":[]},{\"id\":\"888e8f18-1b98-42ba-bc98-3ffd5c7e8a11\",\"type\":\"paragraph\",\"props\":{\"textColor\":\"default\",\"backgroundColor\":\"default\",\"textAlignment\":\"left\"},\"content\":[],\"children\":[]}]",
+				"text": "## Welcome to Hyperspatial ∂\n\nHyperspatial is a workspace for deep collaboration with AI on research, ideation, and prototyping 🧠 .\n\nAI products like ChatGPT and Claude give us powerful new ways to think and create. But their conventional, linear UIs make them hard to use for complex creative work.\n\nHyperspatial overcomes this limitation with a spatial canvas interface that gives you full visibility into the contents of a project and fine control over what knowledge is used to generate which AI responses.\n\nHere are some tips to get you started:\n\n*   This demo workspace shows some ways you can use Hyperspatial\n*   Sign in and select a plan using the interface in the bottom-right.\n*   Double-click or right-click on the canvas to create a new item\n*   Drag the handles next to each item to connect knowledge to AI items\n\nHyperspatial is in public alpha. Please excuse any bugs or errors you encounter 😁.\n\nTo get in touch, please write to: **hi@hyperspatial.ai**\n",
+				"snippet": "#Welcome to Hyperspatial ∂\n\nHyperspatial is a workspace for deep collaboration with AI on research, ideation, and prototyping 🧠 .\n\nAI products like ChatGPT and Claude give us powerful new ways to think and create. But their conventional, linear UIs make them hard to use for complex creative work.\n\nHyperspatial overcomes this limitation with a spatial canvas interface that gives you full visibility into the contents of a project and fine control over what knowledge is used to generate which AI responses.\n\nHere are some tips to get you started:\n\n   This demo workspace shows some ways you can use Hyperspatial\n   Sign in and select a plan using the interface in the bottom-right.\n   Double-click or right-click on the canvas to create a new item\n   Drag the handles next to each item to connect knowledge to AI items\n\nHyperspatial is in public alpha. Please excuse any bugs or errors you encounter 😁.\n\nTo get in touch, please write to: hi@hyperspatial.ai\n"
+			},
+			"poses": {
+				"canvasLocal": {
+					"pos": {
+						"x": -0.26296413,
+						"y": 0.023126692,
+						"z": -7.0082024E-8
+					},
+					"rot": {
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					},
+					"size": {
+						"x": 0.40936643,
+						"y": 0.6551429,
+						"z": 0.001
+					}
+				},
+				"consoleLocal": {
+					"pos": {
+						"x": 0,
+						"y": 0,
+						"z": 0.6
+					},
+					"rot": {
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					},
+					"size": {
+						"x": 0.24,
+						"y": 0.3,
+						"z": 0.001
+					}
+				},
+				"defaultWorld": {
+					"pos": {
+						"x": 3.5741642,
+						"y": -0.9998465,
+						"z": -2.5963764
+					},
+					"rot": {
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					},
+					"size": {
+						"x": 0.24,
+						"y": 0.3,
+						"z": 0.001
+					}
+				}
+			}
+		},
+		"27d11f81-23d8-4f1e-92c2-a3c0112bc262": {
+			"id": "27d11f81-23d8-4f1e-92c2-a3c0112bc262",
+			"props": {
+				"isGenerated": "True",
+				"type": "artifact",
+				"name": "Slide presentation, matching style of image, monospace font, elaborate on given ideas, use punchy tone",
+				"timeUpdated": "10/16/2024 10:08:15 AM",
+				"urlLink": "http://localhost:20001?cacheBuster=861400",
+				"file:index.html": "\n<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <title>Agentic Research Tools</title>\n    <style>\n        body {\n            font-family: \"Courier New\", Courier, monospace;\n            margin: 0;\n            padding: 0;\n            background-color: #FADEC8;\n            color: #2D2D2D;\n        }\n        .container {\n            width: 80%;\n            margin: 0 auto;\n        }\n        h1, h2 {\n            text-align: center;\n        }\n        h1 {\n            margin-top: 30px;\n            font-size: 2.5rem;\n        }\n        h2 {\n            margin-top: 20px;\n            font-size: 2rem;\n        }\n        .slide {\n            border: 2px dashed #A65E2E;\n            padding: 20px;\n            margin-bottom: 20px;\n            background-color: #FFF8E1;\n            box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.2);\n        }\n        .slide ul {\n            padding-left: 1.2em;\n        }\n        .slide li {\n            margin-bottom: 10px;\n        }\n    </style>\n</head>\n<body>\n    <div class=\"container\">\n        <h1>Agentic Reasoning for Research</h1>\n\n        <section class=\"slide\">\n            <h2>Adaptive Literature Review Assistant</h2>\n            <ul>\n                <li>Summarize & Categorize - Ditch the manual drudge!</li>\n                <li>Highlight Gaps - Turn unknown unknowns into knowns.</li>\n                <li>Stay Updated - Waves of research? Surf over!</li>\n            </ul>\n        </section>\n\n        <section class=\"slide\">\n            <h2>Experiment Design Optimizer</h2>\n            <ul>\n                <li>Blueprint Your Success - Focus on your goals.</li>\n                <li>Simulate, Validate, Iterate - No more wild guessing!</li>\n                <li>Streamline Planning - Cut the chaos, boost precision.</li>\n            </ul>\n        </section>\n\n        <section class=\"slide\">\n            <h2>Data Analysis Enhancer</h2>\n            <ul>\n                <li>Automate & Dominate - Let the data dance!</li>\n                <li>Visuals that Speak - Trends become crystal clear.</li>\n                <li>Model Recommendations - Analytical models at your service.</li>\n            </ul>\n        </section>\n\n        <section class=\"slide\">\n            <h2>Collaboration Insight Generator</h2>\n            <ul>\n                <li>Optimize Team Dynamics - Synergy, but make it scientific.</li>\n                <li>Progress Tracking Magic - Stay motivated, always.</li>\n                <li>Find Collaborators - Expand your research tribe.</li>\n            </ul>\n        </section>\n\n        <section class=\"slide\">\n            <h2>Grant Proposal Strategist</h2>\n            <ul>\n                <li>Success Patterns Unlocked - Write like a pro!</li>\n                <li>Tailored Funding Tips - Money talks, we listen.</li>\n                <li>Proposal Polish - Make your case compelling.</li>\n            </ul>\n        </section>\n\n        <section class=\"slide\">\n            <h2>Ethical Review Advisor</h2>\n            <ul>\n                <li>Spot Ethical Quirks - Navigate smoothly.</li>\n                <li>Guideline Guru - Stay compliant, every step.</li>\n                <li>Ethical Dilemma Solver - Solutions on standby.</li>\n            </ul>\n        </section>\n\n        <section class=\"slide\">\n            <h2>Interdisciplinary Innovation Hub</h2>\n            <ul>\n                <li>Connect Across Fields - Break silos, join forces.</li>\n                <li>Collaborative Energy - Fresh perspectives, explosive ideas.</li>\n                <li>Workshops & Sessions - Cross-discipline creativity unleashed.</li>\n            </ul>\n        </section>\n    </div>\n</body>\n</html>\n",
+				"localPort": "20001"
+			},
+			"poses": {
+				"canvasLocal": {
+					"pos": {
+						"x": 2.5497572,
+						"y": -0.7933512,
+						"z": 1.08848326E-7
+					},
+					"rot": {
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					},
+					"size": {
+						"x": 0.47002923,
+						"y": 0.66262805,
+						"z": 0.001
+					}
+				}
+			}
+		}
+	},
+	"edges": {
+		"354231be-f04c-4a9d-9f09-ae80f4338267[includes]0c7f441e-4e98-4435-a790-c52da18db26f": {
+			"srcNodeID": "354231be-f04c-4a9d-9f09-ae80f4338267",
+			"trgNodeID": "0c7f441e-4e98-4435-a790-c52da18db26f",
+			"type": "includes",
+			"props": null
+		},
+		"354231be-f04c-4a9d-9f09-ae80f4338267[includes]0301ec26-3034-4c8d-8eb7-0788405bbc7f": {
+			"srcNodeID": "354231be-f04c-4a9d-9f09-ae80f4338267",
+			"trgNodeID": "0301ec26-3034-4c8d-8eb7-0788405bbc7f",
+			"type": "includes",
+			"props": null
+		},
+		"0c7f441e-4e98-4435-a790-c52da18db26f[contextualises]0301ec26-3034-4c8d-8eb7-0788405bbc7f": {
+			"srcNodeID": "0c7f441e-4e98-4435-a790-c52da18db26f",
+			"trgNodeID": "0301ec26-3034-4c8d-8eb7-0788405bbc7f",
+			"type": "contextualises",
+			"props": null
+		},
+		"0c7f441e-4e98-4435-a790-c52da18db26f[contextualises]c6e323ac-a1a5-4b92-a80a-420bed89c6fc": {
+			"srcNodeID": "0c7f441e-4e98-4435-a790-c52da18db26f",
+			"trgNodeID": "c6e323ac-a1a5-4b92-a80a-420bed89c6fc",
+			"type": "contextualises",
+			"props": null
+		},
+		"c6e323ac-a1a5-4b92-a80a-420bed89c6fc[includes]6e6d83fe-d579-4944-be0e-e5c73320cfb5": {
+			"srcNodeID": "c6e323ac-a1a5-4b92-a80a-420bed89c6fc",
+			"trgNodeID": "6e6d83fe-d579-4944-be0e-e5c73320cfb5",
+			"type": "includes",
+			"props": {
+				"layoutIndexY": "0"
+			}
+		},
+		"354231be-f04c-4a9d-9f09-ae80f4338267[includes]c6e323ac-a1a5-4b92-a80a-420bed89c6fc": {
+			"srcNodeID": "354231be-f04c-4a9d-9f09-ae80f4338267",
+			"trgNodeID": "c6e323ac-a1a5-4b92-a80a-420bed89c6fc",
+			"type": "includes",
+			"props": null
+		},
+		"c6e323ac-a1a5-4b92-a80a-420bed89c6fc[includes]48b08579-1f26-4065-bf99-84e1d8183190": {
+			"srcNodeID": "c6e323ac-a1a5-4b92-a80a-420bed89c6fc",
+			"trgNodeID": "48b08579-1f26-4065-bf99-84e1d8183190",
+			"type": "includes",
+			"props": {
+				"layoutIndexY": "1"
+			}
+		},
+		"c6e323ac-a1a5-4b92-a80a-420bed89c6fc[includes]3cd3c384-54ce-4424-8485-a6294078bfd4": {
+			"srcNodeID": "c6e323ac-a1a5-4b92-a80a-420bed89c6fc",
+			"trgNodeID": "3cd3c384-54ce-4424-8485-a6294078bfd4",
+			"type": "includes",
+			"props": {
+				"layoutIndexY": "2"
+			}
+		},
+		"354231be-f04c-4a9d-9f09-ae80f4338267[includes]a4acf1ac-bd6a-4e4b-a9b7-afd41e848ff0": {
+			"srcNodeID": "354231be-f04c-4a9d-9f09-ae80f4338267",
+			"trgNodeID": "a4acf1ac-bd6a-4e4b-a9b7-afd41e848ff0",
+			"type": "includes",
+			"props": null
+		},
+		"a4acf1ac-bd6a-4e4b-a9b7-afd41e848ff0[contextualises]c6e323ac-a1a5-4b92-a80a-420bed89c6fc": {
+			"srcNodeID": "a4acf1ac-bd6a-4e4b-a9b7-afd41e848ff0",
+			"trgNodeID": "c6e323ac-a1a5-4b92-a80a-420bed89c6fc",
+			"type": "contextualises",
+			"props": null
+		},
+		"c6e323ac-a1a5-4b92-a80a-420bed89c6fc[includes]bd42bca4-9192-49bc-9727-328796393c48": {
+			"srcNodeID": "c6e323ac-a1a5-4b92-a80a-420bed89c6fc",
+			"trgNodeID": "bd42bca4-9192-49bc-9727-328796393c48",
+			"type": "includes",
+			"props": {
+				"layoutIndexY": "3"
+			}
+		},
+		"c6e323ac-a1a5-4b92-a80a-420bed89c6fc[includes]682c5961-f2f2-4c45-8e05-4d396ad28ac1": {
+			"srcNodeID": "c6e323ac-a1a5-4b92-a80a-420bed89c6fc",
+			"trgNodeID": "682c5961-f2f2-4c45-8e05-4d396ad28ac1",
+			"type": "includes",
+			"props": {
+				"layoutIndexY": "4"
+			}
+		},
+		"c6e323ac-a1a5-4b92-a80a-420bed89c6fc[includes]b2450932-395b-4b2f-ba59-925ab6d34ac2": {
+			"srcNodeID": "c6e323ac-a1a5-4b92-a80a-420bed89c6fc",
+			"trgNodeID": "b2450932-395b-4b2f-ba59-925ab6d34ac2",
+			"type": "includes",
+			"props": {
+				"layoutIndexY": "5"
+			}
+		},
+		"c6e323ac-a1a5-4b92-a80a-420bed89c6fc[includes]c4bbf1e7-6e4f-43f2-9e9d-f6845f7d4b82": {
+			"srcNodeID": "c6e323ac-a1a5-4b92-a80a-420bed89c6fc",
+			"trgNodeID": "c4bbf1e7-6e4f-43f2-9e9d-f6845f7d4b82",
+			"type": "includes",
+			"props": {
+				"layoutIndexY": "6"
+			}
+		},
+		"354231be-f04c-4a9d-9f09-ae80f4338267[includes]7cee50f6-9521-4792-8f5b-ee964ea6b3a7": {
+			"srcNodeID": "354231be-f04c-4a9d-9f09-ae80f4338267",
+			"trgNodeID": "7cee50f6-9521-4792-8f5b-ee964ea6b3a7",
+			"type": "includes",
+			"props": null
+		},
+		"c6e323ac-a1a5-4b92-a80a-420bed89c6fc[contextualises]7cee50f6-9521-4792-8f5b-ee964ea6b3a7": {
+			"srcNodeID": "c6e323ac-a1a5-4b92-a80a-420bed89c6fc",
+			"trgNodeID": "7cee50f6-9521-4792-8f5b-ee964ea6b3a7",
+			"type": "contextualises",
+			"props": null
+		},
+		"354231be-f04c-4a9d-9f09-ae80f4338267[includes]a849be3c-454d-4c0e-b29f-d83caf9ff7a4": {
+			"srcNodeID": "354231be-f04c-4a9d-9f09-ae80f4338267",
+			"trgNodeID": "a849be3c-454d-4c0e-b29f-d83caf9ff7a4",
+			"type": "includes",
+			"props": null
+		},
+		"c6e323ac-a1a5-4b92-a80a-420bed89c6fc[contextualises]a849be3c-454d-4c0e-b29f-d83caf9ff7a4": {
+			"srcNodeID": "c6e323ac-a1a5-4b92-a80a-420bed89c6fc",
+			"trgNodeID": "a849be3c-454d-4c0e-b29f-d83caf9ff7a4",
+			"type": "contextualises",
+			"props": null
+		},
+		"0301ec26-3034-4c8d-8eb7-0788405bbc7f[contextualises]7cee50f6-9521-4792-8f5b-ee964ea6b3a7": {
+			"srcNodeID": "0301ec26-3034-4c8d-8eb7-0788405bbc7f",
+			"trgNodeID": "7cee50f6-9521-4792-8f5b-ee964ea6b3a7",
+			"type": "contextualises",
+			"props": null
+		},
+		"0301ec26-3034-4c8d-8eb7-0788405bbc7f[contextualises]a849be3c-454d-4c0e-b29f-d83caf9ff7a4": {
+			"srcNodeID": "0301ec26-3034-4c8d-8eb7-0788405bbc7f",
+			"trgNodeID": "a849be3c-454d-4c0e-b29f-d83caf9ff7a4",
+			"type": "contextualises",
+			"props": null
+		},
+		"354231be-f04c-4a9d-9f09-ae80f4338267[includes]e20379ad-e720-45f9-b2ee-9194ce1a879b": {
+			"srcNodeID": "354231be-f04c-4a9d-9f09-ae80f4338267",
+			"trgNodeID": "e20379ad-e720-45f9-b2ee-9194ce1a879b",
+			"type": "includes",
+			"props": null
+		},
+		"354231be-f04c-4a9d-9f09-ae80f4338267[includes]bc784066-5786-47e3-b48c-086f46f20868": {
+			"srcNodeID": "354231be-f04c-4a9d-9f09-ae80f4338267",
+			"trgNodeID": "bc784066-5786-47e3-b48c-086f46f20868",
+			"type": "includes",
+			"props": null
+		},
+		"a849be3c-454d-4c0e-b29f-d83caf9ff7a4[contextualises]bc784066-5786-47e3-b48c-086f46f20868": {
+			"srcNodeID": "a849be3c-454d-4c0e-b29f-d83caf9ff7a4",
+			"trgNodeID": "bc784066-5786-47e3-b48c-086f46f20868",
+			"type": "contextualises",
+			"props": null
+		},
+		"354231be-f04c-4a9d-9f09-ae80f4338267[includes]1800a1ef-9724-43cc-a8b4-960220441a81": {
+			"srcNodeID": "354231be-f04c-4a9d-9f09-ae80f4338267",
+			"trgNodeID": "1800a1ef-9724-43cc-a8b4-960220441a81",
+			"type": "includes",
+			"props": null
+		},
+		"7cee50f6-9521-4792-8f5b-ee964ea6b3a7[contextualises]bc784066-5786-47e3-b48c-086f46f20868": {
+			"srcNodeID": "7cee50f6-9521-4792-8f5b-ee964ea6b3a7",
+			"trgNodeID": "bc784066-5786-47e3-b48c-086f46f20868",
+			"type": "contextualises",
+			"props": null
+		},
+		"354231be-f04c-4a9d-9f09-ae80f4338267[includes]27d11f81-23d8-4f1e-92c2-a3c0112bc262": {
+			"srcNodeID": "354231be-f04c-4a9d-9f09-ae80f4338267",
+			"trgNodeID": "27d11f81-23d8-4f1e-92c2-a3c0112bc262",
+			"type": "includes",
+			"props": null
+		},
+		"a849be3c-454d-4c0e-b29f-d83caf9ff7a4[contextualises]27d11f81-23d8-4f1e-92c2-a3c0112bc262": {
+			"srcNodeID": "a849be3c-454d-4c0e-b29f-d83caf9ff7a4",
+			"trgNodeID": "27d11f81-23d8-4f1e-92c2-a3c0112bc262",
+			"type": "contextualises",
+			"props": null
+		},
+		"e20379ad-e720-45f9-b2ee-9194ce1a879b[contextualises]27d11f81-23d8-4f1e-92c2-a3c0112bc262": {
+			"srcNodeID": "e20379ad-e720-45f9-b2ee-9194ce1a879b",
+			"trgNodeID": "27d11f81-23d8-4f1e-92c2-a3c0112bc262",
+			"type": "contextualises",
+			"props": null
+		}
+	}
+}
