@@ -1,0 +1,1368 @@
+{
+	"schema": 202501,
+	"id": "6e3a13e9-2780-457d-adc1-e84be00ceabb",
+	"nodes": {
+		"6e3a13e9-2780-457d-adc1-e84be00ceabb": {
+			"id": "6e3a13e9-2780-457d-adc1-e84be00ceabb",
+			"props": {
+				"type": "workspace",
+				"name": "Spaceframe Marketing Visuals"
+			},
+			"poses": {
+				"6e3a13e9-2780-457d-adc1-e84be00ceabb": {
+					"pos": {
+						"x": 0,
+						"y": 0,
+						"z": 0
+					},
+					"rot": {
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					},
+					"size": {
+						"x": 1,
+						"y": 1,
+						"z": 1
+					}
+				}
+			}
+		},
+		"461cdbd6-5b8d-4e28-9fd8-bea6ac217362": {
+			"id": "461cdbd6-5b8d-4e28-9fd8-bea6ac217362",
+			"props": {
+				"urlFile": "https://platform-0.com/wp-content/uploads/2020/06/ATLAS-OF-PLACES-KONRAD-WACHSMANN-USAF-AIRCRAFT-HANGAR-IMG-2.jpg",
+				"name": "ATLAS-OF-PLACES-KONRAD-WACHSMANN-USAF-AIRCRAFT-HANGAR-IMG-2.jpg",
+				"urlLink": "https://platform-0.com/wachsmann-konrad-united-states-air-force-aircraft-hangar-1951/",
+				"aspectRatio": "1.99800",
+				"type": "image",
+				"assetFileName": "ImageAsset.jpg"
+			},
+			"poses": {
+				"canvasLocal": {
+					"pos": {
+						"x": 0.96792364,
+						"y": 0.61612767,
+						"z": -8.556526E-9
+					},
+					"rot": {
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					},
+					"size": {
+						"x": 0.31616443,
+						"y": 0.15824047,
+						"z": 0.001
+					}
+				},
+				"consoleLocal": {
+					"pos": {
+						"x": 0,
+						"y": 0,
+						"z": 0.77274066
+					},
+					"rot": {
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					},
+					"size": {
+						"x": 0.31616446,
+						"y": 0.15824048,
+						"z": 0.001
+					}
+				}
+			}
+		},
+		"7d637dcf-7d89-4f27-be1a-3d3eda531c15": {
+			"id": "7d637dcf-7d89-4f27-be1a-3d3eda531c15",
+			"props": {
+				"urlFile": "https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/595384ac-81a2-4a7b-a6c7-83b560fc64fb/Yilius_Portfolio_-_Page3/w=3840,quality=90,fit=scale-down",
+				"name": "w3840quality90fitscale-down",
+				"urlLink": "https://www.yiliu.sh/writing-and-projects/the-house-that-folded-itself",
+				"aspectRatio": "1.49850",
+				"type": "image",
+				"assetFileName": "ImageAsset.jpg"
+			},
+			"poses": {
+				"consoleLocal": {
+					"pos": {
+						"x": 0,
+						"y": 0,
+						"z": 0.77274066
+					},
+					"rot": {
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					},
+					"size": {
+						"x": 0.2940836,
+						"y": 0.19625199,
+						"z": 0.001
+					}
+				},
+				"canvasLocal": {
+					"pos": {
+						"x": -0.7216033,
+						"y": 0.6261571,
+						"z": -6.6310167E-6
+					},
+					"rot": {
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					},
+					"size": {
+						"x": 0.2940836,
+						"y": 0.19625199,
+						"z": 0.001
+					}
+				}
+			}
+		},
+		"f0091386-34c4-40ab-9a64-fdc23ea58a3e": {
+			"id": "f0091386-34c4-40ab-9a64-fdc23ea58a3e",
+			"props": {
+				"urlFile": "https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/2003c33d-df53-4f90-a98e-3cd83df76714/Yilius_Portfolio_-_Page5/w=3840,quality=90,fit=scale-down",
+				"name": "w3840quality90fitscale-down",
+				"urlLink": "https://www.yiliu.sh/writing-and-projects/the-house-that-folded-itself",
+				"aspectRatio": "1.96335",
+				"type": "image",
+				"assetFileName": "ImageAsset.jpg"
+			},
+			"poses": {
+				"canvasLocal": {
+					"pos": {
+						"x": -0.7111396,
+						"y": 0.21644993,
+						"z": -2.0861626E-7
+					},
+					"rot": {
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					},
+					"size": {
+						"x": 0.31504282,
+						"y": 0.16046189,
+						"z": 0.001
+					}
+				},
+				"consoleLocal": {
+					"pos": {
+						"x": 0,
+						"y": 0,
+						"z": 0.77274066
+					},
+					"rot": {
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					},
+					"size": {
+						"x": 0.3150428,
+						"y": 0.16046187,
+						"z": 0.001
+					}
+				}
+			}
+		},
+		"66df74d4-eacd-4b49-9a2e-3b4756093e97": {
+			"id": "66df74d4-eacd-4b49-9a2e-3b4756093e97",
+			"props": {
+				"urlFile": "https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/8b330ad2-33ce-4c46-9700-f7a64d800706/Folded_House_Unfolded_Landscape/w=2048,quality=90,fit=scale-down",
+				"name": "w2048quality90fitscale-down",
+				"urlLink": "https://www.yiliu.sh/writing-and-projects/the-house-that-folded-itself",
+				"aspectRatio": "1.80441",
+				"type": "image",
+				"assetFileName": "ImageAsset.jpg"
+			},
+			"poses": {
+				"canvasLocal": {
+					"pos": {
+						"x": -0.7140415,
+						"y": 0.4123575,
+						"z": -4.224479E-6
+					},
+					"rot": {
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					},
+					"size": {
+						"x": 0.30923933,
+						"y": 0.17137975,
+						"z": 0.001
+					}
+				},
+				"consoleLocal": {
+					"pos": {
+						"x": 0,
+						"y": 0,
+						"z": 0.77274066
+					},
+					"rot": {
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					},
+					"size": {
+						"x": 0.30923927,
+						"y": 0.17137972,
+						"z": 0.001
+					}
+				}
+			}
+		},
+		"40bbc99c-cc69-4f68-9f1c-6a3ebb578d1b": {
+			"id": "40bbc99c-cc69-4f68-9f1c-6a3ebb578d1b",
+			"props": {
+				"urlFile": "https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/9f40e252-40d7-4f69-bd78-c5a0bc06aa61/Yilius_Portfolio_-_Page6_1/w=2048,quality=90,fit=scale-down",
+				"name": "w2048quality90fitscale-down",
+				"urlLink": "https://www.yiliu.sh/writing-and-projects/the-house-that-folded-itself",
+				"aspectRatio": "0.99338",
+				"type": "image",
+				"assetFileName": "ImageAsset.jpg"
+			},
+			"poses": {
+				"canvasLocal": {
+					"pos": {
+						"x": -1.023243,
+						"y": 0.27872136,
+						"z": 7.916242E-7
+					},
+					"rot": {
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					},
+					"size": {
+						"x": 0.24916835,
+						"y": 0.25082886,
+						"z": 0.001
+					}
+				},
+				"consoleLocal": {
+					"pos": {
+						"x": 0,
+						"y": 0,
+						"z": 0.77274066
+					},
+					"rot": {
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					},
+					"size": {
+						"x": 0.24916837,
+						"y": 0.25082886,
+						"z": 0.001
+					}
+				}
+			}
+		},
+		"7aff283c-d957-4392-bcae-bfaabfe3eae7": {
+			"id": "7aff283c-d957-4392-bcae-bfaabfe3eae7",
+			"props": {
+				"type": "note",
+				"name": "The House That Folded Itself",
+				"text": "# The House That Folded Itself\n\n## A speculative design\n\nDesign for a two-client dwelling at 7 Ware Street in Cambridge, Massachusetts. Megan, the “socialite investment banker”, requires a dwelling whose hierarchy of privacy provides her with both a place to entertain guests, and into which she can retreat from the world. Andy, the “insomniac scholar”, views his home primarily as an archive of collected and created knowledge, with living functions being secondary. The final design meets the distinct spatial needs of the two clients, but also allows for negotiation and coexistence between the hierarchical and non-hierarchical through a process of embedding and enfolding. The resulting dwellings embrace one another and merge into a unified structure, despite the polarization their opposing organizational strategies would seem to create.\n\nIn Jorge Luis Borges’ short story *The Library of Babel*, denizens of the near-infinite Library spend their lives wandering its hexagonal galleries, searching for Truth in identically-sized tomes whose four hundred and ten pages contain every possible permutation of twenty five orthographic symbols. The futility of this task drives the Librarians to madness; just the number of unique nonsensical tomes exceeds the number of elementary particles in our visible universe. Andy’s circulation system, an Eulerian path with two vertices of odd degree, explores similar themes of infinity derived from the finite, and the collapse and negation of meaning through exhaustive permutation and iteration.\n",
+				"isGenerated": "False",
+				"timeUpdated": "11/15/2024 12:35:54 PM",
+				"blocknoteDoc": "[{\"id\":\"afbab33c-21d4-4994-91af-a9fda6557cf9\",\"type\":\"heading\",\"props\":{\"textColor\":\"default\",\"backgroundColor\":\"default\",\"textAlignment\":\"left\",\"level\":1},\"content\":[{\"type\":\"text\",\"text\":\"The House That Folded Itself\",\"styles\":{}}],\"children\":[]},{\"id\":\"96927c2f-4b47-40eb-aedc-94a3679ebf7b\",\"type\":\"heading\",\"props\":{\"textColor\":\"default\",\"backgroundColor\":\"default\",\"textAlignment\":\"left\",\"level\":2},\"content\":[{\"type\":\"text\",\"text\":\"A speculative design\",\"styles\":{}}],\"children\":[]},{\"id\":\"fcfda9f9-fc00-46fa-8371-9b99f2b6adce\",\"type\":\"paragraph\",\"props\":{\"textColor\":\"default\",\"backgroundColor\":\"default\",\"textAlignment\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"Design for a two-client dwelling at 7 Ware Street in Cambridge, Massachusetts. Megan, the “socialite investment banker”, requires a dwelling whose hierarchy of privacy provides her with both a place to entertain guests, and into which she can retreat from the world. Andy, the “insomniac scholar”, views his home primarily as an archive of collected and created knowledge, with living functions being secondary. The final design meets the distinct spatial needs of the two clients, but also allows for negotiation and coexistence between the hierarchical and non-hierarchical through a process of embedding and enfolding. The resulting dwellings embrace one another and merge into a unified structure, despite the polarization their opposing organizational strategies would seem to create.\",\"styles\":{}}],\"children\":[]},{\"id\":\"c46a4a68-a8f0-4334-8152-e5a244c81fd3\",\"type\":\"paragraph\",\"props\":{\"textColor\":\"default\",\"backgroundColor\":\"default\",\"textAlignment\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"In Jorge Luis Borges’ short story \",\"styles\":{}},{\"type\":\"text\",\"text\":\"The Library of Babel\",\"styles\":{\"italic\":true}},{\"type\":\"text\",\"text\":\", denizens of the near-infinite Library spend their lives wandering its hexagonal galleries, searching for Truth in identically-sized tomes whose four hundred and ten pages contain every possible permutation of twenty five orthographic symbols. The futility of this task drives the Librarians to madness; just the number of unique nonsensical tomes exceeds the number of elementary particles in our visible universe. Andy’s circulation system, an Eulerian path with two vertices of odd degree, explores similar themes of infinity derived from the finite, and the collapse and negation of meaning through exhaustive permutation and iteration.\",\"styles\":{}}],\"children\":[]},{\"id\":\"bac9aa7b-4361-4d77-913f-3b8235da588f\",\"type\":\"paragraph\",\"props\":{\"textColor\":\"default\",\"backgroundColor\":\"default\",\"textAlignment\":\"left\"},\"content\":[],\"children\":[]}]"
+			},
+			"poses": {
+				"canvasLocal": {
+					"pos": {
+						"x": -1.018653,
+						"y": 0.5841281,
+						"z": -1.0477379E-8
+					},
+					"rot": {
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					},
+					"size": {
+						"x": 0.24,
+						"y": 0.3,
+						"z": 0.001
+					}
+				},
+				"consoleLocal": {
+					"pos": {
+						"x": 0,
+						"y": 0,
+						"z": 0.77274066
+					},
+					"rot": {
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					},
+					"size": {
+						"x": 0.24,
+						"y": 0.3,
+						"z": 0.001
+					}
+				}
+			}
+		},
+		"f63055df-5dd4-4512-986b-63b2044e0714": {
+			"id": "f63055df-5dd4-4512-986b-63b2044e0714",
+			"props": {
+				"urlFile": "https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/4b722619-e862-424b-9c8a-32ee277ab396/WORMSEYE_REDUCED/w=3840,quality=90,fit=scale-down",
+				"name": "w3840quality90fitscale-down",
+				"urlLink": "https://www.yiliu.sh/writing-and-projects/spooky-action-generative-architecture",
+				"aspectRatio": "1.79964",
+				"type": "image",
+				"assetFileName": "ImageAsset.jpg"
+			},
+			"poses": {
+				"consoleLocal": {
+					"pos": {
+						"x": 0,
+						"y": 0,
+						"z": 0.77274066
+					},
+					"rot": {
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					},
+					"size": {
+						"x": 0.30904675,
+						"y": 0.17172699,
+						"z": 0.001
+					}
+				},
+				"canvasLocal": {
+					"pos": {
+						"x": -0.7225547,
+						"y": -0.42480046,
+						"z": -2.0712614E-6
+					},
+					"rot": {
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					},
+					"size": {
+						"x": 0.30904672,
+						"y": 0.17172696,
+						"z": 0.001
+					}
+				}
+			}
+		},
+		"f5fc6b9b-f0be-4c99-a4e1-5743c8f81539": {
+			"id": "f5fc6b9b-f0be-4c99-a4e1-5743c8f81539",
+			"props": {
+				"urlFile": "https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/2b263fe1-ecdb-4a54-9832-edf7c4af007f/PERSPECTIVE_B0/w=2048,quality=90,fit=scale-down",
+				"name": "w2048quality90fitscale-down",
+				"urlLink": "https://www.yiliu.sh/writing-and-projects/spooky-action-generative-architecture",
+				"aspectRatio": "1.79965",
+				"type": "image",
+				"assetFileName": "ImageAsset.jpg"
+			},
+			"poses": {
+				"consoleLocal": {
+					"pos": {
+						"x": 0,
+						"y": 0,
+						"z": 0.77274066
+					},
+					"rot": {
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					},
+					"size": {
+						"x": 0.30904707,
+						"y": 0.17172623,
+						"z": 0.001
+					}
+				},
+				"canvasLocal": {
+					"pos": {
+						"x": -0.72257495,
+						"y": -0.22308415,
+						"z": -1.0812655E-6
+					},
+					"rot": {
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					},
+					"size": {
+						"x": 0.30904707,
+						"y": 0.17172623,
+						"z": 0.001
+					}
+				}
+			}
+		},
+		"030b74b6-a14a-43fc-8b83-2d1b0d68d2b0": {
+			"id": "030b74b6-a14a-43fc-8b83-2d1b0d68d2b0",
+			"props": {
+				"urlFile": "https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/581c3116-376c-4d76-aa90-1d3024fc018f/Render-Cutaway-GIF/w=2048,quality=90,fit=scale-down",
+				"name": "w2048quality90fitscale-down",
+				"urlLink": "https://www.yiliu.sh/writing-and-projects/spooky-action-generative-architecture",
+				"aspectRatio": "2.00000",
+				"type": "image",
+				"assetFileName": "ImageAsset.gif"
+			},
+			"poses": {
+				"consoleLocal": {
+					"pos": {
+						"x": 0,
+						"y": 0,
+						"z": 0.77274066
+					},
+					"rot": {
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					},
+					"size": {
+						"x": 0.31622776,
+						"y": 0.15811388,
+						"z": 0.001
+					}
+				},
+				"canvasLocal": {
+					"pos": {
+						"x": -0.7189749,
+						"y": -0.61970806,
+						"z": -5.930662E-6
+					},
+					"rot": {
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					},
+					"size": {
+						"x": 0.31622776,
+						"y": 0.15811388,
+						"z": 0.001
+					}
+				}
+			}
+		},
+		"cf628529-d895-4adb-8170-8c5a0f74444e": {
+			"id": "cf628529-d895-4adb-8170-8c5a0f74444e",
+			"props": {
+				"urlFile": "https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/b602760a-a768-4e9b-ae7d-67a18c926f19/Model_Section_1/w=2048,quality=90,fit=scale-down",
+				"name": "w2048quality90fitscale-down",
+				"urlLink": "https://www.yiliu.sh/writing-and-projects/spooky-action-generative-architecture",
+				"aspectRatio": "1.69396",
+				"type": "image",
+				"assetFileName": "ImageAsset.jpg"
+			},
+			"poses": {
+				"consoleLocal": {
+					"pos": {
+						"x": 0,
+						"y": 0,
+						"z": 0.77274066
+					},
+					"rot": {
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					},
+					"size": {
+						"x": 0.3044603,
+						"y": 0.17973289,
+						"z": 0.001
+					}
+				},
+				"canvasLocal": {
+					"pos": {
+						"x": -1.0593096,
+						"y": -0.55139375,
+						"z": -1.4528632E-7
+					},
+					"rot": {
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					},
+					"size": {
+						"x": 0.30446032,
+						"y": 0.1797329,
+						"z": 0.001
+					}
+				}
+			}
+		},
+		"651437d3-d892-467d-a3af-a5087e5d6bac": {
+			"id": "651437d3-d892-467d-a3af-a5087e5d6bac",
+			"props": {
+				"type": "note",
+				"name": "Spooky Action",
+				"text": "In *A Discourse on Method* (\"Explorations in Architecture: Teaching, Design, Research\" pp. 34-47, Birkhäuser 2008), Sanford Kwinter attributes James D. Murray's 1988 paper *[How The Leopard Gets Its Spots](http://www.crm.umontreal.ca/~durand/Murray-Sc.Am.pdf)* with announcing a new paradigm in evolutionary biology. Under this epigenetic paradigm, biological form results not from the straightforward reading out of hardwired genetic code. Rather, it arises from the complex and recursive interactions between this genetic information and “chemical and field systems flowing through one another” during an organism’s development.\n\nSpooky Action is an exploration of the way in which the controlled and calibrated interactions of several fields of effects, overlaid one upon another and allowed to alternately constructively reinforce or destructively interfere, can generate architecturally, programmatically, and qualitatively differentiated spaces. These fields of effects each have an origin and functional definition in relation to the building site; the sum of their interactions on the form of the building, a new library annex for Boston’s Museum of Fine Arts, is a source of continuous and unpredictable novelty, demanding a combination of analytical and subjective form-finding in its use as a tool of architectural design.\n",
+				"isGenerated": "False",
+				"timeUpdated": "11/15/2024 12:38:54 PM",
+				"blocknoteDoc": "[{\"id\":\"1334e346-b622-49c8-9f77-fd43c120bbba\",\"type\":\"paragraph\",\"props\":{\"textColor\":\"default\",\"backgroundColor\":\"default\",\"textAlignment\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"In \",\"styles\":{}},{\"type\":\"text\",\"text\":\"A Discourse on Method\",\"styles\":{\"italic\":true}},{\"type\":\"text\",\"text\":\" (\\\"Explorations in Architecture: Teaching, Design, Research\\\" pp. 34-47, Birkhäuser 2008), Sanford Kwinter attributes James D. Murray's 1988 paper \",\"styles\":{}},{\"type\":\"link\",\"href\":\"http://www.crm.umontreal.ca/~durand/Murray-Sc.Am.pdf\",\"content\":[{\"type\":\"text\",\"text\":\"How The Leopard Gets Its Spots\",\"styles\":{\"italic\":true}}]},{\"type\":\"text\",\"text\":\" with announcing a new paradigm in evolutionary biology. Under this epigenetic paradigm, biological form results not from the straightforward reading out of hardwired genetic code. Rather, it arises from the complex and recursive interactions between this genetic information and “chemical and field systems flowing through one another” during an organism’s development.\",\"styles\":{}}],\"children\":[]},{\"id\":\"ecc29ee0-03f4-4b05-ad31-4f18a2cc9be8\",\"type\":\"paragraph\",\"props\":{\"textColor\":\"default\",\"backgroundColor\":\"default\",\"textAlignment\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"Spooky Action is an exploration of the way in which the controlled and calibrated interactions of several fields of effects, overlaid one upon another and allowed to alternately constructively reinforce or destructively interfere, can generate architecturally, programmatically, and qualitatively differentiated spaces. These fields of effects each have an origin and functional definition in relation to the building site; the sum of their interactions on the form of the building, a new library annex for Boston’s Museum of Fine Arts, is a source of continuous and unpredictable novelty, demanding a combination of analytical and subjective form-finding in its use as a tool of architectural design.\",\"styles\":{}}],\"children\":[]},{\"id\":\"85d1af5d-2d2b-45ce-9665-8d4cdac0ea23\",\"type\":\"paragraph\",\"props\":{\"textColor\":\"default\",\"backgroundColor\":\"default\",\"textAlignment\":\"left\"},\"content\":[],\"children\":[]}]"
+			},
+			"poses": {
+				"consoleLocal": {
+					"pos": {
+						"x": 0,
+						"y": 0,
+						"z": 0.77274066
+					},
+					"rot": {
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					},
+					"size": {
+						"x": 0.24,
+						"y": 0.3,
+						"z": 0.001
+					}
+				},
+				"canvasLocal": {
+					"pos": {
+						"x": -1.0270873,
+						"y": -0.28153455,
+						"z": -1.9719337E-11
+					},
+					"rot": {
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					},
+					"size": {
+						"x": 0.24,
+						"y": 0.3,
+						"z": 0.001
+					}
+				}
+			}
+		},
+		"dbceda99-edab-4156-8204-26f79a7cf1ab": {
+			"id": "dbceda99-edab-4156-8204-26f79a7cf1ab",
+			"props": {
+				"type": "note",
+				"name": "Welcome to Spaceframe",
+				"text": "# Welcome to Spaceframe\n\n### Spaceframe is a spatial notebook where you always have room for your next great idea.\n\n### This is a demo workspace we've set up to show you some of the features you can use for research, moodboarding, and ideation in your own projects.\n\n### If you have any questions, please visit [www.spaceframe.xyz](http://www.spaceframe.xyz) or email us at: hi@spaceframe.xyz.\n",
+				"isGenerated": "False",
+				"timeUpdated": "11/19/2024 11:46:00 AM",
+				"blocknoteDoc": "[{\"id\":\"bd11f88c-5ec8-42de-a3a2-38923e05e0c8\",\"type\":\"heading\",\"props\":{\"textColor\":\"default\",\"backgroundColor\":\"default\",\"textAlignment\":\"left\",\"level\":1},\"content\":[{\"type\":\"text\",\"text\":\"Welcome to Spaceframe\",\"styles\":{}}],\"children\":[]},{\"id\":\"a1c530b8-373f-4d90-8aef-7e5208780d41\",\"type\":\"heading\",\"props\":{\"textColor\":\"default\",\"backgroundColor\":\"default\",\"textAlignment\":\"left\",\"level\":3},\"content\":[{\"type\":\"text\",\"text\":\"Spaceframe is a spatial notebook where you always have room for your next great idea.\",\"styles\":{}}],\"children\":[]},{\"id\":\"38750a91-2d91-4d80-920c-5b3f4c8c7d66\",\"type\":\"heading\",\"props\":{\"textColor\":\"default\",\"backgroundColor\":\"default\",\"textAlignment\":\"left\",\"level\":3},\"content\":[{\"type\":\"text\",\"text\":\"This is a demo workspace we've set up to show you some of the features you can use for research, moodboarding, and ideation in your own projects.\",\"styles\":{}}],\"children\":[]},{\"id\":\"50c3e08f-96cc-4988-8404-9014371b31bc\",\"type\":\"heading\",\"props\":{\"textColor\":\"default\",\"backgroundColor\":\"default\",\"textAlignment\":\"left\",\"level\":3},\"content\":[{\"type\":\"text\",\"text\":\"If you have any questions, please visit \",\"styles\":{}},{\"type\":\"link\",\"href\":\"http://www.spaceframe.xyz\",\"content\":[{\"type\":\"text\",\"text\":\"www.spaceframe.xyz\",\"styles\":{}}]},{\"type\":\"text\",\"text\":\" or email us at: hi@spaceframe.xyz.\",\"styles\":{}}],\"children\":[]},{\"id\":\"06a82a88-65a0-4525-b1ac-ec4ec86f907c\",\"type\":\"paragraph\",\"props\":{\"textColor\":\"default\",\"backgroundColor\":\"default\",\"textAlignment\":\"left\"},\"content\":[],\"children\":[]}]"
+			},
+			"poses": {
+				"canvasLocal": {
+					"pos": {
+						"x": -0.12243599,
+						"y": 0.058489412,
+						"z": -1.0360964E-8
+					},
+					"rot": {
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					},
+					"size": {
+						"x": 0.31947422,
+						"y": 0.3721974,
+						"z": 0.001
+					}
+				},
+				"consoleLocal": {
+					"pos": {
+						"x": 0,
+						"y": -0.20705526,
+						"z": 0.77274066
+					},
+					"rot": {
+						"x": 0.1305262,
+						"y": 0,
+						"z": 0,
+						"w": 0.9914449
+					},
+					"size": {
+						"x": 0.24,
+						"y": 0.3,
+						"z": 0.001
+					}
+				}
+			}
+		},
+		"7cbb467d-e8ce-467b-9a94-f304e31f6ecd": {
+			"id": "7cbb467d-e8ce-467b-9a94-f304e31f6ecd",
+			"props": {
+				"type": "bookmark",
+				"urlLink": "https://www.google.com/search?num=10&sca_esv=cede7393a1f5fe97&q=konrad+wachsmann+space+frames&spell=1&sa=X&ved=2ahUKEwj93PHnmuiJAxX-hv0HHVz5IKgQBSgAegQIDBAB&biw=863&bih=671&dpr=2",
+				"name": "konrad wachsmann space frames - Google Search"
+			},
+			"poses": {
+				"canvasLocal": {
+					"pos": {
+						"x": 0.6548523,
+						"y": 0.61056936,
+						"z": -5.9604037E-8
+					},
+					"rot": {
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					},
+					"size": {
+						"x": 0.24999999,
+						"y": 0.0502,
+						"z": 0.001
+					}
+				}
+			}
+		},
+		"803f4a8a-3dbe-4cdf-83f9-060b588e510c": {
+			"id": "803f4a8a-3dbe-4cdf-83f9-060b588e510c",
+			"props": {
+				"urlFile": "https://platform-0.com/wp-content/uploads/2020/06/ATLAS-OF-PLACES-KONRAD-WACHSMANN-USAF-AIRCRAFT-HANGAR-IMG-1.jpg",
+				"name": "ATLAS-OF-PLACES-KONRAD-WACHSMANN-USAF-AIRCRAFT-HANGAR-IMG-1.jpg",
+				"urlLink": "https://platform-0.com/wachsmann-konrad-united-states-air-force-aircraft-hangar-1951/",
+				"aspectRatio": "1.87617",
+				"type": "image",
+				"assetFileName": "ImageAsset.jpg"
+			},
+			"poses": {
+				"canvasLocal": {
+					"pos": {
+						"x": 0.9658354,
+						"y": 0.42386007,
+						"z": 9.797513E-7
+					},
+					"rot": {
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					},
+					"size": {
+						"x": 0.3120019,
+						"y": 0.16629724,
+						"z": 0.001
+					}
+				},
+				"consoleLocal": {
+					"pos": {
+						"x": 0,
+						"y": 0,
+						"z": 0.77274066
+					},
+					"rot": {
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					},
+					"size": {
+						"x": 0.31200185,
+						"y": 0.16629721,
+						"z": 0.001
+					}
+				}
+			}
+		},
+		"1c44418d-9d5a-438a-bc56-1bd4c2deedbd": {
+			"id": "1c44418d-9d5a-438a-bc56-1bd4c2deedbd",
+			"props": {
+				"urlFile": "https://platform-0.com/wp-content/uploads/2020/06/ATLAS-OF-PLACES-KONRAD-WACHSMANN-USAF-AIRCRAFT-HANGAR-IMG-7.jpg",
+				"name": "ATLAS-OF-PLACES-KONRAD-WACHSMANN-USAF-AIRCRAFT-HANGAR-IMG-7.jpg",
+				"urlLink": "https://platform-0.com/wachsmann-konrad-united-states-air-force-aircraft-hangar-1951/",
+				"aspectRatio": "3.53045",
+				"type": "image",
+				"assetFileName": "ImageAsset.jpg"
+			},
+			"poses": {
+				"consoleLocal": {
+					"pos": {
+						"x": 0,
+						"y": 0,
+						"z": 0.77274066
+					},
+					"rot": {
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					},
+					"size": {
+						"x": 0.34017056,
+						"y": 0.09635331,
+						"z": 0.001
+					}
+				},
+				"canvasLocal": {
+					"pos": {
+						"x": 0.97992563,
+						"y": 0.262545,
+						"z": 5.327165E-7
+					},
+					"rot": {
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					},
+					"size": {
+						"x": 0.3401706,
+						"y": 0.09635332,
+						"z": 0.001
+					}
+				}
+			}
+		},
+		"97e9d689-27c2-47d4-a9bd-07661eda584c": {
+			"id": "97e9d689-27c2-47d4-a9bd-07661eda584c",
+			"props": {
+				"urlFile": "https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/e8856d75-ef49-41e9-bbcb-9e80adb6d1f7/fbb8c35e-cbed-48b6-8bbd-e75a37e488d3_3030x2272/w=2048,quality=90,fit=scale-down",
+				"name": "w2048quality90fitscale-down",
+				"urlLink": "https://www.yiliu.sh/writing-and-projects/softspacear-prototypes-0105",
+				"aspectRatio": "1.33333",
+				"type": "image",
+				"assetFileName": "ImageAsset.jpg"
+			},
+			"poses": {
+				"consoleLocal": {
+					"pos": {
+						"x": -0.038513124,
+						"y": 0,
+						"z": 0.7989309
+					},
+					"rot": {
+						"x": 0,
+						"y": -0.013255474,
+						"z": 0,
+						"w": 0.9999122
+					},
+					"size": {
+						"x": 0.28284243,
+						"y": 0.21213235,
+						"z": 0.001
+					}
+				},
+				"canvasLocal": {
+					"pos": {
+						"x": 0.8859692,
+						"y": -0.34558094,
+						"z": -7.3313713E-6
+					},
+					"rot": {
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					},
+					"size": {
+						"x": 0.28284267,
+						"y": 0.21213205,
+						"z": 0.001
+					}
+				}
+			}
+		},
+		"e3f6e30c-9a49-424d-a358-8779221bbf2b": {
+			"id": "e3f6e30c-9a49-424d-a358-8779221bbf2b",
+			"props": {
+				"type": "note",
+				"name": "What is Spaceframe?",
+				"text": "Spaceframe is a spatial notebook app designed for web research, notetaking, moodboarding, and writing, optimized for AR headsets like the Meta Quest. It features an immersive user interface that facilitates focus, productivity, and flow. Spaceframe, which is a redesign of the AR application Softspace, will eventually replace Softspace on the Meta Quest Store. It utilizes an infinite canvas on which users can organize content in Workspaces, enhancing productivity by leveraging the expansive possibilities of spatial computing.",
+				"isGenerated": "True",
+				"timeUpdated": "11/19/2024 11:45:20 AM"
+			},
+			"poses": {
+				"consoleLocal": {
+					"pos": {
+						"x": 0,
+						"y": -0.20705526,
+						"z": 0.77274066
+					},
+					"rot": {
+						"x": 0.1305262,
+						"y": 0,
+						"z": 0,
+						"w": 0.9914449
+					},
+					"size": {
+						"x": 0.24,
+						"y": 0.3,
+						"z": 0.001
+					}
+				},
+				"canvasLocal": {
+					"pos": {
+						"x": 0.19060023,
+						"y": -0.0850737,
+						"z": 1.072209E-11
+					},
+					"rot": {
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					},
+					"size": {
+						"x": 0.2466255,
+						"y": 0.22978437,
+						"z": 0.001
+					}
+				}
+			}
+		},
+		"f992921b-d0eb-4f79-8f74-a9430b8c5003": {
+			"id": "f992921b-d0eb-4f79-8f74-a9430b8c5003",
+			"props": {
+				"urlFile": "https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/3f7a59b5-44fd-4055-8a5c-3bc31f2f675c/PassthruProxy_Quick_Hands_Demo/w=3840,quality=90,fit=scale-down",
+				"name": "w3840quality90fitscale-down",
+				"urlLink": "https://www.yiliu.sh/writing-and-projects/softspacear-prototypes-0105",
+				"aspectRatio": "1.77778",
+				"type": "image",
+				"assetFileName": "ImageAsset.gif"
+			},
+			"poses": {
+				"consoleLocal": {
+					"pos": {
+						"x": -0.012497738,
+						"y": 0,
+						"z": 0.80069405
+					},
+					"rot": {
+						"x": 0,
+						"y": -0.0046425597,
+						"z": 0,
+						"w": 0.9999893
+					},
+					"size": {
+						"x": 0.3081486,
+						"y": 0.17333336,
+						"z": 0.001
+					}
+				},
+				"canvasLocal": {
+					"pos": {
+						"x": 0.560476,
+						"y": -0.5557238,
+						"z": -8.08388E-7
+					},
+					"rot": {
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					},
+					"size": {
+						"x": 0.30813444,
+						"y": 0.17332539,
+						"z": 0.001
+					}
+				}
+			}
+		},
+		"4e3d2c95-62a3-4adf-bebf-dd9a188ebdbb": {
+			"id": "4e3d2c95-62a3-4adf-bebf-dd9a188ebdbb",
+			"props": {
+				"urlFile": "https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/881913e5-9e05-4311-92f7-87c2bb66e5ad/08_-_Topic_linking/w=1080,quality=90,fit=scale-down",
+				"name": "w1080quality90fitscale-down",
+				"urlLink": "https://www.yiliu.sh/writing-and-projects/softspacear-prototypes-0105",
+				"aspectRatio": "1.33612",
+				"type": "image",
+				"assetFileName": "ImageAsset.gif"
+			},
+			"poses": {
+				"consoleLocal": {
+					"pos": {
+						"x": -0.043582816,
+						"y": 0,
+						"z": 0.8340964
+					},
+					"rot": {
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					},
+					"size": {
+						"x": 0.28305507,
+						"y": 0.21184853,
+						"z": 0.001
+					}
+				},
+				"canvasLocal": {
+					"pos": {
+						"x": 1.1988986,
+						"y": -0.3457081,
+						"z": -3.054738E-7
+					},
+					"rot": {
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					},
+					"size": {
+						"x": 0.28304628,
+						"y": 0.21184194,
+						"z": 0.001
+					}
+				}
+			}
+		},
+		"c71d193a-408e-4215-8db7-110a31d26a19": {
+			"id": "c71d193a-408e-4215-8db7-110a31d26a19",
+			"props": {
+				"urlFile": "https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/3624b039-44ff-4cb0-812b-df331cdaa678/Untitled/w=3840,quality=90,fit=scale-down",
+				"name": "w3840quality90fitscale-down",
+				"urlLink": "https://www.yiliu.sh/writing-and-projects/softspacear-prototypes-0105",
+				"aspectRatio": "0.80000",
+				"type": "image",
+				"assetFileName": "ImageAsset.png"
+			},
+			"poses": {
+				"consoleLocal": {
+					"pos": {
+						"x": -0.0055950396,
+						"y": 0,
+						"z": 0.8236866
+					},
+					"rot": {
+						"x": 0,
+						"y": 0.02163171,
+						"z": 0,
+						"w": 0.999766
+					},
+					"size": {
+						"x": 0.22086304,
+						"y": 0.27607882,
+						"z": 0.001
+					}
+				},
+				"canvasLocal": {
+					"pos": {
+						"x": 1.1984814,
+						"y": -0.61966586,
+						"z": -5.2452087E-6
+					},
+					"rot": {
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					},
+					"size": {
+						"x": 0.22086304,
+						"y": 0.27607882,
+						"z": 0.001
+					}
+				}
+			}
+		},
+		"e20f3d7e-9079-4a69-ad42-90f69a7990f8": {
+			"id": "e20f3d7e-9079-4a69-ad42-90f69a7990f8",
+			"props": {
+				"urlFile": "https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/5d0f17b1-7145-4191-b3af-9dc969088342/02_-_Moving_along_all_axes_12MB/w=3840,quality=90,fit=scale-down",
+				"name": "w3840quality90fitscale-down",
+				"urlLink": "https://www.yiliu.sh/writing-and-projects/softspacear-prototypes-0105",
+				"aspectRatio": "1.00000",
+				"type": "image",
+				"assetFileName": "ImageAsset.gif"
+			},
+			"poses": {
+				"consoleLocal": {
+					"pos": {
+						"x": -0.01768752,
+						"y": 0,
+						"z": 0.8129613
+					},
+					"rot": {
+						"x": 0,
+						"y": 0.013194342,
+						"z": 0,
+						"w": 0.999913
+					},
+					"size": {
+						"x": 0.25,
+						"y": 0.25,
+						"z": 0.001
+					}
+				},
+				"canvasLocal": {
+					"pos": {
+						"x": 0.90242004,
+						"y": -0.6066346,
+						"z": -5.7071447E-6
+					},
+					"rot": {
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					},
+					"size": {
+						"x": 0.25,
+						"y": 0.25,
+						"z": 0.001
+					}
+				}
+			}
+		},
+		"3ab3685d-dc36-4eb1-8e1a-c426dc2e58a1": {
+			"id": "3ab3685d-dc36-4eb1-8e1a-c426dc2e58a1",
+			"props": {
+				"type": "note",
+				"name": "SoftspaceAR Prototypes 01-05",
+				"text": "# SoftspaceAR Prototypes 01–05\n\n### Building a spatial knowledge management tool in public\n\nFrom January to November 2022, I built and released a series of prototypes apps to explore the design space for a general-purpose productivity tool that harnesses two key breakthroughs in consumer spatial computing: passthrough AR and hand tracking.\n\nI published these prototypes to Twitter and Substack, and was able to grow a significant following among those watching the intersection of spatial computing and *tools for thought*.\n\nThis work resulted in additional funding and publishing opportunities for Softspace, which led to the August 2023 launch of Softspace v2024 on the Meta Quest Store.\n\nHere is the entire Substack series documenting these prototypes.\n",
+				"isGenerated": "False",
+				"timeUpdated": "11/18/2024 3:58:21 PM",
+				"blocknoteDoc": "[{\"id\":\"9cf8f86a-ce0c-4c83-98d6-4546db05f8a2\",\"type\":\"heading\",\"props\":{\"textColor\":\"default\",\"backgroundColor\":\"default\",\"textAlignment\":\"left\",\"level\":1},\"content\":[{\"type\":\"text\",\"text\":\"SoftspaceAR Prototypes 01–05\",\"styles\":{}}],\"children\":[]},{\"id\":\"a132820d-5d59-44ba-999c-db3f81d94832\",\"type\":\"heading\",\"props\":{\"textColor\":\"default\",\"backgroundColor\":\"default\",\"textAlignment\":\"left\",\"level\":3},\"content\":[{\"type\":\"text\",\"text\":\"Building a spatial knowledge management tool in public\",\"styles\":{}}],\"children\":[]},{\"id\":\"6b9ce571-37b9-4d91-92b0-7d969de86050\",\"type\":\"paragraph\",\"props\":{\"textColor\":\"default\",\"backgroundColor\":\"default\",\"textAlignment\":\"left\"},\"content\":[],\"children\":[]},{\"id\":\"64b3a00d-2cac-4850-aa3e-2737a7c67cb4\",\"type\":\"paragraph\",\"props\":{\"textColor\":\"default\",\"backgroundColor\":\"default\",\"textAlignment\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"From January to November 2022, I built and released a series of prototypes apps to explore the design space for a general-purpose productivity tool that harnesses two key breakthroughs in consumer spatial computing: passthrough AR and hand tracking.\",\"styles\":{}}],\"children\":[]},{\"id\":\"af86986e-ca05-4255-86ae-9afbb2ea6666\",\"type\":\"paragraph\",\"props\":{\"textColor\":\"default\",\"backgroundColor\":\"default\",\"textAlignment\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"I published these prototypes to Twitter and Substack, and was able to grow a significant following among those watching the intersection of spatial computing and \",\"styles\":{}},{\"type\":\"text\",\"text\":\"tools for thought\",\"styles\":{\"italic\":true}},{\"type\":\"text\",\"text\":\".\",\"styles\":{}}],\"children\":[]},{\"id\":\"419be348-3387-4490-8426-064597ecd20c\",\"type\":\"paragraph\",\"props\":{\"textColor\":\"default\",\"backgroundColor\":\"default\",\"textAlignment\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"This work resulted in additional funding and publishing opportunities for Softspace, which led to the August 2023 launch of Softspace v2024 on the Meta Quest Store.\",\"styles\":{}}],\"children\":[]},{\"id\":\"766207db-5235-4e86-b9e1-0b77abf960b7\",\"type\":\"paragraph\",\"props\":{\"textColor\":\"default\",\"backgroundColor\":\"default\",\"textAlignment\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"Here is the entire Substack series documenting these prototypes.\",\"styles\":{}}],\"children\":[]},{\"id\":\"dfa5b21a-e4b1-4f96-8528-24e455102638\",\"type\":\"paragraph\",\"props\":{\"textColor\":\"default\",\"backgroundColor\":\"default\",\"textAlignment\":\"left\"},\"content\":[],\"children\":[]}]"
+			},
+			"poses": {
+				"consoleLocal": {
+					"pos": {
+						"x": -0.035528228,
+						"y": 0,
+						"z": 0.73639196
+					},
+					"rot": {
+						"x": 0,
+						"y": -0.00520113,
+						"z": 0,
+						"w": 0.99998647
+					},
+					"size": {
+						"x": 0.24,
+						"y": 0.3,
+						"z": 0.001
+					}
+				},
+				"canvasLocal": {
+					"pos": {
+						"x": 0.58719736,
+						"y": -0.2852229,
+						"z": -6.3329935E-6
+					},
+					"rot": {
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					},
+					"size": {
+						"x": 0.24,
+						"y": 0.3,
+						"z": 0.001
+					}
+				}
+			}
+		},
+		"07d1f10d-f544-4c12-83d6-bca8ff01a77e": {
+			"id": "07d1f10d-f544-4c12-83d6-bca8ff01a77e",
+			"props": {
+				"type": "bookmark",
+				"urlLink": "https://www.yiliu.sh/writing-and-projects/softspacear-prototypes-0105",
+				"name": "SoftspaceAR Prototypes 01–05",
+				"snippet": "Building a spatial knowledge management tool in public",
+				"text": "![image](https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/5be8c275-2f14-4f3f-8216-4624140a6da9/00_Hero_Square_6MB/w=2048,quality=90,fit=scale-down)\n\nFrom January to November 2022, I built and released a series of prototypes apps to explore the design space for a general-purpose productivity tool that harnesses two key breakthroughs in consumer spatial computing: passthrough AR and hand tracking.\n\nI published these prototypes to Twitter and Substack, and was able to grow a significant following among those watching the intersection of spatial computing and _tools for thought_.\n\nThis work resulted in additional funding and publishing opportunities for Softspace, which led to the August 2023 launch of Softspace v2024 on the Meta Quest Store.\n\nHere is the entire Substack series documenting these prototypes.\n\nApril 14, 2022\n\n**Softspace harnesses spatial computing to help thinkers and makers better see, understand, and develop the ideas that form the heart of their creative projects.**\n\nTo me, augmented reality has always made more sense than virtual reality for general-purpose productivity, because full immersion isn't ideal in many professional settings.\n\nBut see-through augmented reality (e.g. HoloLens) is really hard, and a truly mainstream headset built around this tech is still years away. Until recently, I believed that virtual reality was the only viable medium for Softspace for the foreseeable future.\n\nLast summer, Oculus released their Passthrough API. After playing with it for a few days, I was shocked to realize that even today’s crappy passthrough is good enough to build great tools on.\n\nIt's a complete game-changer.\n\nThere's now a clear path forward for augmented reality software. Today's grainy grayscale passthrough will lead to tomorrow's hi-res low-latency full-color passthrough—which may even prove superior to see-through smartglasses.\n\nThe user experience advantages of AR for general-purpose productivity are massive.\n\nOne software update suddenly brought mainstream head-mounted AR into existence.\n\n**So we're starting work on SoftspaceAR.**\n\nSince 2018, we’ve built three major versions of the Softspace VR app, and shipped two. I could not be more proud of the love, energy, and vision that has gone into each.\n\nIf there were one thing I could change, however, it would be this: I would have released earlier and oftener, to cover more of the vast possibility space that we face.\n\nTherefore: to build SoftspaceAR, we’re using an open-development model to quickly test a much wider range of ideas than we’ve been able to do before.\n\nOver the coming months, we will release 5–10 prototypes to explore and (in)validate promising ways to harness augmented reality as a medium for thought.\n\nThese will be standalone apps that use the same core interaction paradigm, but are otherwise free to start from different points in the product idea maze.\n\nThis process is about learning, not polish. I'm aiming to release something every few weeks.\n\nIn fact… 🥁🥁🥁\n\nThe very first prototype is already here!\n\nSoftspaceAR Prototype01 is an augmented reality Dropbox spatializer you explore with your hands.\n\nGo ahead and get Prototype01 for free, then join our Discord and let me know:\n\n🤔 What you think of Prototype01\n\n🧠 How you'd like to use Softspace\n\n💡 Cool ideas for future prototypes\n\nI'll be publishing the prototypes, as well as what we learn from each, on this Substack.\n\nI expect the first few prototypes to be all over the map, the next few to start converging on core underlying principles, and the last ones to build more deliberately on what came before.\n\nAt that point we'll be working toward the first release version of SoftspaceAR, which I intend to submit to the official Oculus app store by the end of September.\n\n**In short:**\n\nWe're building an AR version of Softspace in public, and we'd love to have you join us by\n\n🧪 trying out Prototype01\n\n💌 signing up for updates\n\n👯‍♂️ joining our Discord\n\nApril 14, 2022\n\n![image](https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/e8856d75-ef49-41e9-bbcb-9e80adb6d1f7/fbb8c35e-cbed-48b6-8bbd-e75a37e488d3_3030x2272/w=2048,quality=90,fit=scale-down)\n\nToday we're releasing Prototype01. It's an augmented reality Dropbox spatializer that you explore with your hands.\n\nPrototype01 implements several intriguing ideas that both our team and users have long wanted to test:\n\n🕸 3D force-directed graphs\n\n🗃 3D folder structure explorers\n\n😎 Passthrough augmented reality\n\n🤲🏼 Controller-less hand-tracked UI\n\nQuick explanation of each below:\n\nForce-directed graphs are an increasingly popular way to visualize information that consists of interconnected nodes. Apps like Roam and Obsidian (below) have recently added them, where they seem marginally useful. But what if you could navigate one in 3D, immersively?\n\n![image](https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/2d201353-c811-4b7b-b8ce-e1421deaa4d0/74e524d3-2545-4029-9b69-203fddd153cd_1916x1039/w=2048,quality=90,fit=scale-down)\n\nPrevious versions of Softspace all had some way to browse a connected Dropbox account from which to import files. But we've often gotten the question: what if the file browser were the entire app, and you stepped straight into your Dropbox?\n\n![image](https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/a80aa8bb-7297-48d6-82d6-8b0f95bc16b9/2df9c2b5-def1-4ccc-ae28-41d65dd0cf44_3072x1920/w=2048,quality=90,fit=scale-down)\n\nAugmented reality always made more sense for productivity than full-occlusion VR, but mainstream AR headsets seemed too far away to build for. After playing with the Oculus Passthrough API, I realized even today's crappy passthrough is good enough to build a great app on.\n\nOculus has also been steadily improving the hand-tracking capabilities of the Quest 2. It's not perfect, but it's already workable, and the steep rate of improvement makes me comfortable committing to a controller-less future for the Softspace interaction paradigm.\n\n![image](https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/3f7a59b5-44fd-4055-8a5c-3bc31f2f675c/PassthruProxy_Quick_Hands_Demo/w=3840,quality=90,fit=scale-down)\n\nPrototype01 combines these ideas into a single research demo.\n\n0\\. If you haven't already, [get your Quest set up to sideload apps from @SideQuestVR](https://sidequestvr.com/setup-howto). This is great thing to do in general, because it lets you try out great indie software that isn't available yet on the main Oculus app store.\n\n1\\. Connect your Quest to your computer and [install SoftspaceAR Prototype01 from SideQuest](https://sidequestvr.com/app/7906).\n\n![image](https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/755c7c4d-c425-43bb-a4e5-374092f431bd/a91c202e-c768-4bd1-92b3-b13ba74357f2_2492x2314/w=2048,quality=90,fit=scale-down)\n\n2\\. Open Prototype01 on your Quest. Log into Dropbox using the web browser that appears. Click on the page by holding up your hand and touching your index finger to your thumb. Type by pressing the keyboard with your index fingers.\n\n![image](https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/ecb070f1-0e13-4233-9bb8-066e206009ff/5be2b7a2-5ad3-4f68-af9c-213a0cf25de7_640x640/w=2048,quality=90,fit=scale-down)\n\n3\\. Once you're logged in, navigate to a Dropbox folder that you would like to spatialize. This prototype only loads in image files (jpg, png, etc), and it will load everything in every subfolder, so it's best to select an image-rich folder that not too large (<1000 images).\n\n![image](https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/91a2533e-ca2d-48c3-a182-1e4d260cbd70/ba608a54-7221-428a-96f5-23d5eaf58398_640x640/w=2048,quality=90,fit=scale-down)\n\n4\\. To navigate around, you can \"grab\" the virtual space by making a fist with one or both hands. One hands is for simple moving, while two hands let you rotate and scale the space.\n\n![image](https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/08a6127a-2f3c-45df-bdca-a325f048a889/77f3a580-4386-422c-afcf-81c19797615a_640x640/w=2048,quality=90,fit=scale-down)\n\n5\\. You can also move, rotate, and scale objects. Select them in the same way that you clicked on the web browser: by hovering over them with your hand and touching your thumb and index finger together.\n\n![image](https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/2e91caf8-7627-4d6e-9749-5d467f241cd1/93264d2e-47ef-4702-ba4d-8ea3b9f61173_640x640/w=2048,quality=90,fit=scale-down)\n\n6\\. The next time you open Prototype01, you'll still be logged into the same Dropbox account, but you'll be able to select another (or the same) folder to spatialize. Alternatively, you can log out of Dropbox to clear your data.\n\nThat's it! If you have any questions or thoughts, please join our Discord and share them with us.\n\n10 May, 2022\n\n![image](https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/56720ba8-f7b2-4cf7-9a10-83afdc881dd7/Writing_for_a_solid_hour/w=3840,quality=90,fit=scale-down)\n\nPrototype02 is all about writing.\n\nSpecifically, I wanted to prove that it's possible to write comfortably, productively, and enjoyably inside a passthrough augmented reality app.\n\nWriting might not seem like the highest-priority task for a spatial computing app. In fact, the idea of writing while wearing a headset might strike a lot of people as unnecessary—or silly!\n\nAfter all, spatial computing’s great appeal is in 3D content, right? All the cool stuff you see in the Oculus ads involve zooming through outer space or tearing zombies apart with your bare hands. Isn’t using this tech to work with text a huge waste of its unique potential?\n\nAlso, there’s nothing terribly broken about existing ways of writing. Quite the contrary: a modern laptop running a well-designed text editor is a highly optimized writing machine. It epitomizes a near-universally-embraced paradigm. Why mess with success?\n\nThe thing is: the ability to work with text is critical for almost any serious productivity workflow—even ones centered on 3D content. From object names, to short annotations, to entire paragraphs, text is everywhere. Natural written language still plays an irreplaceable role in representing many of the ideas that we need to work with, regardless of domain or medium.\n\nI wanted to tackle writing head-on and de-risk it before prototyping other aspects of SoftspaceAR. This isn’t to say that the writing experience needs to be perfectly on par with that of your MacBook (although I made some interesting discoveries about the advantages of writing in a headset; more on that below). It just needs feel good, and not get in your way when you want to do it.\n\nI decided on a fast and dirty metric of success: _**Could I write for one solid hour in the prototype?**_\n\nI initially thought about setting additional qualifying criteria, like word count, or some vague notion of writing quality. But after trying the first few development builds, I realized that the one-hour criterion implicitly covers a lot. It’s painful to write for that long if you feel like you’re going too slowly, or that you’re producing garbage.\n\nJust to be clear: I don’t expect that people will really sit and write for hours on end in SoftspaceAR. It’s more likely that you would write shorter bits of text, sporadically, while working with other content. But I’m using “write for a solid hour” as a close proxy for “good for real writing”.\n\nTo write, you need something to write with, and something to write on.\n\nThe input part was an easy decision: I’ve tried many, many virtual keyboards, and none are good enough for serious writing. SoftspaceAR will simply require a physical (wireless) keyboard.\n\n![image](https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/7c458080-c7b7-4752-a443-089dfb69e38c/Handling_physical_keyboard/w=3840,quality=90,fit=scale-down)\n\nAs for the writing surface, my goal was to keep it familiar. A naive user coming from a desktop text-editor should be able to pick this up and go. So I went with a simple fixed-width text box that expands downward to accommodate new content, like we’ve all seen a million times before.\n\n![image](https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/dabe74c0-4499-40fc-99da-377903e4e907/Hero/w=3840,quality=90,fit=scale-down)\n\nI discovered how much we’ve come to take certain textual interactions for granted. I never thought much about these, but it sucks when they’re not available. Some examples: clicking on the text to position the caret (the flashing vertical line that tells you where you’re typing); click-dragging to select text; copy-paste; moving the caret around with the arrow keys.\n\nHappily, most of these interactions are already beautifully implemented in the text-rendering package I use, TextMesh Pro for Unity:\n\n![image](https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/ed1e061f-ba69-415a-b6f5-0c043551b65d/How_selections_work/w=3840,quality=90,fit=scale-down)\n\nFinally, the one “radical” design decision I made was to make the _paragraph_ the object primitive (as opposed to the page). This is inspired by the way that paragraphs work in Notion and LogSeq, and I find this way of structuring documents much better aligned with how I think and work than one where documents are treated as bags of words with occasional line breaks. I wanted to test this out because I think this is how SoftspaceAR is going to treat text objects.\n\nSo in Prototype02, hitting the return key creates a whole new text box:\n\n![image](https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/b9466da8-a0e2-4070-9465-7f5c0b5dff6b/How_paragraphs_work/w=3840,quality=90,fit=scale-down)\n\nThere are still some holes in the UI. For example, you can't use the arrow keys to navigate between paragraphs. I decided not to plug these because they don't prevent a user from achieving the stated goal of the prototype: **letting you write comfortable, productively, and enjoyably.**\n\nHow do I know?\n\nBecause the first draft of this piece was written in just over an hour, in Prototype02.\n\n![image](https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/8612473d-7c25-4f0f-a900-4dd9e319354f/Writing_for_a_solid_hour/w=3840,quality=90,fit=scale-down)\n\n*   Early builds had transparent backings for the text objects, because I assumed that it would be more comfortable being able to see things in the physical space around you even if they were behind a text box. In fact, I found it very hard to focus on writing when I could see through the text box—I guess my brain was overloaded by the conflicting visual information.\n\n![image](https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/b6252f1c-131c-44d9-a1c4-cc413dd62de5/Lessons_Learned/w=3840,quality=90,fit=scale-down)\n\n*   Once I solve that issue by making the backings opaque, I was surprised to find how **enjoyable** it is to write in passthrough AR. I was expecting to have to force myself to switch from writing on the laptop to writing in the headset, but I actually found myself looking forward to settling down in front of a floating text box and just getting my thoughts out in front of me.\n*   One of the biggest improvements in my ability to write well in Prototype02 didn’t come from the design or code at all. I can’t really touch-type, and on a laptop I look at the keyboard all the time. The resolution on the Quest 2’s passthrough is too low to easily make out the letters on the keys, which basically forced me to figure out which letters are under which fingers. The first few days were really painful because my typing was so slow and error prone, but by the time I made the above time-lapse video I was typing away like a champ. **Bug** **Feature!**\n\n*   Prototype02 met the concrete criterion of being usable for writing for a solid hour. It was really helpful to explicitly define the metric for success of the Prototype before I set out to build it, because it helped me stay focused and know when to stop. For the next prototype, I’ll consider publishing the criterion for success even before building anything, as a way of “pre-registering” the experiment publicly.\n*   It took four weeks between the releases of Prototype01 and Protoype02. This is longer than I would like. My goal is to get this down to 2-3 weeks so I can cover lots more ground before starting to pull the various threads together into an MVP. But Prototype01 took closer to two months from start to finish, and a lot of the work for each in groundwork that speeds up the next cycle, so the trend is encouraging.\n\n14 June, 2022\n\n![image](https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/44cb2771-bfda-49ab-b89c-de2c13be28d6/00_-_Real_Passthrough_10MB/w=3840,quality=90,fit=scale-down)\n\nPrototype03 is about making Softspace deeply interoperable with your other tools.\n\nHaving a spatial canvas to organize your ideas on is amazing, but spatial layouts can be hard or impossible to translate to the other formats and devices in your workflow. And if the work you do in an app gets stuck there, you’re (justifiably) not going to use it very much.\n\nWith Prototype03, I wanted to figure out how Softspace might overcome this problem without simply becoming a VR version of an existing 2D app. Could we keep that immersive spatial magic, while reading from and writing to a file format that’s highly portable?\n\nLike markdown?\n\nMaking Softspace workspaces interpretable as markdown files—and vice versa—would open up super exciting ways to fit Softspace into knowledge workflows. For example:\n\n*   You could throw research notes and images into a Dropbox folder, use Softspace to synthesize them into a project proposal, and then directly email that proposal to your team.\n*   You could work on your Roam/Notion/Obsidian/LogSeq/Athens/etc. personal knowledge repository in Softspace.\n*   You could start brainstorming for a Substack post in Softspace, then continue editing the post on your phone while riding the subway 😉.\n\nAll this sounds great—but there’s a catch.\n\nMarkdown, like all text formats, is inherently **ordinal**. Softspace, running in augmented reality, is inherently **spatial**. Ordinality requires that each element have a definite place in a linear sequence, but highly spatial layouts want to break free of such constraints.\n\nPrototype03 reconciles these demands with a 3D layout system that is strictly ordinal, while letting you move a text block in any of the three spatial dimensions.\n\nWords can only go so far in conveying how any 3D UI works, so I encourage you to get the prototype and let me know what you think (via Twitter, Discord, or email).\n\nOr, you can do that after reading this deeper dive 💪🏽🧠👇🏼.\n\nSoftspace is a tool for working with the ideas and knowledge that you already use in your projects. This knowledge takes the form of text, images, websites, PDFs, videos, and other content. To position all this content in 3D space, we need to use a **layout system**.\n\nIdeally, this layout system places things according to how they’re related to each other in the underlying data structure. This way, you can understand those relations just by looking at where things are, and you can modify them by moving things around.\n\nFor example: the tasks in your favorite to-do app are laid out in the order that they’re saved in the underlying database. If you drag in item into another position, the database is updated to match. Order == priority, so this interaction lets you reprioritize upcoming tasks.\n\n![image](https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/80b82cc9-f778-4d78-ac56-9e823393607d/04_-_Notion_to-do_list/w=3840,quality=90,fit=scale-down)\n\nAcross knowledge management tools, notes are a core format. Therefore, to make Softspace highly interoperable with existing knowledge workflows, it should have good support for the data structure that notes come in: text documents.\n\nA defining characteristic of elements in a text file is their order in the document. We want Softspace’s layout system to express that ordinality. At the same time, we don’t want to give up all the benefits of spatiality by simply rendering a 2D document floating in front of you.\n\nWe need to invent a layout system that is _strictly ordinal_, yet _meaningfully spatial_.\n\nThe biggest advantage of ordinality is portability. Imagine an email you draft with speech-to-text, then finish and send on your laptop, before it’s read on someone’s phone. Its fixed sequence of information can adapt to very different contexts without losing much, if any, of its meaning.\n\nThe ordinality of HTML allows for websites that respond consistently to different screen sizes. The ordinality of natural language lets us turn books into audiobooks and back. (The non-ordinality of spreadsheets makes them a huge pain to work with on a phone.)\n\n![image](https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/2099298c-b844-4a4c-a4cb-e3a1824e0e11/05_-_Responsive_CSS/w=3840,quality=90,fit=scale-down)\n\nThere’s another, deeper benefit to ordinality. Content that’s laid-out ordinally maps directly onto the temporal structure of human experience. That gives its authors a high degree of control over when ideas are encountered, and how they build on each other.\n\nOn the other hand, ordinal formats struggle as working environments for generating knowledge, because at larger scales, knowledge is not ordinal (it’s nested and networked).\n\n[As internet pioneer Ted Nelson puts it](https://www.youtube.com/watch?v=Bqx6li5dbEY): “Writing is the process of reducing a tapestry of interconnection to a narrow sequence. And this is, in a sense, illicit! This is a wrongful compression of what should spread out.”\n\nWith all due respect to Ted: I actually think that writers do important and difficult work by charting navigable paths through that “tapestry of interconnection”. But he’s also right. We lose something crucial if our tools and methods obscure the true shape of that tapestry.\n\nSoftspace uses the emerging medium of spatial computing to let you work with that tapestry outside the limits of small, flat screens. We also believe that spatial layouts can unlock your innate superpowers of spatial perception, reasoning, and memory.\n\nA maximally spatial layout system would let you place things freely in a 2D or 3D canvas. There might be collision detection, or snapping, but ultimately, every element’s position would be determined by an (x, y, z) coordinate. This is how most whiteboarding apps, like Miro, work.\n\n![image](https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/135186fd-ea8d-450d-bece-e646bc8870c9/06_-_Miro/w=3840,quality=90,fit=scale-down)\n\nWithin this Cartesian playground, you get the full benefits of spatiality. You can construct richly meaningful configurations of information that express a lot of nuance and complexity. If you work in one for a while, you can really recall and explore these layouts in your mind’s eye afterward.\n\nThe problem with freely spatial layouts is that you can’t reliably put their elements into a coherent order. And without this ordinality, spatial layouts are hard to port to less-spatial contexts.\n\nFor example, a lot of meaning is lost when you export a Miro board to a linear document. Also, the process uses an “across-then-down” heuristic that creates unpleasant surprises in content order.\n\nWhen you add a third dimension, the problem gets much worse. 3D Cartesian layouts, like those in previous versions of Softspace, are essentially impossible to export cleanly.\n\n![image](https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/76f7fb49-e3d4-4188-8eca-73b0ed9cf7e5/Softspace_8MB/w=3840,quality=90,fit=scale-down)\n\nSo ordinal data format are high portable, but obscure how information ties together. Spatial layouts reveal those interconnections, but aren’t very portable. Could we have the best of both worlds?\n\nThis prototype implements an experimental layout system that enforces a strict order to elements, but lets you position them relatively freely all three spatial dimensions.\n\nContent (which are text blocks only, for now) flows down columns; columns spread horizontally across a plane; and planes stack front-to-back.\n\n![image](https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/105afdc4-de84-4271-bf81-9a2880d99395/01_-_Flythrough_10MB/w=3840,quality=90,fit=scale-down)\n\nThis system lets you move things along the x-, y-, and z-axes, but always results in a spatial configuration that is unambiguously interpretable—both by machines and people—as a definite sequence of elements.\n\n![image](https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/5d0f17b1-7145-4191-b3af-9dc969088342/02_-_Moving_along_all_axes_12MB/w=3840,quality=90,fit=scale-down)\n\nThere’s some “give” in the positioning of elements in the x- and z-axes, which lets you place things closer together or further apart. Physical distance is an important way of expressing relations between ideas in spatial layouts.\n\n![image](https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/3d7e2cfc-bcc2-4cea-84e9-39f623be0987/03_-_Moving_far_away_8MB/w=3840,quality=90,fit=scale-down)\n\nAnd of course: **as you build up the workspace in Prototype03, it automatically writes your work to a markdown file**. You can use SideQuest to retrieve it at: _sdcard / Android / data / com.softspace.ar.prototype03 / Prototype03-Text.md_.\n\nThe criterion of success for this prototype was to develop a 3D layout system that was 1) strictly ordinal, yet 2) meaningfully spatial.\n\n✅ Prototype03’s layout system is strictly ordinal. The proof is that it can write out a markdown file representing any possible workspace you create in it.\n\n❓ Spatiality, on the other hand, is a spectrum. The layout system is less spatial than a purely Cartesian one, but it still allows for relatively free placement of elements. Does this mediated spatiality convey enough of the benefits of the medium to justify working in a headset? I would say yes, but ultimately, only users can judge if this criterion has been met.\n\n*   Mapping breaks in the x, y, and z axes to H3, H2, and H1 headings in markdown.\n*   Prototype03 only writes out a very simple markdown file, with paragraph blocks only. Future builds would need to support all the major block types.\n*   Instead of pointing to local headset storage, point to a Dropbox folder.\n*   Image file support\n*   In-headset browser support\n*   Tag / wikilink support\n\n*   Hand interactions are disabled when a hand is not within a certain zone of activation in front of your head, to prevent accidental inputs, e.g. selecting things while typing. Thanks to Brian Eppert for this suggestion.\n*   Fatigue from having to hold your hand in the air to interact with elements is real. I'm working on ways to mitigate this, both by reducing the number of interactions that require raising your hands (e.g. making text boxes navigable using the arrow keys), and increasing the speed and ease of hand interactions (e.g. making positioning of objects snappier and more responsive). Thanks to Andy Matuschak for pointing out this issue.\n\nThat’s a wrap. As always—thanks so much for reading, and please don’t hesitate to reach out with your thoughts, comments, and questions!\n\n30 July, 2022\n\n![image](https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/74c0bb83-e8c9-4cd1-aafa-432c6e86360a/00_Tony_Stark_8MB/w=3840,quality=90,fit=scale-down)\n\nSoftspaceAR Prototype04 is out! You can [download the APK here](https://www.dropbox.com/s/uybbjreor566t2c/SoftspaceAR%20Prototype04%202022.04.01.apk?dl=1), then install it on your Quest 2 using [SideQuest](https://sidequestvr.com/setup-howto) or the [Oculus Developer Hub](https://developer.oculus.com/documentation/unity/ts-odh/).\n\nThis prototype is an answer to the question: **(How) Could a spatial UI let you work with, and work within, the** _**true shape**_ **of your ideas?**\n\nTo see how this question leads to the design of Prototype04, we need to take a step back and understand what this question even means.\n\nIn what sense do ideas have a shape, and why does their shape matter?\n\nWhat is the structure of knowledge? In other words: what are the actual things that constitute knowledge, and how are they related to each other?\n\nThere are many possible answers to this question. It could be that knowledge is one very long sequence of information; or a scattered field of points that don’t relate to each other at all; or a Borgesian state space of permutational nonsense through which we rifle for nuggets of Truth.\n\n![image](https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/00f6f998-8bf0-40f0-8e41-9ab7e9e558af/Untitled/w=3840,quality=90,fit=scale-down)\n\n(I’m going to dodge the notoriously divisive question of what constitutes knowledge in the first place, as opposed to other kinds of information like data, or sensory experience. Let’s go with a [Stewartian](https://en.wikipedia.org/wiki/I_know_it_when_I_see_it) definition of knowledge for now. It’s the thing that PKM folks think about all the time. It’s what knowledge workers are busy working on. It’s the kind of information that tools for thought help you better create, understand, and harness.)\n\n**How knowledge is structured matters, because its structure defines what we consider to be legitimate strategies for seeking and creating it.**\n\nFor example, if knowledge were actually a single long sequence of information (e.g. the revealed word of a deity), then we would seek knowledge within the canon, and create knowledge by expanding on canonical points.\n\nIf, like myself, you’re not religious, the biblical reference might make this model seem epistemologically unsound… but consider that this is how a lot of writing is produced. Pieces start out as a small list of points, each of which is then expanded into a collection of points, some of which need further elaboration—all while maintaining the overall single-sequence structure. Also: an encyclopedia!\n\n![image](https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/0bf43bbe-020c-4e5e-b53f-34ad98963f6f/02_-_Bible/w=3840,quality=90,fit=scale-down)\n\nAnother candidate for the structure of knowledge is the tree: information is grouped into topics, which are grouped into larger topics, going from the specific to the general. This model is the basis for the Dewey Decimal System, which is used to organize books in libraries. It’s also how most people think of species as being organized: within an evolutionary Tree of Life.\n\nIf knowledge is structured as a tree, you should seek knowledge by determining the general category that a piece of information would be found in, then follow the path of ever-narrowing subtopics until you get to your answer. The work of creating knowledge would be the work of discovering new pieces of information and deciding which sub-sub-sub-branch it belongs to, or filling in categorical “missing links” between something higher up in the tree with something lower down. This is literally how librarians and taxonomists work.\n\n![image](https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/3624b039-44ff-4cb0-812b-df331cdaa678/Untitled/w=3840,quality=90,fit=scale-down)\n\n**The problem is that these models prove incomplete under closer scrutiny.**\n\nBiblical hermeneutics is the discipline of interpreting and elaborating on the received word, and is a critical bridge between what’s written in the Bible and important practical questions like “should capital punishment be allowed”? These interpretations are core theological knowledge, but they don’t simply slot into the existing sequence of the Bible. Rather, they can draw on information from across the text—or indeed, other authoritative interpretations—to arrive at their conclusions.\n\nThe librarian’s dream is a library with every book in its proper place, neatly arranged according to the single totalizing hierarchy. But underneath their calm, hardbound surfaces, books are seething with irregularities that break from the Dewey Decimal System. Footnotes and citations in the text refer to texts that could be on the next shelf down, or in a totally different category two floors up, forming a vast, nonlinear web that is at least as important as the DDS.\n\nEven the Tree of Life, which seems to hold true for the vast majority of species that reproduce sexually, proves more convoluted than taxonomists would like. Consider [the case of the hoatzin](https://www.newyorker.com/science/elements/the-bizarre-bird-thats-breaking-the-tree-of-life), a bird that defies all attempts to paint an orderly picture of the tree of bird species.\n\nThese examples hint at a different model.\n\nIf knowledge can be said to have a global structure, there’s a lot of evidence pointing to that structure being a network. **Technically: it’s a graph in which pieces of information are the nodes and relationships between those pieces are the edges.**\n\nWhy might we think this?\n\n*   Footnotes and citations in texts referencing other texts, or even other sections in the same text, form a nonlinear graph structure.\n\n![image](https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/51e48ba6-5958-49cf-96fd-e6f73d59879a/Screen_Shot_2022-07-29_at_10.48.47/w=3840,quality=90,fit=scale-down)\n\n*   Mind maps almost always take on a graph-like structure, with node-like concepts connected by lines. _(Actually, while Googling for images of hand-sketched mind maps, I realized that the vast majority of examples are trees, which are a special subset of graphs. The distinction between the two is critical—but I would contend that people are being nudged toward drawing graphs as trees by the limitations of pen and paper; i.e. they are only drawing the tree-like taxonomical relationships, and ignoring other relationships, because then the mind map gets way too messy and illegible.)_\n\n![image](https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/7a2275c3-7394-4327-845d-170f27a8d950/Untitled/w=3840,quality=90,fit=scale-down)\n\n*   A new generation of graph-based note-taking apps (spearheaded by Roam Research) have become very popular, very quickly, in academic and professional communities that work intensively with knowledge.\n\n![image](https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/d711d618-8720-4de6-af78-f2e38bac81e0/Untitled/w=3840,quality=90,fit=scale-down)\n\n*   Anecdotally, a lot of people who were uncommonly good at working with knowledge also seem to intuit its underlying structure as graph-like.\n\n[Here’s Steve Jobs](https://fs.blog/steve-jobs-on-creativity/#:~:text=In%20one%20particularly%20notable%20excerpt%20Jobs%20says%3A):\n\n> _\"Creativity is just connecting things… When you ask creative people how they did something, they feel a little guilty because they didn’t really do it, they just saw something. It seemed obvious to them after a while. That’s because they were able to connect experiences they’ve had and synthesize new things.”_\n\n[Also, Albert Einstein](https://fs.blog/einstein-productive-thought-combinatory-creativity/#:~:text=Einstein%E2%80%99s%20response%20to%20the%20French%20mathematician):\n\n> _“The physical entities which seem to serve as elements in thought are certain signs and more or less clear images which can be ‘voluntarily’ reproduced and combined… this combinatory play seems to be the essential feature in productive thought… the play with the mentioned elements is aimed to be analogous to certain logical connections one is searching for.”_\n\n[Last, and never least, James Webb Young](https://fs.blog/a-technique-for-producing-ideas/#:~:text=Webb%20believed%20that%20the%20key%20to%20creativity%20could%20be%20found%20in%20new%20combinations%20of%20old%20things.):\n\n> _“An idea is nothing more nor less than a new combination of old elements \\[and\\] the capacity to bring old elements into new combinations depends largely on the ability to see relationships.”_\n\nWith the graph-like structure of knowledge established, let’s get back to the original question:\n\n**(How) Could a spatial UI let you work with, and work within, the** _**true shape**_ **of your ideas?**\n\nIdeas are knowledge, and the “true shape” of your ideas is the way that the graph-like structure of knowledge is manifested within a collection of ideas you’re working on.\n\nAnalogous to the way that language shapes what we can think, or architectural drawing techniques shape what we can build, our tools and methods for working with knowledge shape what we can come to know.\n\nIf knowledge really is graph-like, then the most effective strategies for seeking and creating it would be those that treat it as such. Tools that obscure or ignore its underlying structure would limit our ability to do knowledge work.\n\nThe issue with graphs is that they are notoriously difficult to represent in a usable way on the kind of bounded, 2D interfaces that computer monitors encourage. Graphs are large, nonlinear, and multi-scalar, three qualities that 2D UIs struggle with.\n\n**If our flat tools are limiting our ability to work with the graphs of our ideas, then they’re limiting how well we can understand and develop them.**\n\nSoftspaceAR Prototype04 proposes a new paradigm for representing knowledge graphs—one free of the limitations of 2D UIs by virtue of its use of spatial computing.\n\n![image](https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/68e7acc0-818e-4506-b61c-2a5f47b007fb/07_-_Hero_TTL/w=3840,quality=90,fit=scale-down)\n\n*   This paradigm consists of a 3D spatial canvas in which user can create text blocks.\n*   Any terms in the text which are surrounded by double square brackets are interpreted as topics to which that text refers (this syntax is borrowed from Roam).\n*   Text and topics are our informational nodes, and the references from text to topic are one of two kinds of possible relation.\n*   The other kind of relation that is possible is inclusion: topics can be expanded, and text added to that topic as a way of defining that topic.\n\nA 3D forced-directed graph simulation running in the background automatically tries to move related items together, while pushing unrelated ones apart. As the user creates, relates, unrelates, and deletes pieces of information, the system is constantly updating and displaying the overall shape of the knowledge contained within.\n\nPrototype04 shows some of the advantages of working with knowledge graphs spatially:\n\n*   A spatial interface offers much for room to display the nodes of a graph. In fact, this even allows the graph to display individual text blocks as nodes, instead of the entire pages that many 2D graph views settle for.\n*   The global shape of the graph is generated from the local, node-to-node interactions. This global form is an important part of the meaning of the knowledge graph, because it suggests what the higher-level cluster or syntheses of the details could be.\n*   Object permanence makes it expected and intuitive that items would be includable in multiple contexts This makes it straightforward to implement true transclusion.\n*   While working on a given node, you can see related nodes, as well as second-, third-, or higher-order connections receding into the distance. This creates a sense of ambient context, so you always know “where” you are within your ideas.\n\n1.  When you launch the prototype for the first time, a pre-constructed knowledge graph loads.\n2.  Click on any text block to start editing it.\n3.  Press Return at the end of a text block to create a new text block, and press Backspace when typing on an empty text block to delete it.\n4.  As you write on a text block, terms enclosed in double-square-brackets are interpreted as _topic_ references.\n5.  Prototype04 will find or create the topic with the matching title (case-sensitive) and link it to the text block where you typed out the term.\n\n![image](https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/881913e5-9e05-4311-92f7-87c2bb66e5ad/08_-_Topic_linking/w=1080,quality=90,fit=scale-down)\n\n7.  As more topics are created, and more text blocks refer to different topics, the system automatically draws related items together and pushes unrelated ones apart—building up the shape of your ideas as you write them out.\n8.  So far, it seems like topics are just tags for drawing related text blocks together. But as their name suggests, topics are epistemic entities that can contain content.\n9.  Click on a topic’s title to expand it into a board. Click anywhere on a topic to create a pre-contained text block.\n\n![image](https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/b68682a8-b75b-40c5-b3c0-924abf8dda30/09_-_Writing_new_topics/w=1920,quality=90,fit=scale-down)\n\n11.  You can also grab an existing Text Item and add it to the topic board, or pull text items off and let them float away.\n\n![image](https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/7fa61d49-8468-4114-aabc-1296d3bcc927/10_-_Inclusion/w=1920,quality=90,fit=scale-down)\n\n13.  Clicking on the topic title again, or expanding a different topic, will collapsed the currently expanded one and allow the contained text items to float away—while remaining connected with a bolder connection line, to indicate a containment relationship.\n\n![image](https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/c22ab971-3301-465c-b391-cf314c4e8a0a/11_-_Collapsing_topics/w=1200,quality=90,fit=scale-down)\n\n15.  A text item can be contained in any number of topics—the system has true transclusion.\n\n![image](https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/60dd0ca3-1137-4c5a-83e9-480a644599ab/12_-_Transclusion/w=1200,quality=90,fit=scale-down)\n\n17.  Topics are created automatically when referenced for the first time, and deleted automatically if they are no longer referred to and contain zero text blocks.\n\n![image](https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/cf603a55-016f-4072-9228-8842b7f31260/13_-_Topic_unlinking/w=1080,quality=90,fit=scale-down)\n\n19.  Your work isn’t stuck in the headset! Each topic automatically exports itself as a markdown file, making it easy to take your work in Prototype04 out into the rest of your workflow. Inspired by Conor White-Sullivan’s highlight of Lenses in the Leo Editor, these .md files are called Lenses.\n\n*   Text blocks and topic titles that are far away become difficult to read—this is a major limitation. I have an idea for a text LODing system that would address this issue.\n*   Links are currently represented using a simple straight line between the linked items. These get in the way of text, and don’t tell you much when you can’t see the other end. They generally need design work.\n*   Prototype01 took eight weeks start-to-finish. P02 took four weeks; P03 took five weeks; and this prototype took me six weeks. I want to reverse this trend and get the build cycles back toward four weeks or less.\n\n*   Currently, topic boards use a single column layout, but there’s no reason why each topic’s internal layout system couldn’t be a full ordinospatial layout like the one in Prototype03.\n*   I think this paradigm will really shine with the (re)introduction of images and PDFs.\n*   The only way to create new content right now is by typing out text, but I fully intend to port over the very flexible in-app web browser from SoftspaceVR. This allows you to save out full-res images, copy/paste text, snip any part of the browser window into PNG, and create website bookmarks with a full-screen preview.\n*   Only one topic can be expanded at time right now, but we’ll probably want to let users keep several topics open at once; this raises the question of how to represent content blocks that are transcluded across multiple expanded topics.\n*   For development purposes, these prototypes write to, and read from, the headset’s local storage, which is a real pain to access. Production builds will use a Dropbox backend at first, and expand to other backend options later (IPFS anyone?).\n*   In this prototype, there’s a hard distinction between text blocks and topic items, but this distinction isn’t necessary. It would be far more elegant and flexible to allow any content block to become a topic container, so that ideas can be defined recursively.\n\n*   In practice, how and how much will people leverage the ability to truly transclude content across different topics? How should transcluded content be indicated as such?\n*   What is the right ritual for using a tool like this? Roam encourages a daily routine of use, with a privileged starting area (the Daily Notes) for collecting writing before the user knows where that writing belongs. How often should people use Softspace, and where do they begin when they don’t know where to begin?\n*   The ability to filter and query the graph will become critical. How should that work?\n\nOne of the most beautiful and rewarding consequences of building SoftspaceAR in public has been the incredible support I’ve received from others working in this space.\n\nMore than any previous prototype, Prototype04 could not have happened without the generous input of time and ideas from people who know a lot more about these questions than I do.\n\nSo I’d like to send a big “thank you” to:\n\n*   Andy Matuschak\n*   Conor White-Sullivan\n*   Jeff Tang\n*   Rob Haisfield\n*   Brendan Langen\n*   Rack Rusher\n*   John Underkoffler\n\nThat’s it for now! This post is the longest one yet, coming in at just over 2800 words, so if you made it this far—thanks and congrats 😄.\n\nIf you’d like to support this work, please consider following us on Twitter, trying out Prototype04, and joining our Discord to offer your questions, ideas, and criticisms.\n\n8 November 2022\n\n![image](https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/2ff6a03c-dfc7-4dc1-9281-812de228c4be/00_Hero_Square_6MB/w=3840,quality=90,fit=scale-down)\n\nSoftspaceAR Prototype05 is out!\n\nYou can get the APK here, then use the Meta Quest Developer Hub or SideQuest desktop app to install it to your Quest, Quest 2, or Quest Pro headset. Please give it a go!\n\nIn February of this year, I started to build and release these prototypes to explore an exciting new possibility space: productivity and creativity tools designed natively for AR headsets.\n\nIn the announcement post for this project, I wrote that:\n\n> Over the coming months, we will release 5–10 prototypes to explore and (in)validate promising ways to harness augmented reality as a medium for thought… I expect the first few prototypes to be all over the map, the next few to start converging on core underlying principles, and the last ones to build more deliberately on what came before.\n\nAnd that is indeed what is happening. This, the fifth prototype in the series, is the first one that feels like it’s building more on top of its predecessors than striking out on its own into new territory. It is heavily based on Prototype04, while also drawing on key lessons from Prototype03.\n\nThis doesn't mean that the experimentation is over. There are still aspects of the SoftspaceAR UX and product story that need prototyping and validation. But I've built out enough versions, and have tested them with enough people, to have a good feel for which ideas make sense, and which probably don’t.\n\nIn addition to a wide range of quality-of-life improvements and bug fixes which I will not bore you with, Prototype05 contains four major features that move SoftspaceAR toward being a real tool in which you can do real work.\n\nThese are: the web browser, images support, text item LODing, and multiple open topics.\n\n![image](https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/e4335925-d038-456e-9fb9-8ccb180cd956/01_Web_Browser_5MB/w=3840,quality=90,fit=scale-down)\n\nBeing able to access the internet is a core part of any contemporary knowledge workflow. Prototype05 implements a personal web browser to give users access to the rest of the web from within the headset. Given how many of the other tools that users rely on have web apps, this browser becomes a powerful and flexible window into existing workflows.\n\nWhen browsing the web, if the user hovers over an HTML element that is identified as an image, a \"download\" icon appears to indicate that this image can be saved into the current workspace. Long click (or click and pull toward yourself) to save out the image.\n\nFuture versions of Softspace will enable website bookmarking, and the ability to snip portions of the browser window as images.\n\n![image](https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/d3ab5a06-7a4a-4dc0-b844-a625b8d9a565/02_Images_6MB/w=3840,quality=90,fit=scale-down)\n\nAs you can read in our [origin myth](/writing-and-projects/origins), Softspace was born during a research residency I had in an art and design studio. Immediately before that residency, I had been in architecture school. Today, architects and designers remain a core audience for this tool. Therefore, visual research, reasoning, and communication are critical use cases for Softspace.\n\nThese use cases, of course, require the ability to work with image files.\n\nPrototype05 ports over the image processing and displaying modules from SoftspaceVR. Right now, the only way to bring image files into the workspace is by saving them out from the web browser, but we're already at working on a Dropbox file importer.\n\nOne of the (many) interesting (and annoying) new problems that spatial computing presents is the question of how to technically display a large number of images in a 3D space.\n\nUnlike on a conventional scrollable 2D document, where only a limited fraction of a document's contents are visible at once, a 3D workspace allows the user to potentially see many hundreds or thousands of images simultaneously.\n\nAt the same time, users are able to view images from very close up; to avoid blurriness, the system needs to be able to render images at very high resolution.\n\nGiven the limited VRAM of any computing device, not to speak of the even lower constraints of a mobile device like the Meta Quest 2, it would be impossible to display all these images at the highest possible level of quality all the time.\n\nTherefore, Softspace implements a novel Level-of-Detail system that uses the apparent angular size of each image to assign it an LOD value, which then determines which version of the image texture to load and display. These assignments are updated several times a second, and images transition seamlessly from 256px preview textures to 2048px full-res textures, as needed.\n\n![image](https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/84a7a821-7f17-41df-b8da-4df46a590188/03_Text_LODing_3MB/w=3840,quality=90,fit=scale-down)\n\nOne of the issues users experienced in previous prototypes was that text became too small to read when the workspace was scaled down or move far away from the user. Once the text of the workspace became illegible, the workspace become nonsensical—a pretty visualization of something without meaning.\n\nPrototype05 takes a first pass at rendering text bodies at different Levels-of-Detail, depending on text item size and distance relative to the user.\n\nJust before a text block becomes too small to read, the text body is replaced with larger font. To prevent overflow of the text item bounds, this larger text is truncated. I find that being able to read the first few sentences or words of text items is enough to give me a much better sense of what different areas of the workspace are about.\n\nExtra points: a more sophisticated version of this system could display an auto-generated summary of the text (e.g. using AI) instead of just using the first sentences.\n\n![image](https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/1577ca3a-af44-40bd-b1f2-e2c4f972ad08/04_Multiple_Expanded_Topics_5MB/w=3840,quality=90,fit=scale-down)\n\nIn Prototype04, only one Topic item could be expanded at a time. If you expanded a Topic while another was open, the first would automatically be collapsed. The intention behind this design was to permit intuitive transclusion of content items (text, images) across multiple Topics.\n\nHowever, a common point of feedback was that Prototype04 felt too messy and chaotic with all the Topics and text items floating everywhere. People who tried both Prototypes 03 and 04 tended to prefer 03's single fixed layout, especially while creating and editing content.\n\nPrototype05 partially solves this problem by allowing multiple topics to be expanded and positioned next to each other. (If two topics share any content items, then they will still be mutually exclusively expandable).\n\nI'm also working on a way for future versions of Softspace to have a single, global ordinospatial layout, like Prototype03 has.\n\nAn incomplete list of things I want to improve in upcoming prototypes:\n\n*   **Arm fatigue.** As originally pointed out by Andy Matuschak, and subsequently raised by many other users, the point-of-view based ray cursor is tiresome to use in a way that a mouse, or even the Oculus OS laser pointer, is not. I have been sketching out improvements on this front.\n*   **Cursor icons.** It’s about time to swap out the red debugging sphere that represents where the cursor is pointing in space with a proper set of icons.\n*   **Topic ergonomics.** Topic items currently maintain a vertical orientation, which can cause strain when you spend a lot of time writing text or moving images around on one. I’ve investigating more ergonomic orientations when a topic is actively being edited.\n*   **Click-to-focus.** Often, users want to get a closer look at a particular item without having to “swim” themselves over to it. I’m thinking about implementing a double-click-to-focus interaction that makes it much faster and easier to inspect things.\n*   **More UI feedback.** SoftspaceVR relied on hand controllers, which for all their downsides, did provide excellent haptic feedback when the user was interacting with things. In a tracked-hand interaction model, we need much more visual and auditory feedback to let the user know what they’re doing in the UI, or what will happen next.\n\nAs always, thank you so much for taking the time to read this! Your comments, ideas, and concerns are always welcome. You can help us on this journey by:\n\n*   Getting and testing this prototype 🧑🏽‍🔬\n*   Following and retweeting us on Twitter 🐦\n*   Joining the Discord channel 👯‍♀️\n\nThe Prototypes formed the basis of the [SoftspaceAR design paper](/writing-and-projects/softspace-design-paper) and the SoftspaceAR app which launched on the Meta Quest Store."
+			},
+			"poses": {
+				"canvasLocal": {
+					"pos": {
+						"x": 0.8750645,
+						"y": -0.16952756,
+						"z": -5.9753656E-6
+					},
+					"rot": {
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					},
+					"size": {
+						"x": 0.24999999,
+						"y": 0.0783,
+						"z": 0.001
+					}
+				}
+			}
+		},
+		"013811ba-62eb-45f4-8b7d-21acd99b77ee": {
+			"id": "013811ba-62eb-45f4-8b7d-21acd99b77ee",
+			"props": {
+				"type": "bookmark",
+				"urlLink": "https://spaceframe.xyz/docs",
+				"name": "Spaceframe • Docs",
+				"snippet": "Spaceframe is a spatial notebook for research, thinking, and writing. It runs on the Quest family of AR headsets. Develop your next great idea in this intuitive and powerful workspace.",
+				"text": "Spaceframe is a spatial notebook app for web research, notetaking, moodboarding, and writing. It runs on the Quest family of AR headsets. Spaceframe’s clean, immersive user interface optimizes for focus, productivity, and flow.\n\nSpaceframe is a radical redesign of an existing AR application called _Softspace._ In the near future, it will replace Softspace on the Meta Quest Store, at which point the current version of Softspace will remain available as a legacy version.\n\nTo install Spaceframe, first you must install Softspace, then select the **Spaceframe Beta** public release channel.\n\nAlthough Spaceframe will work with the Quest’s Touch hand controllers, it has been designed to be used with the Quest’s hand tracking functionality. This is because putting the controllers down to type and picking them up again adds undesirable friction to your workflow.\n\nIn Spaceframe, each tracked hand (or hand controller) has a Spatial Cursor which can be used to interact with UI elements at a distance. There is one Cursor for each hand, but only the last one that was clicked will be active. This is to prevent accidental inputs.\n\nTo use the Spatial Cursor, move your hand until the Cursor icon hovers over an interactable item. Tap your thumb and pointer finger to click that item, or touch and hold them together to start manipulating it.\n\nObjects which can be interacted with using the Spatial Cursor can also be used by directly reaching out and touching them. When your hand is close enough to such an object, that hand’s Cursor will disappear to prevent accidental inputs.\n\nTo directly use a clickable object, push into it with your pointer finger.\n\nTo directly grab a manipulable object, touch and hold your thumb and pointer finger together while they are close to that object.\n\nSpaceframe is designed to be used with a physical keyboard, because nothing comes close to its speed and precision for doing real work.\n\nIf you have access to the Bluetooth keyboard, you can pair it to your Quest headset, and it will be recognized in Spaceframe.\n\nYou can also use the Network Keyboard web app to type in Spaceframe using a nearby computer. To connect a Network Keyboard, press the **Keyboard** button in the Palm Menu and follow the instructions.\n\nIf no Bluetooth or Network keyboard is detected when a text field or browser window is selected, the fallback Virtual Keyboard will appear. This keyboard uses the ISO US English key layout. It also has a speech-to-text button, allowing for speech text input.\n\nFrom the Palm Menu, you can create new items and access various settings.\n\nTo activate the Palm Menu, hold up an open hand with the palm facing toward you. Palm Menu buttons can be pressed using the pointer finger of the opposite hand.\n\nSpaceframe stores your Workspace data on the cloud. This has several benefits, including allowing your Workspaces to persist across app installations. Therefore, you must log into your Spaceframe account before you can create and use your Workspaces.\n\nSpaceframe supports two authentication methods:\n\n*   Google sign-in\n*   Email + password\n\nContent in Spaceframe is grouped into self-contained Workspaces.\n\nTo manage your Workspaces, press the **Workspaces** button in the Palm Menu. This button is only usable while you are signed in.\n\n⚠️ While you are signed out, Spaceframe loads the demo Workspace. The demo Workspace is stored locally, and shared across all users on the same device.\n\nThe primary representation of your Workspace is an infinite plane called the Canvas, on which its Items are positioned.\n\nYou can move the Canvas by closing one hand into a fist, holding this gesture for a moment, then moving your hand. The Canvas will move as if you had grabbed it by that point in space.\n\nYou can scale the Canvas up or down by closing both hands into fists, and moving them closer together or further apart.\n\nYou can create new Items in the Workspace by double-clicking on the Canvas grid. This brings up the Item Creation Menu, from which you can choose the Item you would like to create.\n\nItems in the Workspace can also be opened in the Console: a secondary view of the Workspace in which Items are arrange ergonomically. Items in the Console are linked duplicates of their original on the Canvas.\n\nItems in the Console always face toward you for comfortable viewing, and remain fixed relative to you as you move the Canvas.\n\nNote items, image items, and chat items can be opened from the Canvas into the Console by clicking the ‘Expand’ icon in their top-right corner.\n\nBookmark items in the Canvas will create a new browser window in the Console when clicked.\n\nItems in the Console can be moved, resized, and closed independently of their Canvas instance.\n\nSpaceframe Workspaces contain Items: individual content objects that roughly correspond to a single file or window.\n\nNote Items are the core item type in Spaceframe. They are like individual markdown files.\n\nNotes can either be user-written or AI-generated. To create a new Note or AI Note, press the corresponding button in the Palm Menu, or in the Canvas’ Item Creation Menu.\n\nNotes can also be created by importing the following file types from Dropbox:\n\nAI Notes have distinctive purple title text. Unlike regular notes, they cannot be directly edited. Instead, type a prompt into the AI Note title field, then press \\[enter\\]. The built-in AI will fill in the note according to your prompt, taking into account relevant information elsewhere in the Workspace.\n\nImage Items are created by dragging them into the workspace from a web browser.\n\nImages can also be created by importing the following file types from Dropbox:\n\n*   .jpg\n*   .png\n*   .gif (will not animate)\n*   .bmp\n*   .tif\n*   .psd\n\nAI Chat Items represent a conversation thread with a built-in AI assistant. The assistant is aware of information in the rest of the workspace (including the contents of notes, other conversations, bookmarked websites, and open browser windows) and can use this to better respond to you.\n\nTo create a new AI Chat, press the corresponding button in the Palm Menu or the Canvas’ Item Creation Menu.\n\nUnlike other Item types, Web Browsers only exist in the Workspace Console, and not in the Canvas.\n\nTo create a new Browser, press the corresponding button in the Palm Menu or the Canvas’ Item Creation Menu.\n\nUnlike other Item types, Web Bookmarks only exist in the Workspace Canvas, and not the Console.\n\nTo create a new Bookmark, press the **Bookmark** icon in the bottom-right corner of an open Web Browser. This will bookmark that Browser’s current URL.\n\nSpaceframe is able to import notes and images from Dropbox.\n\nTo open the import panel, press the **Import** button in the Palm Menu.\n\nSelect Dropbox as the import source, then sign in if you haven’t already.\n\nYou can browse your Dropbox and import individual files, or entire folders.\n\nSpaceframe is able to export your entire workspace to Dropbox.\n\nTo open the export panel, press the **Export** button in the Palm Menu.\n\nSelect Dropbox as the export target, then sign in if you haven’t already.\n\nYou can browse your Dropbox and select a folder for your workspace export.\n\nIf you any questions or comments, please send them to → [hi@spaceframe.xyz](mailto:hi@spaceframe.xyz)."
+			},
+			"poses": {
+				"canvasLocal": {
+					"pos": {
+						"x": 0.19227907,
+						"y": 0.109209366,
+						"z": -3.772982E-12
+					},
+					"rot": {
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					},
+					"size": {
+						"x": 0.24999999,
+						"y": 0.09879999,
+						"z": 0.001
+					}
+				}
+			}
+		},
+		"9e4b0330-7a4a-4eb4-9f25-a4f710915828": {
+			"id": "9e4b0330-7a4a-4eb4-9f25-a4f710915828",
+			"props": {
+				"type": "bookmark",
+				"urlLink": "https://spaceframe.xyz/",
+				"name": "Spaceframe • AR Notebook",
+				"snippet": "Spaceframe is a spatial notebook for research, thinking, and writing. It runs on the Quest family of AR headsets. Develop your next great idea in this intuitive and powerful workspace.",
+				"text": "![image](https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/3ef1474d-1cd0-47d9-aaf6-81c49715b110/image/w=3840,quality=90,fit=scale-down)\n\nIt’s been proven that bigger screens make us more productive. Spatial computing gives you the biggest screen of all: a truly infinite canvas.\n\nMemory champions use imaginary spaces to store troves of information. Spaceframe’s expansive layouts let you do the same—without the years of training.\n\nIt takes 20 minutes to fully switch between tasks. Spaceframe’s serene environments and clean UI are designed to get you into the zone immediately.\n\n**🎨 Create a moodboard as visual research for a design project**\n\n**🏮 Research and write marketing copy for a product landing page**\n\n**🖊️ Brainstorm and organize characters and plot for a novel**\n\n**💻 Research, take notes, and draft a blog post for Substack**\n\n**💼 Brainstorm, organize, and outline a ten-slide pitch deck**\n\n![image](https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/f3e89d22-7ddd-4cf4-980c-61c1b76f636e/Untitled/w=3840,quality=90,fit=scale-down)\n\n_Everyday productivity and creativity_\n\n**✓** Unlimited items **✓** Unlimited workspaces **✓** AI powered by GPT-4o mini¹\n\n![image](https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/65e3b0ca-c396-43fe-80fc-33a38064ebc0/Untitled/w=3840,quality=90,fit=scale-down)\n\n_Professional research and ideation_\n\n**✓** Unlimited items **✓** Unlimited workspaces **✓** AI powered by GPT-4o¹\n\n¹ Or equivalent foundation model\n\nMeta Quest 2\n\nMeta Quest Pro\n\nMeta Quest 3 (recommended)\n\nMeta Quest 3S\n\nHand-tracking supported\n\nHand controller supported\n\nDirect and indirect interactions\n\nBluetooth or USB keyboard\n\nNetwork keyboard web app\n\nVirtual keyboard (ISO US English)\n\nSpeech-to-text (Whisper 3)\n\nExpansive workspace _Canvas_\n\nErgonomic workspace _Console_\n\nNote items\n\nImage items\n\nAI chat items\n\nWeb browsers\n\nWeb bookmarks\n\nText (.txt, .md)\n\nImages (.jpg, .png, .bmp, .tif, .psd)\n\nImport from Dropbox\n\nSave images from browser\n\nContextual note generation\n\nContextual AI conversation\n\nOpenAI GPT-4o and GPT-4o mini\n\nMozilla Gecko browser engine\n\nVideo playback (e.g. Youtube)\n\nMulti-window support\n\nPassthrough hands\n\nImmersive environments\n\nPassthrough environment\n\n[Beta](/beta)[Docs](/docs)[Privacy](/privacy)[Terms](/terms)[Softspace](/softspace)"
+			},
+			"poses": {
+				"canvasLocal": {
+					"pos": {
+						"x": 0.1922814,
+						"y": 0.2380037,
+						"z": -1.4071411E-11
+					},
+					"rot": {
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					},
+					"size": {
+						"x": 0.24999999,
+						"y": 0.09879999,
+						"z": 0.001
+					}
+				}
+			}
+		},
+		"f432bbcf-26de-440d-a759-52924326f4a0": {
+			"id": "f432bbcf-26de-440d-a759-52924326f4a0",
+			"props": {
+				"type": "bookmark",
+				"urlLink": "https://en.wikipedia.org/wiki/Space_frame",
+				"name": "Space frame - Wikipedia",
+				"author": "Wikipedia Contributors",
+				"timeCreated": "2024-09-28T11:57:00.000Z",
+				"text": "Rigid three dimensional load bearing truss structure\n\n[![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/ITP_Zamudio.jpg/225px-ITP_Zamudio.jpg)](https://en.wikipedia.org/wiki/File:ITP_Zamudio.jpg)\n\nThe roof of this industrial building is supported by a space frame structure.\n\n[![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Articulacion_malla.svg/225px-Articulacion_malla.svg.png)](https://en.wikipedia.org/wiki/File:Articulacion_malla.svg)\n\nIf a force is applied to the blue node and the red bar were _not_ present, the resultant effect on the structure would depend entirely on the blue node's bending rigidity, _i.e._ to its resistance (or lack thereof) to bending; however, with the red bar in place, then assuming negligible bending rigidity of the blue node as compared with the red bar's contributing rigidity, this 3-dimensional load-bearing truss structure could be solved using a rigidity matrix (neglecting angular factors).\n\nIn [architecture](https://en.wikipedia.org/wiki/Architecture) and [structural engineering](https://en.wikipedia.org/wiki/Structural_engineering), a **space frame** or **space structure** ([3D](https://en.wikipedia.org/wiki/Three-dimensional_space) [truss](https://en.wikipedia.org/wiki/Truss)) is a rigid, lightweight, truss-like structure constructed from interlocking [struts](https://en.wikipedia.org/wiki/Strut) in a [geometric](https://en.wikipedia.org/wiki/Geometry) [pattern](https://en.wikipedia.org/wiki/Pattern). Space frames can be used to span large areas with few interior supports. Like the truss, a space frame is strong because of the inherent rigidity of the triangle; flexing [loads](https://en.wikipedia.org/wiki/Structural_load) (bending [moments](https://en.wikipedia.org/wiki/Moment_\\(physics\\))) are transmitted as [tension](https://en.wikipedia.org/wiki/Tension_\\(mechanics\\)) and [compression](https://en.wikipedia.org/wiki/Compression_\\(physical\\)) loads along the length of each strut.\n\nChief applications include buildings and vehicles.\n\n  \nSpace frames are strong, adaptable, and efficient buildings that can support a variety of weights. For their effective implementation in construction, it is important to comprehend their behavior under various loads, probable modes of failure, and rules for optimal arrangement. To maximize space frames' performance and longevity, proper design, material selection, and joint integrity are essential.\n\n[Alexander Graham Bell](https://en.wikipedia.org/wiki/Alexander_Graham_Bell) from 1898 to 1908 developed space frames based on tetrahedral geometry.[\\[1\\]](https://en.wikipedia.org/wiki/Space_frame#cite_note-1)[\\[2\\]](https://en.wikipedia.org/wiki/Space_frame#cite_note-2) Bell's interest was primarily in using them to make rigid frames for nautical and aeronautical engineering, with the [tetrahedral truss](https://en.wikipedia.org/wiki/Tetrahedral_kite) being one of his inventions.\n\n[Max Mengeringhausen](https://en.wikipedia.org/wiki/Mero-Schmidlin) developed the space grid system called MERO (acronym of _**ME**ngeringhausen **RO**hrbauweise_) in 1943 in Germany, thus initiating the use of space trusses in architecture.[\\[3\\]](https://en.wikipedia.org/wiki/Space_frame#cite_note-3) The commonly used method, still in use has individual tubular members connected at node joints (ball shaped) and variations such as the space deck system, octet truss system and cubic system.\n\nStéphane de Chateau in France invented the Tridirectional SDC system (1957), Unibat system (1959), Pyramitec (1960).[\\[4\\]](https://en.wikipedia.org/wiki/Space_frame#cite_note-4)[\\[5\\]](https://en.wikipedia.org/wiki/Space_frame#cite_note-5) A method of tree supports was developed to replace the individual columns.[\\[6\\]](https://en.wikipedia.org/wiki/Space_frame#cite_note-6)\n\n[Buckminster Fuller](https://en.wikipedia.org/wiki/Buckminster_Fuller) patented the octet truss ([U.S. patent 2,986,241](https://patents.google.com/patent/US2986241)) in 1961[\\[7\\]](https://en.wikipedia.org/wiki/Space_frame#cite_note-7) while focusing on [architectural](https://en.wikipedia.org/wiki/Architecture) structures.\n\n[Gilman's Tetrahedral Truss](https://patentimages.storage.googleapis.com/1c/9a/7a/6aa02cf0efb93c/US4446666.pdf) of 1980 was developed by [John J. Gilman](https://en.wikipedia.org/wiki/John_J._Gilman); a material scientist known for his work on the molecular matrices of crystalline solids. Gilman was an admirer of Buckminster Fuller's architectural trusses, and developed a stronger matrix, in part by rotating an alignment of tetrahedral nodes in relation to each other.\n\nSpace frames are typically designed using a rigidity matrix. The special characteristic of the [stiffness matrix](https://en.wikipedia.org/wiki/Stiffness_matrix) in an architectural space frame is the independence of the angular factors. If the joints are sufficiently rigid, the angular deflections can be neglected, simplifying the calculations.\n\n[![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/SpaceFrame02.png/250px-SpaceFrame02.png)](https://en.wikipedia.org/wiki/File:SpaceFrame02.png)\n\nSimplified space frame roof with the half-octahedron highlighted in blue\n\nThe simplest form of space frame is a horizontal slab of interlocking [square pyramids](https://en.wikipedia.org/wiki/Square_pyramid) and [tetrahedra](https://en.wikipedia.org/wiki/Tetrahedron) built from [Aluminium](https://en.wikipedia.org/wiki/Aluminium) or tubular [steel](https://en.wikipedia.org/wiki/Steel) struts. In many ways this looks like the horizontal jib of a tower crane repeated many times to make it wider. A stronger form is composed of interlocking [tetrahedra](https://en.wikipedia.org/wiki/Tetrahedron) in which all the struts have unit length. More technically this is referred to as an isotropic vector matrix or in a single unit width an octet truss. More complex variations change the lengths of the struts to curve the overall structure or may incorporate other geometrical shapes.\n\nWithin the meaning of space frame, we can find three systems clearly different between them:[\\[8\\]](https://en.wikipedia.org/wiki/Space_frame#cite_note-ref1-8)\n\n**Curvature classification**\n\n*   Space plane covers: These spatial structures are composed of planar substructures. Their behavior is similar to that of a plate in which the deflections in the plane are channeled through the horizontal bars and the shear forces are supported by the diagonals.[\\[9\\]](https://en.wikipedia.org/wiki/Space_frame#cite_note-ref5-9)\n\n[![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Tirumailai_MRTS_station_Chennai_%28Madras%29.jpg/250px-Tirumailai_MRTS_station_Chennai_%28Madras%29.jpg)](https://en.wikipedia.org/wiki/File:Tirumailai_MRTS_station_Chennai_\\(Madras\\).jpg)\n\nThis train station in India is supported by a barrel vault structure\n\n*   Barrel vaults: This type of vault has a cross section of a simple arch. Usually this type of space frame does not need to use tetrahedral modules or pyramids as a part of its backing. The section type barrel vault is organized according to IS: 800-2007, and the evaluation is carried out mostly using STAAD. This work elicit evaluations of models for range, extreme redirection, self-weight, and cost.[\\[10\\]](https://en.wikipedia.org/wiki/Space_frame#cite_note-10)\n*   Spherical domes and other compound curves usually require the use of tetrahedral modules or pyramids and additional support from a skin.\n\n**Classification by the arrangement of its elements**\n\n*   Single layer grid: All elements are located on the surface to be approximated.\n*   Double layer grid: Elements are organized in two layers parallel to each other at a certain distance apart. Each of the layers form a lattice of triangles, squares or hexagons in which the projection of the nodes in a layer may overlap or be displaced relative to each other. Diagonal bars connect the nodes of both layers in different directions in space. In this type of meshes, the elements are associated into three groups: upper cordon, cordon and cordon lower diagonal.\n*   Triple layer grid: Elements are placed in three parallel layers, linked by the diagonals. They are almost always flat.\n\nOther examples classifiable as space frames are these:\n\n*   Pleated metallic structures: Emerged to try to solve the problems that formwork and pouring concrete had their counterparts. Typically run with welded joint, but may raise prefabricated joints, a fact which makes them space meshes.\n*   Hanging covers: Designs on the cable taut, spine, and the [catenary arch](https://en.wikipedia.org/wiki/Catenary_arch) ([inverted funicular](https://en.wikipedia.org/wiki/Funicular_curve) show their ability to channel forces theoretically better than any other alternative, have an infinite range of possibilities for composition and adaptability to any type of plant cover or ensure vain. However, imprecisions in shape having the loaded strand (ideally adapts dynamically to the state of charge) and the risk of bending the arc to unexpected stresses are problems that require pre-compression and pre-stressing elements. Although in most cases tend to be the cheapest and the technical solution that best fits the acoustics and ventilation of the covered enclosure, are vulnerable to vibration.\n*   Pneumatic structures: Closure membranes subjected to a pressurized state may be considered within this group.\n\nChief space frame applications include:\n\n**Buildings**\n\n*   Industrial structures:\n    *   [Factories](https://en.wikipedia.org/wiki/Factory)\n    *   [Warehouses](https://en.wikipedia.org/wiki/Warehouse),\n*   Commercial, entertainment, and service facilities:\n    *   [Sports halls](https://en.wikipedia.org/wiki/Sports_hall)\n    *   Conference halls, pavilions, and [exhibition centers](https://en.wikipedia.org/wiki/Exhibition_center)\n    *   [Stadiums](https://en.wikipedia.org/wiki/Stadium)\n    *   [Museums](https://en.wikipedia.org/wiki/Museum) and fair houses\n    *   [Shopping malls](https://en.wikipedia.org/wiki/Shopping_mall)\n    *   [Airports](https://en.wikipedia.org/wiki/Airport)\n\n**[Vehicles](https://en.wikipedia.org/wiki/Space_frame#Vehicles)**:\n\n*   *   Aircraft\n    *   Automobiles\n    *   Motorcycles\n    *   Bicycles\n    *   Spacecraft\n\n**Architectural design elements**\n\n*   *   [Atriums](https://en.wikipedia.org/wiki/Atrium_\\(architecture\\))\n    *   [Geodesics](https://en.wikipedia.org/wiki/Geodesic)\n\nSpace frames are a common feature in modern building construction; they are often found in large roof spans in [modernist](https://en.wikipedia.org/wiki/Modernism) commercial and industrial buildings.\n\nExamples of buildings based on space frames include:\n\n*   [Stansted Airport](https://en.wikipedia.org/wiki/Stansted_Airport), by [Foster + Partners](https://en.wikipedia.org/wiki/Foster_%2B_Partners)\n*   [Bank of China Tower](https://en.wikipedia.org/wiki/Bank_of_China_Tower,_Hong_Kong) and the [Louvre Pyramid](https://en.wikipedia.org/wiki/Louvre_Pyramid), by [I. M. Pei](https://en.wikipedia.org/wiki/I._M._Pei)\n*   [Rogers Centre](https://en.wikipedia.org/wiki/Rogers_Centre) by [Rod Robbie](https://en.wikipedia.org/wiki/Rod_Robbie) and [Michael Allan](https://en.wikipedia.org/wiki/Michael_Allen_\\(architect\\))\n*   [McCormick Place](https://en.wikipedia.org/wiki/McCormick_Place) East in [Chicago](https://en.wikipedia.org/wiki/Chicago)\n*   [Arena das Dunas](https://en.wikipedia.org/wiki/Arena_das_Dunas) in Natal, Brazil by [Populous](https://en.wikipedia.org/wiki/Populous_\\(company\\))\n*   [Eden Project](https://en.wikipedia.org/wiki/Eden_Project) in Cornwall, England\n*   [Globen](https://en.wikipedia.org/wiki/Ericsson_Globe), Sweden - Dome with diameter of 110 m, (1989)\n*   [Biosphere 2](https://en.wikipedia.org/wiki/Biosphere_2) by [John P. Allen](https://en.wikipedia.org/wiki/John_P._Allen), [Phil Hawes](https://en.wikipedia.org/wiki/Phil_Hawes), [Peter Jon Pearce](https://en.wikipedia.org/wiki/Peter_Jon_Pearce) in Oracle, Arizona\n*   [Jacob K. Javits Convention Center](https://en.wikipedia.org/wiki/Jacob_K._Javits_Convention_Center), [New York City, New York](https://en.wikipedia.org/wiki/New_York_City,_New_York)\n*   [Palau Sant Jordi](https://en.wikipedia.org/wiki/Palau_Sant_Jordi) in Barcelona, Spain by [Arata Isozaki](https://en.wikipedia.org/wiki/Arata_Isozaki)\n*   [Sochi International Airport](https://en.wikipedia.org/wiki/Sochi_International_Airport) in [Sochi](https://en.wikipedia.org/wiki/Sochi), [Russia](https://en.wikipedia.org/wiki/Russia)\n*   Entrance to [Six Flags Magic Mountain](https://en.wikipedia.org/wiki/Six_Flags_Magic_Mountain)\n*   [Taiwan Taoyuan International Airport](https://en.wikipedia.org/wiki/Taoyuan_International_Airport) airport terminal 2\n*   [Harbin Opera House](https://en.wikipedia.org/wiki/Harbin_Grand_Theatre) in China by [Ma Yansong](https://en.wikipedia.org/wiki/Ma_Yansong)\n*   [Hedyar Aliyev Centre](https://en.wikipedia.org/wiki/Heydar_Aliyev_Center) in Azerbaijan by [Zaha Hadid](https://en.wikipedia.org/wiki/Zaha_Hadid)\n\nLarge portable stages and lighting [gantries](https://en.wikipedia.org/wiki/Crane_\\(machine\\)#Gantry) are also frequently built from space frames and octet trusses.\n\n[![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Yeoman_YA-1_vs_CA-6_Wackett_frame.jpg/220px-Yeoman_YA-1_vs_CA-6_Wackett_frame.jpg)](https://en.wikipedia.org/wiki/File:Yeoman_YA-1_vs_CA-6_Wackett_frame.jpg)\n\nYeoman YA-1 vs CA-6 Wackett frames.\n\nThe [CAC CA-6 Wackett](https://en.wikipedia.org/wiki/CAC_Wackett) and [Yeoman YA-1 Cropmaster 250R](https://en.wikipedia.org/wiki/Yeoman_Cropmaster) aircraft were built using roughly the same welded steel tube fuselage frame.\n\nMany early “whirlybird”-style exposed-boom helicopters had tubular space frame booms, such as the [Bell 47](https://en.wikipedia.org/wiki/Bell_47) series.\n\nSpace frames are sometimes used in the chassis designs of [automobiles](https://en.wikipedia.org/wiki/Automobiles) and [motorcycles](https://en.wikipedia.org/wiki/Motorcycles). In both a space frame and a tube-frame chassis, the suspension, engine, and body panels are attached to a skeletal frame of tubes, and the body panels have little or no structural function. By contrast, in a [unibody](https://en.wikipedia.org/wiki/Unibody) or [monocoque](https://en.wikipedia.org/wiki/Monocoque) design, the body serves as part of the structure.\n\nTube-frame chassis pre-date space frame chassis and are a development of the earlier [ladder chassis](https://en.wikipedia.org/wiki/Ladder_chassis). The advantage of using tubes rather than the previous open channel sections is that they resist [torsional](https://en.wikipedia.org/wiki/Torsion_\\(mechanics\\)) forces better. Some tube chassis were little more than a ladder chassis made with two large diameter tubes, or even a single tube as a [backbone chassis](https://en.wikipedia.org/wiki/Backbone_chassis). Although many tubular chassis developed additional tubes and were even described as \"space frames\", their design was rarely correctly stressed as a space frame and they behaved mechanically as a tube ladder chassis, with additional brackets to support the attached components, suspension, engine etc. The distinction of the true space frame is that all the forces in each strut are either tensile or compression, never bending.[\\[11\\]](https://en.wikipedia.org/wiki/Space_frame#cite_note-Ludvigsen,_Colin_Chapman,_153-11) Although these additional tubes did carry some extra load, they were rarely diagonalised into a rigid space frame.[\\[11\\]](https://en.wikipedia.org/wiki/Space_frame#cite_note-Ludvigsen,_Colin_Chapman,_153-11)\n\nAn earlier contender for the first true space frame chassis is the one off Chamberlain 8 race \"special\" built by brothers Bob and Bill Chamberlain in Melbourne, Australia in 1929.[\\[12\\]](https://en.wikipedia.org/wiki/Space_frame#cite_note-12) Others attribute vehicles produced in the 1930s by designers such as [Buckminster Fuller](https://en.wikipedia.org/wiki/Buckminster_Fuller) and [William Bushnell Stout](https://en.wikipedia.org/wiki/William_Bushnell_Stout) (the [Dymaxion](https://en.wikipedia.org/wiki/Dymaxion_car) and the [Stout Scarab](https://en.wikipedia.org/wiki/Stout_Scarab)) who understood the theory of the true space frame from either architecture or aircraft design.[\\[13\\]](https://en.wikipedia.org/wiki/Space_frame#cite_note-Ludvigsen,_Colin_Chapman,_150-13)\n\nA post WW2 attempt to build a racing car space frame was the [Cisitalia D46](https://en.wikipedia.org/wiki/Cisitalia_D46) of 1946.[\\[13\\]](https://en.wikipedia.org/wiki/Space_frame#cite_note-Ludvigsen,_Colin_Chapman,_150-13) This used two small diameter tubes along each side, but they were spaced apart by vertical smaller tubes, and so were not diagonalised in any plane. A year later, Porsche designed their [Type 360](https://en.wikipedia.org/wiki/Porsche_360) for [Cisitalia](https://en.wikipedia.org/wiki/Cisitalia). As this included diagonal tubes, it can be considered a true space frame and arguable the first mid-rear engined design.[\\[13\\]](https://en.wikipedia.org/wiki/Space_frame#cite_note-Ludvigsen,_Colin_Chapman,_150-13)\n\n[![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Jaguar_C-Type_Frame.JPG/220px-Jaguar_C-Type_Frame.JPG)](https://en.wikipedia.org/wiki/File:Jaguar_C-Type_Frame.JPG)\n\n[Jaguar C-Type](https://en.wikipedia.org/wiki/Jaguar_C-Type) frame\n\nThe [Maserati Tipo 61](https://en.wikipedia.org/wiki/Maserati_Tipo_61) of 1959 (Birdcage) is often thought of as the first but in 1949 [Robert Eberan von Eberhorst](https://en.wikipedia.org/wiki/Robert_Eberan_von_Eberhorst) designed the [Jowett Jupiter](https://en.wikipedia.org/wiki/Jowett_Jupiter) exhibited at that year's [London Motor Show](https://en.wikipedia.org/wiki/London_Motor_Show); the Jowett went on to take a class win at the 1950 Le Mans 24hr. Later, [TVR](https://en.wikipedia.org/wiki/TVR), the small British car manufacturers developed the concept and produced an alloy-bodied two seater on a multi tubular chassis, which appeared in 1949.\n\n[Colin Chapman](https://en.wikipedia.org/wiki/Colin_Chapman) of [Lotus](https://en.wikipedia.org/wiki/Lotus_Cars) introduced his first 'production' car, the [Mark VI](https://en.wikipedia.org/wiki/Lotus_Mark_VI), in 1952. This was influenced by the [Jaguar C-Type](https://en.wikipedia.org/wiki/Jaguar_C-Type) chassis, another with four tubes of two different diameters, separated by narrower tubes. Chapman reduced the main tube diameter for the lighter Lotus, but did not reduce the minor tubes any further, possibly because he considered that this would appear flimsy to buyers.[\\[11\\]](https://en.wikipedia.org/wiki/Space_frame#cite_note-Ludvigsen,_Colin_Chapman,_153-11) Although widely described as a space frame, Lotus did not build a true space frame chassis until the [Mark VIII](https://en.wikipedia.org/wiki/Lotus_Mark_VIII), with the influence of other designers, with experience from the aircraft industry.[\\[11\\]](https://en.wikipedia.org/wiki/Space_frame#cite_note-Ludvigsen,_Colin_Chapman,_153-11)\n\n[![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Kitcar_%288906407466%29.jpg/220px-Kitcar_%288906407466%29.jpg)](https://en.wikipedia.org/wiki/File:Kitcar_\\(8906407466\\).jpg)\n\nChilean kitcar showing off its space frame structure (2013).\n\nA large number of [kit cars](https://en.wikipedia.org/wiki/Kit_car) use space frame construction, because manufacture in small quantity requires only simple and inexpensive [jigs](https://en.wikipedia.org/wiki/Jig_\\(tool\\)), and it is relatively easy for an amateur designer to achieve good stiffness with a space frame.\n\nA drawback of the space frame chassis is that it encloses much of the working volume of the car and can make access for both the driver and to the engine difficult. The [Mercedes-Benz 300 SL](https://en.wikipedia.org/wiki/Mercedes-Benz_300_SL) “Gullwing” received its iconic upward-opening doors when its tubular space frame made using regular doors impossible.\n\nSome space frames have been designed with removable sections, joined by bolted pin joints. Such a structure had already been used around the engine of the [Lotus Mark III](https://en.wikipedia.org/wiki/Lotus_Mark_III).[\\[14\\]](https://en.wikipedia.org/wiki/Space_frame#cite_note-Ludvigsen,_Colin_Chapman,_151-14) Although somewhat inconvenient, an advantage of the space frame is that the same lack of bending forces in the tubes that allow it to be modelled as a [pin-jointed structure](https://en.wikipedia.org/wiki/Pin-jointed_truss) also means that creating such a removable section need not reduce the strength of the assembled frame.\n\n[![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Moulton_%40_the_MoMA.jpg/220px-Moulton_%40_the_MoMA.jpg)](https://en.wikipedia.org/wiki/File:Moulton_@_the_MoMA.jpg)\n\n[Moulton Bicycle](https://en.wikipedia.org/wiki/Moulton_Bicycle) at the [Museum of Modern Art](https://en.wikipedia.org/wiki/Museum_of_Modern_Art)\n\n[![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/S2R1000-101_v2_1024_web.jpg/220px-S2R1000-101_v2_1024_web.jpg)](https://en.wikipedia.org/wiki/File:S2R1000-101_v2_1024_web.jpg)\n\n2006 [Ducati](https://en.wikipedia.org/wiki/Ducati) Monster S2R 1000\n\nItalian motorbike manufacturer [Ducati](https://en.wikipedia.org/wiki/Ducati) extensively uses tube frame chassis on its models.\n\nSpace frames have also been used in [bicycles](https://en.wikipedia.org/wiki/Bicycle), which readily favor stressed triangular sectioning.\n\n*   [Backbone chassis](https://en.wikipedia.org/wiki/Backbone_chassis)\n*   [Body-on-frame](https://en.wikipedia.org/wiki/Body-on-frame)\n*   [Exoskeleton car](https://en.wikipedia.org/wiki/Exoskeleton_car)\n*   [Framing (construction)](https://en.wikipedia.org/wiki/Framing_\\(construction\\))\n*   [Monocoque](https://en.wikipedia.org/wiki/Monocoque)\n*   [Modular construction system](https://en.wikipedia.org/wiki/Modular_construction_system)\n*   [Platonic solid](https://en.wikipedia.org/wiki/Platonic_solid)\n*   [Stressed skin](https://en.wikipedia.org/wiki/Stressed_skin)\n*   [Superleggera](https://en.wikipedia.org/wiki/Superleggera)\n*   [Tensegrity](https://en.wikipedia.org/wiki/Tensegrity)\n*   [Tessellated roof](https://en.wikipedia.org/wiki/Tessellated_roof)\n*   [Tetrahedral-octahedral honeycomb](https://en.wikipedia.org/wiki/Tetrahedral-octahedral_honeycomb)\n\n1.  **[^](https://en.wikipedia.org/wiki/Space_frame#cite_ref-1)** [\"Alexander Graham Bell\"](https://web.archive.org/web/20030326123328/http://www.drachenarchiv.de/Seiten/b_bp_bell.html). Archived from [the original](http://www.drachenarchiv.de/Seiten/b_bp_bell.html) on 2003-03-26.\n2.  **[^](https://en.wikipedia.org/wiki/Space_frame#cite_ref-2)** Alexander Graham Bell (June 1903). [\"Tetrahedral Principle In Kite Structure\"](https://www.loc.gov/resource/magbell.37700202). _National Geographic Magazine_. **XIV** (6).\n3.  **[^](https://en.wikipedia.org/wiki/Space_frame#cite_ref-3)** [\"Modular space grids\"](https://web.archive.org/web/20160915031431/http://tatproddel.tat.cloud.opentext.com/sites/constructionuk/default/en/reference/teaching-resources/architectural-teaching-resource/design/space-grid-structures/brief-history-and-development-of-systems). Archived from [the original](http://tatproddel.tat.cloud.opentext.com/sites/constructionuk/default/en/reference/teaching-resources/architectural-teaching-resource/design/space-grid-structures/brief-history-and-development-of-systems) on 2016-09-15.\n4.  **[^](https://en.wikipedia.org/wiki/Space_frame#cite_ref-4)** [\"Unibat system\"](http://www.setareh.arch.vt.edu/safas/010_system_05_unibat.html). 4 August 2010.\n5.  **[^](https://en.wikipedia.org/wiki/Space_frame#cite_ref-5)** Porto, Cláudia Estrela (2014). [\"The innovative structural conception in Stéphane du Château's work: from metallic trusses to the development of spatial frames\"](https://web.archive.org/web/20160916221813/http://www.architectus.arch.pwr.wroc.pl/40/40_05.pdf) (PDF). _Architectus_. **4** (40). Poland: 51–64. Archived from [the original](http://www.architectus.arch.pwr.wroc.pl/40/40_05.pdf) (PDF) on September 16, 2016.\n6.  **[^](https://en.wikipedia.org/wiki/Space_frame#cite_ref-6)** [Evolution of Space Frames](http://citiesnow.in/blog/2015/07/09/evolution-of-space-frames/) [Archived](https://web.archive.org/web/20151119115630/http://citiesnow.in/blog/2015/07/09/evolution-of-space-frames/) November 19, 2015, at the [Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine) Cities Now\n7.  **[^](https://en.wikipedia.org/wiki/Space_frame#cite_ref-7)** Dorothy Harley Eber, via telephone (June 29, 1978). [\"Fuller on Bell\"](http://www.grunch.net/synergetics/docs/bellnote.html).\n8.  **[^](https://en.wikipedia.org/wiki/Space_frame#cite_ref-ref1_8-0)** Otero C. (1990). \"Diseño geométrico de cúpulas no esféricas aproximadas por mallas triangulares, con un número mínimo de longitudes de barra\". Tesis Doctoral. Universidad de Cantabria.\n9.  **[^](https://en.wikipedia.org/wiki/Space_frame#cite_ref-ref5_9-0)** Cavia Sorret (1993).\n10.  **[^](https://en.wikipedia.org/wiki/Space_frame#cite_ref-10)** [\"Design and Analysis of Barrel Vault Space Frame Structure\"](https://www.ijraset.com/research-paper/design-and-analysis-of-barrel-vault-space-frame-structure). _www.ijraset.com_. Retrieved 2022-11-08.\n11.  ^ [_**a**_](https://en.wikipedia.org/wiki/Space_frame#cite_ref-Ludvigsen,_Colin_Chapman,_153_11-0) [_**b**_](https://en.wikipedia.org/wiki/Space_frame#cite_ref-Ludvigsen,_Colin_Chapman,_153_11-1) [_**c**_](https://en.wikipedia.org/wiki/Space_frame#cite_ref-Ludvigsen,_Colin_Chapman,_153_11-2) [_**d**_](https://en.wikipedia.org/wiki/Space_frame#cite_ref-Ludvigsen,_Colin_Chapman,_153_11-3) [Ludvigsen & Colin Chapman](https://en.wikipedia.org/wiki/Space_frame#CITEREFLudvigsenColin_Chapman), p. 153–154\n12.  **[^](https://en.wikipedia.org/wiki/Space_frame#cite_ref-12)** [https://primotipo.com/2015/07/24/chamberlain-8-by-john-medley-and-mark-bisset/](https://primotipo.com/2015/07/24/chamberlain-8-by-john-medley-and-mark-bisset/). ‘The Chamberlain An Australian Story’ John Hazelden\n13.  ^ [_**a**_](https://en.wikipedia.org/wiki/Space_frame#cite_ref-Ludvigsen,_Colin_Chapman,_150_13-0) [_**b**_](https://en.wikipedia.org/wiki/Space_frame#cite_ref-Ludvigsen,_Colin_Chapman,_150_13-1) [_**c**_](https://en.wikipedia.org/wiki/Space_frame#cite_ref-Ludvigsen,_Colin_Chapman,_150_13-2) [Ludvigsen, Karl](https://en.wikipedia.org/wiki/Karl_Ludvigsen) (2010). _Colin Chapman: Inside the Innovator_. Haynes Publishing. pp. 150–164. [ISBN](https://en.wikipedia.org/wiki/ISBN_\\(identifier\\)) [978-1-84425-413-2](https://en.wikipedia.org/wiki/Special:BookSources/978-1-84425-413-2).\n14.  **[^](https://en.wikipedia.org/wiki/Space_frame#cite_ref-Ludvigsen,_Colin_Chapman,_151_14-0)** [Ludvigsen & Colin Chapman](https://en.wikipedia.org/wiki/Space_frame#CITEREFLudvigsenColin_Chapman), p. 151\n\n![](https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png)\n\nWikimedia Commons has media related to [Space frames](https://commons.wikimedia.org/wiki/Category:Space_frames).\n\nRetrieved from \"[https://en.wikipedia.org/w/index.php?title=Space\\_frame&oldid=1248237466](https://en.wikipedia.org/w/index.php?title=Space_frame&oldid=1248237466)\""
+			},
+			"poses": {
+				"canvasLocal": {
+					"pos": {
+						"x": 0.65484023,
+						"y": 0.53068966,
+						"z": -1.4699353E-12
+					},
+					"rot": {
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					},
+					"size": {
+						"x": 0.24999999,
+						"y": 0.049599998,
+						"z": 0.001
+					}
+				}
+			}
+		}
+	},
+	"edges": {
+		"6e3a13e9-2780-457d-adc1-e84be00ceabb[includes]461cdbd6-5b8d-4e28-9fd8-bea6ac217362": {
+			"srcNodeID": "6e3a13e9-2780-457d-adc1-e84be00ceabb",
+			"trgNodeID": "461cdbd6-5b8d-4e28-9fd8-bea6ac217362",
+			"type": "includes",
+			"props": null
+		},
+		"6e3a13e9-2780-457d-adc1-e84be00ceabb[includes]7d637dcf-7d89-4f27-be1a-3d3eda531c15": {
+			"srcNodeID": "6e3a13e9-2780-457d-adc1-e84be00ceabb",
+			"trgNodeID": "7d637dcf-7d89-4f27-be1a-3d3eda531c15",
+			"type": "includes",
+			"props": null
+		},
+		"6e3a13e9-2780-457d-adc1-e84be00ceabb[includes]f0091386-34c4-40ab-9a64-fdc23ea58a3e": {
+			"srcNodeID": "6e3a13e9-2780-457d-adc1-e84be00ceabb",
+			"trgNodeID": "f0091386-34c4-40ab-9a64-fdc23ea58a3e",
+			"type": "includes",
+			"props": null
+		},
+		"6e3a13e9-2780-457d-adc1-e84be00ceabb[includes]66df74d4-eacd-4b49-9a2e-3b4756093e97": {
+			"srcNodeID": "6e3a13e9-2780-457d-adc1-e84be00ceabb",
+			"trgNodeID": "66df74d4-eacd-4b49-9a2e-3b4756093e97",
+			"type": "includes",
+			"props": null
+		},
+		"6e3a13e9-2780-457d-adc1-e84be00ceabb[includes]40bbc99c-cc69-4f68-9f1c-6a3ebb578d1b": {
+			"srcNodeID": "6e3a13e9-2780-457d-adc1-e84be00ceabb",
+			"trgNodeID": "40bbc99c-cc69-4f68-9f1c-6a3ebb578d1b",
+			"type": "includes",
+			"props": null
+		},
+		"6e3a13e9-2780-457d-adc1-e84be00ceabb[includes]7aff283c-d957-4392-bcae-bfaabfe3eae7": {
+			"srcNodeID": "6e3a13e9-2780-457d-adc1-e84be00ceabb",
+			"trgNodeID": "7aff283c-d957-4392-bcae-bfaabfe3eae7",
+			"type": "includes",
+			"props": null
+		},
+		"6e3a13e9-2780-457d-adc1-e84be00ceabb[includes]f63055df-5dd4-4512-986b-63b2044e0714": {
+			"srcNodeID": "6e3a13e9-2780-457d-adc1-e84be00ceabb",
+			"trgNodeID": "f63055df-5dd4-4512-986b-63b2044e0714",
+			"type": "includes",
+			"props": null
+		},
+		"6e3a13e9-2780-457d-adc1-e84be00ceabb[includes]f5fc6b9b-f0be-4c99-a4e1-5743c8f81539": {
+			"srcNodeID": "6e3a13e9-2780-457d-adc1-e84be00ceabb",
+			"trgNodeID": "f5fc6b9b-f0be-4c99-a4e1-5743c8f81539",
+			"type": "includes",
+			"props": null
+		},
+		"6e3a13e9-2780-457d-adc1-e84be00ceabb[includes]030b74b6-a14a-43fc-8b83-2d1b0d68d2b0": {
+			"srcNodeID": "6e3a13e9-2780-457d-adc1-e84be00ceabb",
+			"trgNodeID": "030b74b6-a14a-43fc-8b83-2d1b0d68d2b0",
+			"type": "includes",
+			"props": null
+		},
+		"6e3a13e9-2780-457d-adc1-e84be00ceabb[includes]cf628529-d895-4adb-8170-8c5a0f74444e": {
+			"srcNodeID": "6e3a13e9-2780-457d-adc1-e84be00ceabb",
+			"trgNodeID": "cf628529-d895-4adb-8170-8c5a0f74444e",
+			"type": "includes",
+			"props": null
+		},
+		"6e3a13e9-2780-457d-adc1-e84be00ceabb[includes]651437d3-d892-467d-a3af-a5087e5d6bac": {
+			"srcNodeID": "6e3a13e9-2780-457d-adc1-e84be00ceabb",
+			"trgNodeID": "651437d3-d892-467d-a3af-a5087e5d6bac",
+			"type": "includes",
+			"props": null
+		},
+		"6e3a13e9-2780-457d-adc1-e84be00ceabb[includes]dbceda99-edab-4156-8204-26f79a7cf1ab": {
+			"srcNodeID": "6e3a13e9-2780-457d-adc1-e84be00ceabb",
+			"trgNodeID": "dbceda99-edab-4156-8204-26f79a7cf1ab",
+			"type": "includes",
+			"props": null
+		},
+		"6e3a13e9-2780-457d-adc1-e84be00ceabb[includes]7cbb467d-e8ce-467b-9a94-f304e31f6ecd": {
+			"srcNodeID": "6e3a13e9-2780-457d-adc1-e84be00ceabb",
+			"trgNodeID": "7cbb467d-e8ce-467b-9a94-f304e31f6ecd",
+			"type": "includes",
+			"props": null
+		},
+		"6e3a13e9-2780-457d-adc1-e84be00ceabb[includes]803f4a8a-3dbe-4cdf-83f9-060b588e510c": {
+			"srcNodeID": "6e3a13e9-2780-457d-adc1-e84be00ceabb",
+			"trgNodeID": "803f4a8a-3dbe-4cdf-83f9-060b588e510c",
+			"type": "includes",
+			"props": null
+		},
+		"6e3a13e9-2780-457d-adc1-e84be00ceabb[includes]1c44418d-9d5a-438a-bc56-1bd4c2deedbd": {
+			"srcNodeID": "6e3a13e9-2780-457d-adc1-e84be00ceabb",
+			"trgNodeID": "1c44418d-9d5a-438a-bc56-1bd4c2deedbd",
+			"type": "includes",
+			"props": null
+		},
+		"6e3a13e9-2780-457d-adc1-e84be00ceabb[includes]97e9d689-27c2-47d4-a9bd-07661eda584c": {
+			"srcNodeID": "6e3a13e9-2780-457d-adc1-e84be00ceabb",
+			"trgNodeID": "97e9d689-27c2-47d4-a9bd-07661eda584c",
+			"type": "includes",
+			"props": null
+		},
+		"6e3a13e9-2780-457d-adc1-e84be00ceabb[includes]e3f6e30c-9a49-424d-a358-8779221bbf2b": {
+			"srcNodeID": "6e3a13e9-2780-457d-adc1-e84be00ceabb",
+			"trgNodeID": "e3f6e30c-9a49-424d-a358-8779221bbf2b",
+			"type": "includes",
+			"props": null
+		},
+		"6e3a13e9-2780-457d-adc1-e84be00ceabb[includes]f992921b-d0eb-4f79-8f74-a9430b8c5003": {
+			"srcNodeID": "6e3a13e9-2780-457d-adc1-e84be00ceabb",
+			"trgNodeID": "f992921b-d0eb-4f79-8f74-a9430b8c5003",
+			"type": "includes",
+			"props": null
+		},
+		"6e3a13e9-2780-457d-adc1-e84be00ceabb[includes]4e3d2c95-62a3-4adf-bebf-dd9a188ebdbb": {
+			"srcNodeID": "6e3a13e9-2780-457d-adc1-e84be00ceabb",
+			"trgNodeID": "4e3d2c95-62a3-4adf-bebf-dd9a188ebdbb",
+			"type": "includes",
+			"props": null
+		},
+		"6e3a13e9-2780-457d-adc1-e84be00ceabb[includes]c71d193a-408e-4215-8db7-110a31d26a19": {
+			"srcNodeID": "6e3a13e9-2780-457d-adc1-e84be00ceabb",
+			"trgNodeID": "c71d193a-408e-4215-8db7-110a31d26a19",
+			"type": "includes",
+			"props": null
+		},
+		"6e3a13e9-2780-457d-adc1-e84be00ceabb[includes]e20f3d7e-9079-4a69-ad42-90f69a7990f8": {
+			"srcNodeID": "6e3a13e9-2780-457d-adc1-e84be00ceabb",
+			"trgNodeID": "e20f3d7e-9079-4a69-ad42-90f69a7990f8",
+			"type": "includes",
+			"props": null
+		},
+		"6e3a13e9-2780-457d-adc1-e84be00ceabb[includes]3ab3685d-dc36-4eb1-8e1a-c426dc2e58a1": {
+			"srcNodeID": "6e3a13e9-2780-457d-adc1-e84be00ceabb",
+			"trgNodeID": "3ab3685d-dc36-4eb1-8e1a-c426dc2e58a1",
+			"type": "includes",
+			"props": null
+		},
+		"6e3a13e9-2780-457d-adc1-e84be00ceabb[includes]07d1f10d-f544-4c12-83d6-bca8ff01a77e": {
+			"srcNodeID": "6e3a13e9-2780-457d-adc1-e84be00ceabb",
+			"trgNodeID": "07d1f10d-f544-4c12-83d6-bca8ff01a77e",
+			"type": "includes",
+			"props": null
+		},
+		"6e3a13e9-2780-457d-adc1-e84be00ceabb[includes]013811ba-62eb-45f4-8b7d-21acd99b77ee": {
+			"srcNodeID": "6e3a13e9-2780-457d-adc1-e84be00ceabb",
+			"trgNodeID": "013811ba-62eb-45f4-8b7d-21acd99b77ee",
+			"type": "includes",
+			"props": null
+		},
+		"6e3a13e9-2780-457d-adc1-e84be00ceabb[includes]9e4b0330-7a4a-4eb4-9f25-a4f710915828": {
+			"srcNodeID": "6e3a13e9-2780-457d-adc1-e84be00ceabb",
+			"trgNodeID": "9e4b0330-7a4a-4eb4-9f25-a4f710915828",
+			"type": "includes",
+			"props": null
+		},
+		"6e3a13e9-2780-457d-adc1-e84be00ceabb[includes]f432bbcf-26de-440d-a759-52924326f4a0": {
+			"srcNodeID": "6e3a13e9-2780-457d-adc1-e84be00ceabb",
+			"trgNodeID": "f432bbcf-26de-440d-a759-52924326f4a0",
+			"type": "includes",
+			"props": null
+		}
+	}
+}
