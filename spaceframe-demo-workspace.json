@@ -1,15 +1,15 @@
 {
 	"schema": 202501,
-	"id": "6e3a13e9-2780-457d-adc1-e84be00ceabb",
+	"id": "f5a42411-d416-4740-b958-18d692fb39f4",
 	"nodes": {
-		"6e3a13e9-2780-457d-adc1-e84be00ceabb": {
-			"id": "6e3a13e9-2780-457d-adc1-e84be00ceabb",
+		"f5a42411-d416-4740-b958-18d692fb39f4": {
+			"id": "f5a42411-d416-4740-b958-18d692fb39f4",
 			"props": {
 				"type": "workspace",
-				"name": "Spaceframe Marketing Visuals"
+				"name": "Demo Spaceframe Workspace"
 			},
 			"poses": {
-				"6e3a13e9-2780-457d-adc1-e84be00ceabb": {
+				"f5a42411-d416-4740-b958-18d692fb39f4": {
 					"pos": {
 						"x": 0,
 						"y": 0,
@@ -42,9 +42,9 @@
 			"poses": {
 				"canvasLocal": {
 					"pos": {
-						"x": 0.96792364,
-						"y": 0.61612767,
-						"z": -8.556526E-9
+						"x": 1.0108273,
+						"y": 0.62902576,
+						"z": -0.020004645
 					},
 					"rot": {
 						"x": 0,
@@ -109,9 +109,9 @@
 				},
 				"canvasLocal": {
 					"pos": {
-						"x": -0.7216033,
-						"y": 0.6261571,
-						"z": -6.6310167E-6
+						"x": -0.7233142,
+						"y": 0.6329276,
+						"z": -0.019999716
 					},
 					"rot": {
 						"x": 0,
@@ -140,9 +140,9 @@
 			"poses": {
 				"canvasLocal": {
 					"pos": {
-						"x": -0.7111396,
-						"y": 0.21644993,
-						"z": -2.0861626E-7
+						"x": -0.7233142,
+						"y": 0.21319093,
+						"z": -0.019999716
 					},
 					"rot": {
 						"x": 0,
@@ -189,9 +189,9 @@
 			"poses": {
 				"canvasLocal": {
 					"pos": {
-						"x": -0.7140415,
-						"y": 0.4123575,
-						"z": -4.224479E-6
+						"x": -0.7233142,
+						"y": 0.41411173,
+						"z": -0.019999716
 					},
 					"rot": {
 						"x": 0,
@@ -200,8 +200,8 @@
 						"w": 1
 					},
 					"size": {
-						"x": 0.30923933,
-						"y": 0.17137975,
+						"x": 0.30923927,
+						"y": 0.17137973,
 						"z": 0.001
 					}
 				},
@@ -238,9 +238,9 @@
 			"poses": {
 				"canvasLocal": {
 					"pos": {
-						"x": -1.023243,
-						"y": 0.27872136,
-						"z": 7.916242E-7
+						"x": -1.0554147,
+						"y": 0.27200568,
+						"z": -0.0199998
 					},
 					"rot": {
 						"x": 0,
@@ -249,8 +249,8 @@
 						"w": 1
 					},
 					"size": {
-						"x": 0.24916835,
-						"y": 0.25082886,
+						"x": 0.24916834,
+						"y": 0.25082883,
 						"z": 0.001
 					}
 				},
@@ -287,9 +287,9 @@
 			"poses": {
 				"canvasLocal": {
 					"pos": {
-						"x": -1.018653,
-						"y": 0.5841281,
-						"z": -1.0477379E-8
+						"x": -1.0554148,
+						"y": 0.5749186,
+						"z": -0.019999716
 					},
 					"rot": {
 						"x": 0,
@@ -576,7 +576,8 @@
 				"text": "# Welcome to Spaceframe\n\n### Spaceframe is a spatial notebook where you always have room for your next great idea.\n\n### This is a demo workspace we've set up to show you some of the features you can use for research, moodboarding, and ideation in your own projects.\n\n### If you have any questions, please visit [www.spaceframe.xyz](http://www.spaceframe.xyz) or email us at: hi@spaceframe.xyz.\n",
 				"isGenerated": "False",
 				"timeUpdated": "11/19/2024 11:46:00 AM",
-				"blocknoteDoc": "[{\"id\":\"bd11f88c-5ec8-42de-a3a2-38923e05e0c8\",\"type\":\"heading\",\"props\":{\"textColor\":\"default\",\"backgroundColor\":\"default\",\"textAlignment\":\"left\",\"level\":1},\"content\":[{\"type\":\"text\",\"text\":\"Welcome to Spaceframe\",\"styles\":{}}],\"children\":[]},{\"id\":\"a1c530b8-373f-4d90-8aef-7e5208780d41\",\"type\":\"heading\",\"props\":{\"textColor\":\"default\",\"backgroundColor\":\"default\",\"textAlignment\":\"left\",\"level\":3},\"content\":[{\"type\":\"text\",\"text\":\"Spaceframe is a spatial notebook where you always have room for your next great idea.\",\"styles\":{}}],\"children\":[]},{\"id\":\"38750a91-2d91-4d80-920c-5b3f4c8c7d66\",\"type\":\"heading\",\"props\":{\"textColor\":\"default\",\"backgroundColor\":\"default\",\"textAlignment\":\"left\",\"level\":3},\"content\":[{\"type\":\"text\",\"text\":\"This is a demo workspace we've set up to show you some of the features you can use for research, moodboarding, and ideation in your own projects.\",\"styles\":{}}],\"children\":[]},{\"id\":\"50c3e08f-96cc-4988-8404-9014371b31bc\",\"type\":\"heading\",\"props\":{\"textColor\":\"default\",\"backgroundColor\":\"default\",\"textAlignment\":\"left\",\"level\":3},\"content\":[{\"type\":\"text\",\"text\":\"If you have any questions, please visit \",\"styles\":{}},{\"type\":\"link\",\"href\":\"http://www.spaceframe.xyz\",\"content\":[{\"type\":\"text\",\"text\":\"www.spaceframe.xyz\",\"styles\":{}}]},{\"type\":\"text\",\"text\":\" or email us at: hi@spaceframe.xyz.\",\"styles\":{}}],\"children\":[]},{\"id\":\"06a82a88-65a0-4525-b1ac-ec4ec86f907c\",\"type\":\"paragraph\",\"props\":{\"textColor\":\"default\",\"backgroundColor\":\"default\",\"textAlignment\":\"left\"},\"content\":[],\"children\":[]}]"
+				"blocknoteDoc": "[{\"id\":\"bd11f88c-5ec8-42de-a3a2-38923e05e0c8\",\"type\":\"heading\",\"props\":{\"textColor\":\"default\",\"backgroundColor\":\"default\",\"textAlignment\":\"left\",\"level\":1},\"content\":[{\"type\":\"text\",\"text\":\"Welcome to Spaceframe\",\"styles\":{}}],\"children\":[]},{\"id\":\"a1c530b8-373f-4d90-8aef-7e5208780d41\",\"type\":\"heading\",\"props\":{\"textColor\":\"default\",\"backgroundColor\":\"default\",\"textAlignment\":\"left\",\"level\":3},\"content\":[{\"type\":\"text\",\"text\":\"Spaceframe is a spatial notebook where you always have room for your next great idea.\",\"styles\":{}}],\"children\":[]},{\"id\":\"38750a91-2d91-4d80-920c-5b3f4c8c7d66\",\"type\":\"heading\",\"props\":{\"textColor\":\"default\",\"backgroundColor\":\"default\",\"textAlignment\":\"left\",\"level\":3},\"content\":[{\"type\":\"text\",\"text\":\"This is a demo workspace we've set up to show you some of the features you can use for research, moodboarding, and ideation in your own projects.\",\"styles\":{}}],\"children\":[]},{\"id\":\"50c3e08f-96cc-4988-8404-9014371b31bc\",\"type\":\"heading\",\"props\":{\"textColor\":\"default\",\"backgroundColor\":\"default\",\"textAlignment\":\"left\",\"level\":3},\"content\":[{\"type\":\"text\",\"text\":\"If you have any questions, please visit \",\"styles\":{}},{\"type\":\"link\",\"href\":\"http://www.spaceframe.xyz\",\"content\":[{\"type\":\"text\",\"text\":\"www.spaceframe.xyz\",\"styles\":{}}]},{\"type\":\"text\",\"text\":\" or email us at: hi@spaceframe.xyz.\",\"styles\":{}}],\"children\":[]},{\"id\":\"06a82a88-65a0-4525-b1ac-ec4ec86f907c\",\"type\":\"paragraph\",\"props\":{\"textColor\":\"default\",\"backgroundColor\":\"default\",\"textAlignment\":\"left\"},\"content\":[],\"children\":[]}]",
+				"isExpanded": "True"
 			},
 			"poses": {
 				"canvasLocal": {
@@ -599,19 +600,19 @@
 				},
 				"consoleLocal": {
 					"pos": {
-						"x": 0,
-						"y": -0.20705526,
-						"z": 0.77274066
+						"x": -0.20760193,
+						"y": 1.8668942,
+						"z": 0.864957
 					},
 					"rot": {
-						"x": 0.1305262,
-						"y": 0,
-						"z": 0,
-						"w": 0.9914449
+						"x": -0.069978885,
+						"y": -0.08750034,
+						"z": -0.0061625126,
+						"w": 0.9936844
 					},
 					"size": {
-						"x": 0.24,
-						"y": 0.3,
+						"x": 0.3059501,
+						"y": 0.4332985,
 						"z": 0.001
 					}
 				}
@@ -627,9 +628,9 @@
 			"poses": {
 				"canvasLocal": {
 					"pos": {
-						"x": 0.6548523,
-						"y": 0.61056936,
-						"z": -5.9604037E-8
+						"x": 0.66574204,
+						"y": 0.4278056,
+						"z": -0.020004645
 					},
 					"rot": {
 						"x": 0,
@@ -658,9 +659,9 @@
 			"poses": {
 				"canvasLocal": {
 					"pos": {
-						"x": 0.9658354,
-						"y": 0.42386007,
-						"z": 9.797513E-7
+						"x": 1.0108273,
+						"y": 0.4317569,
+						"z": -0.020004645
 					},
 					"rot": {
 						"x": 0,
@@ -669,8 +670,8 @@
 						"w": 1
 					},
 					"size": {
-						"x": 0.3120019,
-						"y": 0.16629724,
+						"x": 0.31200188,
+						"y": 0.16629721,
 						"z": 0.001
 					}
 				},
@@ -725,9 +726,9 @@
 				},
 				"canvasLocal": {
 					"pos": {
-						"x": 0.97992563,
-						"y": 0.262545,
-						"z": 5.327165E-7
+						"x": 1.0108324,
+						"y": 0.26543337,
+						"z": -0.020005105
 					},
 					"rot": {
 						"x": 0,
@@ -799,20 +800,21 @@
 				"name": "What is Spaceframe?",
 				"text": "Spaceframe is a spatial notebook app designed for web research, notetaking, moodboarding, and writing, optimized for AR headsets like the Meta Quest. It features an immersive user interface that facilitates focus, productivity, and flow. Spaceframe, which is a redesign of the AR application Softspace, will eventually replace Softspace on the Meta Quest Store. It utilizes an infinite canvas on which users can organize content in Workspaces, enhancing productivity by leveraging the expansive possibilities of spatial computing.",
 				"isGenerated": "True",
-				"timeUpdated": "11/19/2024 11:45:20 AM"
+				"timeUpdated": "11/19/2024 11:45:20 AM",
+				"isExpanded": "True"
 			},
 			"poses": {
 				"consoleLocal": {
 					"pos": {
-						"x": 0,
-						"y": -0.20705526,
-						"z": 0.77274066
+						"x": 0.15726878,
+						"y": 1.843708,
+						"z": 0.8879799
 					},
 					"rot": {
-						"x": 0.1305262,
-						"y": 0,
-						"z": 0,
-						"w": 0.9914449
+						"x": -0.062845536,
+						"y": 0.08740293,
+						"z": 0.005524717,
+						"w": 0.9941734
 					},
 					"size": {
 						"x": 0.24,
@@ -1109,7 +1111,7 @@
 					},
 					"size": {
 						"x": 0.24999999,
-						"y": 0.0783,
+						"y": 0.0784,
 						"z": 0.001
 					}
 				}
@@ -1127,8 +1129,8 @@
 			"poses": {
 				"canvasLocal": {
 					"pos": {
-						"x": 0.19227907,
-						"y": 0.109209366,
+						"x": 0.19229972,
+						"y": 0.10930541,
 						"z": -3.772982E-12
 					},
 					"rot": {
@@ -1139,7 +1141,7 @@
 					},
 					"size": {
 						"x": 0.24999999,
-						"y": 0.09879999,
+						"y": 0.09899999,
 						"z": 0.001
 					}
 				}
@@ -1157,8 +1159,8 @@
 			"poses": {
 				"canvasLocal": {
 					"pos": {
-						"x": 0.1922814,
-						"y": 0.2380037,
+						"x": 0.1923005,
+						"y": 0.23828687,
 						"z": -1.4071411E-11
 					},
 					"rot": {
@@ -1169,7 +1171,7 @@
 					},
 					"size": {
 						"x": 0.24999999,
-						"y": 0.09879999,
+						"y": 0.09899999,
 						"z": 0.001
 					}
 				}
@@ -1188,9 +1190,9 @@
 			"poses": {
 				"canvasLocal": {
 					"pos": {
-						"x": 0.65484023,
-						"y": 0.53068966,
-						"z": -1.4699353E-12
+						"x": 0.66574204,
+						"y": 0.4977953,
+						"z": -0.020004645
 					},
 					"rot": {
 						"x": 0,
@@ -1200,7 +1202,154 @@
 					},
 					"size": {
 						"x": 0.24999999,
-						"y": 0.049599998,
+						"y": 0.049799997,
+						"z": 0.001
+					}
+				}
+			}
+		},
+		"14dd2dd5-f268-44a7-96d6-b5499c54f8d7": {
+			"id": "14dd2dd5-f268-44a7-96d6-b5499c54f8d7",
+			"props": {
+				"type": "topic",
+				"name": "Architecture Project",
+				"isExpanded": "True",
+				"timeUpdated": "12/13/2024 10:34:27 AM"
+			},
+			"poses": {
+				"canvasLocal": {
+					"pos": {
+						"x": -0.87289697,
+						"y": 0.43165678,
+						"z": 2.8312206E-7
+					},
+					"rot": {
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					},
+					"size": {
+						"x": 0.6942017,
+						"y": 0.6923936,
+						"z": 0.001
+					}
+				}
+			}
+		},
+		"72c0bb47-7203-4291-8448-026c3d4880fb": {
+			"id": "72c0bb47-7203-4291-8448-026c3d4880fb",
+			"props": {
+				"type": "topic",
+				"name": null,
+				"isExpanded": "True"
+			},
+			"poses": {
+				"canvasLocal": {
+					"pos": {
+						"x": 0.8608273,
+						"y": 0.4623505,
+						"z": -4.645437E-6
+					},
+					"rot": {
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					},
+					"size": {
+						"x": 0.7201688,
+						"y": 0.5851816,
+						"z": 0.001
+					}
+				}
+			}
+		},
+		"d1bcfa7b-d5ea-4d77-a72a-f1f763d92b1d": {
+			"id": "d1bcfa7b-d5ea-4d77-a72a-f1f763d92b1d",
+			"props": {
+				"type": "browser",
+				"urlLink": "https://spaceframe.xyz/",
+				"isExpanded": "True",
+				"name": "Spaceframe • AR Notebook",
+				"snippet": "Spaceframe is a spatial notebook for research, thinking, and writing. It runs on the Quest family of AR headsets. Develop your next great idea in this intuitive and powerful workspace.",
+				"text": "![image](https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/3ef1474d-1cd0-47d9-aaf6-81c49715b110/image/w=3840,quality=90,fit=scale-down)\n\nIt’s been proven that bigger screens make us more productive. Spatial computing gives you the biggest screen of all: a truly infinite canvas.\n\nMemory champions use imaginary spaces to store troves of information. Spaceframe’s expansive layouts let you do the same—without the years of training.\n\nIt takes 20 minutes to fully switch between tasks. Spaceframe’s serene environments and clean UI are designed to get you into the zone immediately.\n\nSpaceframe plans can be selected on the Quest Store app page and in-app.\n\n![image](https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/f3e89d22-7ddd-4cf4-980c-61c1b76f636e/Untitled/w=3840,quality=90,fit=scale-down)\n\n_Everyday productivity and creativity_\n\n**✓** Unlimited items **✓** Unlimited workspaces **✓** AI powered by GPT-4o mini¹\n\n![image](https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/65e3b0ca-c396-43fe-80fc-33a38064ebc0/Untitled/w=3840,quality=90,fit=scale-down)\n\n_Professional research and ideation_\n\n**✓** Unlimited items **✓** Unlimited workspaces **✓ AI powered by full GPT-4o¹**\n\n¹ Or equivalent foundation model\n\nMeta Quest 2\n\nMeta Quest Pro\n\nMeta Quest 3 (recommended)\n\nMeta Quest 3S\n\nHand-tracking supported\n\nHand controller supported\n\nDirect and indirect interactions\n\nBluetooth or USB keyboard\n\nNetwork keyboard web app\n\nVirtual keyboard (ISO US English)\n\nSpeech-to-text (Whisper 3)\n\nExpansive workspace Canvas\n\nErgonomic workspace Console\n\nNote items\n\nImage items\n\nAI chat items\n\nWeb browsers\n\nWeb bookmarks\n\nText (.txt, .md)\n\nImages (.jpg, .png, .bmp, .tif, .psd)\n\nImport from Dropbox\n\nSave images from browser\n\nContextual note generation\n\nContextual AI conversation\n\nOpenAI GPT-4o and GPT-4o mini\n\nMozilla Gecko browser engine\n\nVideo playback (e.g. Youtube)\n\nMulti-window support\n\nPassthrough hands\n\nImmersive environments\n\nPassthrough environment\n\n[Read the docs →](/docs)\n\n[Read the newsletter →](http://building.soft.space)\n\n[Join the Discord →](https://discord.com/invite/45PYYsG)\n\n✉️ [hi@spaceframe.xyz](mailto:hi@spaceframe.xyz)\n\n🐦  [@spaceframeAR](https://x.com/spaceframeAR)\n\n[Beta](/beta)[Docs](/docs)[Privacy](/privacy)[Terms](/terms)[Softspace](/softspace)"
+			},
+			"poses": {
+				"consoleLocal": {
+					"pos": {
+						"x": 0.71340847,
+						"y": 1.2702141,
+						"z": 0.34022743
+					},
+					"rot": {
+						"x": 0.20664027,
+						"y": 0.4628068,
+						"z": -0.111876085,
+						"w": 0.8547476
+					},
+					"size": {
+						"x": 0.45,
+						"y": 0.35,
+						"z": 0.001
+					}
+				}
+			}
+		},
+		"f42b7bf1-1331-4262-bc6c-7066c27a4bd8": {
+			"id": "f42b7bf1-1331-4262-bc6c-7066c27a4bd8",
+			"props": {
+				"type": "browser",
+				"urlLink": "https://chatgpt.com/",
+				"isExpanded": "True",
+				"name": "ChatGPT",
+				"text": "  \n\n![Seasonal Holidays 2024](/logos/doodles/2024/seasonal-holidays-2024-6753651837110333-law.gif)  \n\n  \n\n[See what the world searched for in 2024](https://www.google.com/url?q=https://trends.withgoogle.com/year-in-search/2024/us/%3Futm_source%3Dgoogle%26utm_medium%3Dhpp%26utm_campaign%3Dyis2024&source=hpp&id=19045968&ct=3&usg=AOvVaw2ejGo_jujS_2a7IufstLvH&sa=X&ved=0ahUKEwjb36rruKSKAxULD1kFHd3_KGEQ8IcBCAU)\n\n[Advertising](/intl/en/ads/)[Business Solutions](/services/)[About Google](/intl/en/about.html)\n\n© 2024 - [Privacy](/intl/en/policies/privacy/) - [Terms](/intl/en/policies/terms/)"
+			},
+			"poses": {
+				"consoleLocal": {
+					"pos": {
+						"x": -0.80285114,
+						"y": 1.3638016,
+						"z": 0.46442235
+					},
+					"rot": {
+						"x": 0.14371446,
+						"y": -0.4359567,
+						"z": 0.07074287,
+						"w": 0.88559777
+					},
+					"size": {
+						"x": 0.47855905,
+						"y": 0.4135178,
+						"z": 0.001
+					}
+				}
+			}
+		},
+		"5e4343da-6c7f-465c-b95d-7e9f7e2446b1": {
+			"id": "5e4343da-6c7f-465c-b95d-7e9f7e2446b1",
+			"props": {
+				"type": "browser",
+				"urlLink": "https://en.wikipedia.org/wiki/Space_frame",
+				"isExpanded": "True",
+				"name": "Space frame - Wikipedia"
+			},
+			"poses": {
+				"consoleLocal": {
+					"pos": {
+						"x": 0.8221188,
+						"y": 1.7108046,
+						"z": 0.39011258
+					},
+					"rot": {
+						"x": -0.014368022,
+						"y": 0.48740608,
+						"z": 0.008018542,
+						"w": 0.8730204
+					},
+					"size": {
+						"x": 0.45,
+						"y": 0.35,
 						"z": 0.001
 					}
 				}
@@ -1208,161 +1357,221 @@
 		}
 	},
 	"edges": {
-		"6e3a13e9-2780-457d-adc1-e84be00ceabb[includes]461cdbd6-5b8d-4e28-9fd8-bea6ac217362": {
-			"srcNodeID": "6e3a13e9-2780-457d-adc1-e84be00ceabb",
+		"72c0bb47-7203-4291-8448-026c3d4880fb[includes]461cdbd6-5b8d-4e28-9fd8-bea6ac217362": {
+			"srcNodeID": "72c0bb47-7203-4291-8448-026c3d4880fb",
 			"trgNodeID": "461cdbd6-5b8d-4e28-9fd8-bea6ac217362",
 			"type": "includes",
-			"props": null
+			"props": {
+				"layoutIndexY": "0",
+				"layoutIndexX": "1"
+			}
 		},
-		"6e3a13e9-2780-457d-adc1-e84be00ceabb[includes]7d637dcf-7d89-4f27-be1a-3d3eda531c15": {
-			"srcNodeID": "6e3a13e9-2780-457d-adc1-e84be00ceabb",
+		"14dd2dd5-f268-44a7-96d6-b5499c54f8d7[includes]7d637dcf-7d89-4f27-be1a-3d3eda531c15": {
+			"srcNodeID": "14dd2dd5-f268-44a7-96d6-b5499c54f8d7",
 			"trgNodeID": "7d637dcf-7d89-4f27-be1a-3d3eda531c15",
 			"type": "includes",
-			"props": null
+			"props": {
+				"layoutIndexY": "0",
+				"layoutIndexX": "1"
+			}
 		},
-		"6e3a13e9-2780-457d-adc1-e84be00ceabb[includes]f0091386-34c4-40ab-9a64-fdc23ea58a3e": {
-			"srcNodeID": "6e3a13e9-2780-457d-adc1-e84be00ceabb",
+		"14dd2dd5-f268-44a7-96d6-b5499c54f8d7[includes]f0091386-34c4-40ab-9a64-fdc23ea58a3e": {
+			"srcNodeID": "14dd2dd5-f268-44a7-96d6-b5499c54f8d7",
 			"trgNodeID": "f0091386-34c4-40ab-9a64-fdc23ea58a3e",
 			"type": "includes",
-			"props": null
+			"props": {
+				"layoutIndexY": "2",
+				"layoutIndexX": "1"
+			}
 		},
-		"6e3a13e9-2780-457d-adc1-e84be00ceabb[includes]66df74d4-eacd-4b49-9a2e-3b4756093e97": {
-			"srcNodeID": "6e3a13e9-2780-457d-adc1-e84be00ceabb",
+		"14dd2dd5-f268-44a7-96d6-b5499c54f8d7[includes]66df74d4-eacd-4b49-9a2e-3b4756093e97": {
+			"srcNodeID": "14dd2dd5-f268-44a7-96d6-b5499c54f8d7",
 			"trgNodeID": "66df74d4-eacd-4b49-9a2e-3b4756093e97",
 			"type": "includes",
-			"props": null
+			"props": {
+				"layoutIndexY": "1",
+				"layoutIndexX": "1"
+			}
 		},
-		"6e3a13e9-2780-457d-adc1-e84be00ceabb[includes]40bbc99c-cc69-4f68-9f1c-6a3ebb578d1b": {
-			"srcNodeID": "6e3a13e9-2780-457d-adc1-e84be00ceabb",
+		"14dd2dd5-f268-44a7-96d6-b5499c54f8d7[includes]40bbc99c-cc69-4f68-9f1c-6a3ebb578d1b": {
+			"srcNodeID": "14dd2dd5-f268-44a7-96d6-b5499c54f8d7",
 			"trgNodeID": "40bbc99c-cc69-4f68-9f1c-6a3ebb578d1b",
 			"type": "includes",
-			"props": null
+			"props": {
+				"layoutIndexY": "1",
+				"layoutIndexX": "0"
+			}
 		},
-		"6e3a13e9-2780-457d-adc1-e84be00ceabb[includes]7aff283c-d957-4392-bcae-bfaabfe3eae7": {
-			"srcNodeID": "6e3a13e9-2780-457d-adc1-e84be00ceabb",
+		"14dd2dd5-f268-44a7-96d6-b5499c54f8d7[includes]7aff283c-d957-4392-bcae-bfaabfe3eae7": {
+			"srcNodeID": "14dd2dd5-f268-44a7-96d6-b5499c54f8d7",
 			"trgNodeID": "7aff283c-d957-4392-bcae-bfaabfe3eae7",
 			"type": "includes",
-			"props": null
+			"props": {
+				"layoutIndexY": "0",
+				"layoutIndexX": "0"
+			}
 		},
-		"6e3a13e9-2780-457d-adc1-e84be00ceabb[includes]f63055df-5dd4-4512-986b-63b2044e0714": {
-			"srcNodeID": "6e3a13e9-2780-457d-adc1-e84be00ceabb",
+		"f5a42411-d416-4740-b958-18d692fb39f4[includes]f63055df-5dd4-4512-986b-63b2044e0714": {
+			"srcNodeID": "f5a42411-d416-4740-b958-18d692fb39f4",
 			"trgNodeID": "f63055df-5dd4-4512-986b-63b2044e0714",
 			"type": "includes",
-			"props": null
+			"props": {}
 		},
-		"6e3a13e9-2780-457d-adc1-e84be00ceabb[includes]f5fc6b9b-f0be-4c99-a4e1-5743c8f81539": {
-			"srcNodeID": "6e3a13e9-2780-457d-adc1-e84be00ceabb",
+		"f5a42411-d416-4740-b958-18d692fb39f4[includes]f5fc6b9b-f0be-4c99-a4e1-5743c8f81539": {
+			"srcNodeID": "f5a42411-d416-4740-b958-18d692fb39f4",
 			"trgNodeID": "f5fc6b9b-f0be-4c99-a4e1-5743c8f81539",
 			"type": "includes",
-			"props": null
+			"props": {}
 		},
-		"6e3a13e9-2780-457d-adc1-e84be00ceabb[includes]030b74b6-a14a-43fc-8b83-2d1b0d68d2b0": {
-			"srcNodeID": "6e3a13e9-2780-457d-adc1-e84be00ceabb",
+		"f5a42411-d416-4740-b958-18d692fb39f4[includes]030b74b6-a14a-43fc-8b83-2d1b0d68d2b0": {
+			"srcNodeID": "f5a42411-d416-4740-b958-18d692fb39f4",
 			"trgNodeID": "030b74b6-a14a-43fc-8b83-2d1b0d68d2b0",
 			"type": "includes",
-			"props": null
+			"props": {}
 		},
-		"6e3a13e9-2780-457d-adc1-e84be00ceabb[includes]cf628529-d895-4adb-8170-8c5a0f74444e": {
-			"srcNodeID": "6e3a13e9-2780-457d-adc1-e84be00ceabb",
+		"f5a42411-d416-4740-b958-18d692fb39f4[includes]cf628529-d895-4adb-8170-8c5a0f74444e": {
+			"srcNodeID": "f5a42411-d416-4740-b958-18d692fb39f4",
 			"trgNodeID": "cf628529-d895-4adb-8170-8c5a0f74444e",
 			"type": "includes",
-			"props": null
+			"props": {}
 		},
-		"6e3a13e9-2780-457d-adc1-e84be00ceabb[includes]651437d3-d892-467d-a3af-a5087e5d6bac": {
-			"srcNodeID": "6e3a13e9-2780-457d-adc1-e84be00ceabb",
+		"f5a42411-d416-4740-b958-18d692fb39f4[includes]651437d3-d892-467d-a3af-a5087e5d6bac": {
+			"srcNodeID": "f5a42411-d416-4740-b958-18d692fb39f4",
 			"trgNodeID": "651437d3-d892-467d-a3af-a5087e5d6bac",
 			"type": "includes",
-			"props": null
+			"props": {}
 		},
-		"6e3a13e9-2780-457d-adc1-e84be00ceabb[includes]dbceda99-edab-4156-8204-26f79a7cf1ab": {
-			"srcNodeID": "6e3a13e9-2780-457d-adc1-e84be00ceabb",
+		"f5a42411-d416-4740-b958-18d692fb39f4[includes]dbceda99-edab-4156-8204-26f79a7cf1ab": {
+			"srcNodeID": "f5a42411-d416-4740-b958-18d692fb39f4",
 			"trgNodeID": "dbceda99-edab-4156-8204-26f79a7cf1ab",
 			"type": "includes",
-			"props": null
+			"props": {}
 		},
-		"6e3a13e9-2780-457d-adc1-e84be00ceabb[includes]7cbb467d-e8ce-467b-9a94-f304e31f6ecd": {
-			"srcNodeID": "6e3a13e9-2780-457d-adc1-e84be00ceabb",
+		"72c0bb47-7203-4291-8448-026c3d4880fb[includes]7cbb467d-e8ce-467b-9a94-f304e31f6ecd": {
+			"srcNodeID": "72c0bb47-7203-4291-8448-026c3d4880fb",
 			"trgNodeID": "7cbb467d-e8ce-467b-9a94-f304e31f6ecd",
 			"type": "includes",
-			"props": null
+			"props": {
+				"layoutIndexY": "1",
+				"layoutIndexX": "0"
+			}
 		},
-		"6e3a13e9-2780-457d-adc1-e84be00ceabb[includes]803f4a8a-3dbe-4cdf-83f9-060b588e510c": {
-			"srcNodeID": "6e3a13e9-2780-457d-adc1-e84be00ceabb",
+		"72c0bb47-7203-4291-8448-026c3d4880fb[includes]803f4a8a-3dbe-4cdf-83f9-060b588e510c": {
+			"srcNodeID": "72c0bb47-7203-4291-8448-026c3d4880fb",
 			"trgNodeID": "803f4a8a-3dbe-4cdf-83f9-060b588e510c",
 			"type": "includes",
-			"props": null
+			"props": {
+				"layoutIndexY": "1",
+				"layoutIndexX": "1"
+			}
 		},
-		"6e3a13e9-2780-457d-adc1-e84be00ceabb[includes]1c44418d-9d5a-438a-bc56-1bd4c2deedbd": {
-			"srcNodeID": "6e3a13e9-2780-457d-adc1-e84be00ceabb",
+		"72c0bb47-7203-4291-8448-026c3d4880fb[includes]1c44418d-9d5a-438a-bc56-1bd4c2deedbd": {
+			"srcNodeID": "72c0bb47-7203-4291-8448-026c3d4880fb",
 			"trgNodeID": "1c44418d-9d5a-438a-bc56-1bd4c2deedbd",
 			"type": "includes",
-			"props": null
+			"props": {
+				"layoutIndexY": "2",
+				"layoutIndexX": "1"
+			}
 		},
-		"6e3a13e9-2780-457d-adc1-e84be00ceabb[includes]97e9d689-27c2-47d4-a9bd-07661eda584c": {
-			"srcNodeID": "6e3a13e9-2780-457d-adc1-e84be00ceabb",
+		"f5a42411-d416-4740-b958-18d692fb39f4[includes]97e9d689-27c2-47d4-a9bd-07661eda584c": {
+			"srcNodeID": "f5a42411-d416-4740-b958-18d692fb39f4",
 			"trgNodeID": "97e9d689-27c2-47d4-a9bd-07661eda584c",
 			"type": "includes",
-			"props": null
+			"props": {}
 		},
-		"6e3a13e9-2780-457d-adc1-e84be00ceabb[includes]e3f6e30c-9a49-424d-a358-8779221bbf2b": {
-			"srcNodeID": "6e3a13e9-2780-457d-adc1-e84be00ceabb",
+		"f5a42411-d416-4740-b958-18d692fb39f4[includes]e3f6e30c-9a49-424d-a358-8779221bbf2b": {
+			"srcNodeID": "f5a42411-d416-4740-b958-18d692fb39f4",
 			"trgNodeID": "e3f6e30c-9a49-424d-a358-8779221bbf2b",
 			"type": "includes",
-			"props": null
+			"props": {}
 		},
-		"6e3a13e9-2780-457d-adc1-e84be00ceabb[includes]f992921b-d0eb-4f79-8f74-a9430b8c5003": {
-			"srcNodeID": "6e3a13e9-2780-457d-adc1-e84be00ceabb",
+		"f5a42411-d416-4740-b958-18d692fb39f4[includes]f992921b-d0eb-4f79-8f74-a9430b8c5003": {
+			"srcNodeID": "f5a42411-d416-4740-b958-18d692fb39f4",
 			"trgNodeID": "f992921b-d0eb-4f79-8f74-a9430b8c5003",
 			"type": "includes",
-			"props": null
+			"props": {}
 		},
-		"6e3a13e9-2780-457d-adc1-e84be00ceabb[includes]4e3d2c95-62a3-4adf-bebf-dd9a188ebdbb": {
-			"srcNodeID": "6e3a13e9-2780-457d-adc1-e84be00ceabb",
+		"f5a42411-d416-4740-b958-18d692fb39f4[includes]4e3d2c95-62a3-4adf-bebf-dd9a188ebdbb": {
+			"srcNodeID": "f5a42411-d416-4740-b958-18d692fb39f4",
 			"trgNodeID": "4e3d2c95-62a3-4adf-bebf-dd9a188ebdbb",
 			"type": "includes",
-			"props": null
+			"props": {}
 		},
-		"6e3a13e9-2780-457d-adc1-e84be00ceabb[includes]c71d193a-408e-4215-8db7-110a31d26a19": {
-			"srcNodeID": "6e3a13e9-2780-457d-adc1-e84be00ceabb",
+		"f5a42411-d416-4740-b958-18d692fb39f4[includes]c71d193a-408e-4215-8db7-110a31d26a19": {
+			"srcNodeID": "f5a42411-d416-4740-b958-18d692fb39f4",
 			"trgNodeID": "c71d193a-408e-4215-8db7-110a31d26a19",
 			"type": "includes",
-			"props": null
+			"props": {}
 		},
-		"6e3a13e9-2780-457d-adc1-e84be00ceabb[includes]e20f3d7e-9079-4a69-ad42-90f69a7990f8": {
-			"srcNodeID": "6e3a13e9-2780-457d-adc1-e84be00ceabb",
+		"f5a42411-d416-4740-b958-18d692fb39f4[includes]e20f3d7e-9079-4a69-ad42-90f69a7990f8": {
+			"srcNodeID": "f5a42411-d416-4740-b958-18d692fb39f4",
 			"trgNodeID": "e20f3d7e-9079-4a69-ad42-90f69a7990f8",
 			"type": "includes",
-			"props": null
+			"props": {}
 		},
-		"6e3a13e9-2780-457d-adc1-e84be00ceabb[includes]3ab3685d-dc36-4eb1-8e1a-c426dc2e58a1": {
-			"srcNodeID": "6e3a13e9-2780-457d-adc1-e84be00ceabb",
+		"f5a42411-d416-4740-b958-18d692fb39f4[includes]3ab3685d-dc36-4eb1-8e1a-c426dc2e58a1": {
+			"srcNodeID": "f5a42411-d416-4740-b958-18d692fb39f4",
 			"trgNodeID": "3ab3685d-dc36-4eb1-8e1a-c426dc2e58a1",
 			"type": "includes",
-			"props": null
+			"props": {}
 		},
-		"6e3a13e9-2780-457d-adc1-e84be00ceabb[includes]07d1f10d-f544-4c12-83d6-bca8ff01a77e": {
-			"srcNodeID": "6e3a13e9-2780-457d-adc1-e84be00ceabb",
+		"f5a42411-d416-4740-b958-18d692fb39f4[includes]07d1f10d-f544-4c12-83d6-bca8ff01a77e": {
+			"srcNodeID": "f5a42411-d416-4740-b958-18d692fb39f4",
 			"trgNodeID": "07d1f10d-f544-4c12-83d6-bca8ff01a77e",
 			"type": "includes",
-			"props": null
+			"props": {}
 		},
-		"6e3a13e9-2780-457d-adc1-e84be00ceabb[includes]013811ba-62eb-45f4-8b7d-21acd99b77ee": {
-			"srcNodeID": "6e3a13e9-2780-457d-adc1-e84be00ceabb",
+		"f5a42411-d416-4740-b958-18d692fb39f4[includes]013811ba-62eb-45f4-8b7d-21acd99b77ee": {
+			"srcNodeID": "f5a42411-d416-4740-b958-18d692fb39f4",
 			"trgNodeID": "013811ba-62eb-45f4-8b7d-21acd99b77ee",
 			"type": "includes",
-			"props": null
+			"props": {}
 		},
-		"6e3a13e9-2780-457d-adc1-e84be00ceabb[includes]9e4b0330-7a4a-4eb4-9f25-a4f710915828": {
-			"srcNodeID": "6e3a13e9-2780-457d-adc1-e84be00ceabb",
+		"f5a42411-d416-4740-b958-18d692fb39f4[includes]9e4b0330-7a4a-4eb4-9f25-a4f710915828": {
+			"srcNodeID": "f5a42411-d416-4740-b958-18d692fb39f4",
 			"trgNodeID": "9e4b0330-7a4a-4eb4-9f25-a4f710915828",
 			"type": "includes",
-			"props": null
+			"props": {}
 		},
-		"6e3a13e9-2780-457d-adc1-e84be00ceabb[includes]f432bbcf-26de-440d-a759-52924326f4a0": {
-			"srcNodeID": "6e3a13e9-2780-457d-adc1-e84be00ceabb",
+		"72c0bb47-7203-4291-8448-026c3d4880fb[includes]f432bbcf-26de-440d-a759-52924326f4a0": {
+			"srcNodeID": "72c0bb47-7203-4291-8448-026c3d4880fb",
 			"trgNodeID": "f432bbcf-26de-440d-a759-52924326f4a0",
 			"type": "includes",
-			"props": null
+			"props": {
+				"layoutIndexY": "0",
+				"layoutIndexX": "0"
+			}
+		},
+		"f5a42411-d416-4740-b958-18d692fb39f4[includes]14dd2dd5-f268-44a7-96d6-b5499c54f8d7": {
+			"srcNodeID": "f5a42411-d416-4740-b958-18d692fb39f4",
+			"trgNodeID": "14dd2dd5-f268-44a7-96d6-b5499c54f8d7",
+			"type": "includes",
+			"props": {}
+		},
+		"f5a42411-d416-4740-b958-18d692fb39f4[includes]72c0bb47-7203-4291-8448-026c3d4880fb": {
+			"srcNodeID": "f5a42411-d416-4740-b958-18d692fb39f4",
+			"trgNodeID": "72c0bb47-7203-4291-8448-026c3d4880fb",
+			"type": "includes",
+			"props": {}
+		},
+		"f5a42411-d416-4740-b958-18d692fb39f4[includes]d1bcfa7b-d5ea-4d77-a72a-f1f763d92b1d": {
+			"srcNodeID": "f5a42411-d416-4740-b958-18d692fb39f4",
+			"trgNodeID": "d1bcfa7b-d5ea-4d77-a72a-f1f763d92b1d",
+			"type": "includes",
+			"props": {}
+		},
+		"f5a42411-d416-4740-b958-18d692fb39f4[includes]f42b7bf1-1331-4262-bc6c-7066c27a4bd8": {
+			"srcNodeID": "f5a42411-d416-4740-b958-18d692fb39f4",
+			"trgNodeID": "f42b7bf1-1331-4262-bc6c-7066c27a4bd8",
+			"type": "includes",
+			"props": {}
+		},
+		"f5a42411-d416-4740-b958-18d692fb39f4[includes]5e4343da-6c7f-465c-b95d-7e9f7e2446b1": {
+			"srcNodeID": "f5a42411-d416-4740-b958-18d692fb39f4",
+			"trgNodeID": "5e4343da-6c7f-465c-b95d-7e9f7e2446b1",
+			"type": "includes",
+			"props": {}
 		}
 	}
 }
